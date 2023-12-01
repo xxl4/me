@@ -1,7 +1,7 @@
 # Header
 menu:
   Home: /
-  AboutMe: /about-me
+  About me: /about-me
   Archives: /archives
 rss: /atom.xml
 banner: images/banner.jpg
