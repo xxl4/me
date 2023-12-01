@@ -21,7 +21,6 @@ sidebar: right
 widgets:
 - category
 - tag
-- rss
 - tagcloud
 - archive
 - recent_posts
