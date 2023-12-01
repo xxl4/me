@@ -1,5 +1,5 @@
 ---
-title: about-me
+title: about-me (关于我)
 date: 2023-12-01 10:00:30
 ---
 我来自中国的一个四五线的小城市，现生活工作在上海，一直从事软硬件的项目的开发，项目管理等工作。
@@ -15,3 +15,6 @@ date: 2023-12-01 10:00:30
 6、ERP系统  
 7、CRM系统  
 8、区块链存证系统  
+
+## Contacts
+> If you want to get in touch, feel free to [email](mailto:nice.lizhi@gmail.com) me
