@@ -1,10 +1,11 @@
 # Header
 menu:
   Home: /
+  AboutMe: /about-me
   Archives: /archives
 rss: /atom.xml
 banner: images/banner.jpg
-subtitle: This a subtitle
+subtitle: Full Stack,DevOPS,Cloud Develop,Kubernetes, CDN, DNS
 
 # Content
 excerpt_link: Read More
@@ -20,6 +21,7 @@ sidebar: right
 widgets:
 - category
 - tag
+- rss
 - tagcloud
 - archive
 - recent_posts
