@@ -1,5 +1,16 @@
 ---
 title: What do I do when a server has been attacked by hackers
+tags:
+  - 技术
+  - Hackers
+  - Ubuntu
+  - Centos
+  - technology
+  - Medium
+categories:
+  - 技术
+  - technology
+date: 2023-12-01 13:45:12
 ---
 Today my monitor send a message to me, tell use maybe have a abnormal process is running and send so many data to outside.
 
