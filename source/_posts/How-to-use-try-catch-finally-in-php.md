@@ -26,3 +26,5 @@ try {
 ```
 
 针对与容易出异常的程序，大家一定还是需要多使用 try catch 的动作，从而也可以更好的保障程序的健壮性。
+
+[source medium.com](https://medium.com/@cdndns/how-to-use-try-catch-finally-in-your-php-code-b166a140c075)
