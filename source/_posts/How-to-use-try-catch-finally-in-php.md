@@ -1,5 +1,5 @@
 ---
-title: How to Use try catch finaly in your php code
+title: How to Use try catch finally in your php code
 tags:
   - PHP
   - Debug
