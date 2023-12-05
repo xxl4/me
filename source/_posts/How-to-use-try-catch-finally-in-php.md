@@ -3,6 +3,7 @@ title: How to Use try catch finally in your php code
 tags:
   - PHP
   - Debug
+  - Laravel
 categories:
   - technology
   - PHP
