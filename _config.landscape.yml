@@ -5,7 +5,7 @@ menu:
   Archives: /archives
 rss: /atom.xml
 banner: images/banner.jpg
-subtitle: Full Stack,DevOPS,Cloud Develop,Kubernetes, CDN, DNS
+subtitle: Full Stack,DevOPS,Cloud Develop,Kubernetes,CDN, DNS, WAF,SRE,DevSecOps
 
 # Content
 excerpt_link: Read More
