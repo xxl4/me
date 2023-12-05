@@ -28,7 +28,7 @@ widgets:
 # Miscellaneous
 google_analytics: G-Z7L6BT187M
 favicon: /images/favicon.png
-twitter:
+twitter: https://twitter.com/kongfaceworld
 
 # Header links
 # Each name must correspond to the icon name of Fork Awesome
