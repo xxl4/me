@@ -8,7 +8,6 @@ categories:
   - technology
   - PHP
 date: 2023-12-04 20:23:12
-keywords: php,debug,laravel
 description: How to Use try catch finally in your php code
 ---
 今天在处理一块PHP的逻辑的是否，发现这块的地方很容易出错的情况，因为这块是一个队列的程序，很多异步的逻辑都会在插入到这边，从而完成异步的数据处理逻辑，在完成逻辑处理后，回告给到对方。
