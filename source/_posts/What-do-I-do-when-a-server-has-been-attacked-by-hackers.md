@@ -10,6 +10,7 @@ tags:
 categories:
   - technology
 date: 2023-12-01 13:45:12
+lang: en
 ---
 Today my monitor send a message to me, tell use maybe have a abnormal process is running and send so many data to outside.
 

@@ -8,6 +8,7 @@ categories:
   - technology
   - PHP
 date: 2023-12-04 20:23:12
+lang: zh-CN
 description: How to Use try catch finally in your php code
 ---
 ![code life](https://miro.medium.com/v2/resize:fit:700/1*pDjJ5KgoTg_RmlrttsNAXA.png)

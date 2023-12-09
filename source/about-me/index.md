@@ -1,6 +1,7 @@
 ---
 title: about-me (关于我)
 date: 2023-12-01 10:00:30
+lang: zh-CN
 ---
 
 ### Hi 👋，I'm Steve 
