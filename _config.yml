@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords: ""
 author: Steve
-language: en
+language: [zh-CN,en]
 timezone: ''
 
 # URL
@@ -119,3 +119,7 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+i18n:
+  type: [page, post]
+  generator: [index, archive, category, tag]

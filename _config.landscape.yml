@@ -3,6 +3,7 @@ menu:
   Home: /
   About me: /about-me
   Archives: /archives
+  EN: /en/
 rss: /atom.xml
 banner: images/banner.jpg
 subtitle: Full Stack,DevOPS,Cloud Develop,Kubernetes,CDN, DNS, WAF,SRE,DevSecOps
