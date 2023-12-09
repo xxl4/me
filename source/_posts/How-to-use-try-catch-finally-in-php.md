@@ -5,7 +5,7 @@ tags:
   - Debug
   - Laravel
 categories:
-  - technology
+  - Technology
   - PHP
 date: 2023-12-04 20:23:12
 lang: zh-CN

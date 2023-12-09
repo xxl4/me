@@ -5,10 +5,10 @@ tags:
   - Hackers
   - Ubuntu
   - Centos
-  - technology
+  - Technology
   - Medium
 categories:
-  - technology
+  - Technology
 date: 2023-12-01 13:45:12
 lang: en
 ---
