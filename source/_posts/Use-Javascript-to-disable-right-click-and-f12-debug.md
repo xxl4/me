@@ -8,6 +8,8 @@ categories:
 date: 2023-12-01 13:45:12
 lang: en
 ---
+Use Javascript disabled the right click and f12 Develop
+
 ```
 <!DOCTYPE html>
 <html lang="en">
