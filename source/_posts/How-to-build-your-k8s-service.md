@@ -214,3 +214,5 @@ Request served by bar-app
 
 ## Referce
 [MiniKube](https://minikube.sigs.k8s.io/docs/start/)  
+[Minikube Handbook](https://minikube.sigs.k8s.io/docs/handbook/)  
+[Minikube command reference](https://minikube.sigs.k8s.io/docs/commands/)
