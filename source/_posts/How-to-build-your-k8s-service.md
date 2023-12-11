@@ -1,5 +1,5 @@
 ---
-title: How to Build Your K83 Service
+title: How to Build Your K8S Service
 tags:
   - K8S
   - Docker
@@ -18,7 +18,7 @@ categories:
   - Technology
   - K8S
 date: 2023-12-11 09:23:12
-description: How to Build Your K83 Service
+description: How to Build Your K8S Service
 lang: en
 ---
 Today we will use minikube tool build own K8S Service,Minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
