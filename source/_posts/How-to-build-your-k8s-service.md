@@ -20,6 +20,8 @@ categories:
 date: 2023-12-11 09:23:12
 description: How to Build Your K8S Service
 lang: en
+comments: true
+
 ---
 Today we will use minikube tool build own K8S Service,Minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
 
