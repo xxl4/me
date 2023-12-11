@@ -13,6 +13,7 @@ tags:
   - VirtualBox
   - Vmware Fusion
   - Workstation
+  - kubectl
 categories:
   - Technology
   - K8S
