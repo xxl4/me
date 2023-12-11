@@ -38,7 +38,7 @@ minikube start
 5、Container or virtual machine manager, such as: Docker, QEMU, Hyperkit, Hyper-V, KVM, Parallels, [Podman](https://minikube.sigs.k8s.io/docs/drivers/podman/), [VirtualBox](https://minikube.sigs.k8s.io/docs/drivers/virtualbox/), or [VMware Fusion/Workstation](https://minikube.sigs.k8s.io/docs/drivers/vmware/)  
 
 ## 1、Install MiniKube
-> Click on the buttons that describe your taget platform. For other architectures, see [the minikute release page](https://github.com/kubernetes/minikube/releases/latest) for a complete list of minikube binaries.
+Click on the buttons that describe your taget platform. For other architectures, see [the minikute release page](https://github.com/kubernetes/minikube/releases/latest) for a complete list of minikube binaries.
 
 To install the lastes minikube stable release on x86-64 Linux using binary download.
 ```
