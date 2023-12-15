@@ -6,8 +6,8 @@ tags:
   - 定价策略
   - 定价技巧
 categories:
-  - 电商
-  - 产品
+  - 电商 (Ecommerce)
+  - 产品 (Product)
 date: 2023-12-14 09:23:12
 description: 定价策略技巧：14 种方法帮你制定理想产品价格
 lang: zh-CN
