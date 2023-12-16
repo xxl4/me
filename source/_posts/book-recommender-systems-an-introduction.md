@@ -31,3 +31,6 @@ lang: zh-CN
 # 第十一章 推荐系统和下一代互联网
 # 第十二章 普适环境中的推荐
 # 第十三章 总结和展望
+
+# Source
+[PDF From Network](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1jannach_dietmar_zanker_markus_felfernig_alexander_friedrich.pdf)
