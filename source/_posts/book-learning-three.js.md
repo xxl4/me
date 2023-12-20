@@ -91,5 +91,6 @@ lang: zh-CN
 ## 12.5　在场景中添加声源
 ## 12.6　总结
 
-#Resource
-[《Three.js 入门指南》书例代码](http://zhangwenli.com/ThreeExample.js/)
+# Resource  
+[《Three.js 入门指南》书例代码](http://zhangwenli.com/ThreeExample.js/)  
+[Three.js Install ](https://threejs.org/docs/index.html#manual/en/introduction/Installation)
