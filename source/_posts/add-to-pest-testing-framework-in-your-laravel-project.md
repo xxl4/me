@@ -29,8 +29,9 @@ test('sum', function () {
 });
 ```
 You can expect a smooth and efficient coding experience thanks to Pest's easy-to-use API inspired by Ruby's Rspec and Jest. In addition, the test reporting is well-organized, practical, and informative, with clear and concise error and stack trace displays for quick debugging. With Pest, you can obtain test reporting that is unmatched in its beauty, directly from the console!
-
+```
 ![](https://pestphp.com/assets/img/failure.webp?1)
+```
 
 In addition to its exceptional test reporting, Pest also offers a range of other valuable features, including:
 
@@ -67,8 +68,9 @@ Finally, you can run your tests by executing the pest command.
 ```
 
 Here is an example of the output displayed when running Pest in a new, fresh project.
-
+```
 ![](https://pestphp.com/assets/img/pestinstall.webp?1)
+```
 
 Optionally, if you are migrating from PHPUnit, you can use the pest-plugin-drift package to automatically convert your PHPUnit tests to Pest. For more information, check out the [Migrating from PHPUnit guide](https://pestphp.com/docs/migrating-from-phpunit-guide).
 
