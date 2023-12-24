@@ -98,7 +98,7 @@ uses(Webkul\Shop\Tests\ShopTestCase::class)->in('../packages/Webkul/Shop/tests')
 uses(Nicelizhi\Shopify\Tests\ShopifyTestCase::class)->in('../packages/Webkul/Shopify/tests');
 ```
 
-finally, you can run it, and check the testing case info.
+finally, you can run it, and check the testing case info. 
 
 ```
 ./vendor/bin/pest
