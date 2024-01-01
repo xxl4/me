@@ -15,7 +15,7 @@ description: How to Use Generative Model in Python
 lang: en
 comments: true
 ---
-Today, i will use python language to use Google Generative AI. I will use mysql and redis for data storage.
+Today, i will use python language to use Google Generative AI. I will use mysql and redis for data storage.I will use mysql and redis for data storage. You should have a google api key.https://makersuite.google.com/app/apikey
 
 .env
 ```
@@ -202,4 +202,50 @@ for x in myresult:
     result = search_from_google_ai(isbn)
     r.set(cache_key, result)
     time.sleep(randint(10,100))
+```
+requirements.txt
+```
+asttokens==2.4.1
+async-timeout==4.0.3
+cachetools==5.3.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+decorator==5.1.1
+exceptiongroup==1.2.0
+executing==2.0.1
+google-ai-generativelanguage==0.4.0
+google-api-core==2.15.0
+google-auth==2.25.2
+google-generativeai==0.3.2
+googleapis-common-protos==1.62.0
+grpcio==1.60.0
+grpcio-status==1.60.0
+idna==3.6
+ipython==8.18.1
+jedi==0.19.1
+matplotlib-inline==0.1.6
+mysql==0.0.3
+mysql-connector==2.2.9
+mysqlclient==2.2.1
+parso==0.8.3
+pexpect==4.9.0
+Pillow==10.1.0
+prompt-toolkit==3.0.43
+proto-plus==1.23.0
+protobuf==4.25.1
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+Pygments==2.17.2
+redis==5.0.1
+requests==2.31.0
+rsa==4.9
+six==1.16.0
+stack-data==0.6.3
+tqdm==4.66.1
+traitlets==5.14.0
+typing_extensions==4.9.0
+urllib3==2.1.0
+wcwidth==0.2.12
 ```
