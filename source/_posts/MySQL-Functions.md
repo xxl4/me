@@ -8,7 +8,7 @@ categories:
   - Technology
   - MySQL
 date: 2024-01-06 15:23:12
-lang: zh-CN
+lang: en
 description: MySQL SQL Functions
 ---
 MySQL has many built-in functions.
