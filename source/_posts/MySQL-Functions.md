@@ -2,10 +2,11 @@
 title: MySQL Functions
 tags:
   - MySQL
+  - MySQL Functions
 categories:
   - Technology
   - MySQL
-date: 2023-12-04 20:23:12
+date: 2024-01-06 15:23:12
 lang: zh-CN
 description: MySQL Functions
 ---
