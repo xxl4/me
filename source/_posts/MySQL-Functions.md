@@ -1,14 +1,15 @@
 ---
-title: MySQL Functions
+title: MySQL SQL Functions
 tags:
   - MySQL
   - MySQL Functions
+  - SQL
 categories:
   - Technology
   - MySQL
 date: 2024-01-06 15:23:12
 lang: zh-CN
-description: MySQL Functions
+description: MySQL SQL Functions
 ---
 MySQL has many built-in functions.
 This reference contains string, numeric, date, and some advanced functions in MySQL.
