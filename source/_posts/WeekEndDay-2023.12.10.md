@@ -7,6 +7,7 @@ categories:
   - 生活
 date: 2023-12-10 18:20:12
 lang: zh-CN
+sitemap: false
 ---
 
 ![](/me/images/house-8200038_1920.jpg)
