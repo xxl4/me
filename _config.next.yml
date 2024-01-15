@@ -405,8 +405,8 @@ bookmark:
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
-  enable: false
-  permalink: https://github.com/yourname
+  enable: true
+  permalink: https://github.com/nicelizhi
   title: Follow me on GitHub
 
 
@@ -522,11 +522,11 @@ math:
 
 # Easily enable fast Ajax navigation on your website.
 # For more information: https://github.com/next-theme/pjax
-pjax: false
+pjax: true
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
-fancybox: false
+fancybox: true
 
 # A JavaScript library for zooming images like Medium.
 # Warning: Do not enable both `fancybox` and `mediumzoom`.
@@ -630,7 +630,7 @@ gitalk:
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
   # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
-  language:
+  language: en | zh-CN
 
 # Utterances
 # For more information: https://utteranc.es
@@ -672,7 +672,7 @@ add_this_id:
 # Google Analytics
 # See: https://analytics.google.com
 google_analytics:
-  tracking_id: # <app_id>
+  tracking_id: # G-Z7L6BT187M
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
