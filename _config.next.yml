@@ -178,8 +178,7 @@ links_settings:
   layout: block
 
 links:
-  Github: https://github.com/nicelizhi
-  Zylinkus.com: https://www.zylinkus.com
+  #Title: https://example.com
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
@@ -201,11 +200,11 @@ toc:
 # ---------------------------------------------------------------
 
 # Show multilingual switcher in footer.
-language_switcher: true
+language_switcher: false
 
 footer:
   # Specify the year when the site was setup. If not defined, current year will be used.
-  since: 2023
+  #since: 2021
 
   # Icon between year and copyright info.
   icon:
@@ -217,7 +216,7 @@ footer:
     color: "#ff0000"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright: 
+  copyright:
 
   # Powered by Hexo & NexT
   powered: true
@@ -281,17 +280,17 @@ reward:
 # Subscribe through Telegram Channel, Twitter, etc.
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
-  Twitter: https://twitter.com/kongfaceworld || fab fa-twitter
+  #Twitter: https://twitter.com/username || fab fa-twitter
   #Telegram: https://t.me/channel_name || fab fa-telegram
   #WeChat: /images/wechat_channel.jpg || fab fa-weixin
-  RSS: /atom.xml || fa fa-rss
+  #RSS: /atom.xml || fa fa-rss
 
 # Related popular posts
 # Dependencies: https://github.com/sergeyzwezdin/hexo-related-posts
 related_posts:
-  enable: true
+  enable: false
   title: # Custom header, leave empty to use the default one
-  display_in_home: true
+  display_in_home: false
 
 # Post edit
 # Easily browse and edit blog source code online.
