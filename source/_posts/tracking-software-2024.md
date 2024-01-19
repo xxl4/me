@@ -9,7 +9,7 @@ categories:
   - 电商
   - 广告
 date: 2024-01-15 14:23:12
-lang: en
+lang: zh-CN
 description: 2024 年主流的追踪系统（Tracking Software）汇总
 ---
 # 什么是追踪系统，我们为什么需要它？
