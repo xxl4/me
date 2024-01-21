@@ -111,6 +111,7 @@ lang: zh-CN
 - [廖雪峰](http://www.liaoxuefeng.com/): 他的Python、Git教程不少人都看过
 - [道哥的黑板报](https://zhuanlan.zhihu.com/taosay): 安全
 - [国内GitHub上关注度较高的开发者](https://github.com/search?l=&o=desc&p=1&q=location%3AChina&ref=advsearch&s=followers&type=Users&utf8=%E2%9C%93)
+- [Zaiwen Wen 北京大学](http://faculty.bicmr.pku.edu.cn/~wenzw/) 机器学习
 
 ### GitHub篇
 
@@ -633,3 +634,6 @@ lang: zh-CN
 - cocos2d：跨平台2D游戏引擎
 - unity3d：跨平台3D游戏引擎，很火的哦
 - Nodejs：也有不少使用它来开发手游和页游服务器（网易的Pomelo）
+
+### 其他
+- [夏凡 结构化知识库] (https://deitacloud.github.io/site/)
