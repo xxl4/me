@@ -74,3 +74,16 @@ curl supports numerous protocols for data transfer. Find the complete list below
 | SMTP, SMPTS| 	Simple Mail Transfer Protocol - an email protocol for easy transmission of email. SMTPS is the version of the same protocol with an added SSL/TLS security layer.| 
 | TELNET| 	An application layer protocol for bidirectional interactive text-oriented communication.| 
 | TFTP	| Trivial File Transfer Protocol, used for uploading or downloading files to or from a remote host.| 
+
+# curl Command Options
+curl accepts a wide array of options, which makes it an extremely versatile command. Options start with one or two dashes. If they do not require additional values, the single-dash options can be written together. For example, the command that utilizes the -O, -L, and -v options can be written as:
+```
+curl -OLv [url]
+```
+The list of all the available options is given below.
+| Option	| Description| 
+|:----------|:-------------|
+| --abstract-unix-socket <path>  | 	Connect through abstract Unix socket instead through a network. Example: curl --abstract-unix-socket socketpath https://example.com | 
+| --alt-svc <file name>	| Enable alt-svc parser Example: curl --alt-svc svc.txt https://example.com| 
+# man curl or curl --manual
+use man curl or curl --manual for see many command and options
