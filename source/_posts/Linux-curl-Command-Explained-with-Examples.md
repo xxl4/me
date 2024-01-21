@@ -5,6 +5,7 @@ tags:
   - Linux
   - Ubuntu
   - Centos
+  - windows
 categories:
   - Technology
   - Curl
