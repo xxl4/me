@@ -27,6 +27,7 @@ lang: zh-CN
   - [Swift](#swift)
   - [.NET](#net)
   - [C & C++](#c--c)
+  - [Php](#php)
 - [其他](#%E5%85%B6%E4%BB%96)
   - [游戏开发相关](#%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3)
   - [日志聚合，分布式日志收集](#%E6%97%A5%E5%BF%97%E8%81%9A%E5%90%88%E5%88%86%E5%B8%83%E5%BC%8F%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86)
@@ -537,6 +538,10 @@ lang: zh-CN
 - supervisor:进程监控工具
 - PyGame: 基于Python的多媒体开发和游戏软件开发模块
 - Web框架: Django 开源web开发框架，它鼓励快速开发,并遵循MVC设计
+
+### Php
+ - Laravel: 全球使用最多的PHP 框架
+ - Thinkphp: 中国人最喜欢的PHP框架之一
 
 
 ### Swift
