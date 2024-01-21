@@ -80,4 +80,6 @@ lang: zh-CN
 
 ### 智能教育系统
 
-### 管理后台
+### 管理后台 (Easy Admin)
+
+### 电商系统 （Laravel Ecommerce）
