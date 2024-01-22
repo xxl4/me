@@ -644,6 +644,7 @@ description: So many Tools for everyone
  - Building Secure and Reliable Systems https://google.github.io/building-secure-and-reliable-systems/raw/toc.html
  - The Site Reliability Workbook https://sre.google/workbook/table-of-contents/
  - Site Reliability Engineering https://sre.google/sre-book/table-of-contents/
+ - Bash Reference Manual https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
 
 ## 其他
 
