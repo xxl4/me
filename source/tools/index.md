@@ -426,7 +426,7 @@ lang: zh-CN
 - ACE，CodeMirror：Html代码编辑器（ACE甚好啊）
 - NProcess：绚丽的加载进度条
 - impress.js：让你制作出令人眩目的内容展示效果(类似的还有reveal)
-- Threejs：3DWeb库
+- Threejs：3DWeb库 JavaScript 3D Library https://threejs.org/
 - Hightopo：基于Html5的2D、3D可视化UI库
 - jQuery.dataTables.js:高度灵活的表格插件
 - Raphaël：js，canvas绘图库，后来发现百度指数的图形就是用它绘出来的
