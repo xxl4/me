@@ -13,6 +13,9 @@ description: Bagisto Shopify Plugin
 lang: zh-CN
 comments: true
 ---
+
+Shopify 是行业使用最多的电商解决方案之一，Bagisto 是一款来自印度的 Laravel 电商解决方案。都是非常优秀的电商解决方案，我们在使用好前辈的基础上，更多的心思都可以投入到店铺的运营商就可以了。
+
 最近因为公司项目的应用，需要对接 Shopify 的完整店铺功能，从而可以基于自己的店铺更好的管理和效率提升，从而，我们为此开发了一套基于 shopify Admin API 接口实现的 Bagisto Shopify Plugins, 具体的项目链接，请[查看](https://github.com/xxl4/NexaMerchant/tree/main/packages/Nicelizhi/Shopify)。
 
 已实现的功能：
