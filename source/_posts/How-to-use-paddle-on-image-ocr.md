@@ -15,6 +15,22 @@ comments: true
 ---
 Today, we have so many image need to OCR, So i will try use paddle for it.
 
+config.py file
+
+```
+import os
+def import_env():
+    if os.path.exists('.env'):
+        print('Importing environment from .env...')
+    for line in open('.env'):
+        var = line.strip().split('=')
+        if len(var) == 2:
+            key, value = var[0].strip(), var[1].strip()
+            os.environ[key] = value
+```
+
+ocr.py file
+
 ```
 import easyocr
 
