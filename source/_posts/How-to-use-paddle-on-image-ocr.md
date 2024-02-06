@@ -13,7 +13,7 @@ description: How to use paddle python on image OCR
 lang: en
 comments: true
 ---
-Today, we have so many image need to OCR, So i will try use paddle for it.
+Today, we have so many image need to OCR, So i will try use [PaddleOCR](https://github.com/xxl4/PaddleOCR) for it.
 
 config.py file
 
@@ -174,3 +174,6 @@ for item in items:
  # this needs to run only once to load the model into memory
 # nlp_image()
 ```
+
+# Referce
+[PaddleOCR](https://github.com/xxl4/PaddleOCR) 
