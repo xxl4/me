@@ -3,8 +3,10 @@ title: How to use paddle python on image OCR
 tags:
   - Python
   - NLP
-  - Paddle
   - OCR
+  - PaddleOCR
+  - Baidu
+  - Google
 categories:
   - Technology
   - Python
