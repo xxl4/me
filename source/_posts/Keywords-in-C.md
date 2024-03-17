@@ -28,6 +28,32 @@ auto int num;
 ```
 Here num is the variable of the storage class auto and its type is int. Below is the C program to demonstrate the auto keyword:
 
+### break and continue
+> The break statement is used to terminate the innermost loop. It generally terminates a loop or a switch statement. The switch statement skips to the next iteration of the loop. Below is the C program to demonstrate break and continue in C:
+```
+// C program to show use 
+// of break and continue
+#include <stdio.h>
+
+// Driver code
+int main()
+{
+  for (int i = 1; i <= 10; i++) 
+  {
+    if (i == 2) 
+    {
+      continue;
+    }
+    if (i == 6) 
+    {
+      break;
+    }
+    printf("%d ", i);
+  }
+  return 0;
+}
+```
+
 
 
 # Referce
