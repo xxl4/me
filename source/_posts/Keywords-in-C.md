@@ -54,6 +54,19 @@ int main()
 }
 ```
 
+### switch, case, and default
+> The switch statement in C is used as an alternate to the if-else ladder statement. For a single variable i.e, switch variable it allows us to execute multiple operations for different possible values of a single variable. 
+```
+switch(Expression)
+{
+    case '1': // operation 1
+            break;
+    case:'2': // operation 2
+            break;
+    default: // default statement to be executed 
+}
+```
+
 
 
 # Referce
