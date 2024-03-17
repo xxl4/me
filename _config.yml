@@ -4,9 +4,9 @@
 
 # Site
 title: Steve's Blog
-subtitle: '一位想干点事情没地的农村人'
+subtitle: '一位想干点事情没地的农村IT人'
 description: ''
-keywords: "SRE, DEVOPS, DEVSEROPS, Python, Java, PHP, 电商"
+keywords: "SRE, DEVOPS, DEVSEROPS, Python, Java, PHP, 电商,Go,跨境电商,VUE,Erlang,LVS,CDN,DNS,安全, WAF,读书"
 author: Steve
 language: [zh-CN,en]
 timezone: ''
