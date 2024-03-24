@@ -216,7 +216,7 @@ autorestart=unexpected
 ;[include]
 ;files = relative/directory/*.ini
 ```
-more configigure info, please visit [supervisisord configuration](http://supervisord.org/configuration.html)
+more configuration info, please visit [supervisisord configuration](http://supervisord.org/configuration.html)
 
 # 启动
 
