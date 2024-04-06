@@ -7,7 +7,7 @@ tags:
 categories:
   - Google
   - Google Analytices
-date: 2024-01-06 13:23:12
+date: 2024-04-06 13:23:12
 description: How to Use Google Analytices for your ecommerce
 lang: en
 comments: true
