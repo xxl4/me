@@ -262,3 +262,14 @@ Options directly inherited from nginx
   --dry-run                          dry running the configure, for testing only
   --platform=PLATFORM                forcibly specify a platform name, for testing only
 ```
+
+# Referce
+https://cloud.tencent.com/developer/article/1043931  
+https://nginx-lua.readthedocs.io/en/latest/  
+https://github.com/fabiocicerchia/nginx-lua  
+http://timd.cn/openresty/quick-start/   
+https://devdocs.io/nginx_lua_module/  
+https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua  
+
+
+
