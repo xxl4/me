@@ -95,3 +95,12 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
 
+# read the feeds.opml file and extract the feed urls and make every feed to a markdown file
+
+import opml
+import os
+
+# OPML file
+OPML_FILE = "feeds.opml"
+
+
