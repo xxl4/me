@@ -29,19 +29,14 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     md_file.write("---\n")
     md_file.write(f"title: IT Security RSS Feed for {today}\n")
     md_file.write(f"date: {today}\n")
-    md_file.write("tags: [IT Security]\n")
-    md_file.write("tags: RSS\n")
-    md_file.write("author: ComputerWeekly\n")
-    md_file.write("summary: IT Security RSS Feed\n")
-    md_file.write("language: en\n")
-    md_file.write("category: Rss\n")
-    md_file.write("category: IT Security\n")
-    md_file.write("layout: layouts/post.njk\n")
+    md_file.write(f"tags: [IT Security]\n")
+    md_file.write(f"tags: RSS\n")
+    md_file.write(f"author: ComputerWeekly\n")
+    md_file.write(f"summary: IT Security RSS Feed\n")
+    md_file.write(f"language: en\n")
+    md_file.write(f"categories: Rss\n")
+    md_file.write(f"categories: IT Security\n")
     md_file.write("---\n\n")
-    md_file.write("This is a RSS feed converted to Markdown.\n\n")
-    md_file.write("RSS feed source: [ComputerWeekly IT Security](https://www.computerweekly.com/rss/IT-security.xml)\n\n")
-
-
 
     # 写入标题
     md_file.write(f"# IT Security RSS Feed for {today}\n\n")
