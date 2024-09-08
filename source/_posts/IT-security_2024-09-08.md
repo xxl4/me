@@ -6,14 +6,9 @@ tags: RSS
 author: ComputerWeekly
 summary: IT Security RSS Feed
 language: en
-category: Rss
-category: IT Security
-layout: layouts/post.njk
+categories: Rss
+categories: IT Security
 ---
-
-This is a RSS feed converted to Markdown.
-
-RSS feed source: [ComputerWeekly IT Security](https://www.computerweekly.com/rss/IT-security.xml)
 
 # IT Security RSS Feed for 2024-09-08
 
