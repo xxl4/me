@@ -42,9 +42,8 @@ jobs:
           # 在这里添加你的脚本来获取 RSS feed 并更新站点
           echo "Fetching RSS feed and updating site..."
             # 例如，使用 curl 命令获取 RSS feed
-          curl -s https://www.computerweekly.com/rss/IT-security.xml > It-security.xml
             # 读取 Rss feed 的内容 生成 md 文件
-            python3 rss2md.py It-security.xml
+            python3 rss2md.py
             # 生成 md 文件后，将其提交到仓库
             git add .
             git config --global user.email nice.lizhi@gmail.com
