@@ -31,6 +31,8 @@ jobs:
           echo "Dependencies installed!"
 
       - name: Fetch RSS feed and update site
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # 在这里添加你的脚本来获取 RSS feed 并更新站点
           echo "Fetching RSS feed and updating site..."
@@ -45,7 +47,6 @@ jobs:
             git commit -m "Update RSS feed"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/xxl4/me.git
             echo "RSS feed updated!"
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
 
             
