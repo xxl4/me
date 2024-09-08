@@ -9,4 +9,3 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxl4&theme=buefy&layout=compact" alt="xxl4's github top languages" style="width:180em" /> 
 </a>
 
-![1612495992-915976-image](https://github.com/xxl4/xxl4/assets/34465153/2912927a-675b-43d5-997e-10b868ef158f)
