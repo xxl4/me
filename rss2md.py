@@ -15,6 +15,9 @@ import os
 # 获取当前日期
 today = datetime.utcnow().strftime('%Y-%m-%d')
 
+# 获取当前时间
+now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+
 # Markdown 文件名
 md_filename = f"source/_posts/IT-security-{today}.md"
 
@@ -27,7 +30,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     # nextjs-blog template
     md_file.write("---\n")
     md_file.write(f"title: IT Security RSS Feed for {today}\n")
-    md_file.write(f"date: {today}\n")
+    md_file.write(f"date: {now}\n")
     md_file.write("tags: RSS\n")
     md_file.write("author: ComputerWeekly\n")
     md_file.write("summary: IT Security RSS Feed\n")
