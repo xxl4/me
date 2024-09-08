@@ -16,7 +16,7 @@ import os
 today = datetime.utcnow().strftime('%Y-%m-%d')
 
 # Markdown 文件名
-md_filename = f"source/_posts/IT-security_{today}.md"
+md_filename = f"source/_posts/IT-security-{today}.md"
 
 # 确保目标目录存在
 os.makedirs(os.path.dirname(md_filename), exist_ok=True)
