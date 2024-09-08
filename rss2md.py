@@ -74,7 +74,8 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write("---\n")
         md_file.write(f"title: Schooled in AI Podcast Feed for {today}\n")
         md_file.write(f"date: {now}\n")
-        md_file.write("tags: RSS\n")
+        # Multiple tags
+        md_file.write("tags: [AI, Podcast, RSS]\n")
         md_file.write("author: TechTarget\n")
         md_file.write("summary: Schooled in AI Podcast Feed\n")
         md_file.write("language: en\n")
