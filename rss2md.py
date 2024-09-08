@@ -33,7 +33,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入条目链接
         md_file.write(f"[Read more]({entry.link})\n\n")
         # 写入日期
-        md_file.write(f"Published: {entry.pubDate}\n\n")
+        #md_file.write(f"Published: {entry.pubDate}\n\n")
         # 写入条目摘要
         # md_file.write(f"{entry.summary}\n\n")
 
@@ -55,7 +55,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入条目链接
         md_file.write(f"[Read more]({entry.link})\n\n")
         # 写入日期
-        md_file.write(f"Published: {entry.pubDate}\n\n")
+        #md_file.write(f"Published: {entry.pubDate}\n\n")
         # 写入条目摘要
         #md_file.write(f"{entry.summary}\n\n")
 
