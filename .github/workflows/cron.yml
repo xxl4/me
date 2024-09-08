@@ -18,6 +18,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          # 在这里添加你的脚本来安装依赖
+          echo "Installing dependencies..."
+          pip install -r requirements.txt
+          echo "Dependencies installed!"
+
       - name: Fetch RSS feed and update site
         run: |
           # 在这里添加你的脚本来获取 RSS feed 并更新站点
