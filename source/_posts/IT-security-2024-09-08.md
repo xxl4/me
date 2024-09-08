@@ -2,7 +2,6 @@
 title: IT Security RSS Feed for 2024-09-08
 date: 2024-09-08
 tags: RSS
-tags: ComputerWeekly
 author: ComputerWeekly
 summary: IT Security RSS Feed
 language: en
