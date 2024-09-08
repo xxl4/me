@@ -24,7 +24,6 @@ os.makedirs(os.path.dirname(md_filename), exist_ok=True)
 # 打开 Markdown 文件进行写入
 with open(md_filename, 'w', encoding='utf-8') as md_file:
 
-
     # nextjs-blog template
     md_file.write("---\n")
     md_file.write(f"title: IT Security RSS Feed for {today}\n")
