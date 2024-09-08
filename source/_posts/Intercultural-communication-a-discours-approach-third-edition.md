@@ -1,5 +1,5 @@
 ---
-title: Intercultural Communication: A Discourse Approach (Third Edition)
+title: Intercultural Communication A Discourse Approach (Third Edition)
 tags:
   - Ron Scollon
   - Suzanne Wong Scollon
@@ -12,7 +12,7 @@ categories:
   - Book
 date: 2024-09-08 10:53:12
 lang: zh-CN
-description: Intercultural Communication: A Discourse Approach (Third Edition)
+description: Intercultural Communication A Discourse Approach (Third Edition)
 ---
 1、传统的文化本质主义范式向文化非本质主义跨文化交际范式转向的先驱--跨文化交际的“语法篇” 范式（Paradigm of Discourse Approach）
 2、跨语篇交际(Interdiscourse Communication)
