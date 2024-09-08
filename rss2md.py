@@ -91,7 +91,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
             md_file.write(f"[Read more]({entry.link})\n\n")
             md_file.write(f"Published: {entry.published}\n\n")
             md_file.write(f"Author: {entry.author}\n\n")
-            md_file.write(f"{entry.description}\n\n")
+            md_file.write(f" > {entry.description}\n\n")
         
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
 
