@@ -16,7 +16,7 @@ import os
 today = datetime.utcnow().strftime('%Y-%m-%d')
 
 # Markdown 文件名
-md_filename = f"source/_posts/rss_feed_{today}.md"
+md_filename = f"source/_posts/IT-security_{today}.md"
 
 # 确保目标目录存在
 os.makedirs(os.path.dirname(md_filename), exist_ok=True)
@@ -32,14 +32,16 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write(f"## {entry.title}\n")
         # 写入条目链接
         md_file.write(f"[Read more]({entry.link})\n\n")
+        # 写入日期
+        md_file.write(f"Published: {entry.pubDate}\n\n")
         # 写入条目摘要
-        md_file.write(f"{entry.summary}\n\n")
+        # md_file.write(f"{entry.summary}\n\n")
 
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
 today = datetime.utcnow().strftime('%Y-%m-%d')
 
 # Markdown 文件名
-md_filename = f"rss_feed_{today}.md"
+md_filename = f"IT-security_{today}.md"
 
 # 打开 Markdown 文件进行写入
 with open(md_filename, 'w', encoding='utf-8') as md_file:
@@ -52,7 +54,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write(f"## {entry.title}\n")
         # 写入条目链接
         md_file.write(f"[Read more]({entry.link})\n\n")
+        # 写入日期
+        md_file.write(f"Published: {entry.pubDate}\n\n")
         # 写入条目摘要
-        md_file.write(f"{entry.summary}\n\n")
+        #md_file.write(f"{entry.summary}\n\n")
 
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
