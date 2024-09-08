@@ -23,8 +23,30 @@ os.makedirs(os.path.dirname(md_filename), exist_ok=True)
 
 # 打开 Markdown 文件进行写入
 with open(md_filename, 'w', encoding='utf-8') as md_file:
+
+
+    # nextjs-blog template
+    md_file.write("---\n")
+    md_file.write(f"title: IT Security RSS Feed for {today}\n")
+    md_file.write(f"date: {today}\n")
+    md_file.write("tags: [IT Security]\n")
+    md_file.write("tags: RSS\n")
+    md_file.write("author: ComputerWeekly\n")
+    md_file.write("summary: IT Security RSS Feed\n")
+    md_file.write("language: en\n")
+    md_file.write("category: Rss\n")
+    md_file.write("category: IT Security\n")
+    md_file.write("layout: layouts/post.njk\n")
+    md_file.write("---\n\n")
+    md_file.write("This is a RSS feed converted to Markdown.\n\n")
+    md_file.write("RSS feed source: [ComputerWeekly IT Security](https://www.computerweekly.com/rss/IT-security.xml)\n\n")
+
+
+
     # 写入标题
-    md_file.write(f"# RSS Feed for {today}\n\n")
+    md_file.write(f"# IT Security RSS Feed for {today}\n\n")
+
+
     
     # 遍历 RSS feed 条目
     for entry in feed.entries:
@@ -33,30 +55,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入条目链接
         md_file.write(f"[Read more]({entry.link})\n\n")
         # 写入日期
-        #md_file.write(f"Published: {entry.pubDate}\n\n")
+        md_file.write(f"Published: {entry.pubdate}\n\n")
         # 写入条目摘要
         # md_file.write(f"{entry.summary}\n\n")
 
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
 today = datetime.utcnow().strftime('%Y-%m-%d')
-
-# Markdown 文件名
-md_filename = f"IT-security_{today}.md"
-
-# 打开 Markdown 文件进行写入
-with open(md_filename, 'w', encoding='utf-8') as md_file:
-    # 写入标题
-    md_file.write(f"# RSS Feed for {today}\n\n")
-    
-    # 遍历 RSS feed 条目
-    for entry in feed.entries:
-        # 写入条目标题
-        md_file.write(f"## {entry.title}\n")
-        # 写入条目链接
-        md_file.write(f"[Read more]({entry.link})\n\n")
-        # 写入日期
-        #md_file.write(f"Published: {entry.pubDate}\n\n")
-        # 写入条目摘要
-        #md_file.write(f"{entry.summary}\n\n")
-
-print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
