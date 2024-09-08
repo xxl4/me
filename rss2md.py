@@ -36,6 +36,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     md_file.write("language: en\n")
     md_file.write("categories: IT Security\n")
     md_file.write("sitemap: true\n")
+    md_file.write("comments: true\n")
     md_file.write("---\n\n")
 
     # 写入标题
