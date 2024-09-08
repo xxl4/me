@@ -29,7 +29,6 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     md_file.write("---\n")
     md_file.write(f"title: IT Security RSS Feed for {today}\n")
     md_file.write(f"date: {today}\n")
-    md_file.write("tags:\n")
     md_file.write("tags: RSS\n")
     md_file.write("tags: ComputerWeekly\n")
     md_file.write("author: ComputerWeekly\n")
