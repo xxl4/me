@@ -908,7 +908,7 @@ adsense:
   # enable(true) or disable(false)
   enable: true
   # ca-pub-xxxx
-  pub: ca-pub-1165447249910969
+  pub: ca-pub-4854567590169994
   # in-article ads source
   article_ads:
     - "source/ads/in_article.html"
