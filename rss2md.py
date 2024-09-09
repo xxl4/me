@@ -97,10 +97,48 @@ print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
 
 # read the feeds.opml file and extract the feed urls and make every feed to a markdown file
 
-import opml
-import os
+RSS_FEED_URL = "https://models.com/mdcdb/rss/output.xml"
 
-# OPML file
-OPML_FILE = "feeds.opml"
+feed = feedparser.parse(RSS_FEED_URL)
 
 
+# Markdown 文件名
+md_filename = f"source/_posts/Models.com-{today}.md"
+
+# 确保目标目录存在
+os.makedirs(os.path.dirname(md_filename), exist_ok=True)
+
+# 打开 Markdown 文件进行写入
+with open(md_filename, 'w', encoding='utf-8') as md_file:
+
+    # nextjs-blog template
+    md_file.write("---\n")
+    md_file.write(f"title: Models.com {today}\n")
+    md_file.write(f"date: {now}\n")
+    md_file.write("tags: [RSS, Models]\n")
+    md_file.write("author: Models\n")
+    md_file.write("summary: Models.com RSS Feed\n")
+    md_file.write("language: en\n")
+    md_file.write("categories: Models\n")
+    md_file.write("sitemap: true\n")
+    md_file.write("comments: true\n")
+    md_file.write("---\n\n")
+
+    # 写入标题
+    md_file.write(f"# Models.com for {today}\n\n")
+
+
+    
+    # 遍历 RSS feed 条目
+    for entry in feed.entries:
+        # 写入条目标题
+        md_file.write(f"## {entry.title}\n")
+        # 写入条目链接
+        md_file.write(f"[Read more]({entry.link})\n\n")
+        # 写入日期
+        print(entry.published)
+        md_file.write(f"Published: {entry.published}\n\n")
+        # 写入条目摘要
+        md_file.write(f"{entry.description}\n\n")
+
+print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
