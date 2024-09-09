@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "hexo generate && create-ads-txt",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "create-ads-txt": "echo 'google.com, pub-4854567590169994, DIRECT, f08c47fec0942fa0' > public/ads.txt"
   },
   "hexo": {
     "version": "7.0.0"
@@ -29,6 +30,7 @@
     "hexo-symbols-count-time": "^0.7.1",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-generator-searchdb": "^1.4.1",
+    "next-google-adsense":"1.0.9",
     "hexo-theme-next": "^8.19.1"
   }
 }
