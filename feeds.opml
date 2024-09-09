@@ -151,6 +151,17 @@
 			<outline text="Singularity Hub" title="Singularity Hub" type="rss" xmlUrl="https://singularityhub.com/feed/" />
 			<outline text="Lesics" title="Lesics" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQJ4600a9wIfMPbYc60OQ" />
 		</outline>
+		<outline text="Math" title="Math">
+			<outline text="Math with Bad Drawings" title="Math with Bad Drawings" type="rss" xmlUrl="http://mathwithbaddrawings.com/feed/" />
+			<outline text="Mathematics | Quanta Magazine" title="Mathematics | Quanta Magazine" type="rss" xmlUrl="http://www.quantamagazine.org/feed/Mathematics" />
+			<outline text="Mathematics | MIT News" title="Mathematics | MIT News" type="rss" xmlUrl="https://news.mit.edu/rss/topic/mathematics" />
+			<outline text="Mathematics | ScienceDaily" title="Mathematics | ScienceDaily" type="rss" xmlUrl="https://sciencedaily.com/rss/computers_math/mathematics.xml" />
+			<outline text="Mathematics | Nature" title="Mathematics | Nature" type="rss" xmlUrl="http://www.nature.com/nature/current_issue/rss" />
+			<outline text="Mathematics | ScienceAlert" title="Mathematics | ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/rss" />
+			<outline text="Mathematics | Singularity Hub" title="Mathematics | Singularity Hub" type="rss" xmlUrl="https://singularityhub.com/feed/" />
+			<outline text="Mathematics | Lesics" title="Mathematics | Lesics" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQJ4600a9wIfMPbYc60OQ" />
+			<outline text="Department of Mathematics, School of Science, Tokyo Institute of Technology" title="Department of Mathematics, School of Science, Tokyo Institute of Technology" type="rss" xmlUrl="https://educ.titech.ac.jp/math/eng/news/rss.xml" />
+		</outline>
 		<outline text="Marketing" title="Marketing">
 			<outline text="Moz" title="Moz" type="rss" xmlUrl="http://feeds.feedburner.com/seomoz" />
 			<outline text="Content Marketing Institute" title="Content Marketing Institute" type="rss" xmlUrl="http://feeds.feedburner.com/cmi-content-marketing" />
