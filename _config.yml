@@ -167,3 +167,24 @@ symbols_count_time:
   time: true # 阅读时长
   total_symbols: true # 所有文章总字数
   total_time: true # 所有文章阅读中时长
+
+# https://github.com/dimaslanjaka/hexo-adsense
+adsense:
+  # enable(true) or disable(false)
+  enable: true
+  # ca-pub-xxxx
+  pub: ca-pub-4854567590169994
+  # in-article ads source
+  article_ads:
+    - "source/ads/in_article.html"
+    - "source/ads/in_article2.html"
+  # ads field
+  field: "site" # post=only post, site=all pages and posts
+  # auto redirect to https
+  https: true
+  # block user with adblock enabled
+  adblock: true
+  # exclude pattern to disable adsense
+  exclude:
+    - "*.min.html"
+    - "exclude/**/*"
