@@ -576,7 +576,7 @@ comments:
   style: tabs
   # Choose a comment system to be displayed by default.
   # Available values: disqus | disqusjs | changyan | livere | gitalk | utterances
-  active: disqus
+  active: 
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
@@ -594,7 +594,7 @@ comments:
 disqus:
   enable: true
   shortname: models-net
-  count: true
+  count: false
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
