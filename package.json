@@ -30,7 +30,7 @@
     "hexo-symbols-count-time": "^0.7.1",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-generator-searchdb": "^1.4.1",
-    "next-google-adsense":"1.0.9",
+    "hexo-adsense":"1.1.1",
     "hexo-theme-next": "^8.19.1"
   }
 }
