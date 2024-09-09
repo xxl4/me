@@ -2,7 +2,8 @@ name: Daily RSS Feed Update
 
 on:
   schedule:
-    - cron: '0/5 0 * * *'
+    # every hour run the job
+    - cron: '0 * * * *'
     # muanlly trigger
 
 permissions:
