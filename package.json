@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate && create-ads-txt",
+    "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
