@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Steve's Blog
-subtitle: '一位想干点事情没地的农村IT人'
-description: ''
+title: Steve's Tech Blog
+subtitle: 'Steve的技术博客'
+description: 'Steve的技术博客,主要分享SRE,DEVOPS,DEVSECOPS,PHP,Java,Python,Go,跨境电商,安全,读书等技术文章'
 keywords: "SRE, DEVOPS, DEVSEROPS, Python, Java, PHP, 电商,Go,跨境电商,VUE,Erlang,LVS,CDN,DNS,安全, WAF,读书,CICD,MQTT"
 author: Steve
 language: [en,zh-CN]
