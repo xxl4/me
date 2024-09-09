@@ -592,8 +592,8 @@ comments:
 # Disqus
 # For more information: https://disqus.com
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: models-net
   count: true
 
 # DisqusJS
