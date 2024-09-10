@@ -90,6 +90,13 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     
     # 遍历 RSS feed 条目
     for entry in feed.entries:
+
+        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+
+        if c.fetchone() is not None:
+            print("The entry exists")
+            continue
+
         # 写入条目标题
         md_file.write(f"## {entry.title}\n")
         # 写入条目链接
@@ -97,7 +104,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入日期
 
         # check the database if the entry exists use link as the key
-        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+        
         #print(entry.published)
 
         md_file.write(f"Published: {entry.published}\n\n")
@@ -150,6 +157,17 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write(f"# Schooled in AI Podcast Feed for {today}\n\n")
     
         for entry in feed.entries:
+
+            c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+
+            if c.fetchone() is not None:
+                print("The entry exists")
+                continue
+
+
+            c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, ))
+            conn.commit()
+
             md_file.write(f"## {entry.title}\n")
             md_file.write(f"[Read more]({entry.link})\n\n")
             md_file.write(f"Published: {entry.published}\n\n")
@@ -194,6 +212,17 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     
     # 遍历 RSS feed 条目
     for entry in feed.entries:
+
+        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+
+        if c.fetchone() is not None:
+            print("The entry exists")
+            continue
+
+
+        c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, ))
+        conn.commit()
+
         # 写入条目标题
         md_file.write(f"## {entry.title}\n")
         # 写入条目链接
