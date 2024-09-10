@@ -113,7 +113,6 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         try:
 
             if c.fetchone() is None:
-
                 # when the ai_generated_content is None, generate the content
                 if item.ai_generated_content is None:
                     response = model.generate_content(entry.title)
@@ -124,7 +123,10 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
 
                     # generate the content and save it to a new md file
                     #write_md(md_filename, entry.title, today, now)
-
+                    time.sleep(3)
+                else:
+                    md_file.write(f"{item.ai_generated_content}\n\n")
+                    #write_md(md_filename, entry.title, today, now)
                     time.sleep(3)
             #datetime.sleep(3)
         except Exception as e:
