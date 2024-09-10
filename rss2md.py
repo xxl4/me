@@ -6,11 +6,12 @@ import os
 
 genai.configure(api_key = os.environ['GOOGLE_AI_KEY'])
 
+# @link https://ai.google.dev/gemini-api/docs/quickstart?lang=python
 model = genai.GenerativeModel("gemini-1.5-flash")
-response = model.generate_content("Write a story about a magic backpack.")
-print("AI generated content:")
-print(response.text)
-print("AI generated content:")
+# response = model.generate_content("Write a story about a magic backpack.")
+# print("AI generated content:")
+# print(response.text)
+# print("AI generated content:")
 
 
 # RSS feed URL
@@ -55,6 +56,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     # 写入标题
     md_file.write(f"# IT Security RSS Feed for {today}\n\n")
 
+    # Rss Ai generated content only 1 article
 
     
     # 遍历 RSS feed 条目
@@ -70,6 +72,15 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write(f"Published: {entry.published}\n\n")
         # 写入条目摘要
         # md_file.write(f"{entry.summary}\n\n")
+
+        # Ai generated content by Google use the title as the prompt
+        try:
+            response = model.generate_content(entry.title)
+            md_file.write(f"{response.text}\n\n")
+            datetime.sleep(3)
+        except:
+            print("Error in generating content")
+
 
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
 
@@ -154,3 +165,25 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write(f"{entry.description}\n\n")
 
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
+
+# write the feed to a markdown file
+def write_md(filename, title, today, now):
+    with open (filename, "w", encoding="utf-8") as md_file:
+        md_file.write("---\n")
+        md_file.write(f"title: {title}\n")
+        md_file.write(f"date: {now}\n")
+        md_file.write("tags: [RSS, Models, Art, Brand]\n")
+        md_file.write("lang: en\n")
+        md_file.write("sitemap: true\n")
+        md_file.write("comments: true\n")
+        md_file.write("---\n\n")
+    
+        md_file.write(f"# {title}\n\n")
+    
+        for entry in feed.entries:
+            md_file.write(f"## {entry.title}\n")
+            md_file.write(f"[Read more]({entry.link})\n\n")
+            md_file.write(f"Published: {entry.published}\n\n")
+            md_file.write(f"{entry.description}\n\n")
+
+
