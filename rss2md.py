@@ -98,10 +98,10 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入日期
 
         # check the database if the entry exists use link as the key
-        item = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+        res = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
 
-        print("item from the database" + str(item))
-        print(item)
+        print("item from the database" + str(res))
+        print(res)
         
         #print(entry.published)
 
@@ -112,9 +112,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # Ai generated content by Google use the title as the prompt
         try:
 
-            if c.fetchone() is None:
+            if res.fetchone() is None:
                 # when the ai_generated_content is None, generate the content
-                if item.ai_generated_content is None:
+                if res.ai_generated_content is None:
                     response = model.generate_content(entry.title)
                     md_file.write(f"{response.text}\n\n")
                     # if the entry does not exist, insert it into the database
@@ -125,9 +125,25 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
                     #write_md(md_filename, entry.title, today, now)
                     time.sleep(3)
                 else:
-                    md_file.write(f"{item.ai_generated_content}\n\n")
+                    md_file.write(f"{res.ai_generated_content}\n\n")
                     #write_md(md_filename, entry.title, today, now)
                     time.sleep(3)
+            else:
+                if res.ai_generated_content is None:
+                    response = model.generate_content(entry.title)
+                    md_file.write(f"{response.text}\n\n")
+                    # if the entry does not exist, insert it into the database
+                    c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
+                    conn.commit()
+
+                    # generate the content and save it to a new md file
+                    #write_md(md_filename, entry.title, today, now)
+                    time.sleep(3)
+                else:
+                    md_file.write(f"{res.ai_generated_content}\n\n")
+                    #write_md(md_filename, entry.title, today, now)
+                    time.sleep(3)
+                # md_file.write(f"{res.ai_generated_content}\n\n")
             #datetime.sleep(3)
         except Exception as e:
             print("Error in generating content")
@@ -163,9 +179,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     
         for entry in feed.entries:
 
-            c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+            res = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
 
-            if c.fetchone() is None:
+            if res.fetchone() is None:
                 c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
                 conn.commit()
 
@@ -217,9 +233,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     # 遍历 RSS feed 条目
     for entry in feed.entries:
 
-        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+        res = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
 
-        if c.fetchone() is not None:
+        if res.fetchone() is not None:
             c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
             conn.commit()
 
