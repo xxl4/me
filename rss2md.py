@@ -3,8 +3,6 @@ from datetime import datetime
 import google.generativeai as genai
 import os
 import time
-
-
 # Use sqlite3 to store the feed data
 
 import sqlite3
@@ -91,12 +89,6 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
     # 遍历 RSS feed 条目
     for entry in feed.entries:
 
-        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
-
-        if c.fetchone() is not None:
-            print("The entry exists")
-            continue
-
         # 写入条目标题
         md_file.write(f"## {entry.title}\n")
         # 写入条目链接
@@ -104,6 +96,10 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入日期
 
         # check the database if the entry exists use link as the key
+        item = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+
+        print("item from the database" + str(item))
+        print(item)
         
         #print(entry.published)
 
@@ -115,14 +111,16 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         try:
 
             if c.fetchone() is None:
-                response = model.generate_content(entry.title)
-                md_file.write(f"{response.text}\n\n")
-                # if the entry does not exist, insert it into the database
-                c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
-                conn.commit()
 
-                time.sleep(3)
+                # when the ai_generated_content is None, generate the content
+                if item.ai_generated_content is None:
+                    response = model.generate_content(entry.title)
+                    md_file.write(f"{response.text}\n\n")
+                    # if the entry does not exist, insert it into the database
+                    c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
+                    conn.commit()
 
+                    time.sleep(3)
             #datetime.sleep(3)
         except Exception as e:
             print("Error in generating content")
@@ -160,13 +158,12 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
 
             c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
 
-            if c.fetchone() is not None:
-                print("The entry exists")
-                continue
+            if c.fetchone() is None:
+                c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
+                conn.commit()
 
 
-            c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
-            conn.commit()
+            
 
             md_file.write(f"## {entry.title}\n")
             md_file.write(f"[Read more]({entry.link})\n\n")
@@ -216,12 +213,8 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
 
         if c.fetchone() is not None:
-            print("The entry exists")
-            continue
-
-
-        c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
-        conn.commit()
+            c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
+            conn.commit()
 
         # 写入条目标题
         md_file.write(f"## {entry.title}\n")
