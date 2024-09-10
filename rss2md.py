@@ -165,7 +165,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
                 continue
 
 
-            c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, ))
+            c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
             conn.commit()
 
             md_file.write(f"## {entry.title}\n")
@@ -220,7 +220,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
             continue
 
 
-        c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, ))
+        c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
         conn.commit()
 
         # 写入条目标题
