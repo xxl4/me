@@ -78,8 +78,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
             response = model.generate_content(entry.title)
             md_file.write(f"{response.text}\n\n")
             datetime.sleep(3)
-        except:
+        except Exception as e:
             print("Error in generating content")
+            print(e)
 
 
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
@@ -159,7 +160,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入条目链接
         md_file.write(f"[Read more]({entry.link})\n\n")
         # 写入日期
-        print(entry.published)
+        # print(entry.published)
         md_file.write(f"Published: {entry.published}\n\n")
         # 写入条目摘要
         md_file.write(f"{entry.description}\n\n")
