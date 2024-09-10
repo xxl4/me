@@ -1,10 +1,10 @@
 ---
 title: Models.com 2024-09-10
-date: 2024-09-10 06:04:32
+date: 2024-09-10 06:30:58
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
-language: en
+lang: en
 categories: Models
 sitemap: true
 comments: true

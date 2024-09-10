@@ -1,10 +1,10 @@
 ---
 title: Schooled in AI Podcast Feed for 2024-09-10
-date: 2024-09-10 06:04:32
+date: 2024-09-10 06:30:58
 tags: [AI, Podcast, RSS, TechTarget]
 author: TechTarget
 summary: Schooled in AI Podcast Feed
-language: en
+lang: en
 categories: AI
 sitemap: true
 comments: true
