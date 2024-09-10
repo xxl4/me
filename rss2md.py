@@ -2,6 +2,36 @@ import feedparser
 from datetime import datetime
 import google.generativeai as genai
 import os
+import time
+
+
+# Use sqlite3 to store the feed data
+
+import sqlite3
+
+# Connect to the database
+
+conn = sqlite3.connect('rss.db')
+
+# Create a cursor
+
+c = conn.cursor()
+
+# Create a table
+# if the table exists, it will not create the table again
+if c.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='rss'").fetchone() is None:
+    c.execute("""CREATE TABLE rss (
+        title text,
+        link text,
+        published text,
+        ai_generated_content text
+    )""")
+    conn.commit()
+    print("Table created")
+    # Close the connection
+    conn.close()
+
+# Use the Google AI API to generate content for the feed
 
 
 genai.configure(api_key = os.environ['GOOGLE_AI_KEY'])
@@ -67,6 +97,10 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write(f"[Read more]({entry.link})\n\n")
         # 写入日期
 
+        # check the database if the entry exists use link as the key
+        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+    
+
         #print(entry.published)
 
         md_file.write(f"Published: {entry.published}\n\n")
@@ -75,9 +109,17 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
 
         # Ai generated content by Google use the title as the prompt
         try:
-            response = model.generate_content(entry.title)
-            md_file.write(f"{response.text}\n\n")
-            datetime.sleep(3)
+
+            if c.fetchone() is None:
+                response = model.generate_content(entry.title)
+                md_file.write(f"{response.text}\n\n")
+                # if the entry does not exist, insert it into the database
+                c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
+                conn.commit()
+
+                time.sleep(3)
+
+            #datetime.sleep(3)
         except Exception as e:
             print("Error in generating content")
             print(e)
@@ -184,6 +226,9 @@ def write_md(filename, title, today, now):
         for entry in feed.entries:
             md_file.write(f"## {entry.title}\n")
             md_file.write(f"[Read more]({entry.link})\n\n")
+
+            # replace the image url with have 
+
             md_file.write(f"Published: {entry.published}\n\n")
             md_file.write(f"{entry.description}\n\n")
 
