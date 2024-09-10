@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-10
-date: 2024-09-10 08:24:09
+date: 2024-09-10 08:30:15
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-09-10
+
+## The Greatest Magazine
+[Read more](https://models.com/work/the-greatest-magazine-frames--sigrid-hagen)
+
+Published: Tue, 10 Sep 2024 07:48:40 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324637/2324637-500w.jpg" /></p>Frames / Sigrid Hagen <a href="https://models.com/work/the-greatest-magazine-frames--sigrid-hagen" title="Frames / Sigrid Hagen">More...</a>
 
 ## Various Shows
 [Read more](https://models.com/work/various-shows-kobi-halperin-ss-25-show)
@@ -39,6 +46,13 @@ Published: Tue, 10 Sep 2024 05:28:52 GMT
 Published: Tue, 10 Sep 2024 05:19:59 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324580/2324580-500w.jpg" /></p>Things That Matter <a href="https://models.com/work/vogue-hong-kong-things-that-matter" title="Things That Matter">More...</a>
+
+## Aknvas
+[Read more](https://models.com/work/aknvas-aknvas-ss-25-show)
+
+Published: Tue, 10 Sep 2024 04:26:44 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324634/2324634-500w.jpg" /></p>Aknvas S/S 25 Show <a href="https://models.com/work/aknvas-aknvas-ss-25-show" title="Aknvas S/S 25 Show">More...</a>
 
 ## Vogue Portugal
 [Read more](https://models.com/work/vogue-portugal-luck-be-a-lady)
@@ -1047,18 +1061,4 @@ Published: Sat, 07 Sep 2024 03:13:29 GMT
 Published: Sat, 07 Sep 2024 01:31:13 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2321366/2321366-500w.jpg" /></p>Christian Siriano S/S 25 Show <a href="https://models.com/work/christian-siriano-christian-siriano-ss-25-show" title="Christian Siriano S/S 25 Show">More...</a>
-
-## Area
-[Read more](https://models.com/work/area-area-fw-24-show)
-
-Published: Sat, 07 Sep 2024 00:12:28 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321368/2321368-500w.jpg" /></p>Area F/W 24 Show <a href="https://models.com/work/area-area-fw-24-show" title="Area F/W 24 Show">More...</a>
-
-## Glamour Bulgaria
-[Read more](https://models.com/work/glamour-bulgaria-glamour-bulgaria-july-2024-digital-cover-by-oscar-ozbay)
-
-Published: Fri, 06 Sep 2024 23:21:35 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321319/2321319-500w.jpg" /></p>Glamour Bulgaria July 2024 Digital Cover by Oscar Ozbay <a href="https://models.com/work/glamour-bulgaria-glamour-bulgaria-july-2024-digital-cover-by-oscar-ozbay" title="Glamour Bulgaria July 2024 Digital Cover by Oscar Ozbay">More...</a>
 
