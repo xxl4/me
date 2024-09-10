@@ -28,8 +28,7 @@ if c.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='rss'")
     )""")
     conn.commit()
     print("Table created")
-    # Close the connection
-    conn.close()
+
 
 # Use the Google AI API to generate content for the feed
 
@@ -98,9 +97,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # 写入日期
 
         # check the database if the entry exists use link as the key
-        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
-    
-
+        c.execute("SELECT * FROM rss WHERE link = ?", (entry.link))
         #print(entry.published)
 
         md_file.write(f"Published: {entry.published}\n\n")
@@ -233,3 +230,5 @@ def write_md(filename, title, today, now):
             md_file.write(f"{entry.description}\n\n")
 
 
+# Close the connection
+conn.close()
