@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-10
-date: 2024-09-10 06:35:37
+date: 2024-09-10 07:00:43
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,12 +12,26 @@ comments: true
 
 # Models.com for 2024-09-10
 
+## Various Shows
+[Read more](https://models.com/work/various-shows-kobi-halperin-ss-25-show)
+
+Published: Tue, 10 Sep 2024 06:04:17 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324604/2324604-500w.jpg" /></p>Kobi Halperin S/S 25 Show <a href="https://models.com/work/various-shows-kobi-halperin-ss-25-show" title="Kobi Halperin S/S 25 Show">More...</a>
+
 ## Vogue Hong Kong
 [Read more](https://models.com/work/vogue-hong-kong-daring-legacy)
 
 Published: Tue, 10 Sep 2024 05:33:39 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324594/2324594-500w.jpg" /></p>Daring Legacy <a href="https://models.com/work/vogue-hong-kong-daring-legacy" title="Daring Legacy">More...</a>
+
+## Juun.J
+[Read more](https://models.com/work/juunj-juunj-24-summer-online-visual)
+
+Published: Tue, 10 Sep 2024 05:28:52 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324598/2324598-500w.jpg" /></p>Juun.J '24 Summer Online Visual <a href="https://models.com/work/juunj-juunj-24-summer-online-visual" title="Juun.J '24 Summer Online Visual">More...</a>
 
 ## Vogue Hong Kong
 [Read more](https://models.com/work/vogue-hong-kong-things-that-matter)
@@ -1047,18 +1061,4 @@ Published: Sat, 07 Sep 2024 00:12:28 GMT
 Published: Fri, 06 Sep 2024 23:21:35 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2321319/2321319-500w.jpg" /></p>Glamour Bulgaria July 2024 Digital Cover by Oscar Ozbay <a href="https://models.com/work/glamour-bulgaria-glamour-bulgaria-july-2024-digital-cover-by-oscar-ozbay" title="Glamour Bulgaria July 2024 Digital Cover by Oscar Ozbay">More...</a>
-
-## Brandon Maxwell
-[Read more](https://models.com/work/brandon-maxwell-brandon-maxwell-ss-25-show)
-
-Published: Fri, 06 Sep 2024 23:16:31 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321323/2321323-500w.jpg" /></p>Brandon Maxwell S/S 25 Show <a href="https://models.com/work/brandon-maxwell-brandon-maxwell-ss-25-show" title="Brandon Maxwell S/S 25 Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-grace-ling-ss-25-show)
-
-Published: Fri, 06 Sep 2024 22:49:09 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321321/2321321-500w.jpg" /></p>Grace Ling S/S 25 Show <a href="https://models.com/work/various-shows-grace-ling-ss-25-show" title="Grace Ling S/S 25 Show">More...</a>
 
