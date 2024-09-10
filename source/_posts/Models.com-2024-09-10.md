@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-10
-date: 2024-09-10 08:38:37
+date: 2024-09-10 12:05:57
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,20 @@ comments: true
 ---
 
 # Models.com for 2024-09-10
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-death-of-summer)
+
+Published: Tue, 10 Sep 2024 11:35:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324746/2324746-500w.jpg" /></p>Death of summer <a href="https://models.com/work/various-editorials-death-of-summer" title="Death of summer">More...</a>
+
+## Massimo Dutti
+[Read more](https://models.com/work/massimo-dutti-merino-aw24)
+
+Published: Tue, 10 Sep 2024 08:10:20 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324655/2324655-500w.jpg" /></p>Merino AW24 <a href="https://models.com/work/massimo-dutti-merino-aw24" title="Merino AW24">More...</a>
 
 ## The Greatest Magazine
 [Read more](https://models.com/work/the-greatest-magazine-frames--sigrid-hagen)
@@ -25,6 +39,13 @@ Published: Tue, 10 Sep 2024 07:48:40 GMT
 Published: Tue, 10 Sep 2024 06:04:17 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324604/2324604-500w.jpg" /></p>Kobi Halperin S/S 25 Show <a href="https://models.com/work/various-shows-kobi-halperin-ss-25-show" title="Kobi Halperin S/S 25 Show">More...</a>
+
+## Dennis Basso
+[Read more](https://models.com/work/dennis-basso-dennis-basso-ss-25-show)
+
+Published: Tue, 10 Sep 2024 05:43:29 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324723/2324723-500w.jpg" /></p>Dennis Basso S/S 25 Show <a href="https://models.com/work/dennis-basso-dennis-basso-ss-25-show" title="Dennis Basso S/S 25 Show">More...</a>
 
 ## Vogue Hong Kong
 [Read more](https://models.com/work/vogue-hong-kong-daring-legacy)
@@ -971,6 +992,13 @@ Published: Sat, 07 Sep 2024 13:14:14 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2321602/2321602-500w.jpg" /></p>PRISCAVera SS25 <a href="https://models.com/work/priscavera-priscavera-ss25" title="PRISCAVera SS25">More...</a>
 
+## Filippa K
+[Read more](https://models.com/work/filippa-k-filippa-k-fw-2024-campaign)
+
+Published: Sat, 07 Sep 2024 12:46:08 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2324729/2324729-500w.jpg" /></p>Filippa K F/W 2024 Campaign <a href="https://models.com/work/filippa-k-filippa-k-fw-2024-campaign" title="Filippa K F/W 2024 Campaign">More...</a>
+
 ## Khaite
 [Read more](https://models.com/work/khaite-khaite-fw-2024-campaign)
 
@@ -1033,32 +1061,4 @@ Published: Sat, 07 Sep 2024 08:43:09 GMT
 Published: Sat, 07 Sep 2024 05:21:20 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2322048/2322048-500w.jpg" /></p>Willy Chavarria F/W 2025 Show + Willy Chavarria x Adidas Show <a href="https://models.com/work/willy-chavarria-willy-chavarria-ss-25-show" title="Willy Chavarria F/W 2025 Show + Willy Chavarria x Adidas Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-ese-azenabor-ss-25-show)
-
-Published: Sat, 07 Sep 2024 04:55:27 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2322665/2322665-500w.jpg" /></p>Ese Azenabor S/S 25 Show <a href="https://models.com/work/various-shows-ese-azenabor-ss-25-show" title="Ese Azenabor S/S 25 Show">More...</a>
-
-## Libertine
-[Read more](https://models.com/work/libertine-libertine-ss-25-show)
-
-Published: Sat, 07 Sep 2024 03:52:09 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321459/2321459-500w.jpg" /></p>Libertine S/S 25 Show <a href="https://models.com/work/libertine-libertine-ss-25-show" title="Libertine S/S 25 Show">More...</a>
-
-## Collina Strada
-[Read more](https://models.com/work/collina-strada-collina-strada-ss-25-show)
-
-Published: Sat, 07 Sep 2024 03:13:29 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321610/2321610-500w.jpg" /></p>Collina Strada S/S 25 Show <a href="https://models.com/work/collina-strada-collina-strada-ss-25-show" title="Collina Strada S/S 25 Show">More...</a>
-
-## Christian Siriano
-[Read more](https://models.com/work/christian-siriano-christian-siriano-ss-25-show)
-
-Published: Sat, 07 Sep 2024 01:31:13 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321366/2321366-500w.jpg" /></p>Christian Siriano S/S 25 Show <a href="https://models.com/work/christian-siriano-christian-siriano-ss-25-show" title="Christian Siriano S/S 25 Show">More...</a>
 
