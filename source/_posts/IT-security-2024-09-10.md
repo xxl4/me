@@ -1,6 +1,6 @@
 ---
 title: IT Security RSS Feed for 2024-09-10
-date: 2024-09-10 12:05:57
+date: 2024-09-10 18:04:10
 tags: [RSS, ComputerWeekly, IT Security]
 author: ComputerWeekly
 summary: IT Security RSS Feed
@@ -11,6 +11,11 @@ comments: true
 ---
 
 # IT Security RSS Feed for 2024-09-10
+
+## JFrog and GitHub unveil open source security integrations
+[Read more](https://www.computerweekly.com/news/366609897/JFrog-and-GitHub-unveil-new-open-source-security-integrations)
+
+Published: Tue, 10 Sep 2024 09:15:00 GMT
 
 ## Multiple Veeam vulns spark concern among defenders
 [Read more](https://www.computerweekly.com/news/366610118/Multiple-Veeam-vulns-spark-concern-among-defenders)
@@ -106,9 +111,4 @@ Published: Thu, 29 Aug 2024 09:30:00 GMT
 [Read more](https://www.computerweekly.com/news/366609319/US-offers-25m-bounty-for-on-the-run-malware-dev)
 
 Published: Thu, 29 Aug 2024 09:00:00 GMT
-
-## A coherent Labour cyber strategy depends on consistency
-[Read more](https://www.computerweekly.com/opinion/A-coherent-Labour-cyber-strategy-depends-on-consistency)
-
-Published: Wed, 28 Aug 2024 14:26:00 GMT
 
