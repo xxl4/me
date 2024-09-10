@@ -11,6 +11,8 @@ import sqlite3
 
 conn = sqlite3.connect('rss.db')
 
+# configure the sqlite password
+
 # Create a cursor
 
 c = conn.cursor()
@@ -119,6 +121,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
                     # if the entry does not exist, insert it into the database
                     c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
                     conn.commit()
+
+                    # generate the content and save it to a new md file
+                    #write_md(md_filename, entry.title, today, now)
 
                     time.sleep(3)
             #datetime.sleep(3)
@@ -251,6 +256,8 @@ def write_md(filename, title, today, now):
             md_file.write(f"Published: {entry.published}\n\n")
             md_file.write(f"{entry.description}\n\n")
 
+
+# https://techcrunch.com/feed/
 
 # Close the connection
 conn.close()
