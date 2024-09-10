@@ -2,7 +2,9 @@
 title: Models.com 2024-09-09
 date: 2024-09-09 18:04:25
 tags: [RSS, Models]
-author: Models
+author: 
+    name: Models
+    url: https://models.com
 summary: Models.com RSS Feed
 language: en
 categories: Models
