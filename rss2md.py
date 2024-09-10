@@ -8,7 +8,9 @@ genai.configure(api_key = os.environ['GOOGLE_AI_KEY'])
 
 model = genai.GenerativeModel("gemini-1.5-flash")
 response = model.generate_content("Write a story about a magic backpack.")
+print("AI generated content:")
 print(response.text)
+print("AI generated content:")
 
 
 # RSS feed URL
@@ -63,7 +65,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         md_file.write(f"[Read more]({entry.link})\n\n")
         # 写入日期
 
-        print(entry.published)
+        #print(entry.published)
 
         md_file.write(f"Published: {entry.published}\n\n")
         # 写入条目摘要
