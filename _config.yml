@@ -104,7 +104,9 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/xxl4/me.git
+  branch: main
 
 feed:
   enable: true

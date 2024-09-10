@@ -46,6 +46,19 @@ jobs:
             git commit -m "Update RSS feed"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/xxl4/me.git
             echo "RSS feed updated!"
-        
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+  
+      - name: Install Hexo and dependencies
+        run: |
+          npm install hexo-cli -g
+          npm install
+  
+      - name: Generate and deploy Hexo site
+        run: |
+          hexo generate
+          hexo deploy  
 
             
