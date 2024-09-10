@@ -253,7 +253,9 @@ def write_md(filename, title, today, now):
             md_file.write(f"## {entry.title}\n")
             md_file.write(f"[Read more]({entry.link})\n\n")
 
-            # replace the image url with have 
+            # replace the description image url with 500w.jpg to 800w.jpg
+            entry.description = entry.description.replace("500w.jpg", "800w.jpg")
+
 
             md_file.write(f"Published: {entry.published}\n\n")
             md_file.write(f"{entry.description}\n\n")
