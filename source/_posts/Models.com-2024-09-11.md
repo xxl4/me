@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-11
-date: 2024-09-11 10:37:51
+date: 2024-09-11 10:49:35
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-09-11
+
+## Vogue Polska
+[Read more](https://models.com/work/vogue-polska-pelion)
+
+Published: Wed, 11 Sep 2024 10:11:45 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325993/2325993-800w.jpg" /></p>Pelion <a href="https://models.com/work/vogue-polska-pelion" title="Pelion">More...</a>
 
 ## Zara
 [Read more](https://models.com/work/zara-evening-photographed-by-alvaro-perena)
@@ -1054,11 +1061,4 @@ Published: Sun, 08 Sep 2024 04:25:04 GMT
 Published: Sun, 08 Sep 2024 04:17:54 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2322307/2322307-800w.jpg" /></p>G2000 Summer Campaign <a href="https://models.com/work/various-campaigns-g2000-summer-campaign" title="G2000 Summer Campaign">More...</a>
-
-## Derek Lam
-[Read more](https://models.com/work/derek-lam-ss25-look-book-by-thomas-wolfe-northcut)
-
-Published: Sun, 08 Sep 2024 03:59:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2322270/2322270-800w.jpg" /></p>SS25 Look Book by Thomas Wolfe Northcut <a href="https://models.com/work/derek-lam-ss25-look-book-by-thomas-wolfe-northcut" title="SS25 Look Book by Thomas Wolfe Northcut">More...</a>
 
