@@ -36,7 +36,10 @@ if c.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='rss'")
 genai.configure(api_key = os.environ['GOOGLE_AI_KEY'])
 
 # @link https://ai.google.dev/gemini-api/docs/quickstart?lang=python
-model = genai.GenerativeModel("gemini-1.5-flash")
+# model = genai.GenerativeModel("gemini-1.5-flash")
+# use 1.0 pro model
+model = genai.GenerativeModel("gemini-1.0-pro")
+
 # response = model.generate_content("Write a story about a magic backpack.")
 # print("AI generated content:")
 # print(response.text)
@@ -125,20 +128,22 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
                 time.sleep(3)
             else:
                 if res.ai_generated_content is None:
+
+                    print("AI generated content is None")
+                    print("Generating content" + entry.title)
                     response = model.generate_content(entry.title)
+                    print("AI generated content:")
+                    print(response.text)
+                    
                     md_file.write(f"{response.text}\n\n")
                     # if the entry does not exist, insert it into the database
                     # update the ai_generated_content
                     c.execute("UPDATE rss SET ai_generated_content = ? WHERE link = ?", (response.text, entry.link))
                     # c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
                     conn.commit()
-
-                    # generate the content and save it to a new md file
-                    #write_md(md_filename, entry.title, today, now)
                     time.sleep(3)
                 else:
                     md_file.write(f"{res.ai_generated_content}\n\n")
-                    #write_md(md_filename, entry.title, today, now)
                     time.sleep(3)
                 # md_file.write(f"{res.ai_generated_content}\n\n")
             #datetime.sleep(3)
