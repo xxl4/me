@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-11
-date: 2024-09-11 01:09:00
+date: 2024-09-11 06:04:42
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,12 +12,75 @@ comments: true
 
 # Models.com for 2024-09-11
 
-## Michael Kors
-[Read more](https://models.com/work/michael-kors-michael-kors-collection-ss-25-show)
+## Elle U.S.
+[Read more](https://models.com/work/elle-us-elle-us-october-2024)
+
+Published: Wed, 11 Sep 2024 04:42:33 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325800/2325800-500w.jpg" /></p>Elle U.S. October 2024 <a href="https://models.com/work/elle-us-elle-us-october-2024" title="Elle U.S. October 2024">More...</a>
+
+## Marina Rinaldi
+[Read more](https://models.com/work/marina-rinaldi-marina-rinaldi-fall--winter-2024-runway-by-daniele-mango)
+
+Published: Wed, 11 Sep 2024 03:11:32 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325728/2325728-500w.jpg" /></p>Marina Rinaldi Fall / Winter 2024 Runway By Daniele Mango <a href="https://models.com/work/marina-rinaldi-marina-rinaldi-fall--winter-2024-runway-by-daniele-mango" title="Marina Rinaldi Fall / Winter 2024 Runway By Daniele Mango">More...</a>
+
+## W Magazine
+[Read more](https://models.com/work/w-magazine-directors-cut)
+
+Published: Wed, 11 Sep 2024 02:26:40 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325678/2325678-500w.jpg" /></p>Director's Cut <a href="https://models.com/work/w-magazine-directors-cut" title="Director's Cut">More...</a>
+
+## Supreme
+[Read more](https://models.com/work/supreme-martine-rose--supreme)
+
+Published: Wed, 11 Sep 2024 01:49:01 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325671/2325671-500w.jpg" /></p>MARTINE ROSE® x SUPREME® Fall 2024 <a href="https://models.com/work/supreme-martine-rose--supreme" title="MARTINE ROSE® x SUPREME® Fall 2024">More...</a>
+
+## Paloma Wool
+[Read more](https://models.com/work/paloma-wool-fall-winter-2024-campaign)
+
+Published: Wed, 11 Sep 2024 01:01:48 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325659/2325659-500w.jpg" /></p>Paloma Wool F/W 2024 Campaign <a href="https://models.com/work/paloma-wool-fall-winter-2024-campaign" title="Paloma Wool F/W 2024 Campaign">More...</a>
+
+## Michael Kors Collection
+[Read more](https://models.com/work/michael-kors-collection-ss-25-show)
 
 Published: Wed, 11 Sep 2024 00:04:46 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2325647/2325647-500w.jpg" /></p>Michael Kors Collection S/S 25 Show <a href="https://models.com/work/michael-kors-michael-kors-collection-ss-25-show" title="Michael Kors Collection S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2325647/2325647-500w.jpg" /></p>Michael Kors Collection S/S 25 Show <a href="https://models.com/work/michael-kors-collection-ss-25-show" title="Michael Kors Collection S/S 25 Show">More...</a>
+
+## AnOther Magazine
+[Read more](https://models.com/work/another-magazine-willy-vanderperre-for-another-magazine)
+
+Published: Tue, 10 Sep 2024 22:30:49 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325581/2325581-500w.jpg" /></p>Photography Willy Vanderperre  <a href="https://models.com/work/another-magazine-willy-vanderperre-for-another-magazine" title="Photography Willy Vanderperre ">More...</a>
+
+## Dolce Vita
+[Read more](https://models.com/work/dolce-vita-boots-that-fit)
+
+Published: Tue, 10 Sep 2024 22:18:06 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325540/2325540-500w.jpg" /></p>Boots That Fit <a href="https://models.com/work/dolce-vita-boots-that-fit" title="Boots That Fit">More...</a>
+
+## AnOther Magazine
+[Read more](https://models.com/work/another-magazine-phoebe-philo)
+
+Published: Tue, 10 Sep 2024 22:17:29 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325553/2325553-500w.jpg" /></p>Phoebe Philo <a href="https://models.com/work/another-magazine-phoebe-philo" title="Phoebe Philo">More...</a>
+
+## Dolce Vita
+[Read more](https://models.com/work/dolce-vita-fall-2024-photographed-by-tom-oneill)
+
+Published: Tue, 10 Sep 2024 22:07:09 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325513/2325513-500w.jpg" /></p>Fall 2024 photographed by Tom O'Neill <a href="https://models.com/work/dolce-vita-fall-2024-photographed-by-tom-oneill" title="Fall 2024 photographed by Tom O'Neill">More...</a>
 
 ## J. Crew
 [Read more](https://models.com/work/j-crew-catalogue--at-home-on-the-coast)
@@ -46,13 +109,6 @@ Published: Tue, 10 Sep 2024 20:09:33 GMT
 Published: Tue, 10 Sep 2024 20:02:15 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2325335/2325335-500w.jpg" /></p>Totême S/S 25 Show <a href="https://models.com/work/totme-totme-ss-25-show" title="Totême S/S 25 Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-meruert-tolegen-ss-25-show)
-
-Published: Tue, 10 Sep 2024 19:52:08 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325182/2325182-500w.jpg" /></p>Meruert Tolegen S/S 25 Show <a href="https://models.com/work/various-shows-meruert-tolegen-ss-25-show" title="Meruert Tolegen S/S 25 Show">More...</a>
 
 ## Frankies Bikinis
 [Read more](https://models.com/work/frankies-bikinis-new-york-knits)
@@ -129,7 +185,7 @@ Published: Tue, 10 Sep 2024 14:25:38 GMT
 
 Published: Tue, 10 Sep 2024 13:37:48 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2324885/2324885-500w.jpg" /></p>Eckhaus Latta  S/S 25 Lookbook <a href="https://models.com/work/eckhaus-latta-eckhaus-latta--ss-25-lookbook" title="Eckhaus Latta  S/S 25 Lookbook">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2324885/2324885-500w.jpg" /></p>Eckhaus Latta S/S 25 Lookbook <a href="https://models.com/work/eckhaus-latta-eckhaus-latta--ss-25-lookbook" title="Eckhaus Latta S/S 25 Lookbook">More...</a>
 
 ## EPOCH
 [Read more](https://models.com/work/epoch-bibi-by-vito-fernicola--marc-goehring)
@@ -151,6 +207,13 @@ Published: Tue, 10 Sep 2024 12:38:10 GMT
 Published: Tue, 10 Sep 2024 12:33:59 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324790/2324790-500w.jpg" /></p>Skincare Oils <a href="https://models.com/work/vogue-arabia-skincare-oils" title="Skincare Oils">More...</a>
+
+## Elle U.S.
+[Read more](https://models.com/work/elle-us-elle-us-october-2024-cover)
+
+Published: Tue, 10 Sep 2024 12:33:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325666/2325666-500w.jpg" /></p>Elle U.S. October 2024 Cover <a href="https://models.com/work/elle-us-elle-us-october-2024-cover" title="Elle U.S. October 2024 Cover">More...</a>
 
 ## L'Officiel Monaco
 [Read more](https://models.com/work/lofficiel-monaco-lash-envy)
@@ -200,13 +263,6 @@ Published: Tue, 10 Sep 2024 06:47:22 GMT
 Published: Tue, 10 Sep 2024 06:04:17 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324604/2324604-500w.jpg" /></p>Kobi Halperin S/S 25 Show <a href="https://models.com/work/various-shows-kobi-halperin-ss-25-show" title="Kobi Halperin S/S 25 Show">More...</a>
-
-## Dennis Basso
-[Read more](https://models.com/work/dennis-basso-dennis-basso-ss-25-show)
-
-Published: Tue, 10 Sep 2024 05:43:29 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324723/2324723-500w.jpg" /></p>Dennis Basso S/S 25 Show <a href="https://models.com/work/dennis-basso-dennis-basso-ss-25-show" title="Dennis Basso S/S 25 Show">More...</a>
 
 ## Vogue Hong Kong
 [Read more](https://models.com/work/vogue-hong-kong-daring-legacy)
@@ -284,13 +340,6 @@ Published: Tue, 10 Sep 2024 03:13:21 GMT
 Published: Tue, 10 Sep 2024 03:11:49 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324529/2324529-500w.jpg" /></p>Madame Figaro August 2024 Cover <a href="https://models.com/work/madame-figaro-madame-figaro-august-2024-cover" title="Madame Figaro August 2024 Cover">More...</a>
-
-## Naeem Khan
-[Read more](https://models.com/work/naeem-khan-naeem-khan-ss-25-show)
-
-Published: Tue, 10 Sep 2024 02:32:21 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324486/2324486-500w.jpg" /></p>Naeem Khan S/S 25 Show <a href="https://models.com/work/naeem-khan-naeem-khan-ss-25-show" title="Naeem Khan S/S 25 Show">More...</a>
 
 ## LaQuan Smith
 [Read more](https://models.com/work/laquan-smith-laquan-smith-ss-25-show)
@@ -997,7 +1046,7 @@ Published: Sun, 08 Sep 2024 01:23:04 GMT
 
 Published: Sun, 08 Sep 2024 01:05:54 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2322659/2322659-500w.jpg" /></p>Khaite S/S 25 Show <a href="https://models.com/work/khaite-khaite-ss-25-show" title="Khaite S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2325664/2325664-500w.jpg" /></p>Khaite S/S 25 Show <a href="https://models.com/work/khaite-khaite-ss-25-show" title="Khaite S/S 25 Show">More...</a>
 
 ## American Eagle
 [Read more](https://models.com/work/american-eagle-winter-campaign-with-jess-wasson)
@@ -1012,53 +1061,4 @@ Published: Sun, 08 Sep 2024 00:07:52 GMT
 Published: Sun, 08 Sep 2024 00:06:15 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2322145/2322145-500w.jpg" /></p>Sergio Hudson S/S 25 Show <a href="https://models.com/work/sergio-hudson-sergio-hudson-ss-25-show" title="Sergio Hudson S/S 25 Show">More...</a>
-
-## Savage x Fenty
-[Read more](https://models.com/work/savage-x-fenty-marika-by-arturo-torres)
-
-Published: Sat, 07 Sep 2024 22:57:13 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321889/2321889-500w.jpg" /></p>MARIKA BY ARTURO TORRES <a href="https://models.com/work/savage-x-fenty-marika-by-arturo-torres" title="MARIKA BY ARTURO TORRES">More...</a>
-
-## Fenty Beauty
-[Read more](https://models.com/work/fenty-beauty-fall-t2--2023-digital)
-
-Published: Sat, 07 Sep 2024 22:43:15 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321887/2321887-500w.jpg" /></p>FALL T2 | 2023 DIGITAL <a href="https://models.com/work/fenty-beauty-fall-t2--2023-digital" title="FALL T2 | 2023 DIGITAL">More...</a>
-
-## Monse
-[Read more](https://models.com/work/monse-monse-ss-25-show)
-
-Published: Sat, 07 Sep 2024 22:14:19 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321882/2321882-500w.jpg" /></p>Monse S/S 25 Show <a href="https://models.com/work/monse-monse-ss-25-show" title="Monse S/S 25 Show">More...</a>
-
-## Various Campaigns
-[Read more](https://models.com/work/various-campaigns-indochino-springsummer-2023---a-story-in-the-making-by-evaan-khera)
-
-Published: Sat, 07 Sep 2024 21:56:35 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321881/2321881-500w.jpg" /></p>Indochino Spring/Summer 2023 - A Story In The Making BY Evaan Khera <a href="https://models.com/work/various-campaigns-indochino-springsummer-2023---a-story-in-the-making-by-evaan-khera" title="Indochino Spring/Summer 2023 - A Story In The Making BY Evaan Khera">More...</a>
-
-## Pantene
-[Read more](https://models.com/work/pantene-new-pantene-infinite-lengths)
-
-Published: Sat, 07 Sep 2024 21:33:11 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321865/2321865-500w.jpg" /></p>New Pantene Infinite Lengths <a href="https://models.com/work/pantene-new-pantene-infinite-lengths" title="New Pantene Infinite Lengths">More...</a>
-
-## Nanushka
-[Read more](https://models.com/work/nanushka-nanushka-ss-25-show)
-
-Published: Sat, 07 Sep 2024 21:15:42 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321954/2321954-500w.jpg" /></p>Nanushka S/S 25 Show <a href="https://models.com/work/nanushka-nanushka-ss-25-show" title="Nanushka S/S 25 Show">More...</a>
-
-## Aerie
-[Read more](https://models.com/work/aerie-aerie-hidden-gems)
-
-Published: Sat, 07 Sep 2024 20:59:47 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321866/2321866-500w.jpg" /></p>Aerie Hidden Gems <a href="https://models.com/work/aerie-aerie-hidden-gems" title="Aerie Hidden Gems">More...</a>
 
