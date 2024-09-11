@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-11
-date: 2024-09-11 10:49:35
+date: 2024-09-11 11:24:47
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-09-11
+
+## Madame Figaro
+[Read more](https://models.com/work/madame-figaro-madame-figaro-feb-2024-cover)
+
+Published: Wed, 11 Sep 2024 10:28:41 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2326062/2326062-800w.jpg" /></p>Madame Figaro Feb 2024 Cover <a href="https://models.com/work/madame-figaro-madame-figaro-feb-2024-cover" title="Madame Figaro Feb 2024 Cover">More...</a>
 
 ## Vogue Polska
 [Read more](https://models.com/work/vogue-polska-pelion)
@@ -229,6 +236,13 @@ Published: Tue, 10 Sep 2024 13:37:48 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324885/2324885-800w.jpg" /></p>Eckhaus Latta S/S 25 Lookbook <a href="https://models.com/work/eckhaus-latta-eckhaus-latta--ss-25-lookbook" title="Eckhaus Latta S/S 25 Lookbook">More...</a>
 
+## Dsquared2
+[Read more](https://models.com/work/dsquared2-dsquared2-denim-fw-2024-campaign)
+
+Published: Tue, 10 Sep 2024 13:15:46 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2326097/2326097-800w.jpg" /></p>Dsquared2 Denim F/W 2024 Campaign <a href="https://models.com/work/dsquared2-dsquared2-denim-fw-2024-campaign" title="Dsquared2 Denim F/W 2024 Campaign">More...</a>
+
 ## EPOCH
 [Read more](https://models.com/work/epoch-bibi-by-vito-fernicola--marc-goehring)
 
@@ -340,6 +354,13 @@ Published: Tue, 10 Sep 2024 04:42:40 GMT
 Published: Tue, 10 Sep 2024 04:26:44 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324634/2324634-800w.jpg" /></p>Aknvas S/S 25 Show <a href="https://models.com/work/aknvas-aknvas-ss-25-show" title="Aknvas S/S 25 Show">More...</a>
+
+## Marina Rinaldi
+[Read more](https://models.com/work/marina-rinaldi-marina-rinaldi--fw-2024-campaign)
+
+Published: Tue, 10 Sep 2024 04:14:07 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2326079/2326079-800w.jpg" /></p>Marina Rinaldi  F/W 2024 Campaign <a href="https://models.com/work/marina-rinaldi-marina-rinaldi--fw-2024-campaign" title="Marina Rinaldi  F/W 2024 Campaign">More...</a>
 
 ## Various Shows
 [Read more](https://models.com/work/various-shows-parsons-mfa-2024-show)
@@ -1040,25 +1061,4 @@ Published: Sun, 08 Sep 2024 07:57:24 GMT
 Published: Sun, 08 Sep 2024 06:58:08 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2322427/2322427-800w.jpg" /></p>Palomo Spain S/S 25 Show <a href="https://models.com/work/palomo-spain-palomo-spain-ss-25-show" title="Palomo Spain S/S 25 Show">More...</a>
-
-## L'Officiel Hong Kong
-[Read more](https://models.com/work/lofficiel-hong-kong-lofficiel-hong-kong-august-2024-cover-1)
-
-Published: Sun, 08 Sep 2024 04:28:32 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2322317/2322317-800w.jpg" /></p>L'Officiel Hong Kong August 2024 Cover <a href="https://models.com/work/lofficiel-hong-kong-lofficiel-hong-kong-august-2024-cover-1" title="L'Officiel Hong Kong August 2024 Cover">More...</a>
-
-## L'Officiel Hong Kong
-[Read more](https://models.com/work/lofficiel-hong-kong-lofficiel-hong-kong-august-2024-cover)
-
-Published: Sun, 08 Sep 2024 04:25:04 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2322314/2322314-800w.jpg" /></p>L'Officiel Hong Kong August 2024 Cover <a href="https://models.com/work/lofficiel-hong-kong-lofficiel-hong-kong-august-2024-cover" title="L'Officiel Hong Kong August 2024 Cover">More...</a>
-
-## Various Campaigns
-[Read more](https://models.com/work/various-campaigns-g2000-summer-campaign)
-
-Published: Sun, 08 Sep 2024 04:17:54 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2322307/2322307-800w.jpg" /></p>G2000 Summer Campaign <a href="https://models.com/work/various-campaigns-g2000-summer-campaign" title="G2000 Summer Campaign">More...</a>
 
