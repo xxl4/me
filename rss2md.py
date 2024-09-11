@@ -114,26 +114,23 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
 
             if res.fetchone() is None:
                 # when the ai_generated_content is None, generate the content
-                if res.ai_generated_content is None:
-                    response = model.generate_content(entry.title)
-                    md_file.write(f"{response.text}\n\n")
-                    # if the entry does not exist, insert it into the database
-                    c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
-                    conn.commit()
+                response = model.generate_content(entry.title)
+                md_file.write(f"{response.text}\n\n")
+                # if the entry does not exist, insert it into the database
+                c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
+                conn.commit()
 
-                    # generate the content and save it to a new md file
-                    #write_md(md_filename, entry.title, today, now)
-                    time.sleep(3)
-                else:
-                    md_file.write(f"{res.ai_generated_content}\n\n")
-                    #write_md(md_filename, entry.title, today, now)
-                    time.sleep(3)
+                # generate the content and save it to a new md file
+                #write_md(md_filename, entry.title, today, now)
+                time.sleep(3)
             else:
                 if res.ai_generated_content is None:
                     response = model.generate_content(entry.title)
                     md_file.write(f"{response.text}\n\n")
                     # if the entry does not exist, insert it into the database
-                    c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
+                    # update the ai_generated_content
+                    c.execute("UPDATE rss SET ai_generated_content = ? WHERE link = ?", (response.text, entry.link))
+                    # c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
                     conn.commit()
 
                     # generate the content and save it to a new md file
