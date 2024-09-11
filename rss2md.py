@@ -120,7 +120,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
                 response = model.generate_content(entry.title)
                 md_file.write(f"{response.text}\n\n")
                 # if the entry does not exist, insert it into the database
-                c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, response.text))
+                c.execute("INSERT INTO rss VALUES (title, link, published, ai_generated_content)", (entry.title, entry.link, entry.published, response.text))
                 conn.commit()
 
                 # generate the content and save it to a new md file
@@ -184,7 +184,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
             res = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
 
             if res.fetchone() is None:
-                c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
+                c.execute("INSERT INTO rss VALUES (title, link, published, ai_generated_content)", (entry.title, entry.link, entry.published, None ))
                 conn.commit()
 
 
@@ -238,7 +238,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         res = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
 
         if res.fetchone() is not None:
-            c.execute("INSERT INTO rss VALUES (?, ?, ?, ?)", (entry.title, entry.link, entry.published, None ))
+            c.execute("INSERT INTO rss VALUES (title, link, published, ai_generated_content)", (entry.title, entry.link, entry.published, None ))
             conn.commit()
 
         # 写入条目标题
