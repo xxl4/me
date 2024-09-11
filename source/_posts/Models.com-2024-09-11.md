@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-11
-date: 2024-09-11 11:24:47
+date: 2024-09-11 12:05:36
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-09-11
+
+## Vanity Teen China
+[Read more](https://models.com/work/vanity-teen-china-vanity-teen-china-september-2024-cover-fair-xing)
+
+Published: Wed, 11 Sep 2024 11:18:34 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2326130/2326130-800w.jpg" /></p>Vanity Teen China September 2024 Cover FAIR XING <a href="https://models.com/work/vanity-teen-china-vanity-teen-china-september-2024-cover-fair-xing" title="Vanity Teen China September 2024 Cover FAIR XING">More...</a>
 
 ## Madame Figaro
 [Read more](https://models.com/work/madame-figaro-madame-figaro-feb-2024-cover)
@@ -60,6 +67,13 @@ Published: Wed, 11 Sep 2024 04:54:45 GMT
 Published: Wed, 11 Sep 2024 04:42:33 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2325800/2325800-800w.jpg" /></p>Elle U.S. October 2024 <a href="https://models.com/work/elle-us-elle-us-october-2024" title="Elle U.S. October 2024">More...</a>
+
+## Pamella Roland
+[Read more](https://models.com/work/pamella-roland-pamella-roland-ss-25-show)
+
+Published: Wed, 11 Sep 2024 04:35:38 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2326127/2326127-800w.jpg" /></p>Pamella Roland S/S 25 Show <a href="https://models.com/work/pamella-roland-pamella-roland-ss-25-show" title="Pamella Roland S/S 25 Show">More...</a>
 
 ## Luar
 [Read more](https://models.com/work/luar-luar-ss-25-show)
@@ -1047,18 +1061,4 @@ Published: Sun, 08 Sep 2024 09:52:03 GMT
 Published: Sun, 08 Sep 2024 09:01:14 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2322402/2322402-800w.jpg" /></p>DOLCE VITA DIGITAL CAMPAIGN BY KELSEY CHERRY <a href="https://models.com/work/various-campaigns-dolce-vita-digital-campaign-by-kelsey-cherry" title="DOLCE VITA DIGITAL CAMPAIGN BY KELSEY CHERRY">More...</a>
-
-## Swarovski
-[Read more](https://models.com/work/swarovski-swarovski-fall-2024-campaign)
-
-Published: Sun, 08 Sep 2024 07:57:24 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2322386/2322386-800w.jpg" /></p>Swarovski Fall 2024 Campaign <a href="https://models.com/work/swarovski-swarovski-fall-2024-campaign" title="Swarovski Fall 2024 Campaign">More...</a>
-
-## Palomo Spain
-[Read more](https://models.com/work/palomo-spain-palomo-spain-ss-25-show)
-
-Published: Sun, 08 Sep 2024 06:58:08 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2322427/2322427-800w.jpg" /></p>Palomo Spain S/S 25 Show <a href="https://models.com/work/palomo-spain-palomo-spain-ss-25-show" title="Palomo Spain S/S 25 Show">More...</a>
 
