@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-11
-date: 2024-09-11 00:13:15
+date: 2024-09-11 01:09:00
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-09-11
+
+## Michael Kors
+[Read more](https://models.com/work/michael-kors-michael-kors-collection-ss-25-show)
+
+Published: Wed, 11 Sep 2024 00:04:46 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325647/2325647-500w.jpg" /></p>Michael Kors Collection S/S 25 Show <a href="https://models.com/work/michael-kors-michael-kors-collection-ss-25-show" title="Michael Kors Collection S/S 25 Show">More...</a>
 
 ## J. Crew
 [Read more](https://models.com/work/j-crew-catalogue--at-home-on-the-coast)
@@ -32,6 +39,13 @@ Published: Tue, 10 Sep 2024 20:29:13 GMT
 Published: Tue, 10 Sep 2024 20:09:33 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2325236/2325236-500w.jpg" /></p>COS F/W 24 Show <a href="https://models.com/work/cos-cos-fw-24-show" title="COS F/W 24 Show">More...</a>
+
+## Totême
+[Read more](https://models.com/work/totme-totme-ss-25-show)
+
+Published: Tue, 10 Sep 2024 20:02:15 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325335/2325335-500w.jpg" /></p>Totême S/S 25 Show <a href="https://models.com/work/totme-totme-ss-25-show" title="Totême S/S 25 Show">More...</a>
 
 ## Various Shows
 [Read more](https://models.com/work/various-shows-meruert-tolegen-ss-25-show)
@@ -656,6 +670,13 @@ Published: Mon, 09 Sep 2024 01:49:04 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2323127/2323127-500w.jpg" /></p>FKA twigs for On Running F/W 24 Training Campaign <a href="https://models.com/work/on-running-fka-twigs-for-on-running-fw24-training-campaign" title="FKA twigs for On Running F/W 24 Training Campaign">More...</a>
 
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-nasty-mag--the-devils-secretary-by-rotem-lebel)
+
+Published: Mon, 09 Sep 2024 01:17:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325638/2325638-500w.jpg" /></p>Nasty Mag | The Devil’s Secretary By Rotem Lebel <a href="https://models.com/work/various-editorials-nasty-mag--the-devils-secretary-by-rotem-lebel" title="Nasty Mag | The Devil’s Secretary By Rotem Lebel">More...</a>
+
 ## T: The New York Times Style Magazine
 [Read more](https://models.com/work/t-the-new-york-times-style-magazine-oversized)
 
@@ -1040,25 +1061,4 @@ Published: Sat, 07 Sep 2024 21:15:42 GMT
 Published: Sat, 07 Sep 2024 20:59:47 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2321866/2321866-500w.jpg" /></p>Aerie Hidden Gems <a href="https://models.com/work/aerie-aerie-hidden-gems" title="Aerie Hidden Gems">More...</a>
-
-## Tibi
-[Read more](https://models.com/work/tibi-tibi-ss-25-show)
-
-Published: Sat, 07 Sep 2024 19:47:22 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321849/2321849-500w.jpg" /></p>Tibi S/S 25 Show <a href="https://models.com/work/tibi-tibi-ss-25-show" title="Tibi S/S 25 Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-todd-patrick-presentation)
-
-Published: Sat, 07 Sep 2024 19:07:00 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321843/2321843-500w.jpg" /></p>TODD PATRICK PRESENTATION <a href="https://models.com/work/various-shows-todd-patrick-presentation" title="TODD PATRICK PRESENTATION">More...</a>
-
-## H&M
-[Read more](https://models.com/work/hm-holiday-gift-guide-what-to-give-your-best-friend)
-
-Published: Sat, 07 Sep 2024 18:13:02 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2321782/2321782-500w.jpg" /></p>Holiday Gift Guide: What to give your best friend <a href="https://models.com/work/hm-holiday-gift-guide-what-to-give-your-best-friend" title="Holiday Gift Guide: What to give your best friend">More...</a>
 
