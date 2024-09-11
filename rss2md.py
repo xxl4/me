@@ -114,7 +114,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
 
         # Ai generated content by Google use the title as the prompt
         try:
-
+            # if the entry does not exist sqlite db by the link
             if res.fetchone() is None:
                 # when the ai_generated_content is None, generate the content
                 response = model.generate_content(entry.title)
@@ -134,7 +134,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
                     response = model.generate_content(entry.title)
                     print("AI generated content:")
                     print(response.text)
-                    
+
                     md_file.write(f"{response.text}\n\n")
                     # if the entry does not exist, insert it into the database
                     # update the ai_generated_content
