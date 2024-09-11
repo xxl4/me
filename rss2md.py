@@ -244,6 +244,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
         # print(entry.published)
         md_file.write(f"Published: {entry.published}\n\n")
         # 写入条目摘要
+
+        entry.description = entry.description.replace("500w.jpg", "800w.jpg")
+
         md_file.write(f"{entry.description}\n\n")
 
 print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
