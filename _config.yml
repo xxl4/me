@@ -190,3 +190,30 @@ adsense:
   exclude:
     - "*.min.html"
     - "exclude/**/*"
+# robots.txt
+robots:
+  user_agent: "*"
+  allow:
+    - /
+    - /archives/
+    - /page/
+    - /schedule/
+    - /tags/
+    - /categories/
+    - /search/
+    - /about/
+    - /links/
+    - /friends/
+    - /sitemap.xml
+    - /sitemap.txt
+    - /atom.xml
+    - /feed.xml
+    - /ads.txt
+    - /manifest.json
+  disallow:
+    - /js/
+    - /css/
+    - /images/
+  sitemaps: 
+    - sitemap.xml
+    - sitemap.txt
