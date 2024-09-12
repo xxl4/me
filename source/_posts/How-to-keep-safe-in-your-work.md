@@ -18,7 +18,7 @@ When you are working, you should keep safe. Here are some tips for you to keep s
 
 I am a worker in a small company, I have worked for more than 15 years. I have some experience about how to keep safe in your work. I want to share my experience with you.
 
-I am Programmer, I work in front of computer every day. I work more than 10 hours every day. When you live in China, Every Programmer maybe work more than 10 hours every day. I think it is not good for health. So I want to share some tips for you to keep safe in your work.
+I am a programmer, I work in front of computer every day. I work more than 10 hours every day. When you live in China, Every Programmer maybe work more than 10 hours every day. I think it is not good for health. So I want to share some tips for you to keep safe in your work.
 
 1. Keep your body in good condition
 
