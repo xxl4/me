@@ -22,7 +22,7 @@ sitemap:
   lastmod: 2024-09-12 22:23:12
 ---
 
-![]('/images/en/2024/09/12/Gemini_Generated_Image_my732bmy732bmy73.jfif')
+![](/images/en/2024/09/12/Gemini_Generated_Image_my732bmy732bmy73.jpg)
 
 AI technology is a hot topic in the tech world. It's changing the way we live and work, and it's becoming more and more important for businesses to understand how to use it. But with so much information out there, it can be hard to know where to start. Here are some tips to help you get started with AI technology.
 
