@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-12
-date: 2024-09-12 00:13:43
+date: 2024-09-12 06:04:41
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,12 +12,26 @@ comments: true
 
 # Models.com for 2024-09-12
 
+## Various Shows
+[Read more](https://models.com/work/various-shows-frederick-anderson-ss-25-show)
+
+Published: Thu, 12 Sep 2024 00:16:50 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327015/2327015-800w.jpg" /></p>Frederick Anderson S/S 25 Show <a href="https://models.com/work/various-shows-frederick-anderson-ss-25-show" title="Frederick Anderson S/S 25 Show">More...</a>
+
 ## JON Magazine
 [Read more](https://models.com/work/jon-magazine-last-summer-1)
 
 Published: Wed, 11 Sep 2024 23:21:46 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2326925/2326925-800w.jpg" /></p>Last Summer <a href="https://models.com/work/jon-magazine-last-summer-1" title="Last Summer">More...</a>
+
+## Private Policy
+[Read more](https://models.com/work/private-policy-private-policy-ss-25-show)
+
+Published: Wed, 11 Sep 2024 22:50:32 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2326939/2326939-800w.jpg" /></p>Private Policy S/S 25 Show <a href="https://models.com/work/private-policy-private-policy-ss-25-show" title="Private Policy S/S 25 Show">More...</a>
 
 ## Various Campaigns
 [Read more](https://models.com/work/various-campaigns-haus-labs-by-lady-gaga-2)
@@ -1047,18 +1061,4 @@ Published: Mon, 09 Sep 2024 08:00:25 GMT
 Published: Mon, 09 Sep 2024 07:45:47 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2323287/2323287-800w.jpg" /></p>AHLEM Eyewear FW24 Campaign <a href="https://models.com/work/various-campaigns-ahlem-eyewear-fw24-campaign" title="AHLEM Eyewear FW24 Campaign">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-arnold-schwarzenegger-scrapbook---factory-fanzine)
-
-Published: Mon, 09 Sep 2024 07:40:42 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323262/2323262-800w.jpg" /></p>Arnold Schwarzenegger Scrapbook - FACTORY Fanzine <a href="https://models.com/work/various-editorials-arnold-schwarzenegger-scrapbook---factory-fanzine" title="Arnold Schwarzenegger Scrapbook - FACTORY Fanzine">More...</a>
-
-## Bulgari
-[Read more](https://models.com/work/bulgari-bvlgari-tubogas-campaign-2024)
-
-Published: Mon, 09 Sep 2024 07:29:41 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325884/2325884-800w.jpg" /></p>Bvlgari Tubogas campaign 2024 <a href="https://models.com/work/bulgari-bvlgari-tubogas-campaign-2024" title="Bvlgari Tubogas campaign 2024">More...</a>
 
