@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-12
-date: 2024-09-12 12:05:25
+date: 2024-09-12 18:04:24
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,188 @@ comments: true
 ---
 
 # Models.com for 2024-09-12
+
+## L'Etiquette Magazine
+[Read more](https://models.com/work/letiquette-magazine-le-style-casual)
+
+Published: Thu, 12 Sep 2024 17:05:34 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327826/2327826-800w.jpg" /></p>Le style casual <a href="https://models.com/work/letiquette-magazine-le-style-casual" title="Le style casual">More...</a>
+
+## L'Etiquette Magazine
+[Read more](https://models.com/work/letiquette-magazine-le-gros-pull-1)
+
+Published: Thu, 12 Sep 2024 16:52:43 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327815/2327815-800w.jpg" /></p>Le gros pull <a href="https://models.com/work/letiquette-magazine-le-gros-pull-1" title="Le gros pull">More...</a>
+
+## Models.com
+[Read more](https://models.com/work/modelscom-carolina-herrera-ss-25-runway-spotlight)
+
+Published: Thu, 12 Sep 2024 16:47:29 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327813/2327813-800w.jpg" /></p>Carolina Herrera S/S 25 Runway Spotlight <a href="https://models.com/work/modelscom-carolina-herrera-ss-25-runway-spotlight" title="Carolina Herrera S/S 25 Runway Spotlight">More...</a>
+
+## Models.com
+[Read more](https://models.com/work/modelscom-omahyra-mota-at-off-white-ss-25)
+
+Published: Thu, 12 Sep 2024 16:44:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327812/2327812-800w.jpg" /></p>Omahyra Mota at Off-White S/S 25 <a href="https://models.com/work/modelscom-omahyra-mota-at-off-white-ss-25" title="Omahyra Mota at Off-White S/S 25">More...</a>
+
+## Converse
+[Read more](https://models.com/work/converse-converse-x-isabel-marant-collaboration)
+
+Published: Thu, 12 Sep 2024 15:54:06 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327788/2327788-800w.jpg" /></p>Converse x Isabel Marant Collaboration <a href="https://models.com/work/converse-converse-x-isabel-marant-collaboration" title="Converse x Isabel Marant Collaboration">More...</a>
+
+## Elle Slovenia
+[Read more](https://models.com/work/elle-slovenia-colors-of-happiness)
+
+Published: Thu, 12 Sep 2024 15:40:37 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327733/2327733-800w.jpg" /></p>Colors of Happiness <a href="https://models.com/work/elle-slovenia-colors-of-happiness" title="Colors of Happiness">More...</a>
+
+## Dior
+[Read more](https://models.com/work/dior-dior-lady-dior-handbag-2024-campaign-1)
+
+Published: Thu, 12 Sep 2024 15:35:33 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327706/2327706-800w.jpg" /></p>Dior Lady Dior Handbag 2024 Campaign <a href="https://models.com/work/dior-dior-lady-dior-handbag-2024-campaign-1" title="Dior Lady Dior Handbag 2024 Campaign">More...</a>
+
+## Rimowa
+[Read more](https://models.com/work/rimowa-rimowa-original-bag-2024-campaign)
+
+Published: Thu, 12 Sep 2024 15:33:28 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327689/2327689-800w.jpg" /></p>Rimowa Original Bag 2024 Campaign <a href="https://models.com/work/rimowa-rimowa-original-bag-2024-campaign" title="Rimowa Original Bag 2024 Campaign">More...</a>
+
+## Ashlyn
+[Read more](https://models.com/work/ashlyn-ashlyn-ss25-lookbook)
+
+Published: Thu, 12 Sep 2024 15:31:45 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327695/2327695-800w.jpg" /></p>Ashlyn S/S25 Lookbook <a href="https://models.com/work/ashlyn-ashlyn-ss25-lookbook" title="Ashlyn S/S25 Lookbook">More...</a>
+
+## Models.com
+[Read more](https://models.com/work/modelscom-behind-the-scenes-at-who-decides-war-ss-25)
+
+Published: Thu, 12 Sep 2024 15:20:57 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327680/2327680-800w.jpg" /></p>Behind The Scenes at Who Decides War S/S 25 <a href="https://models.com/work/modelscom-behind-the-scenes-at-who-decides-war-ss-25" title="Behind The Scenes at Who Decides War S/S 25">More...</a>
+
+## Models.com
+[Read more](https://models.com/work/modelscom-kai-isaiah-jamal-at-willy-chavarria-ss-25)
+
+Published: Thu, 12 Sep 2024 15:17:52 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327677/2327677-800w.jpg" /></p>Kai Isaiah Jamal at Willy Chavarria S/S 25 <a href="https://models.com/work/modelscom-kai-isaiah-jamal-at-willy-chavarria-ss-25" title="Kai Isaiah Jamal at Willy Chavarria S/S 25">More...</a>
+
+## Stylist Magazine UK
+[Read more](https://models.com/work/stylist-magazine-uk-catherine-ohara)
+
+Published: Thu, 12 Sep 2024 15:06:49 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327665/2327665-800w.jpg" /></p>Catherine O'Hara <a href="https://models.com/work/stylist-magazine-uk-catherine-ohara" title="Catherine O'Hara">More...</a>
+
+## Models.com
+[Read more](https://models.com/work/modelscom-confirmed-part-2)
+
+Published: Thu, 12 Sep 2024 15:01:03 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327673/2327673-800w.jpg" /></p>Confirmed Part 2 <a href="https://models.com/work/modelscom-confirmed-part-2" title="Confirmed Part 2">More...</a>
+
+## Various Campaigns
+[Read more](https://models.com/work/various-campaigns-inspira-olaplex-campaign-by-heather-moore--rikky-fernandes)
+
+Published: Thu, 12 Sep 2024 14:56:55 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327655/2327655-800w.jpg" /></p>INSPIRA OLAPLEX CAMPAIGN BY HEATHER MOORE + RIKKY FERNANDES <a href="https://models.com/work/various-campaigns-inspira-olaplex-campaign-by-heather-moore--rikky-fernandes" title="INSPIRA OLAPLEX CAMPAIGN BY HEATHER MOORE + RIKKY FERNANDES">More...</a>
+
+## Various Campaigns
+[Read more](https://models.com/work/various-campaigns-olaplex-spring-24-campaign)
+
+Published: Thu, 12 Sep 2024 14:50:10 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327646/2327646-800w.jpg" /></p>OLAPLEX SPRING 24 CAMPAIGN <a href="https://models.com/work/various-campaigns-olaplex-spring-24-campaign" title="OLAPLEX SPRING 24 CAMPAIGN">More...</a>
+
+## SCMP Style South China Morning Post Style Magazine
+[Read more](https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-cover-story)
+
+Published: Thu, 12 Sep 2024 14:22:16 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327603/2327603-800w.jpg" /></p>SCMP September Cover Story <a href="https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-cover-story" title="SCMP September Cover Story">More...</a>
+
+## SCMP Style South China Morning Post Style Magazine
+[Read more](https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-2024-covers)
+
+Published: Thu, 12 Sep 2024 14:17:44 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327599/2327599-800w.jpg" /></p>SCMP September 2024 Covers <a href="https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-2024-covers" title="SCMP September 2024 Covers">More...</a>
+
+## Various Lookbooks/Catalogs
+[Read more](https://models.com/work/various-lookbookscatalogs-jonathan-cohen-ss25-lookbook)
+
+Published: Thu, 12 Sep 2024 14:10:40 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327585/2327585-800w.jpg" /></p>Jonathan Cohen S/S25 Lookbook <a href="https://models.com/work/various-lookbookscatalogs-jonathan-cohen-ss25-lookbook" title="Jonathan Cohen S/S25 Lookbook">More...</a>
+
+## Street Style: See What the Models Are Wearing Off-Duty During NYFW S/S 25 Days 3-6
+[Read more](https://models.com/mdx/street-style-see-what-the-models-are-wearing-off-duty-during-nyfw-s-s-25-days-3-6/)
+
+Published: Thu, 12 Sep 2024 14:00:00 GMT
+
+<p><img alt="" class="attachment-medium size-medium wp-post-image" height="721" src="https://i.mdel.net/mdx/i/2024/09/STREET-STYLE-COVER-IMAGE-NYFW.jpg" width="1280" /></p>models.Street Style See What the Models Wore Off-Duty During NYFW S/S 25 Days 3-6 New York Fashion Week has wrapped up! It was a whirlwind week filled with top models, celeb sightings, and a Love Islander or two. Dive into the final days of model street style from Days 3 to 6, featuring off-duty looks [&hellip;] <a href="https://models.com/mdx/street-style-see-what-the-models-are-wearing-off-duty-during-nyfw-s-s-25-days-3-6/" title="Street Style: See What the Models Are Wearing Off-Duty During NYFW S/S 25 Days 3-6">More...</a>
+
+## Marie Claire Arabia
+[Read more](https://models.com/work/marie-claire-arabia-work-hour-panache)
+
+Published: Thu, 12 Sep 2024 13:56:12 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327524/2327524-800w.jpg" /></p>Work Hour Panache <a href="https://models.com/work/marie-claire-arabia-work-hour-panache" title="Work Hour Panache">More...</a>
+
+## WSJ
+[Read more](https://models.com/work/wsj-good-natured)
+
+Published: Thu, 12 Sep 2024 13:55:15 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327535/2327535-800w.jpg" /></p>GOOD NATURED <a href="https://models.com/work/wsj-good-natured" title="GOOD NATURED">More...</a>
+
+## Another Man China
+[Read more](https://models.com/work/another-man-china-another-man-china-edition)
+
+Published: Thu, 12 Sep 2024 13:51:20 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327717/2327717-800w.jpg" /></p>Another Man China Edition <a href="https://models.com/work/another-man-china-another-man-china-edition" title="Another Man China Edition">More...</a>
+
+## These Model Rookies Know What is Essential
+[Read more](https://models.com/newfaces/mdc-selects/72935)
+
+Published: Thu, 12 Sep 2024 12:30:04 GMT
+
+<p><img alt="" class="attachment-medium size-medium wp-post-image" src="https://i.mdel.net/newfaces/i/2024/09/mdcselects12092024.jpg" /></p>Dongliang Who: Dongliang He — @hedongliangig — Chinese from Chengdu, China — born November 7th — 188 cm / 6&#8217;2&#8243; — he/him. Where: Mostar Models (Shanghai &#8211; mother agency) — What is your biggest irrational fear? Maybe snakes, when I was a little boy playing in a woods, I was intimidated by a snake. That [&hellip;] <a href="https://models.com/newfaces/mdc-selects/72935" title="These Model Rookies Know What is Essential">More...</a>
+
+## Vogue Mexico
+[Read more](https://models.com/work/vogue-mexico-maxima-hydratacion)
+
+Published: Thu, 12 Sep 2024 11:56:03 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327450/2327450-800w.jpg" /></p>Maxima Hydratacion <a href="https://models.com/work/vogue-mexico-maxima-hydratacion" title="Maxima Hydratacion">More...</a>
+
+## AnOther Magazine
+[Read more](https://models.com/work/another-magazine-i-myself-am-strange-and-unusual)
+
+Published: Thu, 12 Sep 2024 11:53:54 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327439/2327439-800w.jpg" /></p>I myself am strange and unusual <a href="https://models.com/work/another-magazine-i-myself-am-strange-and-unusual" title="I myself am strange and unusual">More...</a>
+
+## Mojeh Magazine
+[Read more](https://models.com/work/mojeh-magazine-louis-vuitton-special)
+
+Published: Thu, 12 Sep 2024 11:24:21 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327427/2327427-800w.jpg" /></p>Louis Vuitton Special <a href="https://models.com/work/mojeh-magazine-louis-vuitton-special" title="Louis Vuitton Special">More...</a>
 
 ## Various Editorials
 [Read more](https://models.com/work/various-editorials-t-mag--issue-xiii-7-tribal)
@@ -75,19 +257,33 @@ Published: Thu, 12 Sep 2024 07:34:52 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327211/2327211-800w.jpg" /></p>Sebastien Ami S/S 25 Men's Show <a href="https://models.com/work/various-shows-sebastien-ami-ss-25-mens-show" title="Sebastien Ami S/S 25 Men's Show">More...</a>
 
-## Various Shows
-[Read more](https://models.com/work/various-shows-meruert-tolegen-ss-25--show)
-
-Published: Thu, 12 Sep 2024 07:33:16 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327212/2327212-800w.jpg" /></p>Meruert Tolegen S/S 25  Show <a href="https://models.com/work/various-shows-meruert-tolegen-ss-25--show" title="Meruert Tolegen S/S 25  Show">More...</a>
-
 ## WRPD Magazine
 [Read more](https://models.com/work/wrpd-magazine-vent-de-rvolte)
 
 Published: Thu, 12 Sep 2024 07:29:46 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327056/2327056-800w.jpg" /></p>Vent de Révolte <a href="https://models.com/work/wrpd-magazine-vent-de-rvolte" title="Vent de Révolte">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-cucculelli-shaheen-ss-25-show)
+
+Published: Thu, 12 Sep 2024 05:17:46 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327760/2327760-800w.jpg" /></p>Cucculelli Shaheen S/S 25 Show <a href="https://models.com/work/various-shows-cucculelli-shaheen-ss-25-show" title="Cucculelli Shaheen S/S 25 Show">More...</a>
+
+## Melitta Baumeister
+[Read more](https://models.com/work/melitta-baumeister-melitta-baumeister-ss-25-show)
+
+Published: Thu, 12 Sep 2024 04:51:17 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327647/2327647-800w.jpg" /></p>Melitta Baumeister S/S 25 Show <a href="https://models.com/work/melitta-baumeister-melitta-baumeister-ss-25-show" title="Melitta Baumeister S/S 25 Show">More...</a>
+
+## LoveShackFancy
+[Read more](https://models.com/work/loveshackfancy-loveshackfancy-ss-25-show)
+
+Published: Thu, 12 Sep 2024 02:58:34 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327631/2327631-800w.jpg" /></p>LoveShackFancy S/S 25 Show <a href="https://models.com/work/loveshackfancy-loveshackfancy-ss-25-show" title="LoveShackFancy S/S 25 Show">More...</a>
 
 ## Various Shows
 [Read more](https://models.com/work/various-shows-frederick-anderson-ss-25-show)
@@ -271,6 +467,13 @@ Published: Wed, 11 Sep 2024 15:29:07 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2326534/2326534-800w.jpg" /></p>Luisa Spagnoli F/W 2024 Campaign <a href="https://models.com/work/luisa-spagnoli-luisa-spagnoli-fw-2024-campaign" title="Luisa Spagnoli F/W 2024 Campaign">More...</a>
 
+## Antonio Marras
+[Read more](https://models.com/work/antonio-marras-antonio-marras-fw-2024-campaign)
+
+Published: Wed, 11 Sep 2024 15:21:02 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2326525/2326525-800w.jpg" /></p>Antonio Marras F/W 2024 Campaign <a href="https://models.com/work/antonio-marras-antonio-marras-fw-2024-campaign" title="Antonio Marras F/W 2024 Campaign">More...</a>
+
 ## Models.com
 [Read more](https://models.com/work/modelscom-with-anthesis-photographer-nadine-ijewere-unveils-her-lifes-work-1)
 
@@ -305,13 +508,6 @@ Published: Wed, 11 Sep 2024 13:07:03 GMT
 Published: Wed, 11 Sep 2024 13:03:24 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2326512/2326512-800w.jpg" /></p>Stylist Magazine UK September 2024 Covers <a href="https://models.com/work/stylist-magazine-uk-stylist-magazine-uk-september-2024-covers" title="Stylist Magazine UK September 2024 Covers">More...</a>
-
-## Tiger of Sweden
-[Read more](https://models.com/work/tiger-of-sweden-lookbook)
-
-Published: Wed, 11 Sep 2024 12:59:18 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326248/2326248-800w.jpg" /></p>Lookbook <a href="https://models.com/work/tiger-of-sweden-lookbook" title="Lookbook">More...</a>
 
 ## W Magazine
 [Read more](https://models.com/work/w-magazine-urban-renewal-1)
@@ -445,13 +641,6 @@ Published: Wed, 11 Sep 2024 05:26:12 GMT
 Published: Wed, 11 Sep 2024 04:42:33 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2325800/2325800-800w.jpg" /></p>Elle U.S. October 2024 <a href="https://models.com/work/elle-us-elle-us-october-2024" title="Elle U.S. October 2024">More...</a>
-
-## Luar
-[Read more](https://models.com/work/luar-luar-ss-25-show)
-
-Published: Wed, 11 Sep 2024 03:43:08 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325806/2325806-800w.jpg" /></p>Luar S/S 25 Show <a href="https://models.com/work/luar-luar-ss-25-show" title="Luar S/S 25 Show">More...</a>
 
 ## The Kooples
 [Read more](https://models.com/work/the-kooples-the-kooples-amelia-bag-2024-campaign)
@@ -789,6 +978,13 @@ Published: Tue, 10 Sep 2024 03:42:27 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324549/2324549-800w.jpg" /></p>Vogue Portugal September 2024 Cover <a href="https://models.com/work/vogue-portugal-vogue-portugal-september-2024-cover-1" title="Vogue Portugal September 2024 Cover">More...</a>
 
+## Zankov
+[Read more](https://models.com/work/zankov-ss-25-presentation)
+
+Published: Tue, 10 Sep 2024 03:35:05 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327678/2327678-800w.jpg" /></p>Zankov S/S 25 Presentation <a href="https://models.com/work/zankov-ss-25-presentation" title="Zankov S/S 25 Presentation">More...</a>
+
 ## The Hunger Magazine
 [Read more](https://models.com/work/the-hunger-magazine-cali-cool)
 
@@ -865,200 +1061,4 @@ Published: Mon, 09 Sep 2024 19:10:28 GMT
 Published: Mon, 09 Sep 2024 19:10:09 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324205/2324205-800w.jpg" /></p>NEW ARRIVALS <a href="https://models.com/work/j-crew-new-arrivals" title="NEW ARRIVALS">More...</a>
-
-## GOAT
-[Read more](https://models.com/work/goat-how-keith-herron-translates-film-into-fashion)
-
-Published: Mon, 09 Sep 2024 18:59:15 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324196/2324196-800w.jpg" /></p>How Keith Herron Translates Film Into Fashion <a href="https://models.com/work/goat-how-keith-herron-translates-film-into-fashion" title="How Keith Herron Translates Film Into Fashion">More...</a>
-
-## Miu Miu
-[Read more](https://models.com/work/miu-miu-miu-miu-tennis-club-new-york-fw22)
-
-Published: Mon, 09 Sep 2024 18:42:18 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324192/2324192-800w.jpg" /></p>Miu Miu Tennis Club New York FW22 <a href="https://models.com/work/miu-miu-miu-miu-tennis-club-new-york-fw22" title="Miu Miu Tennis Club New York FW22">More...</a>
-
-## V Magazine
-[Read more](https://models.com/work/v-magazine-go-to-heaven)
-
-Published: Mon, 09 Sep 2024 18:34:50 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324189/2324189-800w.jpg" /></p>Go To Heaven <a href="https://models.com/work/v-magazine-go-to-heaven" title="Go To Heaven">More...</a>
-
-## Coach
-[Read more](https://models.com/work/coach-holiday-22--y2-coach)
-
-Published: Mon, 09 Sep 2024 18:09:53 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324184/2324184-800w.jpg" /></p>HOLIDAY 22 | Y2 COACH <a href="https://models.com/work/coach-holiday-22--y2-coach" title="HOLIDAY 22 | Y2 COACH">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-spider-worldwide-ss-25-show)
-
-Published: Mon, 09 Sep 2024 18:08:50 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325126/2325126-800w.jpg" /></p>Spider Worldwide S/S 25 Show <a href="https://models.com/work/various-shows-spider-worldwide-ss-25-show" title="Spider Worldwide S/S 25 Show">More...</a>
-
-## The Cut
-[Read more](https://models.com/work/the-cut-magic-mikey-madison)
-
-Published: Mon, 09 Sep 2024 18:07:07 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324180/2324180-800w.jpg" /></p>Magic Mikey Madison <a href="https://models.com/work/the-cut-magic-mikey-madison" title="Magic Mikey Madison">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-gabe-gordon-ss-25-show)
-
-Published: Mon, 09 Sep 2024 17:21:13 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325184/2325184-800w.jpg" /></p>Gabe Gordon S/S 25 Show <a href="https://models.com/work/various-shows-gabe-gordon-ss-25-show" title="Gabe Gordon S/S 25 Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-johnny-blood-ss25)
-
-Published: Mon, 09 Sep 2024 17:08:28 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324142/2324142-800w.jpg" /></p>Johnny Blood SS25 <a href="https://models.com/work/various-shows-johnny-blood-ss25" title="Johnny Blood SS25">More...</a>
-
-## Mirror Mirror Magazine
-[Read more](https://models.com/work/mirror-mirror-magazine-riva-by-isa-beau-van-eembergen)
-
-Published: Mon, 09 Sep 2024 16:52:32 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324105/2324105-800w.jpg" /></p>RIVA by Isa Beau van Eembergen <a href="https://models.com/work/mirror-mirror-magazine-riva-by-isa-beau-van-eembergen" title="RIVA by Isa Beau van Eembergen">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-denzel-veerkamp-ss25)
-
-Published: Mon, 09 Sep 2024 16:47:26 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324099/2324099-800w.jpg" /></p>Denzel Veerkamp SS25 <a href="https://models.com/work/various-shows-denzel-veerkamp-ss25" title="Denzel Veerkamp SS25">More...</a>
-
-## Simkhai
-[Read more](https://models.com/work/simkhai-fall-2024)
-
-Published: Mon, 09 Sep 2024 16:41:27 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324077/2324077-800w.jpg" /></p>Fall 2024 <a href="https://models.com/work/simkhai-fall-2024" title="Fall 2024">More...</a>
-
-## Various Campaigns
-[Read more](https://models.com/work/various-campaigns-baleen-eyewear-2023)
-
-Published: Mon, 09 Sep 2024 16:24:18 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324068/2324068-800w.jpg" /></p>Baleen Eyewear 2023 <a href="https://models.com/work/various-campaigns-baleen-eyewear-2023" title="Baleen Eyewear 2023">More...</a>
-
-## The Cut
-[Read more](https://models.com/work/the-cut-the-cut-x-louboutin)
-
-Published: Mon, 09 Sep 2024 16:09:17 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324052/2324052-800w.jpg" /></p>The Cut x Louboutin <a href="https://models.com/work/the-cut-the-cut-x-louboutin" title="The Cut x Louboutin">More...</a>
-
-## Chantelle
-[Read more](https://models.com/work/chantelle-fw24-pulp-campaign)
-
-Published: Mon, 09 Sep 2024 16:05:21 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324029/2324029-800w.jpg" /></p>Chantelle F/W 24 PULP CAMPAIGN <a href="https://models.com/work/chantelle-fw24-pulp-campaign" title="Chantelle F/W 24 PULP CAMPAIGN">More...</a>
-
-## Street Style: See What the Models Are Wearing Off-Duty During NYFW S/S 25 Days 1-3
-[Read more](https://models.com/mdx/street-style-see-what-the-models-are-wearing-off-duty-during-nyfw-s-s-25-days-1-3/)
-
-Published: Mon, 09 Sep 2024 16:00:33 GMT
-
-<p><img alt="" class="attachment-medium size-medium wp-post-image" height="720" src="https://i.mdel.net/mdx/i/2024/09/street-style-cover-nfw-.jpg" width="1280" /></p>models.Street Style See What the Models Wore Off-Duty During NYFW S/S 25 Days 1-3 Just like that, New York Fashion Week is back! Kicking off the Spring/Summer 2025 festivities, Alaïa made its New York debut at the Guggenheim Museum, Area celebrated its 10th anniversary with a focus on identity, and Off-White blended athleisure with sharp [&hellip;] <a href="https://models.com/mdx/street-style-see-what-the-models-are-wearing-off-duty-during-nyfw-s-s-25-days-1-3/" title="Street Style: See What the Models Are Wearing Off-Duty During NYFW S/S 25 Days 1-3">More...</a>
-
-## Uniqlo
-[Read more](https://models.com/work/uniqlo-uniqlo-chino-fw24-campaign)
-
-Published: Mon, 09 Sep 2024 15:43:41 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323998/2323998-800w.jpg" /></p>UNIQLO Chino F/W 24 Campaign <a href="https://models.com/work/uniqlo-uniqlo-chino-fw24-campaign" title="UNIQLO Chino F/W 24 Campaign">More...</a>
-
-## Chantelle
-[Read more](https://models.com/work/chantelle-pulpies-web-fw24)
-
-Published: Mon, 09 Sep 2024 15:41:20 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324003/2324003-800w.jpg" /></p>PULPIES WEB FW24 <a href="https://models.com/work/chantelle-pulpies-web-fw24" title="PULPIES WEB FW24">More...</a>
-
-## Carolina Herrera
-[Read more](https://models.com/work/carolina-herrera-carolina-herrera-ss-25-show)
-
-Published: Mon, 09 Sep 2024 15:21:47 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326377/2326377-800w.jpg" /></p>Carolina Herrera S/S 25 Show <a href="https://models.com/work/carolina-herrera-carolina-herrera-ss-25-show" title="Carolina Herrera S/S 25 Show">More...</a>
-
-## Cosmopolitan Germany
-[Read more](https://models.com/work/cosmopolitan-germany-la-deutsche-vita--photography-by-dominik-odenkirchen)
-
-Published: Mon, 09 Sep 2024 14:58:31 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323944/2323944-800w.jpg" /></p>La Deutsche Vita / Photography by Dominik Odenkirchen <a href="https://models.com/work/cosmopolitan-germany-la-deutsche-vita--photography-by-dominik-odenkirchen" title="La Deutsche Vita / Photography by Dominik Odenkirchen">More...</a>
-
-## Net-A-Porter
-[Read more](https://models.com/work/net-a-porter-model-mafia)
-
-Published: Mon, 09 Sep 2024 14:48:29 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323947/2323947-800w.jpg" /></p>MODEL MAFIA <a href="https://models.com/work/net-a-porter-model-mafia" title="MODEL MAFIA">More...</a>
-
-## Vogue Greece
-[Read more](https://models.com/work/vogue-greece-miss-vogue--nikki-mcguire)
-
-Published: Mon, 09 Sep 2024 14:40:53 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323916/2323916-800w.jpg" /></p>Miss Vogue / Nikki Mcguire <a href="https://models.com/work/vogue-greece-miss-vogue--nikki-mcguire" title="Miss Vogue / Nikki Mcguire">More...</a>
-
-## 10 Magazine
-[Read more](https://models.com/work/10-magazine-10-magazine-73-fallwinter-2024-covers)
-
-Published: Mon, 09 Sep 2024 14:23:52 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325079/2325079-800w.jpg" /></p>10 Magazine #73 Fall/Winter 2024 Covers <a href="https://models.com/work/10-magazine-10-magazine-73-fallwinter-2024-covers" title="10 Magazine #73 Fall/Winter 2024 Covers">More...</a>
-
-## ICON Magazine Italy
-[Read more](https://models.com/work/icon-magazine-italy-icon-magazine-italy-august-2024-digital-cover)
-
-Published: Mon, 09 Sep 2024 13:42:43 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323847/2323847-800w.jpg" /></p>ICON Magazine Italy August 2024 Digital Cover <a href="https://models.com/work/icon-magazine-italy-icon-magazine-italy-august-2024-digital-cover" title="ICON Magazine Italy August 2024 Digital Cover">More...</a>
-
-## Numéro Netherlands
-[Read more](https://models.com/work/numro-netherlands-numro-netherlands-september-2024-cover)
-
-Published: Mon, 09 Sep 2024 13:33:42 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323840/2323840-800w.jpg" /></p>Numéro Netherlands September 2024 Cover <a href="https://models.com/work/numro-netherlands-numro-netherlands-september-2024-cover" title="Numéro Netherlands September 2024 Cover">More...</a>
-
-## Numéro Netherlands
-[Read more](https://models.com/work/numro-netherlands-la-sardana)
-
-Published: Mon, 09 Sep 2024 13:18:41 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323808/2323808-800w.jpg" /></p>La Sardana <a href="https://models.com/work/numro-netherlands-la-sardana" title="La Sardana">More...</a>
-
-## Vogue Adria
-[Read more](https://models.com/work/vogue-adria-red-alert)
-
-Published: Mon, 09 Sep 2024 12:53:58 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323772/2323772-800w.jpg" /></p>Red Alert <a href="https://models.com/work/vogue-adria-red-alert" title="Red Alert">More...</a>
-
-## Flair Germany
-[Read more](https://models.com/work/flair-germany-meet-me-in-paris)
-
-Published: Mon, 09 Sep 2024 11:44:56 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323685/2323685-800w.jpg" /></p>Meet me in Paris <a href="https://models.com/work/flair-germany-meet-me-in-paris" title="Meet me in Paris">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-marie-claire-international-1)
-
-Published: Mon, 09 Sep 2024 10:53:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2323643/2323643-800w.jpg" /></p>Marie Claire International <a href="https://models.com/work/various-editorials-marie-claire-international-1" title="Marie Claire International">More...</a>
 
