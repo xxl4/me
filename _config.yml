@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Steve's Tech Blog
-subtitle: 'Steve的技术博客'
-description: 'Steve的技术博客,主要分享SRE,DEVOPS,DEVSECOPS,PHP,Java,Python,Go,跨境电商,安全,读书等技术文章'
+title: Models.net.cn
+subtitle: 'The Website of Steve, mainly sharing SRE, DEVOPS, DEVSECOPS, PHP, Java, Python, Go, cross-border e-commerce, security, reading and other technical articles'
+description: 'The Website of Steve, mainly sharing SRE, DEVOPS, DEVSECOPS, PHP, Java, Python, Go, cross-border e-commerce, security, reading and other technical articles'
 keywords: "SRE, DEVOPS, DEVSEROPS, Python, Java, PHP, 电商,Go,跨境电商,VUE,Erlang,LVS,CDN,DNS,安全, WAF,读书,CICD,MQTT"
 author: Steve
 language: [en,zh-CN]
@@ -70,7 +70,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-tag_map: ["安全","SRE","DevOps", "DevSecOps","PHP", "Java", "Google"]
+tag_map: ["SRE","DevOps", "DevSecOps","PHP", "Java", "Google", "Python", "Go", "Cross-border e-commerce", "Security", "Reading", "Other"]
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
