@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-13
-date: 2024-09-13 00:15:09
+date: 2024-09-13 06:05:00
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,20 @@ comments: true
 ---
 
 # Models.com for 2024-09-13
+
+## Female Singapore
+[Read more](https://models.com/work/female-singapore-the-super-model)
+
+Published: Fri, 13 Sep 2024 03:08:44 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328183/2328183-800w.jpg" /></p>the super model <a href="https://models.com/work/female-singapore-the-super-model" title="the super model">More...</a>
+
+## Joseph
+[Read more](https://models.com/work/joseph-joseph-fw-2024-campaign)
+
+Published: Fri, 13 Sep 2024 02:17:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328179/2328179-800w.jpg" /></p>Joseph F/W 2024 Campaign <a href="https://models.com/work/joseph-joseph-fw-2024-campaign" title="Joseph F/W 2024 Campaign">More...</a>
 
 ## Numero Tokyo
 [Read more](https://models.com/work/numero-tokyo-fashion-issue)
@@ -466,6 +480,13 @@ Published: Thu, 12 Sep 2024 05:17:46 GMT
 Published: Thu, 12 Sep 2024 04:51:17 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327647/2327647-800w.jpg" /></p>Melitta Baumeister S/S 25 Show <a href="https://models.com/work/melitta-baumeister-melitta-baumeister-ss-25-show" title="Melitta Baumeister S/S 25 Show">More...</a>
+
+## Arena Homme + China
+[Read more](https://models.com/work/arena-homme--china--by-he-yong-kang)
+
+Published: Thu, 12 Sep 2024 04:29:47 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2327030/2327030-800w.jpg" /></p>寻味年“粤”日 by HE YONG KANG <a href="https://models.com/work/arena-homme--china--by-he-yong-kang" title="寻味年“粤”日 by HE YONG KANG">More...</a>
 
 ## LoveShackFancy
 [Read more](https://models.com/work/loveshackfancy-loveshackfancy-ss-25-show)
@@ -930,6 +951,13 @@ Published: Tue, 10 Sep 2024 21:54:03 GMT
 <p><img src="https://i.mdel.net/i/db/2024/9/2325480/2325480-800w.jpg" /></p>Dolce Vita Spring 2024 <a href="https://models.com/work/dolce-vita-spring-2-2024" title="Dolce Vita Spring 2024">More...</a>
 
 ## Dolce Vita
+[Read more](https://models.com/work/dolce-vita-spring-2024-photographed-by-andrea-swarz)
+
+Published: Tue, 10 Sep 2024 21:40:40 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2325423/2325423-800w.jpg" /></p> Dolce Vita Spring 2024 photographed by Andrea Swarz <a href="https://models.com/work/dolce-vita-spring-2024-photographed-by-andrea-swarz" title=" Dolce Vita Spring 2024 photographed by Andrea Swarz">More...</a>
+
+## Dolce Vita
 [Read more](https://models.com/work/dolce-vita-wild-ones-photographed-by-lindsay-childs)
 
 Published: Tue, 10 Sep 2024 21:28:47 GMT
@@ -1033,32 +1061,4 @@ Published: Tue, 10 Sep 2024 15:53:37 GMT
 Published: Tue, 10 Sep 2024 15:30:29 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2324995/2324995-800w.jpg" /></p>Beauty and Power <a href="https://models.com/work/another-magazine-beauty-and-power-1" title="Beauty and Power">More...</a>
-
-## Numéro Switzerland
-[Read more](https://models.com/work/numro-switzerland-helena-christensen--the-supermodel-icon)
-
-Published: Tue, 10 Sep 2024 15:06:49 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324973/2324973-800w.jpg" /></p>Helena Christensen – The Supermodel Icon <a href="https://models.com/work/numro-switzerland-helena-christensen--the-supermodel-icon" title="Helena Christensen – The Supermodel Icon">More...</a>
-
-## The Cut
-[Read more](https://models.com/work/the-cut-fall-fashion)
-
-Published: Tue, 10 Sep 2024 14:56:12 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324955/2324955-800w.jpg" /></p>Fall Fashion <a href="https://models.com/work/the-cut-fall-fashion" title="Fall Fashion">More...</a>
-
-## Beyond Noise
-[Read more](https://models.com/work/beyond-noise-age-of-elegance)
-
-Published: Tue, 10 Sep 2024 14:44:01 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324939/2324939-800w.jpg" /></p>AGE OF ELEGANCE <a href="https://models.com/work/beyond-noise-age-of-elegance" title="AGE OF ELEGANCE">More...</a>
-
-## Hube Magazine
-[Read more](https://models.com/work/hube-magazine-there-is-no-before)
-
-Published: Tue, 10 Sep 2024 14:25:38 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324919/2324919-800w.jpg" /></p>There is No Before <a href="https://models.com/work/hube-magazine-there-is-no-before" title="There is No Before">More...</a>
 
