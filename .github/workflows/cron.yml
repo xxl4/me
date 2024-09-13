@@ -68,6 +68,7 @@ jobs:
           hexo generate
           hexo deploy  
   build:
+    needs: update-rss-feed
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
