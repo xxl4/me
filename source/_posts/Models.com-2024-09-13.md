@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-13
-date: 2024-09-13 06:05:00
+date: 2024-09-13 12:05:27
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,48 @@ comments: true
 ---
 
 # Models.com for 2024-09-13
+
+## Yohji Yamamoto
+[Read more](https://models.com/work/yohji-yamamoto-yohji-yamamoto-eyewear)
+
+Published: Fri, 13 Sep 2024 11:30:56 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328478/2328478-800w.jpg" /></p>Yohji Yamamoto Eyewear <a href="https://models.com/work/yohji-yamamoto-yohji-yamamoto-eyewear" title="Yohji Yamamoto Eyewear">More...</a>
+
+## Cult Gaia
+[Read more](https://models.com/work/cult-gaia-cult-gaia-eau-de-parfum-campaign-2024)
+
+Published: Fri, 13 Sep 2024 10:13:43 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328476/2328476-800w.jpg" /></p>Cult Gaia Eau De Parfum Campaign 2024 <a href="https://models.com/work/cult-gaia-cult-gaia-eau-de-parfum-campaign-2024" title="Cult Gaia Eau De Parfum Campaign 2024">More...</a>
+
+## Various Campaigns
+[Read more](https://models.com/work/various-campaigns-apropos)
+
+Published: Fri, 13 Sep 2024 09:44:19 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328412/2328412-800w.jpg" /></p>Apropos <a href="https://models.com/work/various-campaigns-apropos" title="Apropos">More...</a>
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-en-masse)
+
+Published: Fri, 13 Sep 2024 08:44:27 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328301/2328301-800w.jpg" /></p>En Masse <a href="https://models.com/work/various-editorials-en-masse" title="En Masse">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-viviano-25ss-show)
+
+Published: Fri, 13 Sep 2024 08:10:46 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328261/2328261-800w.jpg" /></p>VIVIANO 25S/S Show <a href="https://models.com/work/various-shows-viviano-25ss-show" title="VIVIANO 25S/S Show">More...</a>
+
+## Apollo Magazine
+[Read more](https://models.com/work/apollo-magazine-walk-on-the-dark-side)
+
+Published: Fri, 13 Sep 2024 07:51:15 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328249/2328249-800w.jpg" /></p>Walk on the dark side <a href="https://models.com/work/apollo-magazine-walk-on-the-dark-side" title="Walk on the dark side">More...</a>
 
 ## Female Singapore
 [Read more](https://models.com/work/female-singapore-the-super-model)
@@ -26,12 +68,19 @@ Published: Fri, 13 Sep 2024 02:17:25 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2328179/2328179-800w.jpg" /></p>Joseph F/W 2024 Campaign <a href="https://models.com/work/joseph-joseph-fw-2024-campaign" title="Joseph F/W 2024 Campaign">More...</a>
 
+## Elle Italia
+[Read more](https://models.com/work/elle-italia-terapia-di-coppia)
+
+Published: Thu, 12 Sep 2024 23:12:13 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328245/2328245-800w.jpg" /></p>Terapia di coppia <a href="https://models.com/work/elle-italia-terapia-di-coppia" title="Terapia di coppia">More...</a>
+
 ## Numero Tokyo
-[Read more](https://models.com/work/numero-tokyo-fashion-issue)
+[Read more](https://models.com/work/numero-tokyo-oct-24-digital-cover)
 
 Published: Thu, 12 Sep 2024 22:47:12 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2328165/2328165-800w.jpg" /></p>FASHION ISSUE <a href="https://models.com/work/numero-tokyo-fashion-issue" title="FASHION ISSUE">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2328165/2328165-800w.jpg" /></p>Numero Tokyo October 2024 Digital Cover <a href="https://models.com/work/numero-tokyo-oct-24-digital-cover" title="Numero Tokyo October 2024 Digital Cover">More...</a>
 
 ## Il Sole24Ore - HTSI Magazine Italian Edition
 [Read more](https://models.com/work/il-sole24ore---htsi-magazine-italian-edition-potere-urbano-masterpieces)
@@ -180,6 +229,13 @@ Published: Thu, 12 Sep 2024 17:05:34 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327826/2327826-800w.jpg" /></p>Le style casual <a href="https://models.com/work/letiquette-magazine-le-style-casual" title="Le style casual">More...</a>
 
+## Various Lookbooks/Catalogs
+[Read more](https://models.com/work/various-lookbookscatalogs-n-hoolywood-ss-25-mens-lookbook)
+
+Published: Thu, 12 Sep 2024 17:01:47 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2328361/2328361-800w.jpg" /></p>N. Hoolywood S/S 25 Men's Lookbook <a href="https://models.com/work/various-lookbookscatalogs-n-hoolywood-ss-25-mens-lookbook" title="N. Hoolywood S/S 25 Men's Lookbook">More...</a>
+
 ## L'Etiquette Magazine
 [Read more](https://models.com/work/letiquette-magazine-le-gros-pull-1)
 
@@ -227,7 +283,7 @@ Published: Thu, 12 Sep 2024 15:40:37 GMT
 
 Published: Thu, 12 Sep 2024 15:35:33 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2327706/2327706-800w.jpg" /></p>Dior Lady Dior Handbag 2024 Campaign <a href="https://models.com/work/dior-dior-lady-dior-handbag-2024-campaign-1" title="Dior Lady Dior Handbag 2024 Campaign">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2327706/2327706-800w.jpg" /></p>Dior Lady Dior Handbag 2024  <a href="https://models.com/work/dior-dior-lady-dior-handbag-2024-campaign-1" title="Dior Lady Dior Handbag 2024 ">More...</a>
 
 ## Rimowa
 [Read more](https://models.com/work/rimowa-rimowa-original-bag-2024-campaign)
@@ -577,7 +633,7 @@ Published: Wed, 11 Sep 2024 19:31:35 GMT
 
 Published: Wed, 11 Sep 2024 19:26:07 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2326825/2326825-800w.jpg" /></p>Ronald van der Kemp Haute Couture Fall 2024 Show New York <a href="https://models.com/work/ronald-van-der-kemp-ronald-van-der-kemp-haute-couture-fall-2024-show-new-york" title="Ronald van der Kemp Haute Couture Fall 2024 Show New York">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2327097/2327097-800w.jpg" /></p>Ronald van der Kemp Haute Couture Fall 2024 Show New York <a href="https://models.com/work/ronald-van-der-kemp-ronald-van-der-kemp-haute-couture-fall-2024-show-new-york" title="Ronald van der Kemp Haute Couture Fall 2024 Show New York">More...</a>
 
 ## Various Shows
 [Read more](https://models.com/work/various-shows-alejandra-alonso-rojas-ss-25-show)
@@ -1005,60 +1061,4 @@ Published: Tue, 10 Sep 2024 20:09:33 GMT
 Published: Tue, 10 Sep 2024 19:44:11 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2325137/2325137-800w.jpg" /></p>Alexis Carey by David Urbanke <a href="https://models.com/work/portrait-alexis-carey-by-david-urbanke-1" title="Alexis Carey by David Urbanke">More...</a>
-
-## Frankies Bikinis
-[Read more](https://models.com/work/frankies-bikinis-new-york-knits)
-
-Published: Tue, 10 Sep 2024 19:29:25 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325129/2325129-800w.jpg" /></p>New York Knits <a href="https://models.com/work/frankies-bikinis-new-york-knits" title="New York Knits">More...</a>
-
-## W Magazine
-[Read more](https://models.com/work/w-magazine-dramatis-personae)
-
-Published: Tue, 10 Sep 2024 17:22:58 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327990/2327990-800w.jpg" /></p>Dramatis Personae <a href="https://models.com/work/w-magazine-dramatis-personae" title="Dramatis Personae">More...</a>
-
-## i-D Magazine
-[Read more](https://models.com/work/i-d-magazine-new-york-is-heaven-and-hell-for-womens-history-museum-its-also-salvation)
-
-Published: Tue, 10 Sep 2024 17:09:36 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325080/2325080-800w.jpg" /></p>New York is Heaven and Hell. For Women’s History Museum, It’s Also Salvation <a href="https://models.com/work/i-d-magazine-new-york-is-heaven-and-hell-for-womens-history-museum-its-also-salvation" title="New York is Heaven and Hell. For Women’s History Museum, It’s Also Salvation">More...</a>
-
-## American Vogue
-[Read more](https://models.com/work/american-vogue-lady-gaga-on-joker-folie-a-deux)
-
-Published: Tue, 10 Sep 2024 16:33:45 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325088/2325088-800w.jpg" /></p>Lady Gaga on Joker: Folie A Deux <a href="https://models.com/work/american-vogue-lady-gaga-on-joker-folie-a-deux" title="Lady Gaga on Joker: Folie A Deux">More...</a>
-
-## Dazed Magazine
-[Read more](https://models.com/work/dazed-magazine-ayra-starr-for-dazed)
-
-Published: Tue, 10 Sep 2024 16:28:33 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327945/2327945-800w.jpg" /></p>Ayra Starr for Dazed <a href="https://models.com/work/dazed-magazine-ayra-starr-for-dazed" title="Ayra Starr for Dazed">More...</a>
-
-## Pop Magazine
-[Read more](https://models.com/work/pop-magazine-olivia-neill)
-
-Published: Tue, 10 Sep 2024 16:06:33 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325904/2325904-800w.jpg" /></p>Olivia Neill <a href="https://models.com/work/pop-magazine-olivia-neill" title="Olivia Neill">More...</a>
-
-## DNA Magazine Mexico
-[Read more](https://models.com/work/dna-magazine-mexico-dna-magazine-10th-anniversary-issue-digital-cover)
-
-Published: Tue, 10 Sep 2024 15:53:37 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2325039/2325039-800w.jpg" /></p>DNA MAGAZINE 10TH ANNIVERSARY ISSUE DIGITAL COVER <a href="https://models.com/work/dna-magazine-mexico-dna-magazine-10th-anniversary-issue-digital-cover" title="DNA MAGAZINE 10TH ANNIVERSARY ISSUE DIGITAL COVER">More...</a>
-
-## AnOther Magazine
-[Read more](https://models.com/work/another-magazine-beauty-and-power-1)
-
-Published: Tue, 10 Sep 2024 15:30:29 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2324995/2324995-800w.jpg" /></p>Beauty and Power <a href="https://models.com/work/another-magazine-beauty-and-power-1" title="Beauty and Power">More...</a>
 
