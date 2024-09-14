@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-14
-date: 2024-09-14 06:04:22
+date: 2024-09-14 12:04:40
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,41 @@ comments: true
 ---
 
 # Models.com for 2024-09-14
+
+## Fendi
+[Read more](https://models.com/work/fendi-fendi-fw24-digital)
+
+Published: Sat, 14 Sep 2024 11:27:14 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2329322/2329322-800w.jpg" /></p>Fendi FW24 Digital <a href="https://models.com/work/fendi-fendi-fw24-digital" title="Fendi FW24 Digital">More...</a>
+
+## Arena Homme + China
+[Read more](https://models.com/work/arena-homme--china-new-season)
+
+Published: Sat, 14 Sep 2024 07:42:39 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2329244/2329244-800w.jpg" /></p>New Season <a href="https://models.com/work/arena-homme--china-new-season" title="New Season">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-justin-cassin-ss-25-mens-show)
+
+Published: Sat, 14 Sep 2024 06:37:46 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2329290/2329290-800w.jpg" /></p>Justin Cassin S/S 25 Men's Show <a href="https://models.com/work/various-shows-justin-cassin-ss-25-mens-show" title="Justin Cassin S/S 25 Men's Show">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-natasha-zinko-ss-25-show)
+
+Published: Sat, 14 Sep 2024 04:08:08 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2329292/2329292-800w.jpg" /></p>Natasha Zinko S/S 25 Show <a href="https://models.com/work/various-shows-natasha-zinko-ss-25-show" title="Natasha Zinko S/S 25 Show">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-derrick-ss-25-mens-show)
+
+Published: Sat, 14 Sep 2024 03:39:49 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2329309/2329309-800w.jpg" /></p>Derrick S/S 25 Men's Show <a href="https://models.com/work/various-shows-derrick-ss-25-mens-show" title="Derrick S/S 25 Men's Show">More...</a>
 
 ## Various Editorials
 [Read more](https://models.com/work/various-editorials-tropical-chic)
@@ -46,6 +81,13 @@ Published: Sat, 14 Sep 2024 00:56:32 GMT
 Published: Sat, 14 Sep 2024 00:52:55 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2329186/2329186-800w.jpg" /></p>Chet Lo S/S 25 Show <a href="https://models.com/work/chet-lo-chet-lo-ss-25-show" title="Chet Lo S/S 25 Show">More...</a>
+
+## Mark Fast
+[Read more](https://models.com/work/mark-fast-mark-fast-ss-25-show-1)
+
+Published: Sat, 14 Sep 2024 00:08:24 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2329317/2329317-800w.jpg" /></p>Mark Fast S/S 25 Show <a href="https://models.com/work/mark-fast-mark-fast-ss-25-show-1" title="Mark Fast S/S 25 Show">More...</a>
 
 ## Muse Magazine
 [Read more](https://models.com/work/muse-magazine-muse-magazine-september-2024-cover)
@@ -573,6 +615,13 @@ Published: Thu, 12 Sep 2024 15:26:50 GMT
 <p><img src="https://i.mdel.net/i/db/2024/9/2328567/2328567-800w.jpg" /></p>Timberland Iconic 2024 Campaign <a href="https://models.com/work/various-campaigns-timberland-iconic-2024-campaign" title="Timberland Iconic 2024 Campaign">More...</a>
 
 ## Harper's Bazaar UK
+[Read more](https://models.com/work/harpers-bazaar-uk-best-of-the-best)
+
+Published: Thu, 12 Sep 2024 15:23:43 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2329310/2329310-800w.jpg" /></p>Best of The Best <a href="https://models.com/work/harpers-bazaar-uk-best-of-the-best" title="Best of The Best">More...</a>
+
+## Harper's Bazaar UK
 [Read more](https://models.com/work/harpers-bazaar-uk-all-about-yves)
 
 Published: Thu, 12 Sep 2024 15:22:59 GMT
@@ -1012,53 +1061,4 @@ Published: Wed, 11 Sep 2024 15:29:07 GMT
 Published: Wed, 11 Sep 2024 15:21:02 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2326525/2326525-800w.jpg" /></p>Antonio Marras F/W 2024 Campaign <a href="https://models.com/work/antonio-marras-antonio-marras-fw-2024-campaign" title="Antonio Marras F/W 2024 Campaign">More...</a>
-
-## Models.com
-[Read more](https://models.com/work/modelscom-with-anthesis-photographer-nadine-ijewere-unveils-her-lifes-work-1)
-
-Published: Wed, 11 Sep 2024 14:14:10 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326345/2326345-800w.jpg" /></p>With Anthesis, Photographer Nadine Ijewere Unveils Her Life’s Work <a href="https://models.com/work/modelscom-with-anthesis-photographer-nadine-ijewere-unveils-her-lifes-work-1" title="With Anthesis, Photographer Nadine Ijewere Unveils Her Life’s Work">More...</a>
-
-## Margaret Howell
-[Read more](https://models.com/work/margaret-howell-mhl-by-margaret-howell-aw24)
-
-Published: Wed, 11 Sep 2024 14:05:18 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326331/2326331-800w.jpg" /></p>MHL by Margaret Howell A/W 24 <a href="https://models.com/work/margaret-howell-mhl-by-margaret-howell-aw24" title="MHL by Margaret Howell A/W 24">More...</a>
-
-## AnOther Magazine
-[Read more](https://models.com/work/another-magazine-chanel)
-
-Published: Wed, 11 Sep 2024 13:23:20 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326273/2326273-800w.jpg" /></p>Chanel <a href="https://models.com/work/another-magazine-chanel" title="Chanel">More...</a>
-
-## Theory
-[Read more](https://models.com/work/theory-theory-wardrobe-campaign-2024)
-
-Published: Wed, 11 Sep 2024 13:07:03 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326221/2326221-800w.jpg" /></p>Theory Wardrobe Campaign 2024 <a href="https://models.com/work/theory-theory-wardrobe-campaign-2024" title="Theory Wardrobe Campaign 2024">More...</a>
-
-## Stylist Magazine UK
-[Read more](https://models.com/work/stylist-magazine-uk-stylist-magazine-uk-september-2024-covers)
-
-Published: Wed, 11 Sep 2024 13:03:24 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326512/2326512-800w.jpg" /></p>Stylist Magazine UK September 2024 Covers <a href="https://models.com/work/stylist-magazine-uk-stylist-magazine-uk-september-2024-covers" title="Stylist Magazine UK September 2024 Covers">More...</a>
-
-## W Magazine
-[Read more](https://models.com/work/w-magazine-urban-renewal-1)
-
-Published: Wed, 11 Sep 2024 12:35:12 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326189/2326189-800w.jpg" /></p>Urban Renewal <a href="https://models.com/work/w-magazine-urban-renewal-1" title="Urban Renewal">More...</a>
-
-## Versace
-[Read more](https://models.com/work/versace-versace-fw-2024)
-
-Published: Wed, 11 Sep 2024 12:05:12 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2326153/2326153-800w.jpg" /></p>Versace FW 2024 <a href="https://models.com/work/versace-versace-fw-2024" title="Versace FW 2024">More...</a>
 
