@@ -1,6 +1,6 @@
 ---
 title: IT Security RSS Feed for 2024-09-15
-date: 2024-09-15 06:04:27
+date: 2024-09-15 12:04:56
 tags: [RSS, ComputerWeekly, IT Security]
 author: ComputerWeekly
 summary: IT Security RSS Feed
@@ -17,40 +17,30 @@ comments: true
 
 Published: Fri, 13 Sep 2024 06:45:00 GMT
 
-**UN-backed report reveals significant gaps in global cyber security preparedness**
+**UN-Backed Cyber Security Report Highlights Global Shortfalls in Preparedness**
 
-A recent report released by the United Nations-backed Global Commission on the Stability of Cyberspace (GCSC) has highlighted major deficiencies in cyber security preparedness around the world.
+A comprehensive cyber security report commissioned by the United Nations has revealed significant shortfalls in preparedness and response capabilities on a global scale. The report, titled "Global Cybersecurity Index 2023," paints a bleak picture of the current state of cyber resilience around the world.
 
 **Key Findings:**
 
-* **Limited Adoption of Best Practices:** Many countries have not implemented widely accepted cyber security best practices, such as multi-factor authentication and encryption.
-* **Insufficient Investment in Capacity Building:** Governments and organizations are not investing enough in training and education to develop a skilled workforce capable of protecting against cyber threats.
-* **Lack of International Cooperation:** There is a lack of effective mechanisms for international cooperation and information sharing on cyber security incidents.
-* **Outdated Legal Frameworks:** Many countries' cyber security laws and regulations are outdated and do not adequately address evolving threats.
-* **Failure to Protect Critical Infrastructure:** Critical infrastructure, including energy, transportation, and healthcare systems, remains vulnerable to cyber attacks due to inadequate security measures.
+* **Wide disparity in preparedness:** The report finds a vast disparity in cyber security preparedness levels between different countries. The United States, the United Kingdom, and Singapore rank among the most prepared, while many developing nations lag significantly behind.
+* **Lack of investment in cyber security:** A major contributor to this disparity is the chronic underinvestment in cyber security. Many governments and organizations fail to allocate sufficient resources for preventive measures and incident response mechanisms.
+* **Inadequate skills shortage:** The report identifies a severe shortage of qualified cyber security professionals worldwide. This shortage hampers organizations' ability to detect, prevent, and respond to cyber threats effectively.
+* **Increased cybercrime:** The COVID-19 pandemic has accelerated the shift towards online activities, leading to a surge in cybercrime. Ransomware attacks, data breaches, and phishing scams have become increasingly prevalent.
+* **Lack of international cooperation:** The report highlights the need for enhanced international cooperation and collaboration in combating cyber threats. Cybercrime is often transnational in nature, requiring coordinated action by multiple jurisdictions.
 
-**Call for Action:**
+**Recommendations:**
 
-The report urges governments, organizations, and individuals to take immediate action to improve cyber security preparedness. Key recommendations include:
+To address these shortfalls, the report recommends several measures, including:
 
-* **Strengthening Cyber Security Defenses:** Implementing robust security controls, updating software and operating systems, and deploying threat detection and response technologies.
-* **Investing in Training and Education:** Developing and supporting programs to train cyber security professionals and educate users on cyber hygiene.
-* **Promoting International Cooperation:** Establishing partnerships and protocols for information sharing, incident response, and capacity building.
-* **Updating Legal Frameworks:** Legislating appropriate laws and regulations to address emerging cyber threats and protect critical infrastructure.
-* **Raising Public Awareness:** Educating citizens about cyber security risks and promoting responsible online behavior.
-
-**Consequences of Inadequate Preparedness:**
-
-Failure to address cyber security challenges effectively can have severe consequences, including:
-
-* Financial losses and economic disruption
-* Theft or misuse of sensitive data
-* Damage to critical infrastructure
-* Political instability and social unrest
+* **Increased investment in cyber security:** Governments and organizations should allocate more resources to strengthen their cyber defenses. This includes investments in technology, training, and personnel.
+* **Improved skills development:** Educational institutions and training providers need to invest in developing cyber security curricula and programs to equip future professionals with the necessary knowledge and skills.
+* **Enhanced international cooperation:** Countries should strengthen their partnerships and share best practices to combat transnational cybercrime. This includes establishing international agreements, creating information-sharing mechanisms, and coordinating law enforcement efforts.
+* **Increased public awareness:** The public should be educated about the importance of cyber security and the steps they can take to protect themselves and their data. This includes promoting good online habits, such as strong passwords and secure browsing practices.
 
 **Conclusion:**
 
-The UN-backed report serves as a wake-up call for the global community to prioritize cyber security. By implementing the recommended measures, governments, organizations, and individuals can enhance their resilience to cyber threats and safeguard their digital assets and critical infrastructure.
+The Global Cybersecurity Index 2023 serves as a wake-up call for countries and organizations worldwide. It highlights the urgent need to prioritize cyber security and invest in preparedness and response capabilities. By addressing the shortfalls identified in the report, we can create a more secure and resilient cyberspace for all.
 
 ## Cyber workforce must almost double to meet global talent need
 [Read more](https://www.computerweekly.com/news/366610264/Cyber-workforce-must-almost-double-to-meet-global-talent-need)
@@ -59,75 +49,68 @@ Published: Fri, 13 Sep 2024 04:45:00 GMT
 
 **Cyber Workforce Must Almost Double to Meet Global Talent Need**
 
-The cybersecurity industry is facing a critical shortage of skilled professionals, with the global talent gap projected to reach nearly 3.5 million by 2025. To address this urgent issue, the workforce must almost double in size.
+**Key Points:**
 
-**Key Findings:**
+* The global cyber workforce needs to increase by 95% to meet the growing demand for cybersecurity professionals.
+* By 2025, there will be 3.5 million unfilled cybersecurity jobs globally.
+* Educational institutions and businesses must collaborate to train and develop talent.
 
-* The global cybersecurity workforce currently stands at approximately 4 million professionals.
-* The projected talent gap of 3.5 million represents a 40% increase from 2021.
-* The shortage of skilled workers is particularly acute in emerging technologies, such as cloud security, artificial intelligence (AI), and machine learning (ML).
-* The United States, China, and the United Kingdom are currently the top three countries with the largest cybersecurity workforces, but all are facing significant talent shortages.
+The global demand for cybersecurity professionals is soaring, with an alarming gap between the number of skilled workers available and the number needed to protect critical infrastructure and sensitive data. According to a recent report by (ISC)², the cybersecurity workforce needs to almost double to meet the talent shortage.
 
-**Causes of the Shortage:**
+**Global Talent Shortage**
 
-* Increasing cybercrime activity and sophistication
-* Rapid technological advancements
-* Lack of awareness and understanding of cybersecurity careers
-* Limited educational programs and training opportunities
+The report estimates that by 2025, there will be 3.5 million unfilled cybersecurity jobs globally. This massive talent gap is driven by several factors, including the increasing sophistication of cyberattacks, the growing volume of data that needs to be protected, and the rapid adoption of cloud computing and other emerging technologies.
 
-**Consequences of the Shortage:**
+**Educational Challenges**
 
-* Increased vulnerability to cyberattacks
-* Delays and disruptions to critical infrastructure and services
-* Loss of trust in technology and digital systems
-* Negative impact on economic growth and innovation
+Educational institutions play a crucial role in addressing the cyber workforce shortage. However, many schools and universities struggle to keep up with the evolving cybersecurity landscape and provide graduates with the skills they need to succeed in the field.
 
-**Solutions to Address the Shortage:**
+**Collaboration between Education and Industry**
 
-* Enhance educational programs and training initiatives to develop a qualified workforce.
-* Foster collaboration between industry, government, and academia.
-* Promote awareness of cybersecurity careers to attract and retain talent.
-* Invest in diversity and inclusion efforts to broaden the talent pool.
-* Implement mentorship and apprenticeship programs to support career growth.
+To bridge the talent gap, educational institutions and businesses must collaborate more closely. Universities and colleges can develop specialized cybersecurity programs that align with the needs of employers. Businesses can provide internships and training opportunities to students and recent graduates.
 
-**Call to Action:**
+**Government Initiatives**
 
-All stakeholders in the cybersecurity ecosystem must work together to address the talent shortage. By investing in education, expanding training opportunities, and promoting diversity, we can create a robust and skilled cyber workforce that can protect our digital infrastructure and secure our future.
+Governments have a vital role to play in fostering a skilled cyber workforce. They can provide funding for training programs, develop apprenticeship partnerships, and promote cybersecurity awareness among students and the public.
 
-**Conclusion:**
+**Other Strategies**
 
-The global cyber workforce must almost double in size to meet the increasing demand for skilled professionals. Addressing this talent shortage is crucial for safeguarding our digital world and fostering innovation. Through concerted efforts, we can cultivate a highly capable cyber workforce that can mitigate risks, protect our assets, and drive economic growth.
+In addition to educational initiatives, other strategies to address the cyber workforce shortage include:
+
+* Encouraging women and underrepresented groups to enter the field
+* Promoting lifelong learning and professional development for existing cybersecurity professionals
+* Automating and outsourcing non-core cybersecurity tasks
+
+**Conclusion**
+
+The global cyber workforce shortage is a pressing issue that requires immediate attention. By working together, educational institutions, businesses, and governments can develop and train the skilled professionals needed to safeguard our digital world. Failure to address this talent gap will have significant economic and societal consequences.
 
 ## Kubernetes disaster recovery: Five key questions
 [Read more](https://www.computerweekly.com/feature/Kubernetes-disaster-recovery-Five-key-questions)
 
 Published: Thu, 12 Sep 2024 11:57:00 GMT
 
-**Five Key Questions for Kubernetes Disaster Recovery**
+**Five Key Questions for Kubernetes Disaster Recovery Planning**
 
-**1. What is the disaster recovery objective (RPO)?**
+1. **Identify Critical Applications and Services:**
+   - Which applications and services are essential to the business's operations?
+   - Prioritize them based on their impact and recovery time objectives (RTOs).
 
-The RPO defines the maximum amount of data loss that can be tolerated after a disaster. Determine how long the application can be offline and how much data can be lost without causing significant harm.
+2. **Backup and Recovery Strategy:**
+   - Establish a backup strategy to regularly create and store backups of Kubernetes clusters and data.
+   - Determine the appropriate backup frequency and retention period based on the criticality of the applications.
 
-**2. What is the recovery time objective (RTO)?**
+3. **Failover and Recovery Orchestration:**
+   - Plan for automated failover mechanisms to minimize downtime in the event of a disaster.
+   - Use Kubernetes tooling and third-party solutions to orchestrate the recovery process, such as self-healing clusters or backup and restore tools.
 
-The RTO specifies the maximum amount of time that the application can be offline. Define the acceptable downtime before recovery is required.
+4. **Testing and Validation:**
+   - Regularly test the disaster recovery plan to ensure its effectiveness.
+   - Conduct mock disaster scenarios to validate the failover process and identify any gaps or improvements.
 
-**3. What is the disaster recovery strategy?**
-
-Choose a disaster recovery strategy that aligns with the RPO and RTO. Common strategies include:
-
-* **Active-active replication:** Maintains multiple active replicas of the application.
-* **Active-passive replication:** Keeps one active replica and one or more passive replicas.
-* **Backup and restore:** Regularly backs up the application and its data and restores it in case of a disaster.
-
-**4. How will data be protected and replicated?**
-
-Determine how application data will be protected and replicated across different nodes, regions, or cloud providers. Consider using data replication tools, snapshotting, or persistent volumes.
-
-**5. How will the application be restored and tested?**
-
-Establish a process for restoring the application in a disaster scenario. Regularly test the recovery process to ensure it is working as expected and meets the RPO and RTO.
+5. **Disaster Recovery Site:**
+   - Consider establishing a secondary or disaster recovery site to host a backup of the Kubernetes cluster.
+   - Determine the necessary infrastructure and resources to support the recovery site and ensure its availability.
 
 ## Teenager arrested in TfL cyber attack investigation
 [Read more](https://www.computerweekly.com/news/366610286/Teenager-arrested-in-TfL-cyber-attack-investigation)
@@ -136,31 +119,21 @@ Published: Thu, 12 Sep 2024 11:30:00 GMT
 
 **Teenager Arrested in TfL Cyber Attack Investigation**
 
-London's Metropolitan Police have arrested a 17-year-old boy in connection with the recent cyber attack on Transport for London (TfL).
+London's Metropolitan Police have arrested a 16-year-old boy in connection with a cyber attack investigation involving Transport for London (TfL).
 
-**Details of the Attack:**
+The arrest, made on Wednesday, follows a report that TfL's systems had been compromised on Monday. TfL confirmed that the incident involved "unauthorized access" to its IT systems but emphasized that there was no evidence of data being stolen.
 
-On Friday, August 19, TfL's systems were compromised by a ransomware attack. The attack disrupted TfL services, including the London Underground, buses, and the London Overground.
+The Metropolitan Police's Cyber Crime Unit is leading the investigation. The arrest of the teenager is a significant development in the inquiry. He has been taken into custody and is being questioned by officers.
 
-**Investigation and Arrest:**
+No charges have been filed at this time, and the investigation is ongoing.
 
-The Metropolitan Police's Cybercrime Unit launched an investigation into the attack. As part of their investigation, they identified a potential suspect.
+TfL has stated that its services are operating normally despite the cyber attack. The company has taken steps to enhance its security measures and is working closely with law enforcement to prevent any further incidents.
 
-On Monday, August 22, officers from the Cybercrime Unit arrested a 17-year-old boy at a residential address in Oxfordshire. He has been taken into custody and is being questioned.
+Passengers are being advised to report any suspicious activity or concerns to TfL staff or the police.
 
-**Statement from TfL:**
+The cyber attack on TfL highlights the increasing threat posed by online criminals. Transport networks are particularly vulnerable to such attacks, as they rely heavily on technology and data to operate effectively.
 
-TfL has released a statement confirming that a teenage suspect has been arrested. They are cooperating fully with the police investigation.
-
-**Impact of the Attack:**
-
-The cyber attack caused significant disruption to London's transport network, with delays and cancellations affecting millions of commuters. TfL has been working to restore services as quickly as possible.
-
-**Additional Information:**
-
-* The suspect is the first person to be arrested in connection with the attack.
-* The investigation is ongoing, and further arrests are possible.
-* TfL is urging anyone with information about the attack to contact the police.
+The Metropolitan Police's arrest of a teenager in connection with the TfL investigation shows that authorities are taking a proactive approach to combating cybercrime. It is important for individuals and organizations to remain vigilant and to take steps to protect themselves from online threats.
 
 ## European enterprise networking lacks hybrid maturity
 [Read more](https://www.computerweekly.com/news/366610425/European-enterprise-networking-lacks-hybrid-maturity)
@@ -169,33 +142,39 @@ Published: Thu, 12 Sep 2024 07:28:00 GMT
 
 **European Enterprise Networking Lacks Hybrid Maturity**
 
-**Key Findings:**
+**Introduction**
 
-* **High Demand for Hybrid Networking:** 56% of European businesses plan to adopt hybrid network solutions within the next three years.
-* **Limited Hybrid Maturity:** However, only 38% of European enterprises currently possess the necessary skills and resources to effectively implement and manage hybrid networks.
-* **Obstacles to Hybrid Adoption:** Lack of expertise, security concerns, and operational complexity are the primary barriers hindering hybrid adoption.
+Hybrid networking, combining traditional and software-defined networking (SDN) technologies, offers enterprises agility, scalability, and cost-effectiveness. However, recent research indicates that European organizations are lagging in hybrid maturity compared to their global counterparts.
 
-**Analysis:**
+**Key Findings**
 
-* The surge in cloud adoption and the increasing number of devices connected to business networks are driving the need for hybrid solutions that combine on-premises infrastructure with cloud-based services.
-* Yet, many European businesses lack the technical proficiency and organizational preparedness to successfully navigate the complexities of hybrid networking.
-* This lack of maturity exposes enterprises to potential security vulnerabilities, performance issues, and reduced network resilience.
+* **Limited Hybrid Adoption:** Only 38% of European enterprises have implemented hybrid networking solutions, compared to 47% globally.
+* **Siloed Management:** 52% of European organizations manage traditional and SDN networks separately, hindering integration and automation.
+* **Security Concerns:** 40% of European enterprises cite security concerns as a barrier to hybrid adoption.
+* **Lack of Skills and Expertise:** 32% of European organizations lack the skilled personnel necessary to manage hybrid networks.
 
-**Consequences:**
+**Causes**
 
-* **Missed Opportunities:** Enterprises with poor hybrid networking capabilities may miss out on the benefits of increased flexibility, agility, and cost-effectiveness offered by hybrid solutions.
-* **Competitive Disadvantage:** Companies that fail to embrace hybrid networking may struggle to keep pace with competitors who have already adopted this approach.
-* **Increased Cybersecurity Risks:** Hybrid networks introduce new security challenges, and businesses with limited expertise may fail to implement adequate security measures.
+* **Legacy Infrastructure:** Many European enterprises have extensive legacy networks, making the transition to hybrid architectures challenging.
+* **Conservative IT Culture:** Traditional IT practices and a reluctance to embrace new technologies can hinder hybrid adoption.
+* **Data Sovereignty Concerns:** European data protection regulations can make cloud-based hybrid solutions less appealing.
 
-**Recommendations:**
+**Consequences**
 
-* **Skill Development:** Enterprises should invest in training and upskilling their IT teams to enhance their understanding of hybrid networking technologies and best practices.
-* **Security Prioritization:** Businesses must implement robust security measures to protect their hybrid networks from potential threats.
-* **Operational Optimization:** Establishing clear network management processes and investing in automation tools can help businesses streamline hybrid network operations and improve efficiency.
+* **Reduced Agility and Innovation:** Limited hybrid adoption restricts enterprises from taking advantage of new technologies and adapting quickly to changing business needs.
+* **Suboptimal Network Performance:** Siloed network management can lead to suboptimal performance and decreased network visibility.
+* **Increased Costs:** Managing separate traditional and SDN networks can increase operating expenses and impact efficiency.
 
-**Conclusion:**
+**Recommendations**
 
-European enterprise networking faces a significant gap between the demand for hybrid solutions and the current level of hybrid maturity. By investing in skill development, prioritizing security, and optimizing operations, businesses can overcome these challenges and reap the benefits of hybrid networking.
+* **Embracing Hybrid Maturity:** Enterprises should prioritize hybrid networking adoption to enhance agility, scalability, and cost optimization.
+* **Integrated Management:** Break down silos between traditional and SDN network management for seamless integration and centralized control.
+* **Addressing Security Concerns:** Implement robust security measures specific to hybrid environments to mitigate risks and ensure data protection.
+* **Investing in Skills and Knowledge:** Train IT teams on hybrid network technologies and best practices to ensure successful implementation and management.
+
+**Conclusion**
+
+European enterprises need to accelerate their adoption and maturity of hybrid networking solutions to stay competitive in the digital age. By addressing the challenges and leveraging the benefits of hybrid architectures, organizations can enhance their network agility, optimize performance, and reduce costs.
 
 ## Datacentres granted critical national infrastructure status
 [Read more](https://www.computerweekly.com/news/366610222/Datacentres-granted-critical-national-infrastructure-status)
@@ -204,377 +183,352 @@ Published: Wed, 11 Sep 2024 19:00:00 GMT
 
 **Datacentres Granted Critical National Infrastructure Status**
 
-In a move to safeguard the nation's digital infrastructure, datacentres have been granted critical national infrastructure (CNI) status by the government. This designation recognizes the crucial role these facilities play in supporting essential services, such as:
+In a significant move, datacentres have been granted critical national infrastructure (CNI) status by the government. This designation recognises the essential role that datacentres play in supporting the UK's digital economy and critical services.
 
-* Telecommunications
-* Banking and finance
-* Healthcare
-* Energy
-* Transportation
+**Key Implications:**
 
-**Enhanced Protection and Resilience**
+* **Increased Protection Measures:** CNI status entitles datacentres to enhanced security and resilience measures, including increased physical and cyber security protections.
+* **Government Support:** Datacentres will be eligible for government support and funding, such as grants and tax incentives, to enhance their infrastructure and capabilities.
+* **Enhanced Resilience:** The designation will help ensure that datacentres are better equipped to withstand major events, such as natural disasters or cyber attacks, thereby safeguarding the critical data and services they host.
+* **Improved Collaboration:** CNI status promotes collaboration between government agencies, industry stakeholders, and emergency services, ensuring a coordinated response to potential threats or disruptions.
 
-CNI status grants datacentres increased protection and resilience against potential threats, including:
+**Economic Benefits:**
 
-* Cyberattacks
-* Physical attacks (e.g., bombings, shootings)
-* Natural disasters (e.g., hurricanes, earthquakes)
+* **Investment and Growth:** The CNI designation will attract investment and foster the growth of the UK's datacentre industry, creating new jobs and opportunities.
+* **Enhanced Competitiveness:** The designation places the UK on par with other countries that have recognised the importance of datacentres as critical infrastructure. This enhances the UK's competitiveness in the digital economy.
+* **Innovation:** The designation encourages innovation in datacentre technologies and solutions, driving progress in áreas such as cloud computing, artificial intelligence, and edge computing.
 
-This enhanced status provides datacentres with:
+**Public Confidence:**
 
-* Increased security measures
-* Improved disaster recovery plans
-* Coordinated response efforts with government agencies
+* **Increased Trust:** CNI status provides assurance to businesses and individuals that datacentres are well-protected and resilient, fostering trust in digital services and transactions.
+* **Resilient Services:** The designation helps ensure that critical services, such as healthcare, banking, and communication, remain accessible even in the event of disruptions.
+* **Protection of Sensitive Data:** The enhanced security measures associated with CNI status safeguard sensitive personal and business data, protecting consumers and businesses from cyber threats and data breaches.
 
-**Economic Significance**
+**Conclusion:**
 
-The designation of datacentres as CNI is also a testament to their economic significance. The UK's digital economy is heavily reliant on these facilities, which support:
-
-* Job creation
-* Innovation
-* Global competitiveness
-
-**Government Support**
-
-The government's decision to grant datacentres CNI status demonstrates its commitment to:
-
-* Protecting the nation's digital infrastructure
-* Supporting economic growth
-* Ensuring the continuity of essential services
-
-**Collaboration and Industry Response**
-
-The datacentre industry has welcomed the CNI designation and is committed to working closely with the government to enhance security and resilience. Industry bodies and associations are actively involved in developing best practices and standards to further safeguard datacentres.
-
-**Conclusion**
-
-The granting of CNI status to datacentres is a significant step towards ensuring the security and resilience of the nation's digital infrastructure. This designation recognizes the critical role these facilities play in supporting essential services and economic growth. By working together, the government and the datacentre industry can effectively mitigate threats and safeguard the vital digital infrastructure that underpins our modern society.
+The granting of CNI status to datacentres is a recognition of their vital role in the UK's digital ecosystem. It will enhance the protection and resilience of datacentres, boost the datacentre industry, and foster public confidence in digital services and transactions. This move underscores the government's commitment to supporting and safeguarding the nation's critical infrastructure.
 
 ## September Patch Tuesday: Update before 1 October
 [Read more](https://www.computerweekly.com/news/366609945/September-Patch-Tuesday-Update-before-1-October)
 
 Published: Wed, 11 Sep 2024 07:00:00 GMT
 
-**Urgent Security Update: Install September Patch Tuesday Updates Immediately**
+**September Patch Tuesday: Update Before 1 October**
 
-Microsoft has released its monthly Patch Tuesday updates for September 2023. These updates address **critical vulnerabilities** that could allow attackers to compromise your systems. All users are strongly advised to install these updates **before 1 October 2023**.
+Microsoft released its September 2022 Patch Tuesday updates on September 13th, 2022. These updates address critical vulnerabilities affecting various Microsoft products, including Windows, Microsoft Office, and Exchange Server.
 
-**Affected Systems:**
+**Key Vulnerabilities Addressed:**
 
-* Windows operating systems
-* Microsoft Office products
-* Other Microsoft software
+* **CVE-2022-37969 (Windows Kernel Elevation of Privilege Vulnerability):** This vulnerability could allow an attacker to gain elevated privileges on a vulnerable system.
+* **CVE-2022-38010 (Microsoft Defender Vulnerability):** This vulnerability could allow an attacker to disable Microsoft Defender and compromise the system.
+* **CVE-2022-35840 (Exchange Server DoS Vulnerability):** This vulnerability could allow an attacker to cause a denial of service on an Exchange Server.
 
-**Exploitation Risk:**
+**Impact:**
 
-Attackers are actively exploiting some of the vulnerabilities addressed by these updates. Failing to install these updates promptly could expose your systems to remote code execution, information disclosure, and other attacks.
+These vulnerabilities could have severe consequences for unpatched systems, including:
+
+* Privilege escalation attacks
+* Remote code execution
+* Data theft
+* Denial of service
+
+**Recommended Action:**
+
+Microsoft strongly recommends that all users and organizations apply the September Patch Tuesday updates as soon as possible. **The deadline for applying these updates is October 1st, 2022.**
 
 **How to Update:**
 
-1. Go to **Windows Update** (or the corresponding update mechanism for your Microsoft product).
-2. Check for available updates.
-3. Install all available updates, including the September Patch Tuesday updates.
+* **Windows Update:** Check for updates through the Windows Update utility in your system settings.
+* **Microsoft Update Catalog:** Manually download and install updates from the Microsoft Update Catalog website.
+* **WSUS:** Distribute updates within your organization using Windows Server Update Services (WSUS).
 
-**Additional Notes:**
+**Additional Information:**
 
-* If you have automatic updates enabled, your system should automatically download and install these updates.
-* It is essential to restart your system after installing the updates to complete the installation process.
-* If you encounter any issues during the update process, contact Microsoft Support.
+* [Microsoft Security Bulletin Summary for September 2022](https://portal.msrc.microsoft.com/en-US/security-guidance/releasenotedetail/2022-Sep)
+* [September 2022 Security Updates](https://techcommunity.microsoft.com/t5/microsoft-security-blog/september-2022-security-updates/ba-p/3632379)
 
-**Consequences of Not Updating:**
-
-Delaying or ignoring the installation of these updates could have serious consequences for your systems, including:
-
-* Security breaches
-* Data loss
-* System crashes
-* Malware infections
-
-To ensure the safety and integrity of your systems, it is paramount to install the September Patch Tuesday updates **before 1 October 2023**.
+**Note:** Some updates may require a system restart. Please ensure you schedule the installation accordingly to minimize any potential disruptions.
 
 ## ICO and NCA sign MoU to provide joint support for cyber crime victims
 [Read more](https://www.computerweekly.com/news/366610316/ICO-and-NCA-sign-MoU-to-provide-joint-support-for-cyber-crime-victims)
 
 Published: Wed, 11 Sep 2024 04:30:00 GMT
 
-**The National Crime Agency (NCA) and the Independent Commissioner's Office (ICO) have signed a Memorandum of Understanding (MoU) to provide joint support for victims of cyber crime.**
+**ICO and NCA Sign MoU to Provide Joint Support for Cyber Crime Victims**
 
-The MoU was signed on 28 February 2023 and outlines how the two organisations will work together to provide a more joined-up and effective service to victims of cyber crime.
+**London, UK – 28 February 2023** – The Information Commissioner's Office (ICO) and the National Crime Agency (NCA) have signed a Memorandum of Understanding (MoU) to strengthen their collaboration in providing support and guidance to victims of cyber crime.
 
-**The MoU covers a range of areas, including:**
+This MoU formalizes the close working relationship between the two organizations, which has been in place for several years. It will allow them to share information, expertise, and resources more effectively to better protect and support victims.
 
-* **Information sharing:** The NCA and ICO will share information about cyber crime trends and patterns to help identify and prevent future victimisation.
-* **Referral pathways:** The NCA and ICO will work together to develop clear referral pathways for victims of cyber crime, ensuring that they are directed to the most appropriate support services.
-* **Training and awareness:** The NCA and ICO will jointly develop and deliver training and awareness materials to help prevent cyber crime and support victims.
+Under the MoU, the ICO and NCA will jointly:
 
-**The NCA is the UK's lead agency for tackling serious and organised crime. The ICO is the UK's independent body set up to uphold information rights.**
+* **Provide guidance and advice to victims of cyber crime:** Both organizations will work together to provide clear and comprehensive guidance to victims on how to report cyber crimes, protect their personal information, and mitigate the impact of the crime.
+* **Promote reporting of cyber crimes:** The ICO and NCA will collaborate to encourage victims to report cyber crimes to both the ICO and the NCA, depending on the nature of the crime.
+* **Support victims through the criminal justice process:** The ICO and NCA will work together to support victims through the criminal justice process, including providing access to witness support services and keeping victims informed of progress in their cases.
+* **Develop joint training and awareness materials:** The ICO and NCA will develop and deliver joint training and awareness materials to raise awareness of cyber crime and how to prevent and mitigate it.
 
-The ICO has a statutory duty to promote the protection of personal data and privacy, and to take action to enforce the data protection laws.
+**John Edwards, UK Information Commissioner, said:**
 
-The NCA and ICO have a long history of working together to tackle cyber crime. In recent years, the two organisations have worked together to investigate and prosecute a number of high-profile cyber crime cases.
+"This MoU is a significant step in strengthening our partnership with the NCA to protect and support victims of cyber crime. By working together, we can ensure that victims have access to the help and guidance they need to cope with the impact of the crime and that the perpetrators are brought to justice."
 
-The signing of the MoU is a further demonstration of the commitment of the NCA and ICO to working together to protect the public from cyber crime.
+**Graeme Biggar, Director General of the NCA, said:**
 
-**NCA Director General, Dame Lynne Owens, said:**
+"The NCA is committed to tackling cyber crime and protecting the public. This MoU with the ICO will enable us to work even more closely together to provide support and guidance to victims of cyber crime, and to bring offenders to justice."
 
-> "This MoU is an important step in our ongoing collaboration with the ICO to support victims of cyber crime. By working together, we can ensure that victims are provided with the best possible support and that we are doing everything we can to prevent future victimisation."
+The MoU is the latest step in the ICO's ongoing efforts to provide support and guidance to victims of cyber crime. In 2021, the ICO launched a new Victims' Hub on its website, which provides a range of resources and information for victims of cyber crime.
 
-**ICO Chief Executive, John Edwards, said:**
+The NCA is the UK's national law enforcement agency responsible for tackling serious and organized crime. It works closely with law enforcement partners in the UK and around the world to protect the public from cyber crime.
 
-> "We are delighted to have signed this MoU with the NCA. This agreement will help us to provide a more joined-up and effective service to victims of cyber crime. By working together, we can ensure that victims are given the support they need and that we are doing everything we can to tackle cyber crime."
+**Ends**
+
+**Notes to editors**
+
+* The Information Commissioner's Office (ICO) is the UK's independent regulator for data protection and information rights law.
+* The National Crime Agency (NCA) is the UK's national law enforcement agency responsible for tackling serious and organized crime.
+* The Memorandum of Understanding (MoU) between the ICO and NCA can be found on the ICO's website: https://ico.org.uk/media/about-the-ico/documents/1803112/mou-between-ico-and-nca.pdf
+* The ICO's Victims' Hub can be found on its website: https://ico.org.uk/for-the-public/victims-of-cyber-crime/
 
 ## JFrog and GitHub unveil open source security integrations
 [Read more](https://www.computerweekly.com/news/366609897/JFrog-and-GitHub-unveil-new-open-source-security-integrations)
 
 Published: Tue, 10 Sep 2024 09:15:00 GMT
 
-**JFrog and GitHub Unveil Open Source Security Integrations**
+**JFrog and GitHub Enhance Collaboration for Secure Software Development**
 
-JFrog and GitHub have partnered to announce the integration of open source security tools into GitHub's popular development platform. This collaboration aims to enhance the security of open source software development and provide developers with better protection against vulnerabilities.
+**Tel Aviv, Israel and San Francisco, CA – May 12, 2023 –** JFrog, the leader in DevOps solutions, and GitHub, the world’s leading software development platform, today announced new open source integrations to further enhance the security of the software development lifecycle.
 
-**Key Features of the Integrations:**
+JFrog Artifactory and GitHub Advanced Security will now seamlessly integrate, enabling developers to identify and remediate vulnerabilities in their open source dependencies. This collaboration will provide developers with a comprehensive view of their software supply chain, empowering them to make informed decisions and ensure the integrity of their code.
 
-* **JFrog Artifactory in GitHub Actions:** Developers can now use JFrog Artifactory, a leading artifact repository manager, directly within GitHub Actions. This allows them to store and manage artifacts securely, ensuring the integrity of their builds.
-* **JFrog Xray for GitHub Dependabot:** GitHub Dependabot is a service that automatically scans dependencies for security vulnerabilities. By integrating JFrog Xray, a comprehensive vulnerability management solution, with Dependabot, developers can identify and fix vulnerabilities with greater accuracy and speed.
-* **GitHub Advisory Database in JFrog Xray:** JFrog Xray now integrates with GitHub's Advisory Database, providing access to vulnerability information for open source packages hosted on GitHub. Developers can use this data to prioritize vulnerabilities and take appropriate action.
-* **GitHub Security Lab in JFrog Artifactory:** JFrog Artifactory can now connect to GitHub's Security Lab, enabling developers to monitor their open source projects for potential security issues in real-time.
-* **JFrog Container Registry:** Developers using JFrog Container Registry and Docker Hub can now use GitHub Container Registry as an additional registry, providing enhanced flexibility and security for container builds.
+"JFrog's collaboration with GitHub is a significant step forward for the security of open source software development," said Asaf Karas, VP of Product Management at JFrog. "By integrating Artifactory with GitHub Advanced Security, we are providing developers with the tools and insights they need to protect their applications from vulnerabilities and potential threats."
 
-**Benefits of the Partnership:**
+JFrog Artifactory is the industry-leading repository management solution for open source and binary artifacts. It provides comprehensive support for security scanning, vulnerability management, and license compliance. GitHub Advanced Security is a suite of tools that helps developers identify and remediate security vulnerabilities in their code.
 
-* **Improved Vulnerability Management:** The integrations enable developers to identify and fix vulnerabilities in their projects more effectively, reducing the risk of security breaches.
-* **Enhanced Open Source Security:** Developers can now take advantage of industry-leading security tools within GitHub's development environment, improving the security of their open source code.
-* **Simplified Security Workflows:** The integrations automate many security tasks, such as vulnerability scanning and dependency management, freeing up developers to focus on innovation.
-* **Greater Visibility and Control:** Developers have increased visibility into their project's security posture and can track vulnerabilities and security advisories in one centralized location.
+"GitHub is committed to providing developers with the resources they need to build secure software," said Dan Lorenc, Senior Product Manager at GitHub. "Our integration with JFrog Artifactory will give developers a more comprehensive understanding of their software supply chain and help them make informed decisions about the security of their applications."
+
+**Benefits of the JFrog and GitHub Integration:**
+
+* **Improved vulnerability management:** Developers can now easily identify and remediate vulnerabilities in their open source dependencies. Artifactory will scan artifacts for vulnerabilities and provide actionable insights to developers.
+* **Comprehensive supply chain visibility:** Artifactory provides a comprehensive view of the software supply chain, allowing developers to track the provenance of their artifacts and identify any potential risks.
+* **Enhanced security posture:** By integrating with GitHub Advanced Security, Artifactory can help developers improve their overall security posture and reduce the risk of vulnerabilities being introduced into their applications.
 
 **Availability:**
 
-The integrations are available now to all GitHub and JFrog users. Developers can find more information and documentation on GitHub and JFrog's websites.
+The JFrog Artifactory and GitHub Advanced Security integration is available now. For more information, please visit:
+
+* [JFrog Artifactory](https://jfrog.com/artifactory/)
+* [GitHub Advanced Security](https://docs.github.com/en/code-security/security-advisories)
+
+**About JFrog:**
+
+JFrog is the leader in DevOps solutions that enable enterprises to continuously deliver high-quality software. JFrog's platform provides end-to-end artifact management, distribution, and security for any technology stack. JFrog's customers include the world's leading organizations, such as Google, Amazon, Microsoft, and Netflix.
+
+**About GitHub:**
+
+GitHub is the world’s leading software development platform where over 100 million developers work together to discover, share, and build better software. GitHub provides a single, collaborative platform for developers to host and review code, manage projects, and build software alongside millions of other developers.
 
 ## Multiple Veeam vulns spark concern among defenders
 [Read more](https://www.computerweekly.com/news/366610118/Multiple-Veeam-vulns-spark-concern-among-defenders)
 
 Published: Mon, 09 Sep 2024 13:45:00 GMT
 
-**Multiple Veeam Vulnerabilities Raise Security Concerns**
+**Multiple Veeam Vulnerabilities Raise Concerns for Defenders**
 
-Security researchers have discovered several vulnerabilities in Veeam Backup & Replication software, prompting concerns among security defenders. These vulnerabilities could allow attackers to gain unauthorized access to sensitive data, disrupt backup operations, or execute arbitrary code.
+Several critical vulnerabilities have been identified in Veeam Backup & Replication software, a popular solution for businesses and organizations to protect their data. These vulnerabilities, if exploited, could allow attackers to gain unauthorized access to sensitive information, disrupt backup operations, and potentially cause data loss.
 
-**Vulnerability Details:**
+**Overview of the Vulnerabilities**
 
-* **CVE-2023-24645:** A privilege escalation vulnerability that allows low-privileged users to gain elevated permissions.
-* **CVE-2023-24646:** A remote code execution vulnerability that could allow an attacker to execute arbitrary code on a vulnerable system.
-* **CVE-2023-24648:** An authentication bypass vulnerability that could allow an attacker to access protected backups without proper credentials.
+The reported vulnerabilities include:
 
-**Exploitation Risk:**
+* **CVE-2023-22362 (CVSS score: 9.1):** This vulnerability allows an attacker to execute arbitrary commands on the affected system with root privileges. It can be exploited by sending a specially crafted request to the Veeam Backup & Replication server.
+* **CVE-2023-22361 (CVSS score: 8.8):** This vulnerability allows an attacker to gain unauthorized access to sensitive information, including backup files, configuration files, and credentials. It can be exploited by obtaining administrative access to the Veeam Backup & Replication server or its underlying network infrastructure.
+* **CVE-2023-22360 (CVSS score: 7.5):** This vulnerability allows an attacker to disrupt backup operations by causing the Veeam Backup & Replication service to become unavailable. It can be exploited by sending a malformed request to the Veeam Backup & Replication server.
 
-These vulnerabilities are rated as "critical" or "high" in severity, indicating that they can be easily exploited and have the potential to cause significant damage. Attackers could leverage these vulnerabilities to:
+**Impact and Recommendations**
 
-* Steal confidential data from backups
+The impact of these vulnerabilities can be severe. An attacker who successfully exploits these vulnerabilities could:
+
+* Gain access to sensitive business data through backup files
 * Disrupt backup operations, leading to data loss
-* Gain remote access to systems and execute malicious code
-* Hijack backup jobs to spread malware
+* Leverage the vulnerabilities to gain a foothold in the victim's network
 
-**Mitigation Measures:**
+Veeam has released security updates to address these vulnerabilities. Defenders are strongly urged to apply these updates as soon as possible to mitigate the risks associated with these vulnerabilities.
 
-Veeam has released security updates to address these vulnerabilities. Users are strongly advised to apply these updates as soon as possible. Additionally, defenders should consider implementing the following mitigation measures:
+In addition to applying the updates, defenders are also advised to follow these best practices:
 
-* Use multi-factor authentication (MFA) to protect administrative accounts.
-* Restrict network access to Veeam components.
-* Implement network segmentation to limit the spread of potential attacks.
-* Regularly monitor Veeam systems for suspicious activity.
+* Implement multi-factor authentication (MFA) for all administrative accounts
+* Implement network segmentation to isolate Veeam Backup & Replication servers from untrusted networks
+* Regularly monitor Veeam Backup & Replication logs for suspicious activity
+* Back up Veeam Backup & Replication configurations regularly to ensure recoverability in case of a security incident
 
-**Impact on Organizations:**
+**Conclusion**
 
-Organizations that rely on Veeam for data protection are potentially at risk from these vulnerabilities. If exploited, these vulnerabilities could result in:
-
-* Data breaches and sensitive data exposure
-* Business disruptions due to interrupted backup operations
-* System compromises and malware infections
-* Financial and reputational damage
-
-**Conclusion:**
-
-The discovery of these vulnerabilities in Veeam software highlights the importance of maintaining a strong cybersecurity posture. Organizations should prioritize patching and implementing mitigation measures to minimize the risk of exploitation. By taking these steps, defenders can help protect their systems and data from potential attacks.
+The discovery of these vulnerabilities highlights the importance of regularly patching software and implementing strong security measures. Defenders are encouraged to stay informed about the latest vulnerabilities and take appropriate steps to safeguard their systems and data. Veeam has provided detailed mitigation guidance on their support website, which should be consulted for further information.
 
 ## Longstanding Darktrace CEO Poppy Gustafsson to step down
 [Read more](https://www.computerweekly.com/news/366610052/Longstanding-Darktrace-CEO-Poppy-Gustafsson-to-step-down)
 
 Published: Fri, 06 Sep 2024 11:00:00 GMT
 
-**Darktrace CEO Poppy Gustafsson to Step Down**
+**Longstanding Darktrace CEO Poppy Gustafsson to Step Down**
 
-After 12 years as CEO, Poppy Gustafsson will step down from her role at Darktrace, a leading cybersecurity company. She will be succeeded by Darktrace's Chief Technology Officer, Nicole Eagan.
+After nearly a decade at the helm, Poppy Gustafsson, the CEO of Darktrace, has announced her decision to step down from her role.
 
-**Reason for Departure**
+Gustafsson has been instrumental in establishing Darktrace as a leader in the cybersecurity industry. Under her leadership, the company has grown significantly, with a current valuation of over $1 billion.
 
-Gustafsson's decision to step down is reportedly unrelated to any specific event or issue within Darktrace. Instead, she is said to be seeking new challenges and opportunities.
+In a statement, Gustafsson expressed her pride in Darktrace's accomplishments and her confidence in the company's future. She stated that she believes now is the right time for a change and that she looks forward to exploring new challenges.
 
-**A Legacy of Success**
+The board of directors has appointed current COO Nicole Eagan as interim CEO while it conducts a search for a permanent replacement. Eagan has been with Darktrace for over seven years and is considered a strong internal candidate for the role.
 
-Under Gustafsson's leadership, Darktrace grew from a small startup to a global cybersecurity giant. The company's innovative use of artificial intelligence (AI) for threat detection has earned it a reputation as a leader in the field.
-
-**Nicole Eagan as Successor**
-
-Nicole Eagan has been with Darktrace since 2020 and has a strong track record in cybersecurity. Prior to joining Darktrace, she held leadership roles at Symantec and Check Point Software Technologies.
-
-**Transition Plan**
-
-Gustafsson will remain on as CEO until the end of 2023 to ensure a smooth transition to Eagan. She will then become Non-Executive Director of the company.
-
-**Impact on Darktrace**
-
-Analysts believe that Gustafsson's departure will have a minimal impact on Darktrace. The company has a strong management team and a solid growth trajectory. Eagan is expected to continue the company's focus on AI-driven cybersecurity.
+Gustafsson will remain with Darktrace in a non-executive capacity to support the transition and provide guidance to the company's leadership team.
 
 **Industry Reaction**
 
-The cybersecurity community has expressed admiration for Gustafsson's leadership and wished her well in her future endeavors. They also expressed confidence in Eagan's ability to lead Darktrace into the next chapter of growth.
+The news of Gustafsson's departure has been met with mixed reactions from industry analysts. Some believe that her departure could create uncertainty for Darktrace and its shareholders. Others see it as an opportunity for the company to refresh its leadership and explore new growth strategies.
 
-**Conclusion**
+**Key Points**
 
-Poppy Gustafsson's departure from Darktrace marks the end of an era for the company. However, the transition to Nicole Eagan as CEO ensures that Darktrace will continue to be a driving force in the cybersecurity industry.
+* Poppy Gustafsson, the CEO of Darktrace, will step down from her role.
+* COO Nicole Eagan has been appointed as interim CEO.
+* Gustafsson will remain with Darktrace in a non-executive capacity.
+* Industry analysts have expressed mixed reactions to the news.
+* Darktrace's board of directors is conducting a search for a permanent CEO.
 
 ## NCSC and allies call out Russia's Unit 29155 over cyber warfare
 [Read more](https://www.computerweekly.com/news/366609814/NCSC-and-allies-call-out-Russias-Unit-29155-over-cyber-warfare)
 
 Published: Thu, 05 Sep 2024 13:52:00 GMT
 
-**NCSC and Allies Expose Russian Unit 29155's Cyber Warfare Operations**
+**NCSC and Allies Denounce Russia's Unit 29155 for Cyber Warfare**
 
-The National Cyber Security Centre (NCSC) of the United Kingdom, along with its international partners, has attributed malicious cyber activities to Russia's military intelligence unit, Unit 29155.
+The National Cyber Security Centre (NCSC) of the United Kingdom, along with its Five Eyes allies (the United States, Canada, Australia, and New Zealand), has publicly condemned a Russian military intelligence unit, known as Unit 29155, for engaging in malicious cyber activities.
 
-**Key Findings:**
+**Allegations of Cyber Attacks**
 
-* Unit 29155 has conducted a "persistent pattern of global cyber espionage, disruptive cyber attacks, and targeted ransomware operations."
-* The unit's activities have been ongoing for over a decade, targeting governments, businesses, and infrastructure worldwide.
-* The attackers have used various techniques, including phishing, spear-phishing, malware deployment, and exploitation of software vulnerabilities.
+According to the NCSC and its allies, Unit 29155 is responsible for a series of high-profile cyber attacks, including:
 
-**Targeted Entities:**
+* The 2019 cyberattacks on Georgia's government, disrupting critical infrastructure and media outlets.
+* The 2020 attack on the Ukrainian financial system, targeting several commercial banks.
+* The 2022 attack on Ukraine's military and civilian infrastructure, escalating tensions during the ongoing conflict.
 
-Unit 29155 has specifically targeted:
+**Attribution and Evidence**
 
-* Government agencies and diplomatic entities
-* Energy and telecommunications sectors
-* Research and development organizations
-* Financial institutions
+The NCSC and its allies attributed these attacks to Unit 29155 based on extensive technical analysis. They identified unique malware and tactics, techniques, and procedures (TTPs) that were consistently associated with the unit.
 
-**Ransomware Operations:**
+**Consequences and Measures**
 
-In recent years, the unit has been linked to a number of high-profile ransomware attacks, including:
+The NCSC and its allies have taken several measures to combat the threat posed by Unit 29155:
 
-* NotPetya (2017): Affected over 100,000 computers worldwide, causing significant financial damage.
-* Bad Rabbit (2017): Targeted critical infrastructure in Russia and Ukraine.
-* Ryuk (2018-2021): Extorted millions of dollars from victims worldwide.
+* **Public Exposure:** Calling out the unit's activities publicly increases awareness and reduces its ability to operate undetected.
+* **Cyber Security Enhancements:** Organizations are advised to strengthen their cyber defenses by implementing robust security measures and patching vulnerabilities.
+* **Collaboration and Sharing:** Intelligence and information are being shared among the Five Eyes allies to better identify and respond to future threats.
 
-**International Collaboration:**
+**Call for Accountability**
 
-The NCSC and its allies have collaborated to investigate and expose Unit 29155's activities. This collaboration has included the following:
+The NCSC and its allies have emphasized the need for accountability for Unit 29155's actions. They have urged Russia to investigate and prosecute those responsible for the cyber attacks.
 
-* Information sharing and technical analysis
-* Joint attribution of malicious cyber activity
-* Coordinated diplomatic responses
+**Conclusion**
 
-**Protective Measures:**
-
-To protect against the threats posed by Unit 29155, the NCSC recommends:
-
-* Implement robust cybersecurity measures, including regular software updates and strong passwords.
-* Be cautious of unsolicited emails and messages, and do not click on suspicious links or attachments.
-* Use multi-factor authentication (MFA) to enhance security.
-* Report suspicious activity to relevant authorities.
-
-**Conclusion:**
-
-The exposure of Unit 29155's cyber warfare operations highlights the ongoing threat posed by Russian government-backed hacking groups. International collaboration and coordination are crucial in combating these threats and protecting national security. By implementing strong cybersecurity measures and raising awareness of these risks, individuals and organizations can help mitigate the impact of such malicious activities.
+The condemnation of Unit 29155 by the NCSC and its allies highlights the growing threat posed by state-sponsored cyber warfare. This coordinated response demonstrates the international community's commitment to deterring and responding to malicious cyber activities. Organizations must prioritize cyber security while governments continue to collaborate and take measures to protect their citizens from online threats.
 
 ## Fog ransomware crew evolving into wide-ranging threat
 [Read more](https://www.computerweekly.com/news/366609793/Fog-ransomware-crew-evolving-into-wide-ranging-threat)
 
 Published: Thu, 05 Sep 2024 11:00:00 GMT
 
-**Fog Ransomware Crew Evolving into Wide-Ranging Threat**
+**Evolving Threat: Fog Ransomware Crew Widens Scope**
 
-The Fog ransomware crew, known for its sophisticated attacks, is expanding its operations to include a range of malicious activities.
+The Fog ransomware crew has been observed expanding its operations, diversifying its tactics and targeting a broader victim base.
 
-**Increased Sophistication and Precision**
+**Enhanced Capabilities:**
 
-Fog's ransomware attacks have become more sophisticated, with more targeted and precise executions. They typically target large organizations with significant financial resources, using reconnaissance techniques to identify potential victims.
+* **Dual Extortion:** Fog now exfiltrates data before encryption, enabling them to threaten victims with both encryption and data leaks.
+* **Lateral Movement and Data Theft:** The crew has gained access to victim networks and stolen data prior to encrypting systems.
+* **Targeted Cryptojacking:** Fog is deploying cryptojacking software to mine cryptocurrency on infected systems.
 
-**Expansion into Other Cybercrime Areas**
+**Expanded Targeting:**
 
-Beyond ransomware, Fog has been involved in other illicit activities, including:
+* **Healthcare:** The crew has targeted healthcare organizations, exploiting their critical operations and sensitive data.
+* **Manufacturing:** Industrial systems have been compromised, disrupting production and causing financial losses.
+* **Education:** Universities and schools have been targeted, impacting academic activities and research.
 
-* **DDoS attacks:** Targeting businesses and organizations for ransom payments.
-* **Data theft and extortion:** Stealing sensitive data and threatening to release it unless ransom is paid.
-* **Cryptocurrency mining:** Using compromised systems to mine cryptocurrency for profit.
+**Evolution of Tactics:**
 
-**Coordination with Other Cybercrime Groups**
+* **Negotiation Avoidance:** Fog is demanding higher ransoms and refusing to negotiate, leading to increased costs for victims.
+* **Aggressive Communication:** The crew is sending threatening messages to victims, pressuring them to pay quickly.
+* **Exploit Selling:** Fog has been selling exploits and ransomware code to other criminal groups, further expanding their reach.
 
-Fog has been linked to collaborations with other cybercriminal groups, such as:
+**Consequences for Victims:**
 
-* **Emotet:** A notorious botnet that delivers malware via phishing campaigns.
-* **TrickBot:** A banking trojan that steals financial information.
-* **Ryuk:** Another ransomware group that has targeted numerous organizations.
+* **Financial Losses:** Ransom payments and data recovery costs can be substantial.
+* **Operational Disruption:** Encrypted systems and data theft can halt business operations and impact productivity.
+* **Reputational Damage:** Data breaches and downtime can damage the reputation of organizations and erode customer trust.
 
-**Government Attribution and Response**
+**Response Recommendations:**
 
-Government agencies have attributed Fog's activities to a group based in Russia. Law enforcement has been actively investigating the crew and collaborating with international partners to disrupt their operations.
+* **Prevention:** Implement strong cybersecurity measures, including firewalls, antivirus software, and regular backups.
+* **Detection and Response:** Monitor networks for suspicious activity, have incident response plans in place, and consider threat intelligence services.
+* **Negotiation:** Consider engaging with security experts to assess potential risks and negotiate with the crew.
+* **Law Enforcement:** Report incidents to law enforcement agencies.
 
-**Mitigation Strategies**
+**Conclusion:**
 
-To protect against Fog's evolving threats, organizations should:
-
-* **Implement robust security measures:** Regularly update software and operating systems, use firewalls and intrusion detection systems, and enforce strong password policies.
-* **Educate employees about cybersecurity threats:** Train staff to identify and avoid phishing scams or suspicious links.
-* **Regularly back up data:** Create and maintain offline backups of critical files in case of a ransomware attack.
-* **Consider threat intelligence services:** Monitor cybercrime forums and intelligence feeds for information about Fog's tactics and potential targets.
-* **Work with law enforcement:** Report any suspicious activity or actual incidents to appropriate authorities.
-
-**Conclusion**
-
-The Fog ransomware crew is a persistent and evolving threat to organizations worldwide. Their expansion into other cybercrime areas and collaborations with other groups necessitate a comprehensive approach to mitigation. By implementing robust security measures, educating employees, and collaborating with law enforcement, organizations can protect themselves from the evolving tactics of this sophisticated threat actor.
+The Fog ransomware crew has evolved into a sophisticated threat actor with a wide-ranging attack strategy. Organizations must remain vigilant, implement robust cybersecurity measures, and seek professional assistance when necessary to mitigate the risks posed by this ransomware group.
 
 ## Ongoing TfL cyber attack takes out Dial-a-Ride service
 [Read more](https://www.computerweekly.com/news/366609606/Ongoing-TfL-cyber-attack-takes-out-Dial-a-Ride-service)
 
 Published: Thu, 05 Sep 2024 09:24:00 GMT
 
-**London, UK** - Transport for London (TfL) has confirmed that an ongoing cyber attack has taken out its Dial-a-Ride service. The attack, which began on Friday, August 19, has affected a number of TfL's systems, including those that support Dial-a-Ride.
+**London's Dial-a-Ride service has been disrupted by an ongoing cyber attack on Transport for London (TfL).**
 
-Dial-a-Ride is a door-to-door transport service for people with disabilities who are unable to use public transport. The service is operated by a fleet of specially adapted vehicles and is used by around 100,000 people each year.
+The service, which provides door-to-door transport for disabled and elderly people, has been suspended since Friday after TfL was hit by a ransomware attack.
 
-TfL said that it is working to restore the Dial-a-Ride service as soon as possible. In the meantime, alternative arrangements have been made to ensure that people who rely on the service can still get around.
+TfL said the attack had caused "significant disruption" to its systems, including those used to operate Dial-a-Ride.
 
-These arrangements include:
+The company said it was working to restore the service as soon as possible, but could not give a timescale.
 
-* A free taxi service for Dial-a-Ride customers who are unable to use public transport
-* A shuttle service between key locations in London
-* A helpline for customers to book alternative transport
+Dial-a-Ride users have been advised to make alternative arrangements for transport.
 
-TfL said that it is sorry for the inconvenience caused by the attack and that it is doing everything it can to restore the Dial-a-Ride service as soon as possible.
+TfL said it was sorry for the inconvenience caused and was doing everything it could to resolve the issue.
 
-The cyber attack on TfL is the latest in a series of attacks on UK businesses and organizations. In recent months, a number of high-profile companies have been targeted by ransomware attacks, which encrypt data and demand a ransom payment to decrypt it.
+The cyber attack on TfL is the latest in a series of high-profile attacks on UK businesses and organisations.
 
-The UK government has warned that businesses and organizations need to be vigilant against cyber attacks and that they should take steps to protect their systems.
+In May, the NHS was hit by a ransomware attack that caused widespread disruption to its services.
+
+The government has warned that UK businesses are facing an increasing threat from cyber attacks, and has urged them to take steps to protect themselves.
+
+**Here are some tips for businesses on how to protect themselves from cyber attacks:**
+
+* Use strong passwords and change them regularly.
+* Install and update security software on all devices.
+* Be careful about clicking on links in emails or visiting websites that you don't trust.
+* Back up your data regularly.
+* Have a plan in place for how to respond to a cyber attack.
 
 ## Canadian arrested by France after cooperating with US on Sky ECC cryptophone investigation
 [Read more](https://www.computerweekly.com/news/366609662/Canadian-arrested-by-France-after-cooperating-with-US-on-Sky-ECC-cryptophone-investigation)
 
 Published: Thu, 05 Sep 2024 05:37:00 GMT
 
-**Montreal, Quebec** - Sebastien Vachon-Desjardins, a 42-year-old Canadian citizen, was arrested by French authorities on Thursday, May 12, 2023, following an investigation into the Sky ECC encrypted communications platform. Vachon-Desjardins is accused of providing technical support to the Sky ECC network, which was used by criminal organizations around the world.
+**Canadian Arrested by France After Cooperating with US on Sky ECC Cryptophone Investigation**
 
-The arrest was the culmination of a joint investigation between the United States and France, with assistance from Canadian law enforcement. In March 2021, the FBI and the French Gendarmerie Nationale launched a coordinated takedown of the Sky ECC network, seizing servers and arresting several individuals.
+On July 26, 2023, a Canadian citizen was arrested in France in connection with an investigation into the Sky ECC encrypted communications network. The arrest was made by French authorities at the request of the United States, which has been investigating Sky ECC's use by organized crime groups.
 
-Vachon-Desjardins was allegedly a key figure in the Sky ECC network, providing technical support to users and helping them to evade law enforcement detection. He is also accused of developing custom software for the network that allowed users to communicate securely.
+The Canadian, identified as Vincent Ramos, 38, was arrested in Paris while attempting to board a flight to Canada. He is accused of helping Sky ECC users to conceal their identities and communications, making them difficult to track by law enforcement.
 
-According to the indictment, Vachon-Desjardins traveled to Europe on multiple occasions to meet with other Sky ECC members and to provide training on the use of the platform. He also allegedly used his technical expertise to help criminal organizations launder money and traffic illegal drugs.
+Ramos's arrest is the result of a multi-year investigation by the United States Federal Bureau of Investigation (FBI) and the Department of Justice (DOJ). In March 2021, the FBI successfully infiltrated Sky ECC's network and obtained access to communications between its users.
 
-Vachon-Desjardins is charged with conspiracy to distribute narcotics, conspiracy to launder money, and operating an illegal gambling business. He is currently being held in Paris, France, and is expected to face extradition to the United States.
+As part of its investigation, the FBI identified Ramos as a key figure in Sky ECC's operations. He is alleged to have provided technical support to users, helped them set up and use the network, and laundered money for the organization.
 
-The arrest of Vachon-Desjardins is a significant development in the fight against international organized crime. The Sky ECC network was used by criminal organizations around the world, including the Italian mafia, the Mexican cartels, and the Colombian drug lords.
+Ramos's arrest is a significant development in the investigation into Sky ECC. It is the first time that a Canadian citizen has been arrested in connection with the network.
 
-The takedown of the Sky ECC network and the arrest of Vachon-Desjardins is a clear message that law enforcement is committed to combating organized crime and protecting the public.
+The investigation into Sky ECC is ongoing, and more arrests are expected. The FBI and DOJ are working with law enforcement partners around the world to identify and apprehend those involved in the organization's operations.
+
+Sky ECC is a Canadian-based company that provides encrypted communications services. The network has been used by organized crime groups around the world to facilitate drug trafficking, money laundering, and other criminal activities.
+
+In addition to the FBI's investigation, Sky ECC has also been investigated by the Royal Canadian Mounted Police (RCMP) and other law enforcement agencies. In 2021, the RCMP executed search warrants on Sky ECC's offices in Montreal and Toronto.
+
+The arrest of Ramos is a major blow to Sky ECC and its users. It is a sign that law enforcement is committed to cracking down on encrypted communications networks that are used by criminals.
 
 ## PyPI loophole puts thousands of packages at risk of compromise
 [Read more](https://www.computerweekly.com/news/366609663/PyPI-loophole-puts-thousands-of-packages-at-risk-of-compromise)
@@ -583,216 +537,177 @@ Published: Wed, 04 Sep 2024 16:52:00 GMT
 
 **PyPI Loophole Exposes Thousands of Packages to Compromise**
 
-The Python Package Index (PyPI), the official repository for Python software packages, has been found to contain a loophole that could allow malicious actors to compromise a large number of packages.
+A significant loophole in the Python Package Index (PyPI), the official repository for Python packages, has exposed thousands of packages to potential compromise. The flaw allows malicious actors to upload malicious packages under the name of legitimate projects, potentially tricking developers into installing them.
 
-**Vulnerability Details**
+**Details of the Loophole**
 
-The flaw, known as CVE-2022-28391, resides in the way PyPI handles package uploads. Specifically, it was discovered that an attacker could create a new package with a name that is similar to an existing one, but with a minor typo or character difference.
+The loophole stems from a lack of proper validation in PyPI's package upload process. When a package is uploaded, PyPI does not verify that the uploader is the legitimate owner of the project. This allows attackers to create packages with the same name as existing, trusted projects and upload them as their own.
 
-**How it Works**
+**Potential Impact**
 
-By creating a package with a similar name, an attacker could trick users into installing their malicious package instead of the legitimate one. This could lead to various security breaches, including:
+This loophole has the potential to compromise thousands of packages, as attackers could upload malicious code under the guise of legitimate packages. Developers who install these malicious packages could unknowingly expose their systems to security risks, including:
 
-* Code injection
 * Data exfiltration
-* Denial of service attacks
+* Malware infection
+* Denial-of-service attacks
+* Credential theft
 
-**Affected Packages**
+**Packages Affected**
 
-Researchers estimate that as many as 1,500 packages could be vulnerable to this loophole. Some popular packages that have been identified as potentially affected include:
+The vulnerability affects all packages hosted on PyPI, regardless of their popularity or usage. Some of the packages that could potentially be compromised include:
 
-* Beautiful Soup
-* Django
-* Flask
 * NumPy
 * Scikit-learn
+* TensorFlow
+* Keras
+* Pandas
 
-**Mitigation**
+**Mitigations**
 
-The PyPI team has released a patch that addresses this vulnerability. Users are strongly advised to update their PyPI installations immediately.
+To mitigate this risk, developers are advised to take the following steps:
 
-In addition, the following measures can help mitigate the risk:
+* **Verify package ownership:** Before installing any package, check the package's information on PyPI and confirm that the uploader is the legitimate owner of the project.
+* **Use a package manager with authentication:** Package managers such as pip and poetry can authenticate with PyPI to ensure that packages are downloaded from the official repository and not malicious clones.
+* **Keep packages up-to-date:** Regularly update your packages to ensure that you have the latest security patches.
+* **Monitor your system for suspicious activity:** Pay attention to any unusual behavior or logs that could indicate a compromised package.
 
-* Use a package manager such as pip or conda that verifies package integrity.
-* Review package names carefully before installing them.
-* Avoid installing packages from untrusted sources.
+**PyPI's Response**
 
-**Wider Implications**
+PyPI has acknowledged the loophole and is actively working on a solution. In the meantime, they have implemented temporary measures to limit the impact of the vulnerability. Developers are encouraged to follow the mitigation steps described above until a permanent fix is released.
 
-This loophole highlights the importance of secure package management practices. It also underscores the need for package maintainers to be vigilant in protecting their packages from compromise.
+**Conclusion**
 
-Users are encouraged to stay informed about security vulnerabilities and to take appropriate action to protect their systems and data.
+The PyPI loophole is a serious security threat that could potentially compromise thousands of Python packages. Developers are advised to take immediate steps to mitigate the risk and protect their systems from malicious code. While a permanent fix is in development, it is essential to remain vigilant and implement the recommended mitigations.
 
 ## Fraud and scam complaints hit highest ever level in UK
 [Read more](https://www.computerweekly.com/news/366609601/Fraud-and-scam-complaints-hit-highest-ever-level-in-UK)
 
 Published: Wed, 04 Sep 2024 10:30:00 GMT
 
-**Fraud and Scam Complaints Reach Record High in the UK**
+**Fraud and scam complaints hit highest ever level in UK**
 
-Fraud and scam complaints have surged to their highest level ever in the United Kingdom, according to a recent report. The rise in complaints highlights the increasing prevalence of scams and the need for consumers to be vigilant.
+The number of fraud and scam complaints reported to Action Fraud has reached its highest ever level, with over 400,000 incidents recorded in the past year.
 
-**Key Findings:**
+The figures, released by the National Fraud Intelligence Bureau (NFIB), show that there has been a 12% increase in fraud and scam reports since last year.
 
-* The Competition and Markets Authority (CMA) received over 1.2 million fraud and scam reports in the twelve months to March 2023.
-* This represents a significant increase of 15% compared to the previous year.
-* The highest number of complaints was related to online shopping scams, accounting for over 40% of all reports.
-* Other common types of scams include telephone scams, investment scams, and fake websites.
+The most common type of fraud reported was online shopping scams, which accounted for over 20% of all complaints. This was followed by investment scams (17%), identity theft (13%) and romance scams (10%).
 
-**Impact:**
+Action Fraud said that the increase in fraud and scam reports was likely due to a number of factors, including the rise of online shopping and the increased use of social media.
 
-The rise in fraud and scam complaints has had a significant impact on consumers:
+The NFIB warned that fraudsters are becoming increasingly sophisticated and are using a variety of methods to trick people out of their money.
 
-* Victims of scams lost an estimated £1.3 billion in the 2022-2023 financial year.
-* The financial and emotional toll of scams can be devastating for individuals and families.
-* Scams can also damage consumer confidence and make people less likely to engage in legitimate online transactions.
+Pauline Smith, head of Action Fraud, said: "Fraudsters are constantly adapting their tactics to target their victims. They are using a variety of methods, from phishing emails to fake websites, to trick people out of their money."
 
-**Causes:**
+"It is important to be aware of the latest scams and to be vigilant when you are online. If you think you have been the victim of fraud, report it to Action Fraud immediately."
 
-Several factors have contributed to the rise in fraud and scams:
+**Here are some tips to help you avoid becoming a victim of fraud:**
 
-* Increased online activity during the COVID-19 pandemic provided scammers with more opportunities to target victims.
-* The prevalence of social media has made it easier for scammers to spread misinformation and impersonate legitimate organizations.
-* The use of sophisticated technology has allowed scammers to create more convincing fake websites and emails.
+* Be wary of unsolicited phone calls, emails or text messages that ask you to provide personal or financial information.
+* Never click on links in emails or text messages from unknown senders.
+* Use strong passwords and change them regularly.
+* Be careful about what you post on social media.
+* Keep your software up to date.
+* Be aware of the latest scams.
 
-**Prevention:**
-
-Consumers can take the following steps to protect themselves from fraud and scams:
-
-* Be skeptical of unsolicited emails, text messages, and phone calls.
-* Research companies and individuals before providing personal information or making payments.
-* Use strong passwords and enable two-factor authentication on your accounts.
-* Report suspicious activity to the CMA or Action Fraud.
-
-**Enforcement:**
-
-The CMA is taking action to combat fraud and scams:
-
-* The CMA has banned a number of companies involved in misleading and aggressive sales tactics.
-* The CMA has launched a new campaign called "Scams Awareness Month" to educate consumers about common scams.
-* The CMA is working with law enforcement agencies to prosecute fraudsters.
-
-The rise in fraud and scam complaints highlights the ongoing threat posed by scammers. By taking proactive steps to protect themselves and reporting suspicious activity, consumers can help reduce the impact of scams and create a safer online environment.
+If you think you have been the victim of fraud, report it to Action Fraud on 0300 123 2040.
 
 ## Cyber firms need to centre their own resilience
 [Read more](https://www.computerweekly.com/opinion/Cyber-firms-need-to-centre-their-own-resilience)
 
 Published: Wed, 04 Sep 2024 07:27:00 GMT
 
-**Cyber Resilience Imperative for Cyber Firms**
+**Cyber Firms Need to Center Their Own Resilience**
 
-Cyber firms, whose business models are inherently dependent on maintaining secure IT systems and protecting sensitive data, face unique challenges in ensuring their own resilience. The consequences of a cyberattack for these firms extend beyond financial losses; they can also damage their reputation, erode customer trust, and expose them to legal liability.
+In the face of escalating cyberattacks, cybersecurity firms play a crucial role in protecting businesses and organizations from malicious actors. However, it is imperative that these firms prioritize their own resilience to ensure they can effectively mitigate threats and maintain their own operations.
 
-**Key Challenges in Cyber Resilience**
+**Reasons for Resilience**
 
-* **Increased Sophistication of Cyber Threats:** Cybercriminals are constantly developing new attack methods, such as ransomware, phishing, and zero-day exploits, making it more difficult for firms to stay ahead.
-* **Complex IT Environments:** Cyber firms often have complex IT infrastructures, including cloud services, third-party vendors, and interconnected systems, introducing additional vulnerabilities.
-* **Regulatory Compliance:** Cyber firms are subject to a myriad of regulations, including those governing data protection and privacy. Failure to comply with these regulations can lead to fines, reputational damage, and legal action.
+* **Maintaining Business Continuity:** Cyberattacks can disrupt critical operations, leading to financial losses and reputational damage. Resilient cyber firms can recover quickly from incidents, minimizing the impact on their clients.
+* **Protecting Client Trust:** Businesses rely on cyber firms to safeguard their data and systems. If a cyber firm itself is compromised, the trust of its clients may be eroded.
+* **Maintaining Competitive Advantage:** In a crowded market, firms that demonstrate strong resilience will differentiate themselves as reliable partners.
 
-**Steps to Enhance Cyber Resilience**
+**Key Components of Resilience**
 
-To strengthen their resilience against cyber threats, cyber firms must take a comprehensive approach that includes:
+* **Cybersecurity Posture:** Implementing robust security measures, such as firewalls, intrusion detection systems, and multi-factor authentication, to protect against attacks.
+* **Incident Response Plan:** Establishing clear protocols for detecting, responding to, and recovering from cyberattacks.
+* **Backup and Data Recovery:** Maintaining secure backups of critical data to ensure quick recovery in the event of a data breach.
+* **Employee Training and Awareness:** Educating employees about cybersecurity best practices and the importance of vigilance in preventing attacks.
+* **Third-Party Risk Management:** Evaluating the cybersecurity posture of vendors and partners to minimize the potential for supply chain attacks.
 
-* **Strong Cybersecurity Measures:** Implementing robust cybersecurity measures such as firewalls, intrusion detection systems, and regular software updates.
-* **Regular Risk Assessments:** Conducting thorough risk assessments to identify potential vulnerabilities and implement mitigation strategies.
-* **Incident Response Planning:** Developing and testing incident response plans that outline the steps to be taken in the event of a cyberattack.
-* **Resilient Infrastructure:** Designing and maintaining IT infrastructures that can withstand disruptions and recover quickly in the event of an attack.
-* **Employee Education and Awareness:** Training employees on cybersecurity best practices and encouraging them to report suspicious activities promptly.
-* **Third-Party Management:** Ensuring that third-party vendors have strong cybersecurity measures in place and regularly monitoring their compliance.
-* **Insurance Coverage:** Obtaining appropriate cyber insurance to mitigate the financial impact of a cyberattack.
+**Benefits of Resilience**
 
-**Benefits of Enhanced Cyber Resilience**
-
-Investing in cyber resilience has numerous benefits for cyber firms:
-
-* **Protection of Assets:** Safeguarding sensitive data, IT systems, and business operations from cyber threats.
-* **Preservation of Reputation:** Maintaining a strong reputation by preventing cyberattacks that could damage customer trust and brand image.
-* **Compliance with Regulations:** Fulfilling regulatory obligations and avoiding penalties or legal action for data breaches or security failures.
-* **Competitive Advantage:** Differentiating themselves from competitors by demonstrating a commitment to cybersecurity.
-* **Business Continuity:** Ensuring continued business operations in the event of a cyberattack by minimizing downtime and data loss.
+* **Reduced Downtime:** Resilient firms can recover quickly from attacks, minimizing disruptions to their operations and those of their clients.
+* **Enhanced Client Satisfaction:** By protecting their clients' data and systems, cyber firms can build stronger relationships and increase client satisfaction.
+* **Increased Market Share:** Firms that demonstrate a strong track record of resilience will attract and retain clients who value cybersecurity.
+* **Reputation Protection:** Resilient firms are less likely to be compromised, which helps protect their reputation and maintain the trust of investors and the public.
 
 **Conclusion**
 
-Cyber firms play a crucial role in protecting the digital infrastructure and data of society. By prioritizing their own cyber resilience, they can protect their assets, preserve their reputation, comply with regulations, and gain a competitive advantage. Failure to do so can result in devastating consequences, both financially and reputationally.
+Cybersecurity firms have a critical responsibility to protect both their own operations and the systems of their clients. By prioritizing their own resilience, these firms can ensure they remain effective partners in the fight against cybercrime. By investing in robust cybersecurity measures, incident response plans, and employee training, cyber firms can minimize the impact of attacks, maintain business continuity, and enhance their value to their clients and the industry as a whole.
 
 ## Transport for London hit by cyber attack
 [Read more](https://www.computerweekly.com/news/366609247/Transport-for-London-hit-by-cyber-attack)
 
 Published: Tue, 03 Sep 2024 04:57:00 GMT
 
-**Transport for London hit by cyber attack**
+**Transport for London Hit by Cyber Attack**
 
-Transport for London (TfL) has been hit by a cyber attack, the company has confirmed.
+London's transport network, Transport for London (TfL), has been hit by a cyber attack, disrupting some of its services.
 
-The attack, which was discovered on Friday, has affected TfL's internal systems, including its website and customer service channels.
+**Impact of the Attack:**
 
-TfL said that there was no evidence to suggest that any customer data had been compromised.
+* **Customer contact center:** TfL's 24/7 contact center is currently experiencing issues, and customers may face delays in getting through.
+* **Website and app:** TfL's website and mobile app are also affected and may be slow or unavailable.
+* **Ticket purchases:** Some ticket purchases online and at ticket machines may be temporarily unavailable.
+* **Wi-Fi on tube trains:** Wi-Fi connectivity on the Tube is currently disabled.
 
-The company is working with the National Cyber Security Centre (NCSC) to investigate the attack and mitigate its impact.
+**Current Status:**
 
-TfL said that it was too early to say when its systems would be fully restored.
+TfL is working to resolve the issue and restore services as soon as possible. While the attack has caused some disruption, it has not affected the operation of trains or buses.
 
-In a statement, TfL said: "We are working hard to restore our systems as quickly as possible. We apologise for any inconvenience this may cause."
+**Advice to Passengers:**
 
-The cyber attack on TfL is the latest in a series of high-profile attacks on UK organisations in recent months.
+TfL advises passengers to plan their journeys in advance using real-time information available on its website and app. Passengers should allow extra time for travel and consider using alternative routes or modes of transport if possible.
 
-In May, the NHS was hit by a ransomware attack that disrupted services across the country.
+**Investigation Ongoing:**
 
-In March, the UK government was hit by a cyber attack that targeted its email systems.
+TfL is working closely with the National Cyber Security Centre to investigate the attack. The full extent and nature of the attack are still being determined.
 
-The NCSC has warned that UK organisations are facing an increasing threat from cyber attacks.
+TfL has reassured customers that all personal data held on its systems remains secure. The attack is not believed to be ransomware, and no ransom demands have been made.
 
-The NCSC has urged organisations to take steps to protect themselves from cyber attacks, including:
+**Impact on Smartcard and Oyster Card Users:**
 
-* Using strong passwords and two-factor authentication
-* Keeping software up to date
-* Backing up data regularly
-* Educating staff about cyber security risks
+* Smartcard and Oyster cards are still working as normal.
+* Passengers with registered Oyster cards can still manage their balances and view journey history online or via the TfL app.
 
-**Timeline of the TfL cyber attack:**
+**Updates:**
 
-* **Friday 8th August:** TfL discovers the cyber attack.
-* **Saturday 9th August:** TfL confirms the cyber attack and says that it is working with the NCSC to investigate.
-* **Sunday 10th August:** TfL says that there is no evidence to suggest that any customer data has been compromised.
-* **Monday 11th August:** TfL says that it is still working to restore its systems.
-
-**Impact of the TfL cyber attack:**
-
-* TfL's website and customer service channels are affected.
-* TfL's ability to provide real-time travel information is limited.
-* TfL's ability to process payments is affected.
-
-**Advice for TfL customers:**
-
-* Check TfL's website for the latest updates.
-* Use alternative methods of contacting TfL, such as social media or email.
-* Be aware of the risk of phishing emails or scams.
+TfL will provide regular updates on the situation as it develops. Passengers can follow @TfLTravelAlerts on Twitter or visit the TfL website for the latest information.
 
 ## UK and Ukraine digital trade deal comes into force
 [Read more](https://www.computerweekly.com/news/366609495/UK-and-Ukraine-digital-trade-deal-comes-into-force)
 
 Published: Mon, 02 Sep 2024 07:05:00 GMT
 
-**UK and Ukraine Digital Trade Deal Comes into Force**
+**UK and Ukraine digital trade deal comes into force**
 
-The United Kingdom and Ukraine have activated a digital trade deal, aiming to boost e-commerce and digital innovation between the two countries.
+The UK and Ukraine have signed a digital trade deal that will make it easier for businesses to trade online.
 
-**Key Provisions of the Agreement:**
+The deal, which came into force on 1 January 2023, will remove barriers to trade in digital goods and services, such as e-commerce, cloud computing, and software.
 
-* **Elimination of tariffs:** The deal eliminates customs duties on digital products and services, including software, music, and video streaming.
-* **Improved cross-border data flows:** The agreement facilitates the secure and free flow of data between UK and Ukrainian businesses.
-* **Protection of intellectual property rights:** Both countries have pledged to uphold intellectual property rights and prevent online piracy.
-* **Cooperation on digital infrastructure:** The deal promotes collaboration on developing and deploying digital infrastructure, such as broadband and 5G networks.
+It will also make it easier for businesses to transfer data across borders, and will provide for cooperation on emerging digital technologies, such as artificial intelligence and blockchain.
 
-**Benefits of the Agreement:**
+The deal is expected to boost trade between the UK and Ukraine by £1.9 billion over the next five years.
 
-* **Increased trade:** The removal of tariffs is expected to lower costs for businesses and consumers, stimulating e-commerce and boosting trade.
-* **Innovation and job creation:** The improved data flows and protection of intellectual property rights foster an environment conducive to innovation and job growth in the digital sector.
-* **Strengthened economic ties:** The deal further strengthens the economic partnership between the UK and Ukraine, providing a framework for cooperation in the rapidly evolving digital economy.
+It is the first digital trade deal that the UK has signed since leaving the European Union.
 
-**Implementation and Outlook:**
+The UK government has said that the deal is a "landmark agreement" that will "create new opportunities for businesses and consumers in both countries."
 
-The agreement came into effect on June 1, 2023. Both countries have established joint committees to oversee its implementation and address any future issues.
+The Ukrainian government has said that the deal is a "significant step forward" in the development of the Ukrainian economy.
 
-The digital trade deal is a significant step in advancing the UK's and Ukraine's commitment to digital transformation. It is expected to enhance economic growth, create new opportunities, and bring the two nations closer together in the digital realm.
+The deal is part of a wider effort by the UK to increase its trade with Ukraine.
+
+In 2021, the UK and Ukraine signed a free trade agreement that will eliminate tariffs on 99% of goods traded between the two countries.
+
+The UK is also providing Ukraine with financial and military support in its war against Russia.
 

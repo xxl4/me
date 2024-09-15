@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-15
-date: 2024-09-15 06:04:27
+date: 2024-09-15 12:04:56
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,34 @@ comments: true
 ---
 
 # Models.com for 2024-09-15
+
+## Completedworks
+[Read more](https://models.com/work/completedworks-campaign-completed-works-pre-collection-2025)
+
+Published: Sun, 15 Sep 2024 10:03:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330500/2330500-800w.jpg" /></p>CAMPAIGN Completed Works Pre Collection 2025 <a href="https://models.com/work/completedworks-campaign-completed-works-pre-collection-2025" title="CAMPAIGN Completed Works Pre Collection 2025">More...</a>
+
+## Diesel
+[Read more](https://models.com/work/diesel-diesel-fw24)
+
+Published: Sun, 15 Sep 2024 09:36:21 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330490/2330490-800w.jpg" /></p>DIESEL FW24 <a href="https://models.com/work/diesel-diesel-fw24" title="DIESEL FW24">More...</a>
+
+## Men's Uno China
+[Read more](https://models.com/work/mens-uno-china-mens-uno-china-september-2024-cover)
+
+Published: Sun, 15 Sep 2024 06:55:11 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330470/2330470-800w.jpg" /></p>Men's Uno China September 2024 Cover <a href="https://models.com/work/mens-uno-china-mens-uno-china-september-2024-cover" title="Men's Uno China September 2024 Cover">More...</a>
+
+## Nylon China
+[Read more](https://models.com/work/nylon-china-creators)
+
+Published: Sun, 15 Sep 2024 06:51:31 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330461/2330461-800w.jpg" /></p>creators <a href="https://models.com/work/nylon-china-creators" title="creators">More...</a>
 
 ## MONROWE Magazine Online
 [Read more](https://models.com/work/monrowe-magazine-online-her)
@@ -82,6 +110,13 @@ Published: Sat, 14 Sep 2024 20:21:20 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330305/2330305-800w.jpg" /></p>This is New Luxury: SUMMER 24 <a href="https://models.com/work/flannels-this-is-new-luxury-summer-24" title="This is New Luxury: SUMMER 24">More...</a>
 
+## Masha Popova
+[Read more](https://models.com/work/masha-popova-masha-popova-ss-25-show)
+
+Published: Sat, 14 Sep 2024 19:37:16 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330424/2330424-800w.jpg" /></p>Masha Popova S/S 25 Show <a href="https://models.com/work/masha-popova-masha-popova-ss-25-show" title="Masha Popova S/S 25 Show">More...</a>
+
 ## Mojeh Magazine
 [Read more](https://models.com/work/mojeh-magazine-serious-business)
 
@@ -144,6 +179,13 @@ Published: Sat, 14 Sep 2024 13:57:20 GMT
 Published: Sat, 14 Sep 2024 13:36:57 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2329513/2329513-800w.jpg" /></p>Print Bvlgari Tubogas Campaign 2024 <a href="https://models.com/work/bulgari-print-bvlgari-tubogas-campaign-2024" title="Print Bvlgari Tubogas Campaign 2024">More...</a>
+
+## Harper's Bazaar Germany
+[Read more](https://models.com/work/harpers-bazaar-germany-harpers-bazaar-germany-october-2024-cover)
+
+Published: Sat, 14 Sep 2024 13:21:13 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330482/2330482-800w.jpg" /></p>Harper's Bazaar Germany October 2024 Cover <a href="https://models.com/work/harpers-bazaar-germany-harpers-bazaar-germany-october-2024-cover" title="Harper's Bazaar Germany October 2024 Cover">More...</a>
 
 ## Harper's Bazaar UK
 [Read more](https://models.com/work/harpers-bazaar-uk-harpers-bazaar-uk-october-2024---watch-cover)
@@ -1019,46 +1061,4 @@ Published: Thu, 12 Sep 2024 07:29:46 GMT
 Published: Thu, 12 Sep 2024 07:09:05 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327948/2327948-800w.jpg" /></p>Another Man China #3 2024 Covers <a href="https://models.com/work/another-man-china-another-man-china-3-2024-covers" title="Another Man China #3 2024 Covers">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-coofandy-ss-25-mens-show)
-
-Published: Thu, 12 Sep 2024 06:22:54 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328122/2328122-800w.jpg" /></p>Coofandy S/S 25 Men's Show <a href="https://models.com/work/various-shows-coofandy-ss-25-mens-show" title="Coofandy S/S 25 Men's Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-cucculelli-shaheen-ss-25-show)
-
-Published: Thu, 12 Sep 2024 05:17:46 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327760/2327760-800w.jpg" /></p>Cucculelli Shaheen S/S 25 Show <a href="https://models.com/work/various-shows-cucculelli-shaheen-ss-25-show" title="Cucculelli Shaheen S/S 25 Show">More...</a>
-
-## Melitta Baumeister
-[Read more](https://models.com/work/melitta-baumeister-melitta-baumeister-ss-25-show)
-
-Published: Thu, 12 Sep 2024 04:51:17 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327647/2327647-800w.jpg" /></p>Melitta Baumeister S/S 25 Show <a href="https://models.com/work/melitta-baumeister-melitta-baumeister-ss-25-show" title="Melitta Baumeister S/S 25 Show">More...</a>
-
-## Arena Homme + China
-[Read more](https://models.com/work/arena-homme--china--by-he-yong-kang)
-
-Published: Thu, 12 Sep 2024 04:29:47 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327030/2327030-800w.jpg" /></p>寻味年“粤”日 by HE YONG KANG <a href="https://models.com/work/arena-homme--china--by-he-yong-kang" title="寻味年“粤”日 by HE YONG KANG">More...</a>
-
-## LoveShackFancy
-[Read more](https://models.com/work/loveshackfancy-loveshackfancy-ss-25-show)
-
-Published: Thu, 12 Sep 2024 02:58:34 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327631/2327631-800w.jpg" /></p>LoveShackFancy S/S 25 Show <a href="https://models.com/work/loveshackfancy-loveshackfancy-ss-25-show" title="LoveShackFancy S/S 25 Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-frederick-anderson-ss-25-show)
-
-Published: Thu, 12 Sep 2024 00:16:50 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327015/2327015-800w.jpg" /></p>Frederick Anderson S/S 25 Show <a href="https://models.com/work/various-shows-frederick-anderson-ss-25-show" title="Frederick Anderson S/S 25 Show">More...</a>
 
