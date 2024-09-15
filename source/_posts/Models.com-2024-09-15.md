@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-15
-date: 2024-09-15 12:04:56
+date: 2024-09-15 18:04:16
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,62 @@ comments: true
 ---
 
 # Models.com for 2024-09-15
+
+## Marie Claire Greece
+[Read more](https://models.com/work/marie-claire-greece-vive-la-difference)
+
+Published: Sun, 15 Sep 2024 17:27:36 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330841/2330841-800w.jpg" /></p>VIVE LA DIFFERENCE <a href="https://models.com/work/marie-claire-greece-vive-la-difference" title="VIVE LA DIFFERENCE">More...</a>
+
+## Simone Rocha
+[Read more](https://models.com/work/simone-rocha-simone-rocha-ss-25-show)
+
+Published: Sun, 15 Sep 2024 16:32:20 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330835/2330835-800w.jpg" /></p>Simone Rocha S/S 25 Show <a href="https://models.com/work/simone-rocha-simone-rocha-ss-25-show" title="Simone Rocha S/S 25 Show">More...</a>
+
+## Roksanda
+[Read more](https://models.com/work/roksanda-roksanda-ss-25-show)
+
+Published: Sun, 15 Sep 2024 15:20:00 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330834/2330834-800w.jpg" /></p>Roksanda S/S 25 Show <a href="https://models.com/work/roksanda-roksanda-ss-25-show" title="Roksanda S/S 25 Show">More...</a>
+
+## BOSS
+[Read more](https://models.com/work/boss-new-office-1)
+
+Published: Sun, 15 Sep 2024 15:18:45 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330828/2330828-800w.jpg" /></p>New Office <a href="https://models.com/work/boss-new-office-1" title="New Office">More...</a>
+
+## Tove
+[Read more](https://models.com/work/tove-tove-ss-25-show)
+
+Published: Sun, 15 Sep 2024 15:08:03 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330848/2330848-800w.jpg" /></p>Tove S/S 25 Show <a href="https://models.com/work/tove-tove-ss-25-show" title="Tove S/S 25 Show">More...</a>
+
+## Dazed Magazine
+[Read more](https://models.com/work/dazed-magazine-you-exist-only-in-what-you-do)
+
+Published: Sun, 15 Sep 2024 15:07:03 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330812/2330812-800w.jpg" /></p>You Exist Only in What You Do <a href="https://models.com/work/dazed-magazine-you-exist-only-in-what-you-do" title="You Exist Only in What You Do">More...</a>
+
+## Versace
+[Read more](https://models.com/work/versace-bright-crystal)
+
+Published: Sun, 15 Sep 2024 13:45:50 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330563/2330563-800w.jpg" /></p>Bright Crystal <a href="https://models.com/work/versace-bright-crystal" title="Bright Crystal">More...</a>
+
+## Closed
+[Read more](https://models.com/work/closed-fw25)
+
+Published: Sun, 15 Sep 2024 12:23:38 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330548/2330548-800w.jpg" /></p>FW25 <a href="https://models.com/work/closed-fw25" title="FW25">More...</a>
 
 ## Completedworks
 [Read more](https://models.com/work/completedworks-campaign-completed-works-pre-collection-2025)
@@ -80,7 +136,7 @@ Published: Sat, 14 Sep 2024 22:31:51 GMT
 
 Published: Sat, 14 Sep 2024 21:35:28 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2330371/2330371-800w.jpg" /></p>Nensi Dojaka S/S 25 Show <a href="https://models.com/work/nensi-dojaka-nensi-dojaka-ss-25-show" title="Nensi Dojaka S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2330629/2330629-800w.jpg" /></p>Nensi Dojaka S/S 25 Show <a href="https://models.com/work/nensi-dojaka-nensi-dojaka-ss-25-show" title="Nensi Dojaka S/S 25 Show">More...</a>
 
 ## Re-Edition Magazine
 [Read more](https://models.com/work/re-edition-magazine-re-edition-autumnwinter-2023-20)
@@ -110,12 +166,19 @@ Published: Sat, 14 Sep 2024 20:21:20 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330305/2330305-800w.jpg" /></p>This is New Luxury: SUMMER 24 <a href="https://models.com/work/flannels-this-is-new-luxury-summer-24" title="This is New Luxury: SUMMER 24">More...</a>
 
+## Aaron Esh
+[Read more](https://models.com/work/aaron-esh-aaron-esh-ss-25-show)
+
+Published: Sat, 14 Sep 2024 20:10:00 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330673/2330673-800w.jpg" /></p>Aaron Esh S/S 25 Show <a href="https://models.com/work/aaron-esh-aaron-esh-ss-25-show" title="Aaron Esh S/S 25 Show">More...</a>
+
 ## Masha Popova
 [Read more](https://models.com/work/masha-popova-masha-popova-ss-25-show)
 
 Published: Sat, 14 Sep 2024 19:37:16 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2330424/2330424-800w.jpg" /></p>Masha Popova S/S 25 Show <a href="https://models.com/work/masha-popova-masha-popova-ss-25-show" title="Masha Popova S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2330725/2330725-800w.jpg" /></p>Masha Popova S/S 25 Show <a href="https://models.com/work/masha-popova-masha-popova-ss-25-show" title="Masha Popova S/S 25 Show">More...</a>
 
 ## Mojeh Magazine
 [Read more](https://models.com/work/mojeh-magazine-serious-business)
@@ -136,7 +199,14 @@ Published: Sat, 14 Sep 2024 19:10:25 GMT
 
 Published: Sat, 14 Sep 2024 18:57:44 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2330306/2330306-800w.jpg" /></p>Standing Ground S/S 25 Show <a href="https://models.com/work/standing-ground-standing-ground-ss-25-show" title="Standing Ground S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2330566/2330566-800w.jpg" /></p>Standing Ground S/S 25 Show <a href="https://models.com/work/standing-ground-standing-ground-ss-25-show" title="Standing Ground S/S 25 Show">More...</a>
+
+## Feben
+[Read more](https://models.com/work/feben-feben-ss-25-show)
+
+Published: Sat, 14 Sep 2024 17:00:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330784/2330784-800w.jpg" /></p>Feben S/S 25 Show <a href="https://models.com/work/feben-feben-ss-25-show" title="Feben S/S 25 Show">More...</a>
 
 ## Ahluwalia
 [Read more](https://models.com/work/ahluwalia-ahluwalia-ss-25-show)
@@ -206,7 +276,7 @@ Published: Sat, 14 Sep 2024 11:27:14 GMT
 
 Published: Sat, 14 Sep 2024 09:54:36 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2329636/2329636-800w.jpg" /></p>Helen Anthony S/S 25 Show <a href="https://models.com/work/various-shows-helen-anthony-ss-25-show" title="Helen Anthony S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2330425/2330425-800w.jpg" /></p>Helen Anthony S/S 25 Show <a href="https://models.com/work/various-shows-helen-anthony-ss-25-show" title="Helen Anthony S/S 25 Show">More...</a>
 
 ## Arena Homme + China
 [Read more](https://models.com/work/arena-homme--china-new-season)
@@ -509,6 +579,13 @@ Published: Fri, 13 Sep 2024 10:34:56 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2329544/2329544-800w.jpg" /></p>Rio S/S 25 Show <a href="https://models.com/work/gypsy-sport-rio-ss-25-show" title="Rio S/S 25 Show">More...</a>
 
+## M Le magazine du Monde
+[Read more](https://models.com/work/m-le-magazine-du-monde-m-le-magazine-du-monde-09132024-cover)
+
+Published: Fri, 13 Sep 2024 10:14:06 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330753/2330753-800w.jpg" /></p>M Le magazine du Monde 09/13/2024 Cover <a href="https://models.com/work/m-le-magazine-du-monde-m-le-magazine-du-monde-09132024-cover" title="M Le magazine du Monde 09/13/2024 Cover">More...</a>
+
 ## Cult Gaia
 [Read more](https://models.com/work/cult-gaia-cult-gaia-eau-de-parfum-campaign-2024)
 
@@ -696,7 +773,7 @@ Published: Thu, 12 Sep 2024 19:32:45 GMT
 
 Published: Thu, 12 Sep 2024 19:23:24 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2327970/2327970-800w.jpg" /></p>JoJo Is Back in Control of Her Career <a href="https://models.com/work/la-times-jojo-is-back-in-control-of-her-career" title="JoJo Is Back in Control of Her Career">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2327969/2327969-800w.jpg" /></p>JoJo Is Back in Control of Her Career <a href="https://models.com/work/la-times-jojo-is-back-in-control-of-her-career" title="JoJo Is Back in Control of Her Career">More...</a>
 
 ## VOGUE.com
 [Read more](https://models.com/work/american-vogue-usher-for-voguecom)
@@ -984,81 +1061,4 @@ Published: Thu, 12 Sep 2024 11:56:03 GMT
 Published: Thu, 12 Sep 2024 11:53:54 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327439/2327439-800w.jpg" /></p>I myself am strange and unusual <a href="https://models.com/work/another-magazine-i-myself-am-strange-and-unusual" title="I myself am strange and unusual">More...</a>
-
-## Mojeh Magazine
-[Read more](https://models.com/work/mojeh-magazine-louis-vuitton-special)
-
-Published: Thu, 12 Sep 2024 11:24:21 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327427/2327427-800w.jpg" /></p>Louis Vuitton Special <a href="https://models.com/work/mojeh-magazine-louis-vuitton-special" title="Louis Vuitton Special">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-t-mag--issue-xiii-7-tribal)
-
-Published: Thu, 12 Sep 2024 10:53:04 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327404/2327404-800w.jpg" /></p>T-MAG  ISSUE XIII 7 TRIBAL <a href="https://models.com/work/various-editorials-t-mag--issue-xiii-7-tribal" title="T-MAG  ISSUE XIII 7 TRIBAL">More...</a>
-
-## Harper's Bazaar Czech Republic
-[Read more](https://models.com/work/harpers-bazaar-czech-republic-vlnobit)
-
-Published: Thu, 12 Sep 2024 10:32:09 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327377/2327377-800w.jpg" /></p>Vlnobití <a href="https://models.com/work/harpers-bazaar-czech-republic-vlnobit" title="Vlnobití">More...</a>
-
-## AnOther Magazine
-[Read more](https://models.com/work/another-magazine-undercover-1)
-
-Published: Thu, 12 Sep 2024 09:44:06 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327308/2327308-800w.jpg" /></p>Undercover <a href="https://models.com/work/another-magazine-undercover-1" title="Undercover">More...</a>
-
-## Harper's Bazaar U.S.
-[Read more](https://models.com/work/harpers-bazaar-us-elizabeth-debicki)
-
-Published: Thu, 12 Sep 2024 09:40:20 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327289/2327289-800w.jpg" /></p>Elizabeth Debicki <a href="https://models.com/work/harpers-bazaar-us-elizabeth-debicki" title="Elizabeth Debicki">More...</a>
-
-## Various Campaigns
-[Read more](https://models.com/work/various-campaigns-303-avenue-fall-24-campaign)
-
-Published: Thu, 12 Sep 2024 09:39:23 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327306/2327306-800w.jpg" /></p>303 Avenue Fall 24 Campaign <a href="https://models.com/work/various-campaigns-303-avenue-fall-24-campaign" title="303 Avenue Fall 24 Campaign">More...</a>
-
-## AnOther Magazine
-[Read more](https://models.com/work/another-magazine-photography-anthony-seklaoui)
-
-Published: Thu, 12 Sep 2024 09:04:38 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327233/2327233-800w.jpg" /></p>Photography Anthony Seklaoui <a href="https://models.com/work/another-magazine-photography-anthony-seklaoui" title="Photography Anthony Seklaoui">More...</a>
-
-## Coach
-[Read more](https://models.com/work/coach-coach-holiday-2023-campaign-1)
-
-Published: Thu, 12 Sep 2024 07:49:48 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327072/2327072-800w.jpg" /></p>Coach Holiday 2023 Campaign <a href="https://models.com/work/coach-coach-holiday-2023-campaign-1" title="Coach Holiday 2023 Campaign">More...</a>
-
-## Coach
-[Read more](https://models.com/work/coach-coach-spring-2024)
-
-Published: Thu, 12 Sep 2024 07:46:35 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327085/2327085-800w.jpg" /></p>Coach Spring 2024 <a href="https://models.com/work/coach-coach-spring-2024" title="Coach Spring 2024">More...</a>
-
-## WRPD Magazine
-[Read more](https://models.com/work/wrpd-magazine-vent-de-rvolte)
-
-Published: Thu, 12 Sep 2024 07:29:46 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327056/2327056-800w.jpg" /></p>Vent de Révolte <a href="https://models.com/work/wrpd-magazine-vent-de-rvolte" title="Vent de Révolte">More...</a>
-
-## Another Man China
-[Read more](https://models.com/work/another-man-china-another-man-china-3-2024-covers)
-
-Published: Thu, 12 Sep 2024 07:09:05 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327948/2327948-800w.jpg" /></p>Another Man China #3 2024 Covers <a href="https://models.com/work/another-man-china-another-man-china-3-2024-covers" title="Another Man China #3 2024 Covers">More...</a>
 
