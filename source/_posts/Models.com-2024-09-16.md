@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-16
-date: 2024-09-16 00:14:32
+date: 2024-09-16 06:05:07
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,12 +12,40 @@ comments: true
 
 # Models.com for 2024-09-16
 
-## Erdem
-[Read more](https://models.com/work/erdem-erdem-ss-25-show)
+## KNWLS
+[Read more](https://models.com/work/knwls-knwls-ss-25-show)
 
-Published: Sun, 15 Sep 2024 19:24:50 GMT
+Published: Mon, 16 Sep 2024 01:50:43 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2330988/2330988-800w.jpg" /></p>Erdem S/S 25 Show <a href="https://models.com/work/erdem-erdem-ss-25-show" title="Erdem S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2331260/2331260-800w.jpg" /></p>KNWLS S/S 25 Show <a href="https://models.com/work/knwls-knwls-ss-25-show" title="KNWLS S/S 25 Show">More...</a>
+
+## Various Lookbooks/Catalogs
+[Read more](https://models.com/work/various-lookbookscatalogs-a-visual-journey-through-enss-identity-photography-by-suus-waijers)
+
+Published: Mon, 16 Sep 2024 00:13:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331142/2331142-800w.jpg" /></p>A visual journey through ENSŌ’s identity photography by Suus Waijers <a href="https://models.com/work/various-lookbookscatalogs-a-visual-journey-through-enss-identity-photography-by-suus-waijers" title="A visual journey through ENSŌ’s identity photography by Suus Waijers">More...</a>
+
+## Various Lookbooks/Catalogs
+[Read more](https://models.com/work/various-lookbookscatalogs-atelier-bestiaire---antler)
+
+Published: Mon, 16 Sep 2024 00:08:19 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331073/2331073-800w.jpg" /></p>ATELIER BESTIAIRE - ANTLER <a href="https://models.com/work/various-lookbookscatalogs-atelier-bestiaire---antler" title="ATELIER BESTIAIRE - ANTLER">More...</a>
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-arenas-for-badlon-magazine-by-isa-beau-van-eembergen)
+
+Published: Mon, 16 Sep 2024 00:03:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331067/2331067-800w.jpg" /></p>ARENAS for BADLON MAGAZINE by ISA BEAU VAN EEMBERGEN <a href="https://models.com/work/various-editorials-arenas-for-badlon-magazine-by-isa-beau-van-eembergen" title="ARENAS for BADLON MAGAZINE by ISA BEAU VAN EEMBERGEN">More...</a>
+
+## Emilia Wickstead
+[Read more](https://models.com/work/emilia-wickstead-emilia-wickstead-ss-25-show)
+
+Published: Sun, 15 Sep 2024 23:51:07 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331223/2331223-800w.jpg" /></p>Emilia Wickstead S/S 25 Show <a href="https://models.com/work/emilia-wickstead-emilia-wickstead-ss-25-show" title="Emilia Wickstead S/S 25 Show">More...</a>
 
 ## Various Lookbooks/Catalogs
 [Read more](https://models.com/work/various-lookbookscatalogs-the-anthology-pre-fall-24-photography-alex-natt)
@@ -46,20 +74,6 @@ Published: Sun, 15 Sep 2024 17:54:20 GMT
 Published: Sun, 15 Sep 2024 17:27:36 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330853/2330853-800w.jpg" /></p>VIVE LA DIFFERENCE <a href="https://models.com/work/marie-claire-greece-vive-la-difference" title="VIVE LA DIFFERENCE">More...</a>
-
-## 16Arlington
-[Read more](https://models.com/work/16arlington-16arlington-ss-25-show)
-
-Published: Sun, 15 Sep 2024 16:59:59 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330854/2330854-800w.jpg" /></p>16Arlington S/S 25 Show <a href="https://models.com/work/16arlington-16arlington-ss-25-show" title="16Arlington S/S 25 Show">More...</a>
-
-## Simone Rocha
-[Read more](https://models.com/work/simone-rocha-simone-rocha-ss-25-show)
-
-Published: Sun, 15 Sep 2024 16:32:20 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330835/2330835-800w.jpg" /></p>Simone Rocha S/S 25 Show <a href="https://models.com/work/simone-rocha-simone-rocha-ss-25-show" title="Simone Rocha S/S 25 Show">More...</a>
 
 ## Roksanda
 [Read more](https://models.com/work/roksanda-roksanda-ss-25-show)
@@ -95,6 +109,13 @@ Published: Sun, 15 Sep 2024 15:07:03 GMT
 Published: Sun, 15 Sep 2024 13:45:50 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330563/2330563-800w.jpg" /></p>Bright Crystal <a href="https://models.com/work/versace-bright-crystal" title="Bright Crystal">More...</a>
+
+## Karoline Vitto
+[Read more](https://models.com/work/karoline-vitto-karoline-vitto-ss-25-show)
+
+Published: Sun, 15 Sep 2024 13:32:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331081/2331081-800w.jpg" /></p>Karoline Vitto S/S 25 Show <a href="https://models.com/work/karoline-vitto-karoline-vitto-ss-25-show" title="Karoline Vitto S/S 25 Show">More...</a>
 
 ## Closed
 [Read more](https://models.com/work/closed-fw25)
@@ -166,13 +187,6 @@ Published: Sat, 14 Sep 2024 22:31:51 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330375/2330375-800w.jpg" /></p>THAT'S A GOOD LOOK: This Is the Sexiest Puffer Coat We’ve Ever Seen <a href="https://models.com/work/the-cut-thats-a-good-look-this-is-the-sexiest-puffer-coat-weve-ever-seen" title="THAT'S A GOOD LOOK: This Is the Sexiest Puffer Coat We’ve Ever Seen">More...</a>
 
-## Nensi Dojaka
-[Read more](https://models.com/work/nensi-dojaka-nensi-dojaka-ss-25-show)
-
-Published: Sat, 14 Sep 2024 21:35:28 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330629/2330629-800w.jpg" /></p>Nensi Dojaka S/S 25 Show <a href="https://models.com/work/nensi-dojaka-nensi-dojaka-ss-25-show" title="Nensi Dojaka S/S 25 Show">More...</a>
-
 ## Re-Edition Magazine
 [Read more](https://models.com/work/re-edition-magazine-re-edition-autumnwinter-2023-20)
 
@@ -200,13 +214,6 @@ Published: Sat, 14 Sep 2024 20:46:16 GMT
 Published: Sat, 14 Sep 2024 20:21:20 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330305/2330305-800w.jpg" /></p>This is New Luxury: SUMMER 24 <a href="https://models.com/work/flannels-this-is-new-luxury-summer-24" title="This is New Luxury: SUMMER 24">More...</a>
-
-## Aaron Esh
-[Read more](https://models.com/work/aaron-esh-aaron-esh-ss-25-show)
-
-Published: Sat, 14 Sep 2024 20:10:00 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330673/2330673-800w.jpg" /></p>Aaron Esh S/S 25 Show <a href="https://models.com/work/aaron-esh-aaron-esh-ss-25-show" title="Aaron Esh S/S 25 Show">More...</a>
 
 ## Masha Popova
 [Read more](https://models.com/work/masha-popova-masha-popova-ss-25-show)
@@ -927,7 +934,7 @@ Published: Thu, 12 Sep 2024 16:21:21 GMT
 
 Published: Thu, 12 Sep 2024 15:54:06 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2327788/2327788-800w.jpg" /></p>Converse x Isabel Marant Collaboration <a href="https://models.com/work/converse-converse-x-isabel-marant-collaboration" title="Converse x Isabel Marant Collaboration">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2327792/2327792-800w.jpg" /></p>Converse x Isabel Marant Collaboration <a href="https://models.com/work/converse-converse-x-isabel-marant-collaboration" title="Converse x Isabel Marant Collaboration">More...</a>
 
 ## Elle Slovenia
 [Read more](https://models.com/work/elle-slovenia-colors-of-happiness)
@@ -1054,11 +1061,4 @@ Published: Thu, 12 Sep 2024 14:01:45 GMT
 Published: Thu, 12 Sep 2024 14:00:00 GMT
 
 <p><img alt="" class="attachment-medium size-medium wp-post-image" height="721" src="https://i.mdel.net/mdx/i/2024/09/STREET-STYLE-COVER-IMAGE-NYFW.jpg" width="1280" /></p>models.Street Style See What the Models Wore Off-Duty During NYFW S/S 25 Days 3-6 New York Fashion Week has wrapped up! It was a whirlwind week filled with top models, celeb sightings, and a Love Islander or two. Dive into the final days of model street style from Days 3 to 6, featuring off-duty looks [&hellip;] <a href="https://models.com/mdx/street-style-see-what-the-models-are-wearing-off-duty-during-nyfw-s-s-25-days-3-6/" title="Street Style: See What the Models Are Wearing Off-Duty During NYFW S/S 25 Days 3-6">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-ecoalf---10-collection-mw-collection)
-
-Published: Thu, 12 Sep 2024 13:57:03 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327533/2327533-800w.jpg" /></p>Ecoalf - 1.0 collection MW Collection <a href="https://models.com/work/various-lookbookscatalogs-ecoalf---10-collection-mw-collection" title="Ecoalf - 1.0 collection MW Collection">More...</a>
 
