@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-16
-date: 2024-09-16 06:05:07
+date: 2024-09-16 12:05:41
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,41 @@ comments: true
 ---
 
 # Models.com for 2024-09-16
+
+## VOGUE.com
+[Read more](https://models.com/work/voguecom-shell)
+
+Published: Mon, 16 Sep 2024 10:11:56 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331442/2331442-800w.jpg" /></p>Shell <a href="https://models.com/work/voguecom-shell" title="Shell">More...</a>
+
+## AnOther Magazine
+[Read more](https://models.com/work/another-magazine-ive-stopped-my-dreaming)
+
+Published: Mon, 16 Sep 2024 08:53:49 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331421/2331421-800w.jpg" /></p>I've Stopped my Dreaming <a href="https://models.com/work/another-magazine-ive-stopped-my-dreaming" title="I've Stopped my Dreaming">More...</a>
+
+## Boden
+[Read more](https://models.com/work/boden-september-lifestyle-24-pt-ii)
+
+Published: Mon, 16 Sep 2024 08:00:41 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331378/2331378-800w.jpg" /></p>September Lifestyle '24 Pt. II <a href="https://models.com/work/boden-september-lifestyle-24-pt-ii" title="September Lifestyle '24 Pt. II">More...</a>
+
+## Elle Slovenia
+[Read more](https://models.com/work/elle-slovenia-elle-slovenia-september-2024-cover)
+
+Published: Mon, 16 Sep 2024 07:09:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331352/2331352-800w.jpg" /></p>Elle Slovenia September 2024 Cover <a href="https://models.com/work/elle-slovenia-elle-slovenia-september-2024-cover" title="Elle Slovenia September 2024 Cover">More...</a>
+
+## Mithridate
+[Read more](https://models.com/work/mithridate-mithridate-ss-25-show)
+
+Published: Mon, 16 Sep 2024 02:57:27 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331330/2331330-800w.jpg" /></p>Mithridate S/S 25 Show <a href="https://models.com/work/mithridate-mithridate-ss-25-show" title="Mithridate S/S 25 Show">More...</a>
 
 ## KNWLS
 [Read more](https://models.com/work/knwls-knwls-ss-25-show)
@@ -1026,39 +1061,4 @@ Published: Thu, 12 Sep 2024 14:50:10 GMT
 Published: Thu, 12 Sep 2024 14:22:16 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327603/2327603-800w.jpg" /></p>SCMP September Cover Story <a href="https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-cover-story" title="SCMP September Cover Story">More...</a>
-
-## SCMP Style South China Morning Post Style Magazine
-[Read more](https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-2024-covers)
-
-Published: Thu, 12 Sep 2024 14:17:44 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327599/2327599-800w.jpg" /></p>SCMP September 2024 Covers <a href="https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-2024-covers" title="SCMP September 2024 Covers">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-ecoalf---woman-collection)
-
-Published: Thu, 12 Sep 2024 14:13:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327598/2327598-800w.jpg" /></p>Ecoalf - Woman Collection <a href="https://models.com/work/various-lookbookscatalogs-ecoalf---woman-collection" title="Ecoalf - Woman Collection">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-jonathan-cohen-ss25-lookbook)
-
-Published: Thu, 12 Sep 2024 14:10:40 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327585/2327585-800w.jpg" /></p>Jonathan Cohen S/S25 Lookbook <a href="https://models.com/work/various-lookbookscatalogs-jonathan-cohen-ss25-lookbook" title="Jonathan Cohen S/S25 Lookbook">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-ecoalf---man-collection)
-
-Published: Thu, 12 Sep 2024 14:01:45 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327555/2327555-800w.jpg" /></p>Ecoalf - Man Collection <a href="https://models.com/work/various-lookbookscatalogs-ecoalf---man-collection" title="Ecoalf - Man Collection">More...</a>
-
-## Street Style: See What the Models Are Wearing Off-Duty During NYFW S/S 25 Days 3-6
-[Read more](https://models.com/mdx/street-style-see-what-the-models-are-wearing-off-duty-during-nyfw-s-s-25-days-3-6/)
-
-Published: Thu, 12 Sep 2024 14:00:00 GMT
-
-<p><img alt="" class="attachment-medium size-medium wp-post-image" height="721" src="https://i.mdel.net/mdx/i/2024/09/STREET-STYLE-COVER-IMAGE-NYFW.jpg" width="1280" /></p>models.Street Style See What the Models Wore Off-Duty During NYFW S/S 25 Days 3-6 New York Fashion Week has wrapped up! It was a whirlwind week filled with top models, celeb sightings, and a Love Islander or two. Dive into the final days of model street style from Days 3 to 6, featuring off-duty looks [&hellip;] <a href="https://models.com/mdx/street-style-see-what-the-models-are-wearing-off-duty-during-nyfw-s-s-25-days-3-6/" title="Street Style: See What the Models Are Wearing Off-Duty During NYFW S/S 25 Days 3-6">More...</a>
 
