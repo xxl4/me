@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-17
-date: 2024-09-17 00:11:50
+date: 2024-09-17 06:04:50
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-09-17
+
+## Numéro Netherlands
+[Read more](https://models.com/work/numro-netherlands-paul-forman-by-benjo-arwas)
+
+Published: Tue, 17 Sep 2024 02:44:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332393/2332393-800w.jpg" /></p>Paul Forman by Benjo Arwas <a href="https://models.com/work/numro-netherlands-paul-forman-by-benjo-arwas" title="Paul Forman by Benjo Arwas">More...</a>
 
 ## Toga
 [Read more](https://models.com/work/toga-toga-ss-25-show)
@@ -1054,11 +1061,4 @@ Published: Thu, 12 Sep 2024 19:21:55 GMT
 Published: Thu, 12 Sep 2024 19:18:51 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2327943/2327943-800w.jpg" /></p>Nike / Jordan - Howard University Announcement Film <a href="https://models.com/work/nike-nike--jordan---howard-university-announcement-film" title="Nike / Jordan - Howard University Announcement Film">More...</a>
-
-## Tommy Hilfiger
-[Read more](https://models.com/work/tommy-hilfiger-tommy-hilfiger-spring-2023-campaign-film)
-
-Published: Thu, 12 Sep 2024 19:13:14 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327941/2327941-800w.jpg" /></p>Tommy Hilfiger Spring 2023 Campaign Film <a href="https://models.com/work/tommy-hilfiger-tommy-hilfiger-spring-2023-campaign-film" title="Tommy Hilfiger Spring 2023 Campaign Film">More...</a>
 
