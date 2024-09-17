@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-17
-date: 2024-09-17 06:04:50
+date: 2024-09-17 12:05:15
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,12 +12,117 @@ comments: true
 
 # Models.com for 2024-09-17
 
+## Tous
+[Read more](https://models.com/work/tous--its-a-tous-world)
+
+Published: Tue, 17 Sep 2024 11:22:52 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332709/2332709-800w.jpg" /></p>Its a TOUS world! <a href="https://models.com/work/tous--its-a-tous-world" title="Its a TOUS world!">More...</a>
+
+## Elle Kazakhstan
+[Read more](https://models.com/work/elle-kazakhstan-the-city-ghost)
+
+Published: Tue, 17 Sep 2024 11:02:59 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332698/2332698-800w.jpg" /></p>The City ghost <a href="https://models.com/work/elle-kazakhstan-the-city-ghost" title="The City ghost">More...</a>
+
+## Family Style
+[Read more](https://models.com/work/family-style-extreme-is-everyday)
+
+Published: Tue, 17 Sep 2024 10:44:39 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332672/2332672-800w.jpg" /></p>Extreme is Everyday <a href="https://models.com/work/family-style-extreme-is-everyday" title="Extreme is Everyday">More...</a>
+
+## Family Style
+[Read more](https://models.com/work/family-style-family-style-september-2024-cover)
+
+Published: Tue, 17 Sep 2024 10:40:34 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332657/2332657-800w.jpg" /></p>Family Style September 2024 Cover <a href="https://models.com/work/family-style-family-style-september-2024-cover" title="Family Style September 2024 Cover">More...</a>
+
+## Flair Germany
+[Read more](https://models.com/work/flair-germany-dior)
+
+Published: Tue, 17 Sep 2024 09:42:50 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332609/2332609-800w.jpg" /></p>Dior <a href="https://models.com/work/flair-germany-dior" title="Dior">More...</a>
+
+## Mixte
+[Read more](https://models.com/work/mixte-garden-of-time)
+
+Published: Tue, 17 Sep 2024 08:35:48 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332570/2332570-800w.jpg" /></p>Garden of Time <a href="https://models.com/work/mixte-garden-of-time" title="Garden of Time">More...</a>
+
+## Muse Magazine
+[Read more](https://models.com/work/muse-magazine-rejoice)
+
+Published: Tue, 17 Sep 2024 08:31:45 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332557/2332557-800w.jpg" /></p>REJOICE <a href="https://models.com/work/muse-magazine-rejoice" title="REJOICE">More...</a>
+
+## Muse Magazine
+[Read more](https://models.com/work/muse-magazine-muse-magazine-issue-64-cover)
+
+Published: Tue, 17 Sep 2024 08:26:02 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332546/2332546-800w.jpg" /></p>Muse Magazine Issue 64 Cover <a href="https://models.com/work/muse-magazine-muse-magazine-issue-64-cover" title="Muse Magazine Issue 64 Cover">More...</a>
+
+## Blumarine
+[Read more](https://models.com/work/blumarine-ss25)
+
+Published: Tue, 17 Sep 2024 07:34:51 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332501/2332501-800w.jpg" /></p>SS25 <a href="https://models.com/work/blumarine-ss25" title="SS25">More...</a>
+
+## 10 Magazine
+[Read more](https://models.com/work/10-magazine-10-magazine-japan-1st-issue)
+
+Published: Tue, 17 Sep 2024 07:31:31 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332482/2332482-800w.jpg" /></p>10 Magazine Japan 1st issue <a href="https://models.com/work/10-magazine-10-magazine-japan-1st-issue" title="10 Magazine Japan 1st issue">More...</a>
+
+## Various Covers
+[Read more](https://models.com/work/various-covers-vhs-aachen-programm-22024-various-covers)
+
+Published: Tue, 17 Sep 2024 07:27:19 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332480/2332480-800w.jpg" /></p>vhs Aachen Programm 2/2024 Various Covers <a href="https://models.com/work/various-covers-vhs-aachen-programm-22024-various-covers" title="vhs Aachen Programm 2/2024 Various Covers">More...</a>
+
+## Manifesto Magazine
+[Read more](https://models.com/work/manifesto-magazine-touch-and-go)
+
+Published: Tue, 17 Sep 2024 06:37:05 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332458/2332458-800w.jpg" /></p>Touch and Go <a href="https://models.com/work/manifesto-magazine-touch-and-go" title="Touch and Go">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-charlie-constantinou-ss-25-show)
+
+Published: Tue, 17 Sep 2024 03:49:37 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332435/2332435-800w.jpg" /></p>Charlie Constantinou S/S 25 Show <a href="https://models.com/work/various-shows-charlie-constantinou-ss-25-show" title="Charlie Constantinou S/S 25 Show">More...</a>
+
 ## Numéro Netherlands
 [Read more](https://models.com/work/numro-netherlands-paul-forman-by-benjo-arwas)
 
 Published: Tue, 17 Sep 2024 02:44:42 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2332393/2332393-800w.jpg" /></p>Paul Forman by Benjo Arwas <a href="https://models.com/work/numro-netherlands-paul-forman-by-benjo-arwas" title="Paul Forman by Benjo Arwas">More...</a>
+
+## Johanna Parv
+[Read more](https://models.com/work/johanna-parv-johanna-parv-ss-25-show)
+
+Published: Tue, 17 Sep 2024 01:14:41 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332470/2332470-800w.jpg" /></p>Johanna Parv S/S 25 Show <a href="https://models.com/work/johanna-parv-johanna-parv-ss-25-show" title="Johanna Parv S/S 25 Show">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-paolo-carzana-ss-25-show-1)
+
+Published: Tue, 17 Sep 2024 00:57:57 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332469/2332469-800w.jpg" /></p>Paolo Carzana S/S 25 Show <a href="https://models.com/work/various-shows-paolo-carzana-ss-25-show-1" title="Paolo Carzana S/S 25 Show">More...</a>
 
 ## Toga
 [Read more](https://models.com/work/toga-toga-ss-25-show)
@@ -368,6 +473,13 @@ Published: Sun, 15 Sep 2024 06:55:11 GMT
 Published: Sun, 15 Sep 2024 06:51:31 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330461/2330461-800w.jpg" /></p>creators <a href="https://models.com/work/nylon-china-creators" title="creators">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-consistence-ss-25-show)
+
+Published: Sun, 15 Sep 2024 01:58:12 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332708/2332708-800w.jpg" /></p>Consistence S/S 25 Show <a href="https://models.com/work/various-shows-consistence-ss-25-show" title="Consistence S/S 25 Show">More...</a>
 
 ## MONROWE Magazine Online
 [Read more](https://models.com/work/monrowe-magazine-online-her)
@@ -845,6 +957,13 @@ Published: Fri, 13 Sep 2024 11:30:56 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2328478/2328478-800w.jpg" /></p>Yohji Yamamoto Eyewear <a href="https://models.com/work/yohji-yamamoto-yohji-yamamoto-eyewear" title="Yohji Yamamoto Eyewear">More...</a>
 
+## Various Covers
+[Read more](https://models.com/work/various-covers-trend-style-september-2024-cover)
+
+Published: Fri, 13 Sep 2024 10:42:59 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332503/2332503-800w.jpg" /></p>Trend Style September 2024 Cover <a href="https://models.com/work/various-covers-trend-style-september-2024-cover" title="Trend Style September 2024 Cover">More...</a>
+
 ## Gypsy Sport
 [Read more](https://models.com/work/gypsy-sport-rio-ss-25-show)
 
@@ -942,123 +1061,4 @@ Published: Fri, 13 Sep 2024 03:08:44 GMT
 Published: Fri, 13 Sep 2024 02:17:25 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2328179/2328179-800w.jpg" /></p>Joseph F/W 2024 Campaign <a href="https://models.com/work/joseph-joseph-fw-2024-campaign" title="Joseph F/W 2024 Campaign">More...</a>
-
-## Elle Italia
-[Read more](https://models.com/work/elle-italia-terapia-di-coppia)
-
-Published: Thu, 12 Sep 2024 23:12:13 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328245/2328245-800w.jpg" /></p>Terapia di coppia <a href="https://models.com/work/elle-italia-terapia-di-coppia" title="Terapia di coppia">More...</a>
-
-## Numero Tokyo
-[Read more](https://models.com/work/numero-tokyo-oct-24-digital-cover)
-
-Published: Thu, 12 Sep 2024 22:47:12 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328165/2328165-800w.jpg" /></p>Numero Tokyo October 2024 Digital Cover <a href="https://models.com/work/numero-tokyo-oct-24-digital-cover" title="Numero Tokyo October 2024 Digital Cover">More...</a>
-
-## Il Sole24Ore - HTSI Magazine Italian Edition
-[Read more](https://models.com/work/il-sole24ore---htsi-magazine-italian-edition-potere-urbano-masterpieces)
-
-Published: Thu, 12 Sep 2024 22:05:09 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328152/2328152-800w.jpg" /></p>POTERE URBANO (MASTERPIECES) <a href="https://models.com/work/il-sole24ore---htsi-magazine-italian-edition-potere-urbano-masterpieces" title="POTERE URBANO (MASTERPIECES)">More...</a>
-
-## MMScene
-[Read more](https://models.com/work/mmscene-the-labyrinth-by-talo-daz)
-
-Published: Thu, 12 Sep 2024 22:03:14 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328162/2328162-800w.jpg" /></p>The Labyrinth by Ítalo Díaz <a href="https://models.com/work/mmscene-the-labyrinth-by-talo-daz" title="The Labyrinth by Ítalo Díaz">More...</a>
-
-## Various Campaigns
-[Read more](https://models.com/work/various-campaigns-ador-campaign)
-
-Published: Thu, 12 Sep 2024 22:02:12 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328149/2328149-800w.jpg" /></p>Ador Campaign <a href="https://models.com/work/various-campaigns-ador-campaign" title="Ador Campaign">More...</a>
-
-## Il Sole24Ore - HTSI Magazine Italian Edition
-[Read more](https://models.com/work/il-sole24ore---htsi-magazine-italian-edition-il-sole24ore---htsi-magazine-italian-edition-september-2024-cover)
-
-Published: Thu, 12 Sep 2024 22:01:32 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328150/2328150-800w.jpg" /></p>Il Sole24Ore - HTSI Magazine Italian Edition September 2024 Cover <a href="https://models.com/work/il-sole24ore---htsi-magazine-italian-edition-il-sole24ore---htsi-magazine-italian-edition-september-2024-cover" title="Il Sole24Ore - HTSI Magazine Italian Edition September 2024 Cover">More...</a>
-
-## Elle Belgium
-[Read more](https://models.com/work/elle-belgium-elle-beauty-story)
-
-Published: Thu, 12 Sep 2024 21:58:29 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328137/2328137-800w.jpg" /></p>ELLE beauty story <a href="https://models.com/work/elle-belgium-elle-beauty-story" title="ELLE beauty story">More...</a>
-
-## Dazed Magazine
-[Read more](https://models.com/work/dazed-magazine-by-cruz-valdez)
-
-Published: Thu, 12 Sep 2024 21:12:22 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328534/2328534-800w.jpg" /></p>By Cruz Valdez <a href="https://models.com/work/dazed-magazine-by-cruz-valdez" title="By Cruz Valdez">More...</a>
-
-## Tiffany & Co.
-[Read more](https://models.com/work/tiffany--co-jordan-alexander-for-tiffany--co-x-met-gala)
-
-Published: Thu, 12 Sep 2024 19:52:17 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327988/2327988-800w.jpg" /></p>Jordan Alexander for Tiffany & Co. x Met Gala <a href="https://models.com/work/tiffany--co-jordan-alexander-for-tiffany--co-x-met-gala" title="Jordan Alexander for Tiffany &amp; Co. x Met Gala">More...</a>
-
-## Harper's Bazaar U.S.
-[Read more](https://models.com/work/harpers-bazaar-us-nina-chanel-abney--jacolby-satterwhite-for-bazaar-us-oct-22)
-
-Published: Thu, 12 Sep 2024 19:47:09 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327985/2327985-800w.jpg" /></p>Nina Chanel Abney & Jacolby Satterwhite for Bazaar US (OCT 22) <a href="https://models.com/work/harpers-bazaar-us-nina-chanel-abney--jacolby-satterwhite-for-bazaar-us-oct-22" title="Nina Chanel Abney &amp; Jacolby Satterwhite for Bazaar US (OCT 22)">More...</a>
-
-## Harper's Bazaar U.S.
-[Read more](https://models.com/work/harpers-bazaar-us-congresswoman-cori-bush-for-bazaar-us)
-
-Published: Thu, 12 Sep 2024 19:44:30 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327981/2327981-800w.jpg" /></p>Congresswoman Cori Bush for Bazaar US <a href="https://models.com/work/harpers-bazaar-us-congresswoman-cori-bush-for-bazaar-us" title="Congresswoman Cori Bush for Bazaar US">More...</a>
-
-## Harper's Bazaar U.S.
-[Read more](https://models.com/work/harpers-bazaar-us-jon-batiste--alicia-graf-mack-for-bazaar-us)
-
-Published: Thu, 12 Sep 2024 19:43:00 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327978/2327978-800w.jpg" /></p>Jon Batiste & Alicia Graf Mack for Bazaar US <a href="https://models.com/work/harpers-bazaar-us-jon-batiste--alicia-graf-mack-for-bazaar-us" title="Jon Batiste &amp; Alicia Graf Mack for Bazaar US">More...</a>
-
-## Rolling Stone
-[Read more](https://models.com/work/rolling-stone-jorja-smith-for-rolling-stone)
-
-Published: Thu, 12 Sep 2024 19:38:59 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327975/2327975-800w.jpg" /></p>Jorja Smith for Rolling Stone <a href="https://models.com/work/rolling-stone-jorja-smith-for-rolling-stone" title="Jorja Smith for Rolling Stone">More...</a>
-
-## Cynthia Rowley
-[Read more](https://models.com/work/cynthia-rowley-buckle-your-seatbelts)
-
-Published: Thu, 12 Sep 2024 19:32:45 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327973/2327973-800w.jpg" /></p>Buckle your seatbelts <a href="https://models.com/work/cynthia-rowley-buckle-your-seatbelts" title="Buckle your seatbelts">More...</a>
-
-## LA Times
-[Read more](https://models.com/work/la-times-jojo-is-back-in-control-of-her-career)
-
-Published: Thu, 12 Sep 2024 19:23:24 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327969/2327969-800w.jpg" /></p>JoJo Is Back in Control of Her Career <a href="https://models.com/work/la-times-jojo-is-back-in-control-of-her-career" title="JoJo Is Back in Control of Her Career">More...</a>
-
-## VOGUE.com
-[Read more](https://models.com/work/american-vogue-usher-for-voguecom)
-
-Published: Thu, 12 Sep 2024 19:21:55 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327950/2327950-800w.jpg" /></p>Usher for Vogue.com <a href="https://models.com/work/american-vogue-usher-for-voguecom" title="Usher for Vogue.com">More...</a>
-
-## Nike
-[Read more](https://models.com/work/nike-nike--jordan---howard-university-announcement-film)
-
-Published: Thu, 12 Sep 2024 19:18:51 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2327943/2327943-800w.jpg" /></p>Nike / Jordan - Howard University Announcement Film <a href="https://models.com/work/nike-nike--jordan---howard-university-announcement-film" title="Nike / Jordan - Howard University Announcement Film">More...</a>
 
