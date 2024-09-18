@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-18
-date: 2024-09-18 00:13:31
+date: 2024-09-18 06:04:43
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,12 +12,47 @@ comments: true
 
 # Models.com for 2024-09-18
 
+## L'Officiel Malaysia
+[Read more](https://models.com/work/lofficiel-malaysia-take-a-bow-photograph-by-kenji-otsuka)
+
+Published: Wed, 18 Sep 2024 05:15:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333490/2333490-800w.jpg" /></p>Take a BOW Photograph by Kenji Otsuka <a href="https://models.com/work/lofficiel-malaysia-take-a-bow-photograph-by-kenji-otsuka" title="Take a BOW Photograph by Kenji Otsuka">More...</a>
+
+## Numéro Netherlands
+[Read more](https://models.com/work/numro-netherlands-numro-netherlands---demi-singleton)
+
+Published: Wed, 18 Sep 2024 02:40:05 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333434/2333434-800w.jpg" /></p>Numéro Netherlands - Demi Singleton <a href="https://models.com/work/numro-netherlands-numro-netherlands---demi-singleton" title="Numéro Netherlands - Demi Singleton">More...</a>
+
+## L'Officiel Liechtenstein
+[Read more](https://models.com/work/lofficiel-liechtenstein-lofficiel-liechtenstein---millie-gibson)
+
+Published: Wed, 18 Sep 2024 02:24:24 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333416/2333416-800w.jpg" /></p>L'Officiel Liechtenstein - Millie Gibson <a href="https://models.com/work/lofficiel-liechtenstein-lofficiel-liechtenstein---millie-gibson" title="L'Officiel Liechtenstein - Millie Gibson">More...</a>
+
+## Manifesto Magazine
+[Read more](https://models.com/work/manifesto-magazine-the-beautiful-contrast)
+
+Published: Wed, 18 Sep 2024 00:01:01 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333386/2333386-800w.jpg" /></p>The Beautiful Contrast <a href="https://models.com/work/manifesto-magazine-the-beautiful-contrast" title="The Beautiful Contrast">More...</a>
+
 ## Schön Magazine
 [Read more](https://models.com/work/schn-magazine-charlotte-lawrence-by-benjo-arwas)
 
 Published: Tue, 17 Sep 2024 23:05:16 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333367/2333367-800w.jpg" /></p>Charlotte Lawrence by Benjo Arwas <a href="https://models.com/work/schn-magazine-charlotte-lawrence-by-benjo-arwas" title="Charlotte Lawrence by Benjo Arwas">More...</a>
+
+## Iceberg
+[Read more](https://models.com/work/iceberg-iceberg-ss-25-show)
+
+Published: Tue, 17 Sep 2024 21:57:08 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333393/2333393-800w.jpg" /></p>Iceberg S/S 25 Show <a href="https://models.com/work/iceberg-iceberg-ss-25-show" title="Iceberg S/S 25 Show">More...</a>
 
 ## Pop Magazine
 [Read more](https://models.com/work/pop-magazine-lisa-rinnas-incredible-london-birthday)
@@ -46,6 +81,13 @@ Published: Tue, 17 Sep 2024 19:55:08 GMT
 Published: Tue, 17 Sep 2024 19:52:31 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333237/2333237-800w.jpg" /></p>SUMMER <a href="https://models.com/work/d-repubblica-summer" title="SUMMER">More...</a>
+
+## Fiorucci
+[Read more](https://models.com/work/fiorucci-fiorucci-ss-25-show)
+
+Published: Tue, 17 Sep 2024 19:31:33 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333377/2333377-800w.jpg" /></p>Fiorucci S/S 25 Show <a href="https://models.com/work/fiorucci-fiorucci-ss-25-show" title="Fiorucci S/S 25 Show">More...</a>
 
 ## Vogue Mexico
 [Read more](https://models.com/work/vogue-mexico-campillo-debut-nyfw)
@@ -453,6 +495,13 @@ Published: Mon, 16 Sep 2024 16:49:24 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2331991/2331991-800w.jpg" /></p>Elle Norway July/August 2024 Cover <a href="https://models.com/work/elle-norway-elle-norway-julyaugust-2024-cover" title="Elle Norway July/August 2024 Cover">More...</a>
 
+## Burberry
+[Read more](https://models.com/work/burberry-burberry-ss-25-show)
+
+Published: Mon, 16 Sep 2024 16:48:23 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2332187/2332187-800w.jpg" /></p>Burberry S/S 25 Show <a href="https://models.com/work/burberry-burberry-ss-25-show" title="Burberry S/S 25 Show">More...</a>
+
 ## M Le magazine du Monde
 [Read more](https://models.com/work/m-le-magazine-du-monde-tourne-en-boucles)
 
@@ -579,13 +628,6 @@ Published: Mon, 16 Sep 2024 02:57:27 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2331330/2331330-800w.jpg" /></p>Mithridate S/S 25 Show <a href="https://models.com/work/mithridate-mithridate-ss-25-show" title="Mithridate S/S 25 Show">More...</a>
 
-## KNWLS
-[Read more](https://models.com/work/knwls-knwls-ss-25-show)
-
-Published: Mon, 16 Sep 2024 01:50:43 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331260/2331260-800w.jpg" /></p>KNWLS S/S 25 Show <a href="https://models.com/work/knwls-knwls-ss-25-show" title="KNWLS S/S 25 Show">More...</a>
-
 ## Various Lookbooks/Catalogs
 [Read more](https://models.com/work/various-lookbookscatalogs-a-visual-journey-through-enss-identity-photography-by-suus-waijers)
 
@@ -648,6 +690,13 @@ Published: Sun, 15 Sep 2024 17:51:26 GMT
 Published: Sun, 15 Sep 2024 17:27:36 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330853/2330853-800w.jpg" /></p>VIVE LA DIFFERENCE <a href="https://models.com/work/marie-claire-greece-vive-la-difference" title="VIVE LA DIFFERENCE">More...</a>
+
+## 16Arlington
+[Read more](https://models.com/work/16arlington-16arlington-ss-25-show)
+
+Published: Sun, 15 Sep 2024 16:59:59 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2331145/2331145-800w.jpg" /></p>16Arlington S/S 25 Show <a href="https://models.com/work/16arlington-16arlington-ss-25-show" title="16Arlington S/S 25 Show">More...</a>
 
 ## Roksanda
 [Read more](https://models.com/work/roksanda-roksanda-ss-25-show)
@@ -948,7 +997,7 @@ Published: Sat, 14 Sep 2024 03:39:49 GMT
 
 Published: Sat, 14 Sep 2024 02:32:26 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2329192/2329192-800w.jpg" /></p>Tropical Chic <a href="https://models.com/work/various-editorials-tropical-chic" title="Tropical Chic">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2333479/2333479-800w.jpg" /></p>Tropical Chic <a href="https://models.com/work/various-editorials-tropical-chic" title="Tropical Chic">More...</a>
 
 ## Yohji Yamamoto
 [Read more](https://models.com/work/yohji-yamamoto-yohji-yamamoto-pour-homme-aw2024)
@@ -1012,53 +1061,4 @@ Published: Fri, 13 Sep 2024 21:58:42 GMT
 Published: Fri, 13 Sep 2024 21:22:10 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2329895/2329895-800w.jpg" /></p>S.S. Daley S/S 25 Show <a href="https://models.com/work/ss-daley-ss-daley-ss-25-show" title="S.S. Daley S/S 25 Show">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-seduction-magazine)
-
-Published: Fri, 13 Sep 2024 21:05:19 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329077/2329077-800w.jpg" /></p>Seduction Magazine <a href="https://models.com/work/various-editorials-seduction-magazine" title="Seduction Magazine">More...</a>
-
-## Bora Aksu
-[Read more](https://models.com/work/bora-aksu-bora-aksu-ss-25-show)
-
-Published: Fri, 13 Sep 2024 19:49:37 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329646/2329646-800w.jpg" /></p>Bora Aksu S/S 25 Show <a href="https://models.com/work/bora-aksu-bora-aksu-ss-25-show" title="Bora Aksu S/S 25 Show">More...</a>
-
-## Present Space
-[Read more](https://models.com/work/present-space-the-athletes-body)
-
-Published: Fri, 13 Sep 2024 18:56:45 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329027/2329027-800w.jpg" /></p>The Athlete's Body <a href="https://models.com/work/present-space-the-athletes-body" title="The Athlete's Body">More...</a>
-
-## Di Petsa
-[Read more](https://models.com/work/di-petsa-di-petsa-ss-25-show)
-
-Published: Fri, 13 Sep 2024 18:38:25 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329677/2329677-800w.jpg" /></p>Di Petsa S/S 25 Show <a href="https://models.com/work/di-petsa-di-petsa-ss-25-show" title="Di Petsa S/S 25 Show">More...</a>
-
-## Present Space
-[Read more](https://models.com/work/present-space-in-the-mood)
-
-Published: Fri, 13 Sep 2024 18:34:52 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328957/2328957-800w.jpg" /></p>In the Mood <a href="https://models.com/work/present-space-in-the-mood" title="In the Mood">More...</a>
-
-## Present Space
-[Read more](https://models.com/work/present-space-a-reverie-in-primary-colour)
-
-Published: Fri, 13 Sep 2024 18:29:58 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328945/2328945-800w.jpg" /></p>A Reverie in Primary Colour <a href="https://models.com/work/present-space-a-reverie-in-primary-colour" title="A Reverie in Primary Colour">More...</a>
-
-## Present Space
-[Read more](https://models.com/work/present-space-slicked-back)
-
-Published: Fri, 13 Sep 2024 18:25:24 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2328923/2328923-800w.jpg" /></p>Slicked Back <a href="https://models.com/work/present-space-slicked-back" title="Slicked Back">More...</a>
 
