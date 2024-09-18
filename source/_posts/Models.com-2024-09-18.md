@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-18
-date: 2024-09-18 06:04:43
+date: 2024-09-18 12:05:40
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,69 @@ comments: true
 ---
 
 # Models.com for 2024-09-18
+
+## Armani Exchange
+[Read more](https://models.com/work/armani-exchange-axfw24)
+
+Published: Wed, 18 Sep 2024 10:58:28 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333828/2333828-800w.jpg" /></p>AXFW24 <a href="https://models.com/work/armani-exchange-axfw24" title="AXFW24">More...</a>
+
+## Fay
+[Read more](https://models.com/work/fay-fay-junior-fw-2425-by-amina-marazzi-gandolfi)
+
+Published: Wed, 18 Sep 2024 08:19:57 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333599/2333599-800w.jpg" /></p>Fay Junior FW 24/25 by Amina Marazzi Gandolfi <a href="https://models.com/work/fay-fay-junior-fw-2425-by-amina-marazzi-gandolfi" title="Fay Junior FW 24/25 by Amina Marazzi Gandolfi">More...</a>
+
+## Various Lookbooks/Catalogs
+[Read more](https://models.com/work/various-lookbookscatalogs-simona-corsellini-fw-2425-back-to-school)
+
+Published: Wed, 18 Sep 2024 08:08:40 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333592/2333592-800w.jpg" /></p>Simona Corsellini FW 24/25 Back to school <a href="https://models.com/work/various-lookbookscatalogs-simona-corsellini-fw-2425-back-to-school" title="Simona Corsellini FW 24/25 Back to school">More...</a>
+
+## Purple Magazine
+[Read more](https://models.com/work/purple-magazine-magic-issue---sweden)
+
+Published: Wed, 18 Sep 2024 07:58:28 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333664/2333664-800w.jpg" /></p>Magic Issue - Sweden <a href="https://models.com/work/purple-magazine-magic-issue---sweden" title="Magic Issue - Sweden">More...</a>
+
+## Various Lookbooks/Catalogs
+[Read more](https://models.com/work/various-lookbookscatalogs-simona-corsellini-fw-2425)
+
+Published: Wed, 18 Sep 2024 07:48:03 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333542/2333542-800w.jpg" /></p>Simona Corsellini FW 24/25 <a href="https://models.com/work/various-lookbookscatalogs-simona-corsellini-fw-2425" title="Simona Corsellini FW 24/25">More...</a>
+
+## Palm Angels
+[Read more](https://models.com/work/palm-angels-palm-angels-fw24-by-lukas-gansterer)
+
+Published: Wed, 18 Sep 2024 07:31:26 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333520/2333520-800w.jpg" /></p>Palm Angels FW24 by Lukas Gansterer <a href="https://models.com/work/palm-angels-palm-angels-fw24-by-lukas-gansterer" title="Palm Angels FW24 by Lukas Gansterer">More...</a>
+
+## Heroine Magazine
+[Read more](https://models.com/work/heroine-magazine-issue-21)
+
+Published: Wed, 18 Sep 2024 07:17:55 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333515/2333515-800w.jpg" /></p>Issue 21 <a href="https://models.com/work/heroine-magazine-issue-21" title="Issue 21">More...</a>
+
+## Calvin Klein
+[Read more](https://models.com/work/calvin-klein-calvin-klein-fw-24-underwear-campaign)
+
+Published: Wed, 18 Sep 2024 06:58:41 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333510/2333510-800w.jpg" /></p>Calvin Klein F/W 24 Underwear Campaign <a href="https://models.com/work/calvin-klein-calvin-klein-fw-24-underwear-campaign" title="Calvin Klein F/W 24 Underwear Campaign">More...</a>
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-prange-schuhe-magazine-herbstwinter-2024)
+
+Published: Wed, 18 Sep 2024 05:26:52 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333495/2333495-800w.jpg" /></p>Prange Schuhe Magazine Herbst/Winter 2024 <a href="https://models.com/work/various-editorials-prange-schuhe-magazine-herbstwinter-2024" title="Prange Schuhe Magazine Herbst/Winter 2024">More...</a>
 
 ## L'Officiel Malaysia
 [Read more](https://models.com/work/lofficiel-malaysia-take-a-bow-photograph-by-kenji-otsuka)
@@ -32,6 +95,13 @@ Published: Wed, 18 Sep 2024 02:40:05 GMT
 Published: Wed, 18 Sep 2024 02:24:24 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333416/2333416-800w.jpg" /></p>L'Officiel Liechtenstein - Millie Gibson <a href="https://models.com/work/lofficiel-liechtenstein-lofficiel-liechtenstein---millie-gibson" title="L'Officiel Liechtenstein - Millie Gibson">More...</a>
+
+## Noon by Noor
+[Read more](https://models.com/work/noon-by-noor-noon-by-noor-ss-25-show)
+
+Published: Wed, 18 Sep 2024 00:25:08 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333640/2333640-800w.jpg" /></p>Noon by Noor S/S 25 Show <a href="https://models.com/work/noon-by-noor-noon-by-noor-ss-25-show" title="Noon by Noor S/S 25 Show">More...</a>
 
 ## Manifesto Magazine
 [Read more](https://models.com/work/manifesto-magazine-the-beautiful-contrast)
@@ -859,6 +929,20 @@ Published: Sat, 14 Sep 2024 17:00:25 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2330784/2330784-800w.jpg" /></p>Feben S/S 25 Show <a href="https://models.com/work/feben-feben-ss-25-show" title="Feben S/S 25 Show">More...</a>
 
+## Mixte
+[Read more](https://models.com/work/mixte-no-place-like-home)
+
+Published: Sat, 14 Sep 2024 16:59:28 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330238/2330238-800w.jpg" /></p>No Place Like Home <a href="https://models.com/work/mixte-no-place-like-home" title="No Place Like Home">More...</a>
+
+## Mixte
+[Read more](https://models.com/work/mixte-mixte-fw-2024-cover-state-of-nature)
+
+Published: Sat, 14 Sep 2024 16:51:00 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2330235/2330235-800w.jpg" /></p>Mixte F/W 2024 Cover: State of nature <a href="https://models.com/work/mixte-mixte-fw-2024-cover-state-of-nature" title="Mixte F/W 2024 Cover: State of nature">More...</a>
+
 ## Various Shows
 [Read more](https://models.com/work/various-shows-lueder-ss-25-show)
 
@@ -977,88 +1061,4 @@ Published: Sat, 14 Sep 2024 07:42:39 GMT
 Published: Sat, 14 Sep 2024 06:37:46 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2329290/2329290-800w.jpg" /></p>Justin Cassin S/S 25 Men's Show <a href="https://models.com/work/various-shows-justin-cassin-ss-25-mens-show" title="Justin Cassin S/S 25 Men's Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-natasha-zinko-ss-25-show)
-
-Published: Sat, 14 Sep 2024 04:08:08 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329737/2329737-800w.jpg" /></p>Natasha Zinko S/S 25 Show <a href="https://models.com/work/various-shows-natasha-zinko-ss-25-show" title="Natasha Zinko S/S 25 Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-derrick-ss-25-mens-show)
-
-Published: Sat, 14 Sep 2024 03:39:49 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329309/2329309-800w.jpg" /></p>Derrick S/S 25 Men's Show <a href="https://models.com/work/various-shows-derrick-ss-25-mens-show" title="Derrick S/S 25 Men's Show">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-tropical-chic)
-
-Published: Sat, 14 Sep 2024 02:32:26 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333479/2333479-800w.jpg" /></p>Tropical Chic <a href="https://models.com/work/various-editorials-tropical-chic" title="Tropical Chic">More...</a>
-
-## Yohji Yamamoto
-[Read more](https://models.com/work/yohji-yamamoto-yohji-yamamoto-pour-homme-aw2024)
-
-Published: Sat, 14 Sep 2024 01:40:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329171/2329171-800w.jpg" /></p>Yohji Yamamoto POUR HOMME AW2024 <a href="https://models.com/work/yohji-yamamoto-yohji-yamamoto-pour-homme-aw2024" title="Yohji Yamamoto POUR HOMME AW2024">More...</a>
-
-## Grazia Italy
-[Read more](https://models.com/work/grazia-italy-a-white-milano-2024-in-scena-la-moda-donna-prt--porter-della-prossima-stagione)
-
-Published: Sat, 14 Sep 2024 01:36:37 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329164/2329164-800w.jpg" /></p>A WHITE Milano 2024 in scena la moda donna prêt-à-porter della prossima stagione <a href="https://models.com/work/grazia-italy-a-white-milano-2024-in-scena-la-moda-donna-prt--porter-della-prossima-stagione" title="A WHITE Milano 2024 in scena la moda donna prêt-à-porter della prossima stagione">More...</a>
-
-## Various Campaigns
-[Read more](https://models.com/work/various-campaigns-plain-goods-hs24-campaign)
-
-Published: Sat, 14 Sep 2024 00:56:32 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329153/2329153-800w.jpg" /></p>PLAIN GOODS HS24 CAMPAIGN <a href="https://models.com/work/various-campaigns-plain-goods-hs24-campaign" title="PLAIN GOODS HS24 CAMPAIGN">More...</a>
-
-## Chet Lo
-[Read more](https://models.com/work/chet-lo-chet-lo-ss-25-show)
-
-Published: Sat, 14 Sep 2024 00:52:55 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329863/2329863-800w.jpg" /></p>Chet Lo S/S 25 Show <a href="https://models.com/work/chet-lo-chet-lo-ss-25-show" title="Chet Lo S/S 25 Show">More...</a>
-
-## Mark Fast
-[Read more](https://models.com/work/mark-fast-mark-fast-ss-25-show-1)
-
-Published: Sat, 14 Sep 2024 00:08:24 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330018/2330018-800w.jpg" /></p>Mark Fast S/S 25 Show <a href="https://models.com/work/mark-fast-mark-fast-ss-25-show-1" title="Mark Fast S/S 25 Show">More...</a>
-
-## Yuhan Wang
-[Read more](https://models.com/work/yuhan-wang-yuhan-wang-ss-25-show)
-
-Published: Fri, 13 Sep 2024 23:32:53 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329929/2329929-800w.jpg" /></p>Yuhan Wang S/S 25 Show <a href="https://models.com/work/yuhan-wang-yuhan-wang-ss-25-show" title="Yuhan Wang S/S 25 Show">More...</a>
-
-## Muse Magazine
-[Read more](https://models.com/work/muse-magazine-muse-magazine-september-2024-cover)
-
-Published: Fri, 13 Sep 2024 22:02:49 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329097/2329097-800w.jpg" /></p>Muse Magazine September 2024 Cover <a href="https://models.com/work/muse-magazine-muse-magazine-september-2024-cover" title="Muse Magazine September 2024 Cover">More...</a>
-
-## Muse Magazine
-[Read more](https://models.com/work/muse-magazine-abby)
-
-Published: Fri, 13 Sep 2024 21:58:42 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329087/2329087-800w.jpg" /></p>ABBY <a href="https://models.com/work/muse-magazine-abby" title="ABBY">More...</a>
-
-## S.S Daley
-[Read more](https://models.com/work/ss-daley-ss-daley-ss-25-show)
-
-Published: Fri, 13 Sep 2024 21:22:10 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2329895/2329895-800w.jpg" /></p>S.S. Daley S/S 25 Show <a href="https://models.com/work/ss-daley-ss-daley-ss-25-show" title="S.S. Daley S/S 25 Show">More...</a>
 
