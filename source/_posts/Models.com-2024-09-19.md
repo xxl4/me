@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-19
-date: 2024-09-19 00:13:39
+date: 2024-09-19 06:04:50
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,27 @@ comments: true
 ---
 
 # Models.com for 2024-09-19
+
+## Elle France
+[Read more](https://models.com/work/elle-france-chacune-trouve-sonsac)
+
+Published: Thu, 19 Sep 2024 04:07:49 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335225/2335225-800w.jpg" /></p>CHACUNE TROUVE SONSAC <a href="https://models.com/work/elle-france-chacune-trouve-sonsac" title="CHACUNE TROUVE SONSAC">More...</a>
+
+## Vogue China
+[Read more](https://models.com/work/vogue-china-double-act)
+
+Published: Thu, 19 Sep 2024 03:18:57 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335216/2335216-800w.jpg" /></p>如在镜中DOUBLE ACT <a href="https://models.com/work/vogue-china-double-act" title="如在镜中DOUBLE ACT">More...</a>
+
+## Marco Rambaldi
+[Read more](https://models.com/work/marco-rambaldi-marco-rambaldi-ss-25-show)
+
+Published: Thu, 19 Sep 2024 00:47:55 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335145/2335145-800w.jpg" /></p>Marco Rambaldi S/S 25 Show <a href="https://models.com/work/marco-rambaldi-marco-rambaldi-ss-25-show" title="Marco Rambaldi S/S 25 Show">More...</a>
 
 ## Etro
 [Read more](https://models.com/work/etro-etro-ss-25-show)
@@ -235,6 +256,13 @@ Published: Wed, 18 Sep 2024 10:58:28 GMT
 Published: Wed, 18 Sep 2024 09:33:06 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333692/2333692-800w.jpg" /></p>Arket Autumn/Winter2024 <a href="https://models.com/work/arket-automne-hiver-2024" title="Arket Autumn/Winter2024">More...</a>
+
+## Marie Claire Italia
+[Read more](https://models.com/work/marie-claire-italia-preziosa)
+
+Published: Wed, 18 Sep 2024 08:22:12 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333614/2333614-800w.jpg" /></p>PREZIOSA <a href="https://models.com/work/marie-claire-italia-preziosa" title="PREZIOSA">More...</a>
 
 ## Fay
 [Read more](https://models.com/work/fay-fay-junior-fw-2425-by-amina-marazzi-gandolfi)
@@ -1033,32 +1061,4 @@ Published: Sun, 15 Sep 2024 16:59:59 GMT
 Published: Sun, 15 Sep 2024 15:20:00 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2332795/2332795-800w.jpg" /></p>Roksanda S/S 25 Show <a href="https://models.com/work/roksanda-roksanda-ss-25-show" title="Roksanda S/S 25 Show">More...</a>
-
-## BOSS
-[Read more](https://models.com/work/boss-new-office-1)
-
-Published: Sun, 15 Sep 2024 15:18:45 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330828/2330828-800w.jpg" /></p>New Office <a href="https://models.com/work/boss-new-office-1" title="New Office">More...</a>
-
-## Dazed Magazine
-[Read more](https://models.com/work/dazed-magazine-you-exist-only-in-what-you-do)
-
-Published: Sun, 15 Sep 2024 15:07:03 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330812/2330812-800w.jpg" /></p>You Exist Only in What You Do <a href="https://models.com/work/dazed-magazine-you-exist-only-in-what-you-do" title="You Exist Only in What You Do">More...</a>
-
-## Versace
-[Read more](https://models.com/work/versace-bright-crystal)
-
-Published: Sun, 15 Sep 2024 13:45:50 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330563/2330563-800w.jpg" /></p>Bright Crystal <a href="https://models.com/work/versace-bright-crystal" title="Bright Crystal">More...</a>
-
-## Karoline Vitto
-[Read more](https://models.com/work/karoline-vitto-karoline-vitto-ss-25-show)
-
-Published: Sun, 15 Sep 2024 13:32:42 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2332049/2332049-800w.jpg" /></p>Karoline Vitto S/S 25 Show <a href="https://models.com/work/karoline-vitto-karoline-vitto-ss-25-show" title="Karoline Vitto S/S 25 Show">More...</a>
 
