@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-19
-date: 2024-09-19 06:04:50
+date: 2024-09-19 12:05:25
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,83 @@ comments: true
 ---
 
 # Models.com for 2024-09-19
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-artribune-magazine)
+
+Published: Thu, 19 Sep 2024 11:32:57 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335495/2335495-800w.jpg" /></p>Artribune magazine <a href="https://models.com/work/various-editorials-artribune-magazine" title="Artribune magazine">More...</a>
+
+## Levi's
+[Read more](https://models.com/work/levis-levis---back-at-it)
+
+Published: Thu, 19 Sep 2024 11:11:18 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335433/2335433-800w.jpg" /></p>Levi's - Back At It <a href="https://models.com/work/levis-levis---back-at-it" title="Levi's - Back At It">More...</a>
+
+## Precious Lee On Reaching New Supers Status With Poise
+[Read more](https://models.com/mdx/precious-lee-on-reaching-new-supers-status-with-poise/)
+
+Published: Thu, 19 Sep 2024 11:00:52 GMT
+
+<p><img alt="" class="attachment-medium size-medium wp-post-image" height="720" src="https://i.mdel.net/mdx/i/2024/09/PRECIOUS-LEE-FINAL-005-2k16x9-2.jpg" width="1280" /></p>Precious Lee On Reaching New Supers Status With Poise Few names attract attention on a call sheet, quite like New Super Precious Lee. She stands as a part of the new gen of influential models reshaping the landscape of fashion today, a terrain that still deals with the ebbs and flow of fashion’s sizing inclusivity [&hellip;] <a href="https://models.com/mdx/precious-lee-on-reaching-new-supers-status-with-poise/" title="Precious Lee On Reaching New Supers Status With Poise">More...</a>
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-nikki-v)
+
+Published: Thu, 19 Sep 2024 08:58:36 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335364/2335364-800w.jpg" /></p>NIKKI V <a href="https://models.com/work/various-editorials-nikki-v" title="NIKKI V">More...</a>
+
+## United Colors of Benetton
+[Read more](https://models.com/work/united-colors-of-benetton-ss24-lookbook)
+
+Published: Thu, 19 Sep 2024 08:54:07 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335360/2335360-800w.jpg" /></p>SS'24 Lookbook <a href="https://models.com/work/united-colors-of-benetton-ss24-lookbook" title="SS'24 Lookbook">More...</a>
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-sun-club-campaign-2024)
+
+Published: Thu, 19 Sep 2024 08:51:21 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335352/2335352-800w.jpg" /></p>SUN CLUB CAMPAIGN 2024 <a href="https://models.com/work/various-editorials-sun-club-campaign-2024" title="SUN CLUB CAMPAIGN 2024">More...</a>
+
+## Cordera
+[Read more](https://models.com/work/cordera-ss24)
+
+Published: Thu, 19 Sep 2024 08:38:48 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335344/2335344-800w.jpg" /></p>SS24 <a href="https://models.com/work/cordera-ss24" title="SS24">More...</a>
+
+## Arket
+[Read more](https://models.com/work/arket-fw24-campaign)
+
+Published: Thu, 19 Sep 2024 08:33:23 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335400/2335400-800w.jpg" /></p>FW'24 Campaign <a href="https://models.com/work/arket-fw24-campaign" title="FW'24 Campaign">More...</a>
+
+## Video
+[Read more](https://models.com/work/video-luza-perote-an-elite-model-diary-ss25)
+
+Published: Thu, 19 Sep 2024 07:29:06 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335307/2335307-800w.jpg" /></p>LUÍZA PEROTE: an elite model diary SS25 <a href="https://models.com/work/video-luza-perote-an-elite-model-diary-ss25" title="LUÍZA PEROTE: an elite model diary SS25">More...</a>
+
+## Denham
+[Read more](https://models.com/work/denham-denham-ss-24-campaign)
+
+Published: Thu, 19 Sep 2024 06:51:31 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335297/2335297-800w.jpg" /></p>Denham S/S 24 Campaign <a href="https://models.com/work/denham-denham-ss-24-campaign" title="Denham S/S 24 Campaign">More...</a>
+
+## Vogue Netherlands
+[Read more](https://models.com/work/vogue-netherlands-vogue-netherlands-june-2024-cover-1)
+
+Published: Thu, 19 Sep 2024 06:49:05 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335293/2335293-800w.jpg" /></p>Vogue Netherlands June 2024 Cover <a href="https://models.com/work/vogue-netherlands-vogue-netherlands-june-2024-cover-1" title="Vogue Netherlands June 2024 Cover">More...</a>
 
 ## Elle France
 [Read more](https://models.com/work/elle-france-chacune-trouve-sonsac)
@@ -26,19 +103,19 @@ Published: Thu, 19 Sep 2024 03:18:57 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2335216/2335216-800w.jpg" /></p>如在镜中DOUBLE ACT <a href="https://models.com/work/vogue-china-double-act" title="如在镜中DOUBLE ACT">More...</a>
 
+## Onitsuka Tiger
+[Read more](https://models.com/work/onitsuka-tiger-onitsuka-tiger-ss-25-show)
+
+Published: Thu, 19 Sep 2024 01:05:38 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335312/2335312-800w.jpg" /></p>Onitsuka Tiger S/S 25 Show <a href="https://models.com/work/onitsuka-tiger-onitsuka-tiger-ss-25-show" title="Onitsuka Tiger S/S 25 Show">More...</a>
+
 ## Marco Rambaldi
 [Read more](https://models.com/work/marco-rambaldi-marco-rambaldi-ss-25-show)
 
 Published: Thu, 19 Sep 2024 00:47:55 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2335145/2335145-800w.jpg" /></p>Marco Rambaldi S/S 25 Show <a href="https://models.com/work/marco-rambaldi-marco-rambaldi-ss-25-show" title="Marco Rambaldi S/S 25 Show">More...</a>
-
-## Etro
-[Read more](https://models.com/work/etro-etro-ss-25-show)
-
-Published: Wed, 18 Sep 2024 21:42:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335049/2335049-800w.jpg" /></p>Etro S/S 25 Show <a href="https://models.com/work/etro-etro-ss-25-show" title="Etro S/S 25 Show">More...</a>
 
 ## Pat McGrath Labs
 [Read more](https://models.com/work/pat-mcgrath-labs-xtreme-cyber-lotus)
@@ -60,6 +137,13 @@ Published: Wed, 18 Sep 2024 19:34:26 GMT
 Published: Wed, 18 Sep 2024 19:21:32 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334917/2334917-800w.jpg" /></p>The NEW Look of Clean Invisible <a href="https://models.com/work/covergirl-the-new-look-of-clean-invisible" title="The NEW Look of Clean Invisible">More...</a>
+
+## Models.com
+[Read more](https://models.com/work/modelscom-precious-lee-on-reaching-new-supers-status-with-poise)
+
+Published: Wed, 18 Sep 2024 18:25:15 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335450/2335450-800w.jpg" /></p>Precious Lee On Reaching New Supers Status With Poise <a href="https://models.com/work/modelscom-precious-lee-on-reaching-new-supers-status-with-poise" title="Precious Lee On Reaching New Supers Status With Poise">More...</a>
 
 ## Redemption
 [Read more](https://models.com/work/redemption-redemption-ss-25-show)
@@ -96,12 +180,26 @@ Published: Wed, 18 Sep 2024 16:17:44 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334747/2334747-800w.jpg" /></p>Harper's Bazaar Greece October 2024 Cover <a href="https://models.com/work/harpers-bazaar-greece-harpers-bazaar-greece-october-2024-cover" title="Harper's Bazaar Greece October 2024 Cover">More...</a>
 
+## Del Core
+[Read more](https://models.com/work/del-core-del-core-ss-25-show)
+
+Published: Wed, 18 Sep 2024 16:15:38 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335452/2335452-800w.jpg" /></p>Del Core S/S 25 Show <a href="https://models.com/work/del-core-del-core-ss-25-show" title="Del Core S/S 25 Show">More...</a>
+
 ## Harper's Bazaar Greece
 [Read more](https://models.com/work/harpers-bazaar-greece-seasons-bests)
 
 Published: Wed, 18 Sep 2024 16:14:01 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334733/2334733-800w.jpg" /></p>Season's Bests <a href="https://models.com/work/harpers-bazaar-greece-seasons-bests" title="Season's Bests">More...</a>
+
+## Financial Times - HTSI Magazine
+[Read more](https://models.com/work/financial-times---htsi-magazine-financial-times---htsi-magazine-09212024-cover)
+
+Published: Wed, 18 Sep 2024 16:03:39 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335408/2335408-800w.jpg" /></p>Financial Times - HTSI Magazine 09/21/2024 Cover <a href="https://models.com/work/financial-times---htsi-magazine-financial-times---htsi-magazine-09212024-cover" title="Financial Times - HTSI Magazine 09/21/2024 Cover">More...</a>
 
 ## Self Service
 [Read more](https://models.com/work/self-service-self-service-61-fallwinter-2024-covers)
@@ -186,13 +284,6 @@ Published: Wed, 18 Sep 2024 13:46:35 GMT
 Published: Wed, 18 Sep 2024 13:25:28 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334110/2334110-800w.jpg" /></p>CHIC, LE HOODIE for encore! <a href="https://models.com/work/various-editorials-chic-le-hoodie-for-encore" title="CHIC, LE HOODIE for encore!">More...</a>
-
-## Jil Sander
-[Read more](https://models.com/work/jil-sander-jil-sander-ss-25-show)
-
-Published: Wed, 18 Sep 2024 13:21:01 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334118/2334118-800w.jpg" /></p>Jil Sander S/S 25 Show <a href="https://models.com/work/jil-sander-jil-sander-ss-25-show" title="Jil Sander S/S 25 Show">More...</a>
 
 ## Various Covers
 [Read more](https://models.com/work/various-covers-encore-september-2024-cover)
@@ -312,6 +403,13 @@ Published: Wed, 18 Sep 2024 07:17:55 GMT
 Published: Wed, 18 Sep 2024 06:58:41 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333510/2333510-800w.jpg" /></p>Calvin Klein F/W 24 Underwear Campaign <a href="https://models.com/work/calvin-klein-calvin-klein-fw-24-underwear-campaign" title="Calvin Klein F/W 24 Underwear Campaign">More...</a>
+
+## Harper's Bazaar Germany
+[Read more](https://models.com/work/harpers-bazaar-germany-take-a-bow)
+
+Published: Wed, 18 Sep 2024 06:03:24 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2335239/2335239-800w.jpg" /></p>Take A Bow <a href="https://models.com/work/harpers-bazaar-germany-take-a-bow" title="Take A Bow">More...</a>
 
 ## Harper's Bazaar Germany
 [Read more](https://models.com/work/harpers-bazaar-germany-land-in-sicht)
@@ -446,13 +544,6 @@ Published: Tue, 17 Sep 2024 18:01:25 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333150/2333150-800w.jpg" /></p>SARA <a href="https://models.com/work/heroine-magazine-sara-1" title="SARA">More...</a>
 
-## See What the Models Wore Off-Duty During LFW S/S 25 Days 1-4
-[Read more](https://models.com/mdx/see-what-the-models-wore-off-duty-during-lfw-s-s-25-days-1-4/)
-
-Published: Tue, 17 Sep 2024 17:58:48 GMT
-
-<p><img alt="" class="attachment-medium size-medium wp-post-image" height="720" src="https://i.mdel.net/mdx/i/2024/09/cover-LFW.jpg" width="1280" /></p>models.Street Style See What the Models Wore Off-Duty During LFW S/S 25 Days 1-4 London Fashion Week has wrapped up, but the street style moments from days 1-4 are still buzzing. From models stepping out of Nensi Dojaka’s lingerie collaboration with Calvin Klein, to J.W. Anderson’s trompe l’oeil-filled collection, and Burberry’s emphasis on wearability, we [&hellip;] <a href="https://models.com/mdx/see-what-the-models-wore-off-duty-during-lfw-s-s-25-days-1-4/" title="See What the Models Wore Off-Duty During LFW S/S 25 Days 1-4">More...</a>
-
 ## Schön Magazine
 [Read more](https://models.com/work/schn-magazine-dream-of-the-fishermans-wife)
 
@@ -494,6 +585,13 @@ Published: Tue, 17 Sep 2024 16:17:04 GMT
 Published: Tue, 17 Sep 2024 16:15:22 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333062/2333062-800w.jpg" /></p>Back To The Future Fendi Special <a href="https://models.com/work/gq-middle-east-back-to-the-future-fendi-special" title="Back To The Future Fendi Special">More...</a>
+
+## See What the Models Wore Off-Duty During LFW S/S 25 Days 1-4
+[Read more](https://models.com/mdx/see-what-the-models-wore-off-duty-during-lfw-s-s-25-days-1-4/)
+
+Published: Tue, 17 Sep 2024 16:00:48 GMT
+
+<p><img alt="" class="attachment-medium size-medium wp-post-image" height="720" src="https://i.mdel.net/mdx/i/2024/09/cover-LFW.jpg" width="1280" /></p>models.Street Style See What the Models Wore Off-Duty During LFW S/S 25 Days 1-4 London Fashion Week has wrapped up, but the street style moments from days 1-4 are still buzzing. From models stepping out of Nensi Dojaka’s lingerie collaboration with Calvin Klein, to J.W. Anderson’s trompe l’oeil-filled collection, and Burberry’s emphasis on wearability, we [&hellip;] <a href="https://models.com/mdx/see-what-the-models-wore-off-duty-during-lfw-s-s-25-days-1-4/" title="See What the Models Wore Off-Duty During LFW S/S 25 Days 1-4">More...</a>
 
 ## Mowalola
 [Read more](https://models.com/work/mowalola-mowalola-ss-25-show)
@@ -963,102 +1061,4 @@ Published: Mon, 16 Sep 2024 08:00:41 GMT
 Published: Mon, 16 Sep 2024 07:09:42 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2331352/2331352-800w.jpg" /></p>Elle Slovenia September 2024 Cover <a href="https://models.com/work/elle-slovenia-elle-slovenia-september-2024-cover" title="Elle Slovenia September 2024 Cover">More...</a>
-
-## Tolu Coker
-[Read more](https://models.com/work/tolu-coker-tolu-coker-ss-25-show)
-
-Published: Mon, 16 Sep 2024 03:43:05 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331541/2331541-800w.jpg" /></p>Tolu Coker S/S 25 Show <a href="https://models.com/work/tolu-coker-tolu-coker-ss-25-show" title="Tolu Coker S/S 25 Show">More...</a>
-
-## Jawara Alleyne
-[Read more](https://models.com/work/jawara-alleyne-jawara-alleyne-ss-25-show)
-
-Published: Mon, 16 Sep 2024 02:59:53 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331705/2331705-800w.jpg" /></p>Jawara Alleyne S/S 25 Show <a href="https://models.com/work/jawara-alleyne-jawara-alleyne-ss-25-show" title="Jawara Alleyne S/S 25 Show">More...</a>
-
-## Mithridate
-[Read more](https://models.com/work/mithridate-mithridate-ss-25-show)
-
-Published: Mon, 16 Sep 2024 02:57:27 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331330/2331330-800w.jpg" /></p>Mithridate S/S 25 Show <a href="https://models.com/work/mithridate-mithridate-ss-25-show" title="Mithridate S/S 25 Show">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-a-visual-journey-through-enss-identity-photography-by-suus-waijers)
-
-Published: Mon, 16 Sep 2024 00:13:25 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331142/2331142-800w.jpg" /></p>A visual journey through ENSŌ’s identity photography by Suus Waijers <a href="https://models.com/work/various-lookbookscatalogs-a-visual-journey-through-enss-identity-photography-by-suus-waijers" title="A visual journey through ENSŌ’s identity photography by Suus Waijers">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-atelier-bestiaire---antler)
-
-Published: Mon, 16 Sep 2024 00:08:19 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331073/2331073-800w.jpg" /></p>ATELIER BESTIAIRE - ANTLER <a href="https://models.com/work/various-lookbookscatalogs-atelier-bestiaire---antler" title="ATELIER BESTIAIRE - ANTLER">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-arenas-for-badlon-magazine-by-isa-beau-van-eembergen)
-
-Published: Mon, 16 Sep 2024 00:03:42 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331067/2331067-800w.jpg" /></p>ARENAS for BADLON MAGAZINE by ISA BEAU VAN EEMBERGEN <a href="https://models.com/work/various-editorials-arenas-for-badlon-magazine-by-isa-beau-van-eembergen" title="ARENAS for BADLON MAGAZINE by ISA BEAU VAN EEMBERGEN">More...</a>
-
-## Emilia Wickstead
-[Read more](https://models.com/work/emilia-wickstead-emilia-wickstead-ss-25-show)
-
-Published: Sun, 15 Sep 2024 23:51:07 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331223/2331223-800w.jpg" /></p>Emilia Wickstead S/S 25 Show <a href="https://models.com/work/emilia-wickstead-emilia-wickstead-ss-25-show" title="Emilia Wickstead S/S 25 Show">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-the-anthology-pre-fall-24-photography-alex-natt)
-
-Published: Sun, 15 Sep 2024 19:12:17 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330929/2330929-800w.jpg" /></p>The Anthology Pre-Fall 24 Photography Alex Natt <a href="https://models.com/work/various-lookbookscatalogs-the-anthology-pre-fall-24-photography-alex-natt" title="The Anthology Pre-Fall 24 Photography Alex Natt">More...</a>
-
-## Portrait
-[Read more](https://models.com/work/portrait-alexis-papas)
-
-Published: Sun, 15 Sep 2024 19:03:52 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330921/2330921-800w.jpg" /></p>Alexis Papas <a href="https://models.com/work/portrait-alexis-papas" title="Alexis Papas">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-mains-ss-25-show)
-
-Published: Sun, 15 Sep 2024 17:54:20 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330879/2330879-800w.jpg" /></p>Mains S/S 25 Show <a href="https://models.com/work/various-shows-mains-ss-25-show" title="Mains S/S 25 Show">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-harri-ss-25-show)
-
-Published: Sun, 15 Sep 2024 17:51:26 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331757/2331757-800w.jpg" /></p>Harri S/S 25 Show <a href="https://models.com/work/various-shows-harri-ss-25-show" title="Harri S/S 25 Show">More...</a>
-
-## Marie Claire Greece
-[Read more](https://models.com/work/marie-claire-greece-vive-la-difference)
-
-Published: Sun, 15 Sep 2024 17:27:36 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2330853/2330853-800w.jpg" /></p>VIVE LA DIFFERENCE <a href="https://models.com/work/marie-claire-greece-vive-la-difference" title="VIVE LA DIFFERENCE">More...</a>
-
-## 16Arlington
-[Read more](https://models.com/work/16arlington-16arlington-ss-25-show)
-
-Published: Sun, 15 Sep 2024 16:59:59 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2331145/2331145-800w.jpg" /></p>16Arlington S/S 25 Show <a href="https://models.com/work/16arlington-16arlington-ss-25-show" title="16Arlington S/S 25 Show">More...</a>
-
-## Roksanda
-[Read more](https://models.com/work/roksanda-roksanda-ss-25-show)
-
-Published: Sun, 15 Sep 2024 15:20:00 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2332795/2332795-800w.jpg" /></p>Roksanda S/S 25 Show <a href="https://models.com/work/roksanda-roksanda-ss-25-show" title="Roksanda S/S 25 Show">More...</a>
 
