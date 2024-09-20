@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-20
-date: 2024-09-20 12:05:32
+date: 2024-09-20 18:04:32
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,139 @@ comments: true
 ---
 
 # Models.com for 2024-09-20
+
+## Gucci
+[Read more](https://models.com/work/gucci-gucci-ss-25-show)
+
+Published: Fri, 20 Sep 2024 17:14:38 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337418/2337418-800w.jpg" /></p>Gucci S/S 25 Show <a href="https://models.com/work/gucci-gucci-ss-25-show" title="Gucci S/S 25 Show">More...</a>
+
+## What's Contemporary
+[Read more](https://models.com/work/whats-contemporary-whats-contemporary-now-with-suzanne-koller)
+
+Published: Fri, 20 Sep 2024 14:46:18 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337354/2337354-800w.jpg" /></p>What's Contemporary Now? with Suzanne Koller <a href="https://models.com/work/whats-contemporary-whats-contemporary-now-with-suzanne-koller" title="What's Contemporary Now? with Suzanne Koller">More...</a>
+
+## What's Contemporary
+[Read more](https://models.com/work/whats-contemporary-whats-contemporary-now-with-melitta-baumeister--henry-zankov)
+
+Published: Fri, 20 Sep 2024 14:36:18 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337333/2337333-800w.jpg" /></p>What's Contemporary Now? with Melitta Baumeister & Henry Zankov <a href="https://models.com/work/whats-contemporary-whats-contemporary-now-with-melitta-baumeister--henry-zankov" title="What's Contemporary Now? with Melitta Baumeister &amp; Henry Zankov">More...</a>
+
+## What's Contemporary
+[Read more](https://models.com/work/whats-contemporary-whats-contemporary-now-with-shona-heath)
+
+Published: Fri, 20 Sep 2024 14:27:04 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337322/2337322-800w.jpg" /></p>What's Contemporary Now? with Shona Heath <a href="https://models.com/work/whats-contemporary-whats-contemporary-now-with-shona-heath" title="What's Contemporary Now? with Shona Heath">More...</a>
+
+## M Revista de Milenio
+[Read more](https://models.com/work/m-revista-de-milenio-m-revista-de-milenio--interview-with-rosie-huntington-whiteley)
+
+Published: Fri, 20 Sep 2024 14:24:31 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337320/2337320-800w.jpg" /></p>M Revista De Milenio / Interview with Rosie Huntington-Whiteley <a href="https://models.com/work/m-revista-de-milenio-m-revista-de-milenio--interview-with-rosie-huntington-whiteley" title="M Revista De Milenio / Interview with Rosie Huntington-Whiteley">More...</a>
+
+## What's Contemporary
+[Read more](https://models.com/work/whats-contemporary-whats-contemporary-now-with-dara)
+
+Published: Fri, 20 Sep 2024 14:22:47 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337317/2337317-800w.jpg" /></p>What's Contemporary Now? with Dara <a href="https://models.com/work/whats-contemporary-whats-contemporary-now-with-dara" title="What's Contemporary Now? with Dara">More...</a>
+
+## M Revista de Milenio
+[Read more](https://models.com/work/m-revista-de-milenio-m-revista-de-milenio-september-2024-cover-with-rosie-huntington-whiteley)
+
+Published: Fri, 20 Sep 2024 14:20:47 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337309/2337309-800w.jpg" /></p>M Revista de Milenio September 2024 Cover with Rosie Huntington-Whiteley <a href="https://models.com/work/m-revista-de-milenio-m-revista-de-milenio-september-2024-cover-with-rosie-huntington-whiteley" title="M Revista de Milenio September 2024 Cover with Rosie Huntington-Whiteley">More...</a>
+
+## L'Officiel Arabia
+[Read more](https://models.com/work/lofficiel-arabia-lofficiel-arabia-september-2024-digital-cover)
+
+Published: Fri, 20 Sep 2024 13:34:13 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337273/2337273-800w.jpg" /></p>L'Officiel Arabia September 2024 Digital Cover <a href="https://models.com/work/lofficiel-arabia-lofficiel-arabia-september-2024-digital-cover" title="L'Officiel Arabia September 2024 Digital Cover">More...</a>
+
+## HERO Magazine
+[Read more](https://models.com/work/hero-magazine-cozy-on-up-by-simon-albert-khan)
+
+Published: Fri, 20 Sep 2024 13:09:27 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337228/2337228-800w.jpg" /></p>Cozy on Up by Simon Albert Khan <a href="https://models.com/work/hero-magazine-cozy-on-up-by-simon-albert-khan" title="Cozy on Up by Simon Albert Khan">More...</a>
+
+## Sorbet Magazine
+[Read more](https://models.com/work/sorbet-magazine-nadine-labaki---photography-jihad-hojeily)
+
+Published: Fri, 20 Sep 2024 12:55:01 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337195/2337195-800w.jpg" /></p>Nadine Labaki - photography Jihad Hojeily <a href="https://models.com/work/sorbet-magazine-nadine-labaki---photography-jihad-hojeily" title="Nadine Labaki - photography Jihad Hojeily">More...</a>
+
+## M Le magazine du Monde
+[Read more](https://models.com/work/m-le-magazine-du-monde-de-cape-et-deffet)
+
+Published: Fri, 20 Sep 2024 12:41:36 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337185/2337185-800w.jpg" /></p>De cape et d'effet <a href="https://models.com/work/m-le-magazine-du-monde-de-cape-et-deffet" title="De cape et d'effet">More...</a>
+
+## Fashion & Arts Magazine
+[Read more](https://models.com/work/fashion--arts-magazine-invisible-matter)
+
+Published: Fri, 20 Sep 2024 12:08:49 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337142/2337142-800w.jpg" /></p>Invisible Matter <a href="https://models.com/work/fashion--arts-magazine-invisible-matter" title="Invisible Matter">More...</a>
+
+## Sportmax
+[Read more](https://models.com/work/sportmax-sportmax-ss-25-show)
+
+Published: Fri, 20 Sep 2024 12:06:14 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337176/2337176-800w.jpg" /></p>Sportmax S/S 25 Show <a href="https://models.com/work/sportmax-sportmax-ss-25-show" title="Sportmax S/S 25 Show">More...</a>
+
+## Harper's Bazaar China Men
+[Read more](https://models.com/work/harpers-bazaar-china-men-paper-cuttings-art)
+
+Published: Fri, 20 Sep 2024 12:00:21 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337096/2337096-800w.jpg" /></p>Paper Cuttings Art <a href="https://models.com/work/harpers-bazaar-china-men-paper-cuttings-art" title="Paper Cuttings Art">More...</a>
+
+## Vogue Polska
+[Read more](https://models.com/work/vogue-polska-cinema)
+
+Published: Fri, 20 Sep 2024 11:55:14 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337079/2337079-800w.jpg" /></p>Cinema <a href="https://models.com/work/vogue-polska-cinema" title="Cinema">More...</a>
+
+## Madame Figaro
+[Read more](https://models.com/work/madame-figaro-new-chinese-style)
+
+Published: Fri, 20 Sep 2024 11:53:05 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337077/2337077-800w.jpg" /></p>new chinese style！ <a href="https://models.com/work/madame-figaro-new-chinese-style" title="new chinese style！">More...</a>
+
+## L'Officiel China
+[Read more](https://models.com/work/lofficiel-china-huge)
+
+Published: Fri, 20 Sep 2024 11:47:21 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337060/2337060-800w.jpg" /></p>HUGE！ <a href="https://models.com/work/lofficiel-china-huge" title="HUGE！">More...</a>
+
+## 10 Men Magazine
+[Read more](https://models.com/work/10-men-magazine-walter-van-beirendonck-thriller)
+
+Published: Fri, 20 Sep 2024 11:40:52 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337056/2337056-800w.jpg" /></p>Walter Van Beirendonck: Thriller <a href="https://models.com/work/10-men-magazine-walter-van-beirendonck-thriller" title="Walter Van Beirendonck: Thriller">More...</a>
+
+## Vogue España
+[Read more](https://models.com/work/vogue-espaa-vogue-espaa-october-2024-cover)
+
+Published: Fri, 20 Sep 2024 11:30:29 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337281/2337281-800w.jpg" /></p>Vogue España October 2024 Cover <a href="https://models.com/work/vogue-espaa-vogue-espaa-october-2024-cover" title="Vogue España October 2024 Cover">More...</a>
 
 ## Allure Magazine
 [Read more](https://models.com/work/allure-magazine-intergalactic-beauty-alia-bhatt-by-scandebergs)
@@ -83,6 +216,13 @@ Published: Fri, 20 Sep 2024 09:11:12 GMT
 <p><img src="https://i.mdel.net/i/db/2024/9/2336787/2336787-800w.jpg" /></p>A couture story for a sharming day in Venice <a href="https://models.com/work/harpers-bazaar-vietnam-a-couture-story-for-a-sharming-day-in-venice" title="A couture story for a sharming day in Venice">More...</a>
 
 ## Harper's Bazaar España
+[Read more](https://models.com/work/harpers-bazaar-espaa-caroline-de-maigret)
+
+Published: Fri, 20 Sep 2024 09:07:13 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337302/2337302-800w.jpg" /></p>Caroline de Maigret <a href="https://models.com/work/harpers-bazaar-espaa-caroline-de-maigret" title="Caroline de Maigret">More...</a>
+
+## Harper's Bazaar España
 [Read more](https://models.com/work/harpers-bazaar-espaa-conie-vallese)
 
 Published: Fri, 20 Sep 2024 09:06:25 GMT
@@ -96,12 +236,26 @@ Published: Fri, 20 Sep 2024 08:53:08 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2336742/2336742-800w.jpg" /></p>Nike x Serena Williams Design Crew <a href="https://models.com/work/nike-nike-x-serena-williams-design-crew" title="Nike x Serena Williams Design Crew">More...</a>
 
+## D Repubblica
+[Read more](https://models.com/work/d-repubblica-d-repubblica-the-fashion-issue-volume-three-2024-covers)
+
+Published: Fri, 20 Sep 2024 08:48:45 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337217/2337217-800w.jpg" /></p>D Repubblica The Fashion Issue Volume Three 2024 Covers <a href="https://models.com/work/d-repubblica-d-repubblica-the-fashion-issue-volume-three-2024-covers" title="D Repubblica The Fashion Issue Volume Three 2024 Covers">More...</a>
+
 ## Who What Wear
 [Read more](https://models.com/work/who-what-wear-who-what-wear-uk-september-2024-cover)
 
 Published: Fri, 20 Sep 2024 07:33:51 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2336706/2336706-800w.jpg" /></p>Who What Wear UK September 2024 Cover <a href="https://models.com/work/who-what-wear-who-what-wear-uk-september-2024-cover" title="Who What Wear UK September 2024 Cover">More...</a>
+
+## Tokyo James
+[Read more](https://models.com/work/tokyo-james-tokyo-james-ss-25-show)
+
+Published: Fri, 20 Sep 2024 07:33:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337238/2337238-800w.jpg" /></p>Tokyo James S/S 25 Show <a href="https://models.com/work/tokyo-james-tokyo-james-ss-25-show" title="Tokyo James S/S 25 Show">More...</a>
 
 ## Emporio Armani
 [Read more](https://models.com/work/emporio-armani-emporio-armani-ss-25-show)
@@ -907,158 +1061,4 @@ Published: Wed, 18 Sep 2024 06:03:24 GMT
 Published: Wed, 18 Sep 2024 06:02:03 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333852/2333852-800w.jpg" /></p>Land In Sicht <a href="https://models.com/work/harpers-bazaar-germany-land-in-sicht" title="Land In Sicht">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-prange-schuhe-magazine-herbstwinter-2024)
-
-Published: Wed, 18 Sep 2024 05:26:52 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333495/2333495-800w.jpg" /></p>Prange Schuhe Magazine Herbst/Winter 2024 <a href="https://models.com/work/various-editorials-prange-schuhe-magazine-herbstwinter-2024" title="Prange Schuhe Magazine Herbst/Winter 2024">More...</a>
-
-## L'Officiel Malaysia
-[Read more](https://models.com/work/lofficiel-malaysia-take-a-bow-photograph-by-kenji-otsuka)
-
-Published: Wed, 18 Sep 2024 05:15:42 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333490/2333490-800w.jpg" /></p>Take a BOW Photograph by Kenji Otsuka <a href="https://models.com/work/lofficiel-malaysia-take-a-bow-photograph-by-kenji-otsuka" title="Take a BOW Photograph by Kenji Otsuka">More...</a>
-
-## Grazia China
-[Read more](https://models.com/work/grazia-china--49)
-
-Published: Wed, 18 Sep 2024 03:29:15 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333464/2333464-800w.jpg" /></p>妆一妆，打破无趣后毛衣 <a href="https://models.com/work/grazia-china--49" title="妆一妆，打破无趣后毛衣">More...</a>
-
-## Cosmopolitan China
-[Read more](https://models.com/work/cosmopolitan-china-new-season-by-liu-wen)
-
-Published: Wed, 18 Sep 2024 03:25:23 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333462/2333462-800w.jpg" /></p>NEW SEASON BY LIU WEN <a href="https://models.com/work/cosmopolitan-china-new-season-by-liu-wen" title="NEW SEASON BY LIU WEN">More...</a>
-
-## Harper's Bazaar China
-[Read more](https://models.com/work/harpers-bazaar-china--by-zhang-hao-ran)
-
-Published: Wed, 18 Sep 2024 03:13:30 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333461/2333461-800w.jpg" /></p>最美中国字 by ZHANG HAO RAN <a href="https://models.com/work/harpers-bazaar-china--by-zhang-hao-ran" title="最美中国字 by ZHANG HAO RAN">More...</a>
-
-## Grazia Singapore
-[Read more](https://models.com/work/grazia-singapore-city)
-
-Published: Wed, 18 Sep 2024 03:02:30 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333455/2333455-800w.jpg" /></p>CITY <a href="https://models.com/work/grazia-singapore-city" title="CITY">More...</a>
-
-## Prestige Magazine Asia
-[Read more](https://models.com/work/prestige-magazine-asia-chanel)
-
-Published: Wed, 18 Sep 2024 02:56:40 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333452/2333452-800w.jpg" /></p>Xu XinYuan  <a href="https://models.com/work/prestige-magazine-asia-chanel" title="Xu XinYuan ">More...</a>
-
-## Harper's Bazaar Singapore
-[Read more](https://models.com/work/harpers-bazaar-singapore-setthe-stage)
-
-Published: Wed, 18 Sep 2024 02:50:52 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333448/2333448-800w.jpg" /></p>SETTHE STAGE <a href="https://models.com/work/harpers-bazaar-singapore-setthe-stage" title="SETTHE STAGE">More...</a>
-
-## Elle Men Singapore
-[Read more](https://models.com/work/elle-men-singapore-graff-by-hans-goh)
-
-Published: Wed, 18 Sep 2024 02:45:45 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333441/2333441-800w.jpg" /></p>GRAFF BY HANS GOH <a href="https://models.com/work/elle-men-singapore-graff-by-hans-goh" title="GRAFF BY HANS GOH">More...</a>
-
-## Numéro Netherlands
-[Read more](https://models.com/work/numro-netherlands-numro-netherlands---demi-singleton)
-
-Published: Wed, 18 Sep 2024 02:40:05 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333434/2333434-800w.jpg" /></p>Numéro Netherlands - Demi Singleton <a href="https://models.com/work/numro-netherlands-numro-netherlands---demi-singleton" title="Numéro Netherlands - Demi Singleton">More...</a>
-
-## Nylon China
-[Read more](https://models.com/work/nylon-china-hello-new-season-by-jing-xiong-qiao)
-
-Published: Wed, 18 Sep 2024 02:30:13 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333425/2333425-800w.jpg" /></p>hello new season by JING XIONG QIAO <a href="https://models.com/work/nylon-china-hello-new-season-by-jing-xiong-qiao" title="hello new season by JING XIONG QIAO">More...</a>
-
-## Vision China
-[Read more](https://models.com/work/vision-china--by-zeng-zi-ye)
-
-Published: Wed, 18 Sep 2024 02:25:56 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333408/2333408-800w.jpg" /></p>星星的孩子 by ZENG ZI YE <a href="https://models.com/work/vision-china--by-zeng-zi-ye" title="星星的孩子 by ZENG ZI YE">More...</a>
-
-## L'Officiel Liechtenstein
-[Read more](https://models.com/work/lofficiel-liechtenstein-lofficiel-liechtenstein---millie-gibson)
-
-Published: Wed, 18 Sep 2024 02:24:24 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333416/2333416-800w.jpg" /></p>L'Officiel Liechtenstein - Millie Gibson <a href="https://models.com/work/lofficiel-liechtenstein-lofficiel-liechtenstein---millie-gibson" title="L'Officiel Liechtenstein - Millie Gibson">More...</a>
-
-## Vision China
-[Read more](https://models.com/work/vision-china-vision-china-winter-2023-cover-by-zeng-zi-ye)
-
-Published: Wed, 18 Sep 2024 02:19:26 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333407/2333407-800w.jpg" /></p>Vision China WINTER 2023 Cover BY ZENG ZI YE <a href="https://models.com/work/vision-china-vision-china-winter-2023-cover-by-zeng-zi-ye" title="Vision China WINTER 2023 Cover BY ZENG ZI YE">More...</a>
-
-## VOGUE+
-[Read more](https://models.com/work/vogue-youth-club--by-dong-hai)
-
-Published: Wed, 18 Sep 2024 02:12:10 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333404/2333404-800w.jpg" /></p>YOUTH CLUB 只有青春知道 by DONG HAI <a href="https://models.com/work/vogue-youth-club--by-dong-hai" title="YOUTH CLUB 只有青春知道 by DONG HAI">More...</a>
-
-## Numero China
-[Read more](https://models.com/work/numero-china-residents-only)
-
-Published: Wed, 18 Sep 2024 02:09:04 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333400/2333400-800w.jpg" /></p>RESIDENTS ONLY <a href="https://models.com/work/numero-china-residents-only" title="RESIDENTS ONLY">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-gaunlett-cheng-ss-25-show)
-
-Published: Wed, 18 Sep 2024 01:21:02 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334370/2334370-800w.jpg" /></p>Gaunlett Cheng S/S 25 Show <a href="https://models.com/work/various-shows-gaunlett-cheng-ss-25-show" title="Gaunlett Cheng S/S 25 Show">More...</a>
-
-## Noon by Noor
-[Read more](https://models.com/work/noon-by-noor-noon-by-noor-ss-25-show)
-
-Published: Wed, 18 Sep 2024 00:25:08 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333640/2333640-800w.jpg" /></p>Noon by Noor S/S 25 Show <a href="https://models.com/work/noon-by-noor-noon-by-noor-ss-25-show" title="Noon by Noor S/S 25 Show">More...</a>
-
-## Manifesto Magazine
-[Read more](https://models.com/work/manifesto-magazine-the-beautiful-contrast)
-
-Published: Wed, 18 Sep 2024 00:01:01 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333386/2333386-800w.jpg" /></p>The Beautiful Contrast <a href="https://models.com/work/manifesto-magazine-the-beautiful-contrast" title="The Beautiful Contrast">More...</a>
-
-## Schön Magazine
-[Read more](https://models.com/work/schn-magazine-charlotte-lawrence-by-benjo-arwas)
-
-Published: Tue, 17 Sep 2024 23:05:16 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333367/2333367-800w.jpg" /></p>Charlotte Lawrence by Benjo Arwas <a href="https://models.com/work/schn-magazine-charlotte-lawrence-by-benjo-arwas" title="Charlotte Lawrence by Benjo Arwas">More...</a>
-
-## Iceberg
-[Read more](https://models.com/work/iceberg-iceberg-ss-25-show)
-
-Published: Tue, 17 Sep 2024 21:57:08 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334055/2334055-800w.jpg" /></p>Iceberg S/S 25 Show <a href="https://models.com/work/iceberg-iceberg-ss-25-show" title="Iceberg S/S 25 Show">More...</a>
-
-## Pop Magazine
-[Read more](https://models.com/work/pop-magazine-lisa-rinnas-incredible-london-birthday)
-
-Published: Tue, 17 Sep 2024 21:48:40 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333321/2333321-800w.jpg" /></p>"Lisa Rinna's Incredible London Birthday"* <a href="https://models.com/work/pop-magazine-lisa-rinnas-incredible-london-birthday" title="">More...</a>
 
