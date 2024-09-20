@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-20
-date: 2024-09-20 00:13:50
+date: 2024-09-20 06:04:47
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,20 @@ comments: true
 ---
 
 # Models.com for 2024-09-20
+
+## GCDS
+[Read more](https://models.com/work/gcds-gcds-ss-25-show)
+
+Published: Fri, 20 Sep 2024 01:03:41 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2336645/2336645-800w.jpg" /></p>GCDS S/S 25 Show <a href="https://models.com/work/gcds-gcds-ss-25-show" title="GCDS S/S 25 Show">More...</a>
+
+## Make Up For Ever
+[Read more](https://models.com/work/make-up-for-ever-artist-blush-longwear-skin-fusing-powder-blush)
+
+Published: Fri, 20 Sep 2024 00:54:18 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2336639/2336639-800w.jpg" /></p>ARTIST BLUSH LONGWEAR SKIN-FUSING POWDER BLUSH <a href="https://models.com/work/make-up-for-ever-artist-blush-longwear-skin-fusing-powder-blush" title="ARTIST BLUSH LONGWEAR SKIN-FUSING POWDER BLUSH">More...</a>
 
 ## Video
 [Read more](https://models.com/work/video-divine-mugisha-an-elite-model-diary-ss25)
@@ -628,6 +642,13 @@ Published: Wed, 18 Sep 2024 12:35:04 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333988/2333988-800w.jpg" /></p>MILAN <a href="https://models.com/work/vogue-greece-milan" title="MILAN">More...</a>
 
+## Bobbi Brown
+[Read more](https://models.com/work/bobbi-brown-corrector-concealer)
+
+Published: Wed, 18 Sep 2024 12:26:30 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2333980/2333980-800w.jpg" /></p>Corrector Concealer <a href="https://models.com/work/bobbi-brown-corrector-concealer" title="Corrector Concealer">More...</a>
+
 ## MAC Cosmetics
 [Read more](https://models.com/work/mac-cosmetics-mac-trend-ingenueblue)
 
@@ -1040,25 +1061,4 @@ Published: Tue, 17 Sep 2024 15:40:12 GMT
 Published: Tue, 17 Sep 2024 15:27:35 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2332981/2332981-800w.jpg" /></p>FKA twigs - Eusexua/Drums Of Death <a href="https://models.com/work/music-video-fka-twigs---eusexuadrums-of-death" title="FKA twigs - Eusexua/Drums Of Death">More...</a>
-
-## 10 Magazine
-[Read more](https://models.com/work/10-magazine-10-magazine-september-2024-cover-1)
-
-Published: Tue, 17 Sep 2024 15:02:54 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2332961/2332961-800w.jpg" /></p>10 Magazine September 2024 Cover <a href="https://models.com/work/10-magazine-10-magazine-september-2024-cover-1" title="10 Magazine September 2024 Cover">More...</a>
-
-## Rookie Martin Miller Has Been In Demand At Gucci
-[Read more](https://models.com/newfaces/modeloftheweek/72967)
-
-Published: Tue, 17 Sep 2024 15:00:25 GMT
-
-<p><img alt="" class="attachment-medium size-medium wp-post-image" src="https://i.mdel.net/newfaces/i/2024/09/MOTW_MartinMiller2_2000-7_03.jpg" /></p>Martin was photographed exclusively for MODELS.com by Jose Martínez, with styling by Alejandro Lozano. Thanks to Oscar. interview Name: Martin Miller (@martin_.miller) Pronouns: he/him Agency: Francina Models (Barcelona &#8211; mother agency) Age: 21 Height: 6&#8217;1&#8243; Place of Origin: Buenos Aires, Argentina Ethnic Origin: Argentinian Birthsign: Leo Did you always want to be a model? Tell [&hellip;] <a href="https://models.com/newfaces/modeloftheweek/72967" title="Rookie Martin Miller Has Been In Demand At Gucci">More...</a>
-
-## Vogue Czechoslovakia
-[Read more](https://models.com/work/vogue-czechoslovakia-vogue-czechoslovakia-october-2024-cover)
-
-Published: Tue, 17 Sep 2024 14:56:33 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333259/2333259-800w.jpg" /></p>Vogue Czechoslovakia October 2024 Cover <a href="https://models.com/work/vogue-czechoslovakia-vogue-czechoslovakia-october-2024-cover" title="Vogue Czechoslovakia October 2024 Cover">More...</a>
 
