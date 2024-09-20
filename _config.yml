@@ -215,5 +215,5 @@ robots:
     - /css/
     - /images/
   sitemaps: 
-    - sitemap.xml
-    - sitemap.txt
+    - https://www.models.net.cn/sitemap.xml
+    - https://www.models.net.cn/sitemap.txt
