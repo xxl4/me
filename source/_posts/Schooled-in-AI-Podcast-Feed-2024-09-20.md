@@ -1,6 +1,6 @@
 ---
-title: Schooled in AI Podcast Feed for 2024-09-19
-date: 2024-09-19 18:04:28
+title: Schooled in AI Podcast Feed for 2024-09-20
+date: 2024-09-20 00:13:50
 tags: [AI, Podcast, RSS, TechTarget]
 author: TechTarget
 summary: Schooled in AI Podcast Feed
@@ -10,7 +10,7 @@ sitemap: true
 comments: true
 ---
 
-# Schooled in AI Podcast Feed for 2024-09-19
+# Schooled in AI Podcast Feed for 2024-09-20
 
 ## 3 hybrid work strategy tips CIOs and IT need now
 [Read more](https://www.techtarget.com/searchcio/post/3-hybrid-work-strategy-tips-CIOs-and-IT-need-now)
