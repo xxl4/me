@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-21
-date: 2024-09-21 06:03:59
+date: 2024-09-21 12:05:08
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,20 @@ comments: true
 ---
 
 # Models.com for 2024-09-21
+
+## Various Lookbooks/Catalogs
+[Read more](https://models.com/work/various-lookbookscatalogs-atxv-ss-25-lookbook)
+
+Published: Sat, 21 Sep 2024 10:46:16 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337760/2337760-800w.jpg" /></p>ATXV S/S 25 Lookbook <a href="https://models.com/work/various-lookbookscatalogs-atxv-ss-25-lookbook" title="ATXV S/S 25 Lookbook">More...</a>
+
+## Various Campaigns
+[Read more](https://models.com/work/various-campaigns-silvers-touch-campaign-for-maag-fashion)
+
+Published: Sat, 21 Sep 2024 10:44:24 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337757/2337757-800w.jpg" /></p>"Silver's touch" Campaign for MAAG Fashion <a href="https://models.com/work/various-campaigns-silvers-touch-campaign-for-maag-fashion" title="">More...</a>
 
 ## Various Editorials
 [Read more](https://models.com/work/various-editorials-metaverse)
@@ -74,6 +88,13 @@ Published: Fri, 20 Sep 2024 18:48:59 GMT
 Published: Fri, 20 Sep 2024 17:14:38 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337521/2337521-800w.jpg" /></p>Gucci S/S 25 Show <a href="https://models.com/work/gucci-gucci-ss-25-show" title="Gucci S/S 25 Show">More...</a>
+
+## Loro Piana
+[Read more](https://models.com/work/loro-piana-loro-piana-ss-25-lookbook)
+
+Published: Fri, 20 Sep 2024 16:19:04 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337710/2337710-800w.jpg" /></p>Loro Piana S/S 25 Lookbook <a href="https://models.com/work/loro-piana-loro-piana-ss-25-lookbook" title="Loro Piana S/S 25 Lookbook">More...</a>
 
 ## What's Contemporary
 [Read more](https://models.com/work/whats-contemporary-whats-contemporary-now-with-suzanne-koller)
@@ -1040,25 +1061,4 @@ Published: Wed, 18 Sep 2024 11:57:59 GMT
 Published: Wed, 18 Sep 2024 11:54:34 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333880/2333880-800w.jpg" /></p>Common Language June 2024 <a href="https://models.com/work/various-editorials-common-language-june-2024" title="Common Language June 2024">More...</a>
-
-## Ganni
-[Read more](https://models.com/work/ganni-fall-25)
-
-Published: Wed, 18 Sep 2024 11:41:43 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333862/2333862-800w.jpg" /></p>Fall 25 <a href="https://models.com/work/ganni-fall-25" title="Fall 25">More...</a>
-
-## Armani Exchange
-[Read more](https://models.com/work/armani-exchange-axfw24)
-
-Published: Wed, 18 Sep 2024 10:58:28 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333828/2333828-800w.jpg" /></p>AXFW24 <a href="https://models.com/work/armani-exchange-axfw24" title="AXFW24">More...</a>
-
-## Arket
-[Read more](https://models.com/work/arket-automne-hiver-2024)
-
-Published: Wed, 18 Sep 2024 09:33:06 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333692/2333692-800w.jpg" /></p>Arket Autumn/Winter2024 <a href="https://models.com/work/arket-automne-hiver-2024" title="Arket Autumn/Winter2024">More...</a>
 
