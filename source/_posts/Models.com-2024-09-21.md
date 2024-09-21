@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-21
-date: 2024-09-21 00:13:11
+date: 2024-09-21 06:03:59
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,12 +12,26 @@ comments: true
 
 # Models.com for 2024-09-21
 
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-metaverse)
+
+Published: Sat, 21 Sep 2024 04:06:26 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337694/2337694-800w.jpg" /></p>Metaverse <a href="https://models.com/work/various-editorials-metaverse" title="Metaverse">More...</a>
+
 ## Vogue Czechoslovakia
 [Read more](https://models.com/work/vogue-czechoslovakia-delilah-belle-desire-for-harmony)
 
 Published: Fri, 20 Sep 2024 21:25:44 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337629/2337629-800w.jpg" /></p>Delilah Belle Desire For Harmony <a href="https://models.com/work/vogue-czechoslovakia-delilah-belle-desire-for-harmony" title="Delilah Belle Desire For Harmony">More...</a>
+
+## Vivetta
+[Read more](https://models.com/work/vivetta-vivetta-ss-25-show)
+
+Published: Fri, 20 Sep 2024 20:50:53 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337642/2337642-800w.jpg" /></p>Vivetta S/S 25 Show <a href="https://models.com/work/vivetta-vivetta-ss-25-show" title="Vivetta S/S 25 Show">More...</a>
 
 ## Versace
 [Read more](https://models.com/work/versace-versace-ss-25-show)
@@ -284,6 +298,13 @@ Published: Fri, 20 Sep 2024 08:53:08 GMT
 Published: Fri, 20 Sep 2024 08:48:45 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337217/2337217-800w.jpg" /></p>D Repubblica The Fashion Issue Volume Three 2024 Covers <a href="https://models.com/work/d-repubblica-d-repubblica-the-fashion-issue-volume-three-2024-covers" title="D Repubblica The Fashion Issue Volume Three 2024 Covers">More...</a>
+
+## FEDERICO CINA
+[Read more](https://models.com/work/federico-cina-federico-cina-ss-25-show)
+
+Published: Fri, 20 Sep 2024 07:34:59 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337644/2337644-800w.jpg" /></p>Federico Cina S/S 25 Show <a href="https://models.com/work/federico-cina-federico-cina-ss-25-show" title="Federico Cina S/S 25 Show">More...</a>
 
 ## Who What Wear
 [Read more](https://models.com/work/who-what-wear-who-what-wear-uk-september-2024-cover)
@@ -1040,25 +1061,4 @@ Published: Wed, 18 Sep 2024 10:58:28 GMT
 Published: Wed, 18 Sep 2024 09:33:06 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333692/2333692-800w.jpg" /></p>Arket Autumn/Winter2024 <a href="https://models.com/work/arket-automne-hiver-2024" title="Arket Autumn/Winter2024">More...</a>
-
-## Marie Claire Italia
-[Read more](https://models.com/work/marie-claire-italia-preziosa)
-
-Published: Wed, 18 Sep 2024 08:22:12 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333614/2333614-800w.jpg" /></p>PREZIOSA <a href="https://models.com/work/marie-claire-italia-preziosa" title="PREZIOSA">More...</a>
-
-## Fay
-[Read more](https://models.com/work/fay-fay-junior-fw-2425-by-amina-marazzi-gandolfi)
-
-Published: Wed, 18 Sep 2024 08:19:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333599/2333599-800w.jpg" /></p>Fay Junior FW 24/25 by Amina Marazzi Gandolfi <a href="https://models.com/work/fay-fay-junior-fw-2425-by-amina-marazzi-gandolfi" title="Fay Junior FW 24/25 by Amina Marazzi Gandolfi">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-simona-corsellini-fw-2425-back-to-school)
-
-Published: Wed, 18 Sep 2024 08:08:40 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333592/2333592-800w.jpg" /></p>Simona Corsellini FW 24/25 Back to school <a href="https://models.com/work/various-lookbookscatalogs-simona-corsellini-fw-2425-back-to-school" title="Simona Corsellini FW 24/25 Back to school">More...</a>
 
