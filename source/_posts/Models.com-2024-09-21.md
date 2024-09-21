@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-21
-date: 2024-09-21 12:05:08
+date: 2024-09-21 18:03:47
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,34 @@ comments: true
 ---
 
 # Models.com for 2024-09-21
+
+## Flaunt
+[Read more](https://models.com/work/flaunt-rhenzy-feliz-1)
+
+Published: Sat, 21 Sep 2024 16:53:52 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338132/2338132-800w.jpg" /></p>Rhenzy Feliz <a href="https://models.com/work/flaunt-rhenzy-feliz-1" title="Rhenzy Feliz">More...</a>
+
+## Dolce & Gabbana
+[Read more](https://models.com/work/dolce--gabbana-dolce--gabbana-ss-25-show)
+
+Published: Sat, 21 Sep 2024 15:00:14 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337908/2337908-800w.jpg" /></p>Dolce & Gabbana S/S 25 Show <a href="https://models.com/work/dolce--gabbana-dolce--gabbana-ss-25-show" title="Dolce &amp; Gabbana S/S 25 Show">More...</a>
+
+## Ferragamo
+[Read more](https://models.com/work/ferragamo-ferragamo-ss-25-show)
+
+Published: Sat, 21 Sep 2024 14:10:26 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337974/2337974-800w.jpg" /></p>Ferragamo S/S 25 Show <a href="https://models.com/work/ferragamo-ferragamo-ss-25-show" title="Ferragamo S/S 25 Show">More...</a>
+
+## Ferrari
+[Read more](https://models.com/work/ferrari-ferrari-ss-25-show)
+
+Published: Sat, 21 Sep 2024 13:48:30 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337877/2337877-800w.jpg" /></p>Ferrari S/S 25 Show <a href="https://models.com/work/ferrari-ferrari-ss-25-show" title="Ferrari S/S 25 Show">More...</a>
 
 ## Various Lookbooks/Catalogs
 [Read more](https://models.com/work/various-lookbookscatalogs-atxv-ss-25-lookbook)
@@ -33,6 +61,13 @@ Published: Sat, 21 Sep 2024 04:06:26 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337694/2337694-800w.jpg" /></p>Metaverse <a href="https://models.com/work/various-editorials-metaverse" title="Metaverse">More...</a>
 
+## Various Shows
+[Read more](https://models.com/work/various-shows-calcaterra-ss-25-show)
+
+Published: Fri, 20 Sep 2024 21:52:05 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337782/2337782-800w.jpg" /></p>Calcaterra S/S 25 Show <a href="https://models.com/work/various-shows-calcaterra-ss-25-show" title="Calcaterra S/S 25 Show">More...</a>
+
 ## Vogue Czechoslovakia
 [Read more](https://models.com/work/vogue-czechoslovakia-delilah-belle-desire-for-harmony)
 
@@ -52,7 +87,7 @@ Published: Fri, 20 Sep 2024 20:50:53 GMT
 
 Published: Fri, 20 Sep 2024 19:47:00 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2337613/2337613-800w.jpg" /></p>Versace S/S 25 Show <a href="https://models.com/work/versace-versace-ss-25-show" title="Versace S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2337810/2337810-800w.jpg" /></p>Versace S/S 25 Show <a href="https://models.com/work/versace-versace-ss-25-show" title="Versace S/S 25 Show">More...</a>
 
 ## Various Campaigns
 [Read more](https://models.com/work/various-campaigns-yargc-fall-2024)
@@ -95,6 +130,13 @@ Published: Fri, 20 Sep 2024 17:14:38 GMT
 Published: Fri, 20 Sep 2024 16:19:04 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337710/2337710-800w.jpg" /></p>Loro Piana S/S 25 Lookbook <a href="https://models.com/work/loro-piana-loro-piana-ss-25-lookbook" title="Loro Piana S/S 25 Lookbook">More...</a>
+
+## Ralph Lauren
+[Read more](https://models.com/work/ralph-lauren-rlx-spring-2025-campaign)
+
+Published: Fri, 20 Sep 2024 15:21:24 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2337374/2337374-800w.jpg" /></p>RLX Spring 2025 Campaign <a href="https://models.com/work/ralph-lauren-rlx-spring-2025-campaign" title="RLX Spring 2025 Campaign">More...</a>
 
 ## What's Contemporary
 [Read more](https://models.com/work/whats-contemporary-whats-contemporary-now-with-suzanne-koller)
@@ -1019,46 +1061,4 @@ Published: Wed, 18 Sep 2024 12:42:03 GMT
 Published: Wed, 18 Sep 2024 12:35:04 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2333988/2333988-800w.jpg" /></p>MILAN <a href="https://models.com/work/vogue-greece-milan" title="MILAN">More...</a>
-
-## Bobbi Brown
-[Read more](https://models.com/work/bobbi-brown-corrector-concealer)
-
-Published: Wed, 18 Sep 2024 12:26:30 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333980/2333980-800w.jpg" /></p>Corrector Concealer <a href="https://models.com/work/bobbi-brown-corrector-concealer" title="Corrector Concealer">More...</a>
-
-## MAC Cosmetics
-[Read more](https://models.com/work/mac-cosmetics-mac-trend-ingenueblue)
-
-Published: Wed, 18 Sep 2024 12:15:15 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333959/2333959-800w.jpg" /></p>MAC TREND: IngenueBlue <a href="https://models.com/work/mac-cosmetics-mac-trend-ingenueblue" title="MAC TREND: IngenueBlue">More...</a>
-
-## Esquire Italia
-[Read more](https://models.com/work/esquire-italia-david-cronenberg)
-
-Published: Wed, 18 Sep 2024 12:03:05 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333905/2333905-800w.jpg" /></p>David Cronenberg <a href="https://models.com/work/esquire-italia-david-cronenberg" title="David Cronenberg">More...</a>
-
-## magazinemagazine
-[Read more](https://models.com/work/magazinemagazine-spring-summer-2023)
-
-Published: Wed, 18 Sep 2024 12:00:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333892/2333892-800w.jpg" /></p>Spring Summer 2023 <a href="https://models.com/work/magazinemagazine-spring-summer-2023" title="Spring Summer 2023">More...</a>
-
-## Various Campaigns
-[Read more](https://models.com/work/various-campaigns-parade-x-self-portrait-by-katherine-goguen)
-
-Published: Wed, 18 Sep 2024 11:57:59 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335701/2335701-800w.jpg" /></p>PARADE X SELF PORTRAIT BY KATHERINE GOGUEN <a href="https://models.com/work/various-campaigns-parade-x-self-portrait-by-katherine-goguen" title="PARADE X SELF PORTRAIT BY KATHERINE GOGUEN">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-common-language-june-2024)
-
-Published: Wed, 18 Sep 2024 11:54:34 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2333880/2333880-800w.jpg" /></p>Common Language June 2024 <a href="https://models.com/work/various-editorials-common-language-june-2024" title="Common Language June 2024">More...</a>
 
