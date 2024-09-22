@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-22
-date: 2024-09-22 12:04:43
+date: 2024-09-22 18:03:48
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,48 @@ comments: true
 ---
 
 # Models.com for 2024-09-22
+
+## ICON Magazin Germany
+[Read more](https://models.com/work/icon-magazin-germany-generation)
+
+Published: Sun, 22 Sep 2024 16:49:16 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338935/2338935-800w.jpg" /></p>Generation <a href="https://models.com/work/icon-magazin-germany-generation" title="Generation">More...</a>
+
+## Special Projects
+[Read more](https://models.com/work/special-projects-jlal--strata)
+
+Published: Sun, 22 Sep 2024 15:58:54 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338922/2338922-800w.jpg" /></p>_J.L.A.L_ / STRATA <a href="https://models.com/work/special-projects-jlal--strata" title="_J.L.A.L_ / STRATA">More...</a>
+
+## The Gentlewoman
+[Read more](https://models.com/work/the-gentlewoman-edge)
+
+Published: Sun, 22 Sep 2024 15:48:24 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338919/2338919-800w.jpg" /></p>Edge <a href="https://models.com/work/the-gentlewoman-edge" title="Edge">More...</a>
+
+## Esquire China
+[Read more](https://models.com/work/esquire-china-zhang-boheng)
+
+Published: Sun, 22 Sep 2024 14:10:50 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338888/2338888-800w.jpg" /></p>Zhang Boheng <a href="https://models.com/work/esquire-china-zhang-boheng" title="Zhang Boheng">More...</a>
+
+## The Gentlewoman
+[Read more](https://models.com/work/the-gentlewoman-cover-all)
+
+Published: Sun, 22 Sep 2024 12:36:35 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338838/2338838-800w.jpg" /></p>Cover All <a href="https://models.com/work/the-gentlewoman-cover-all" title="Cover All">More...</a>
+
+## Dazed & Confused Korea
+[Read more](https://models.com/work/dazed--confused-korea-dazed--confused-korea-august-2024-cover)
+
+Published: Sun, 22 Sep 2024 11:42:53 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338827/2338827-800w.jpg" /></p>Dazed & Confused Korea August 2024 Cover <a href="https://models.com/work/dazed--confused-korea-dazed--confused-korea-august-2024-cover" title="Dazed &amp; Confused Korea August 2024 Cover">More...</a>
 
 ## Numéro Netherlands
 [Read more](https://models.com/work/numro-netherlands-rhapsody-in-green)
@@ -26,12 +68,26 @@ Published: Sun, 22 Sep 2024 04:59:50 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2338726/2338726-800w.jpg" /></p>Luisa Spagnoli S/S 25 Show <a href="https://models.com/work/luisa-spagnoli-luisa-spagnoli-ss-25-show" title="Luisa Spagnoli S/S 25 Show">More...</a>
 
+## Elisabetta Franchi
+[Read more](https://models.com/work/elisabetta-franchi-elisabetta-franchi-ss-25-show)
+
+Published: Sun, 22 Sep 2024 04:30:20 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338831/2338831-800w.jpg" /></p>Elisabetta Franchi S/S 25 Show <a href="https://models.com/work/elisabetta-franchi-elisabetta-franchi-ss-25-show" title="Elisabetta Franchi S/S 25 Show">More...</a>
+
 ## Philipp Plein
 [Read more](https://models.com/work/philipp-plein-philipp-plein-ss-25-show)
 
 Published: Sun, 22 Sep 2024 02:23:27 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2338761/2338761-800w.jpg" /></p>Philipp Plein S/S 25 Show <a href="https://models.com/work/philipp-plein-philipp-plein-ss-25-show" title="Philipp Plein S/S 25 Show">More...</a>
+
+## Bally
+[Read more](https://models.com/work/bally-bally-ss-25-show)
+
+Published: Sun, 22 Sep 2024 00:48:46 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338818/2338818-800w.jpg" /></p>Bally S/S 25 Show <a href="https://models.com/work/bally-bally-ss-25-show" title="Bally S/S 25 Show">More...</a>
 
 ## Various Campaigns
 [Read more](https://models.com/work/various-campaigns-yargc-premium-essentials)
@@ -1005,60 +1061,4 @@ Published: Wed, 18 Sep 2024 15:19:34 GMT
 Published: Wed, 18 Sep 2024 15:18:25 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334609/2334609-800w.jpg" /></p>Monsieur Magazin Germany September 2024 Cover <a href="https://models.com/work/monsieur-magazin-germany-monsieur-magazin-germany-september-2024-cover" title="Monsieur Magazin Germany September 2024 Cover">More...</a>
-
-## Antonio Marras
-[Read more](https://models.com/work/antonio-marras-antonio-marras-ss-25-show)
-
-Published: Wed, 18 Sep 2024 14:59:43 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334712/2334712-800w.jpg" /></p>Antonio Marras S/S 25 Show <a href="https://models.com/work/antonio-marras-antonio-marras-ss-25-show" title="Antonio Marras S/S 25 Show">More...</a>
-
-## American Vogue
-[Read more](https://models.com/work/american-vogue-tibetan-community-centuries-old-braiding-tradition)
-
-Published: Wed, 18 Sep 2024 14:47:49 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334481/2334481-800w.jpg" /></p>Tibetan Community Centuries-Old Braiding Tradition <a href="https://models.com/work/american-vogue-tibetan-community-centuries-old-braiding-tradition" title="Tibetan Community Centuries-Old Braiding Tradition">More...</a>
-
-## Various Lookbooks/Catalogs
-[Read more](https://models.com/work/various-lookbookscatalogs-adriana-hot-couture-fw2425)
-
-Published: Wed, 18 Sep 2024 14:40:41 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334446/2334446-800w.jpg" /></p>Adriana Hot Couture FW24/25 <a href="https://models.com/work/various-lookbookscatalogs-adriana-hot-couture-fw2425" title="Adriana Hot Couture FW24/25">More...</a>
-
-## Vogue Czechoslovakia
-[Read more](https://models.com/work/vogue-czechoslovakia-vogue-czechoslovakia-october-2024-cover-1)
-
-Published: Wed, 18 Sep 2024 14:19:40 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334367/2334367-800w.jpg" /></p>Vogue Czechoslovakia October 2024 Cover <a href="https://models.com/work/vogue-czechoslovakia-vogue-czechoslovakia-october-2024-cover-1" title="Vogue Czechoslovakia October 2024 Cover">More...</a>
-
-## SCMP Style South China Morning Post Style Magazine
-[Read more](https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-cover-story-1)
-
-Published: Wed, 18 Sep 2024 14:01:36 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334311/2334311-800w.jpg" /></p>SCMP September Cover Story <a href="https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-cover-story-1" title="SCMP September Cover Story">More...</a>
-
-## American Vogue
-[Read more](https://models.com/work/american-vogue-on-with-the-shows)
-
-Published: Wed, 18 Sep 2024 13:46:35 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334208/2334208-800w.jpg" /></p>On With The Shows! <a href="https://models.com/work/american-vogue-on-with-the-shows" title="On With The Shows!">More...</a>
-
-## Various Editorials
-[Read more](https://models.com/work/various-editorials-chic-le-hoodie-for-encore)
-
-Published: Wed, 18 Sep 2024 13:25:28 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334110/2334110-800w.jpg" /></p>CHIC, LE HOODIE for encore! <a href="https://models.com/work/various-editorials-chic-le-hoodie-for-encore" title="CHIC, LE HOODIE for encore!">More...</a>
-
-## Various Covers
-[Read more](https://models.com/work/various-covers-encore-september-2024-cover)
-
-Published: Wed, 18 Sep 2024 13:19:25 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334106/2334106-800w.jpg" /></p>encore! September 2024 Cover <a href="https://models.com/work/various-covers-encore-september-2024-cover" title="encore! September 2024 Cover">More...</a>
 
