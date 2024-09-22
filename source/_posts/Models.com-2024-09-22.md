@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-22
-date: 2024-09-22 06:04:14
+date: 2024-09-22 12:04:43
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,6 +12,27 @@ comments: true
 
 # Models.com for 2024-09-22
 
+## Numéro Netherlands
+[Read more](https://models.com/work/numro-netherlands-rhapsody-in-green)
+
+Published: Sun, 22 Sep 2024 10:47:26 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338799/2338799-800w.jpg" /></p>Rhapsody in Green <a href="https://models.com/work/numro-netherlands-rhapsody-in-green" title="Rhapsody in Green">More...</a>
+
+## Luisa Spagnoli
+[Read more](https://models.com/work/luisa-spagnoli-luisa-spagnoli-ss-25-show)
+
+Published: Sun, 22 Sep 2024 04:59:50 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338726/2338726-800w.jpg" /></p>Luisa Spagnoli S/S 25 Show <a href="https://models.com/work/luisa-spagnoli-luisa-spagnoli-ss-25-show" title="Luisa Spagnoli S/S 25 Show">More...</a>
+
+## Philipp Plein
+[Read more](https://models.com/work/philipp-plein-philipp-plein-ss-25-show)
+
+Published: Sun, 22 Sep 2024 02:23:27 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338761/2338761-800w.jpg" /></p>Philipp Plein S/S 25 Show <a href="https://models.com/work/philipp-plein-philipp-plein-ss-25-show" title="Philipp Plein S/S 25 Show">More...</a>
+
 ## Various Campaigns
 [Read more](https://models.com/work/various-campaigns-yargc-premium-essentials)
 
@@ -19,12 +40,19 @@ Published: Sat, 21 Sep 2024 19:57:36 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2338193/2338193-800w.jpg" /></p>Yargıcı Premium Essentials <a href="https://models.com/work/various-campaigns-yargc-premium-essentials" title="Yargıcı Premium Essentials">More...</a>
 
+## Bottega Veneta
+[Read more](https://models.com/work/bottega-veneta-bottega-veneta-ss-25-show)
+
+Published: Sat, 21 Sep 2024 19:53:54 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338226/2338226-800w.jpg" /></p>Bottega Veneta S/S 25 Show <a href="https://models.com/work/bottega-veneta-bottega-veneta-ss-25-show" title="Bottega Veneta S/S 25 Show">More...</a>
+
 ## Diesel
 [Read more](https://models.com/work/diesel-diesel-ss-25-show)
 
 Published: Sat, 21 Sep 2024 18:33:52 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2338207/2338207-800w.jpg" /></p>Diesel S/S 25 Show <a href="https://models.com/work/diesel-diesel-ss-25-show" title="Diesel S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2338655/2338655-800w.jpg" /></p>Diesel S/S 25 Show <a href="https://models.com/work/diesel-diesel-ss-25-show" title="Diesel S/S 25 Show">More...</a>
 
 ## The Attico
 [Read more](https://models.com/work/the-attico-the-attico-ss-25-show)
@@ -53,20 +81,6 @@ Published: Sat, 21 Sep 2024 16:53:52 GMT
 Published: Sat, 21 Sep 2024 16:32:45 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2338140/2338140-800w.jpg" /></p>Ermanno Scervino S/S 25 Show <a href="https://models.com/work/ermanno-scervino-ermanno-scervino-ss-25-show" title="Ermanno Scervino S/S 25 Show">More...</a>
-
-## Dolce & Gabbana
-[Read more](https://models.com/work/dolce--gabbana-dolce--gabbana-ss-25-show)
-
-Published: Sat, 21 Sep 2024 15:00:14 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2337908/2337908-800w.jpg" /></p>Dolce & Gabbana S/S 25 Show <a href="https://models.com/work/dolce--gabbana-dolce--gabbana-ss-25-show" title="Dolce &amp; Gabbana S/S 25 Show">More...</a>
-
-## Ferragamo
-[Read more](https://models.com/work/ferragamo-ferragamo-ss-25-show)
-
-Published: Sat, 21 Sep 2024 14:10:26 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2337974/2337974-800w.jpg" /></p>Ferragamo S/S 25 Show <a href="https://models.com/work/ferragamo-ferragamo-ss-25-show" title="Ferragamo S/S 25 Show">More...</a>
 
 ## Ferrari
 [Read more](https://models.com/work/ferrari-ferrari-ss-25-show)
@@ -117,13 +131,6 @@ Published: Fri, 20 Sep 2024 20:50:53 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337642/2337642-800w.jpg" /></p>Vivetta S/S 25 Show <a href="https://models.com/work/vivetta-vivetta-ss-25-show" title="Vivetta S/S 25 Show">More...</a>
 
-## Versace
-[Read more](https://models.com/work/versace-versace-ss-25-show)
-
-Published: Fri, 20 Sep 2024 19:47:00 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2337810/2337810-800w.jpg" /></p>Versace S/S 25 Show <a href="https://models.com/work/versace-versace-ss-25-show" title="Versace S/S 25 Show">More...</a>
-
 ## Various Campaigns
 [Read more](https://models.com/work/various-campaigns-yargc-fall-2024)
 
@@ -138,13 +145,6 @@ Published: Fri, 20 Sep 2024 18:58:22 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337586/2337586-800w.jpg" /></p>Heritage & Sport <a href="https://models.com/work/polo-ralph-lauren-heritage--sport" title="Heritage &amp; Sport">More...</a>
 
-## Missoni
-[Read more](https://models.com/work/missoni-missoni-ss-25-show)
-
-Published: Fri, 20 Sep 2024 18:54:47 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2337588/2337588-800w.jpg" /></p>Missoni S/S 25 Show <a href="https://models.com/work/missoni-missoni-ss-25-show" title="Missoni S/S 25 Show">More...</a>
-
 ## See What the Models Wore Off-Duty During MFW S/S 25 Days 1-3
 [Read more](https://models.com/mdx/see-what-the-models-wore-off-duty-during-mfw-s-s-25-days-1-3/)
 
@@ -152,19 +152,19 @@ Published: Fri, 20 Sep 2024 18:48:59 GMT
 
 <p><img alt="" class="attachment-medium size-medium wp-post-image" height="720" src="https://i.mdel.net/mdx/i/2024/09/MFW-STREET-STYLE-.jpg" width="1280" /></p>models.Street Style See What the Models Wore Off-Duty During MFW S/S 25 Days 1-3 Ciao, Milan Fashion Week! Fendi kicked off the calendar, celebrating its 100th year with a 1920s-inspired collection, while Marni transported us to a mystical realm, and Prada blurred the line between reality and imaginary algorithms with nods to past collections. Amidst [&hellip;] <a href="https://models.com/mdx/see-what-the-models-wore-off-duty-during-mfw-s-s-25-days-1-3/" title="See What the Models Wore Off-Duty During MFW S/S 25 Days 1-3">More...</a>
 
-## Gucci
-[Read more](https://models.com/work/gucci-gucci-ss-25-show)
-
-Published: Fri, 20 Sep 2024 17:14:38 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2337521/2337521-800w.jpg" /></p>Gucci S/S 25 Show <a href="https://models.com/work/gucci-gucci-ss-25-show" title="Gucci S/S 25 Show">More...</a>
-
 ## Loro Piana
 [Read more](https://models.com/work/loro-piana-loro-piana-ss-25-lookbook)
 
 Published: Fri, 20 Sep 2024 16:19:04 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337710/2337710-800w.jpg" /></p>Loro Piana S/S 25 Lookbook <a href="https://models.com/work/loro-piana-loro-piana-ss-25-lookbook" title="Loro Piana S/S 25 Lookbook">More...</a>
+
+## Schiaparelli
+[Read more](https://models.com/work/schiaparelli-schiaparelli--fw-2024-campaign)
+
+Published: Fri, 20 Sep 2024 16:17:32 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2338768/2338768-800w.jpg" /></p>Schiaparelli F/W 2024 Campaign <a href="https://models.com/work/schiaparelli-schiaparelli--fw-2024-campaign" title="Schiaparelli F/W 2024 Campaign">More...</a>
 
 ## Ralph Lauren
 [Read more](https://models.com/work/ralph-lauren-rlx-spring-2025-campaign)
@@ -249,13 +249,6 @@ Published: Fri, 20 Sep 2024 12:41:36 GMT
 Published: Fri, 20 Sep 2024 12:08:49 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2337142/2337142-800w.jpg" /></p>Invisible Matter <a href="https://models.com/work/fashion--arts-magazine-invisible-matter" title="Invisible Matter">More...</a>
-
-## Sportmax
-[Read more](https://models.com/work/sportmax-sportmax-ss-25-show)
-
-Published: Fri, 20 Sep 2024 12:06:14 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2337176/2337176-800w.jpg" /></p>Sportmax S/S 25 Show <a href="https://models.com/work/sportmax-sportmax-ss-25-show" title="Sportmax S/S 25 Show">More...</a>
 
 ## Harper's Bazaar China Men
 [Read more](https://models.com/work/harpers-bazaar-china-men-paper-cuttings-art)
@@ -346,7 +339,7 @@ Published: Fri, 20 Sep 2024 09:50:53 GMT
 
 Published: Fri, 20 Sep 2024 09:23:29 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2336813/2336813-800w.jpg" /></p>Harry Lambert : Cutie Chaos <a href="https://models.com/work/zara-harry-lambert--cutie-chaos" title="Harry Lambert : Cutie Chaos">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2336813/2336813-800w.jpg" /></p>Zara x Harry Lambert : Cutie Chaos <a href="https://models.com/work/zara-harry-lambert--cutie-chaos" title="Zara x Harry Lambert : Cutie Chaos">More...</a>
 
 ## T - Le magazine du Temps
 [Read more](https://models.com/work/t---le-magazine-du-temps-la-fantaisie-dans-le-rtro)
@@ -354,13 +347,6 @@ Published: Fri, 20 Sep 2024 09:23:29 GMT
 Published: Fri, 20 Sep 2024 09:14:12 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2336786/2336786-800w.jpg" /></p>La fantaisie dans le rétro <a href="https://models.com/work/t---le-magazine-du-temps-la-fantaisie-dans-le-rtro" title="La fantaisie dans le rétro">More...</a>
-
-## Tod's
-[Read more](https://models.com/work/tods-tods-ss-25-show)
-
-Published: Fri, 20 Sep 2024 09:13:48 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2336818/2336818-800w.jpg" /></p>Tod's S/S 25 Show <a href="https://models.com/work/tods-tods-ss-25-show" title="Tod's S/S 25 Show">More...</a>
 
 ## Harper's Bazaar Vietnam
 [Read more](https://models.com/work/harpers-bazaar-vietnam-a-couture-story-for-a-sharming-day-in-venice)
@@ -717,7 +703,7 @@ Published: Thu, 19 Sep 2024 13:30:22 GMT
 
 Published: Thu, 19 Sep 2024 13:01:49 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2335971/2335971-800w.jpg" /></p>MM6 Maison Margiela S/S 25 Show <a href="https://models.com/work/mm6-maison-margiela-mm6-maison-margiela-ss-25-show" title="MM6 Maison Margiela S/S 25 Show">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2336352/2336352-800w.jpg" /></p>MM6 Maison Margiela S/S 25 Show <a href="https://models.com/work/mm6-maison-margiela-mm6-maison-margiela-ss-25-show" title="MM6 Maison Margiela S/S 25 Show">More...</a>
 
 ## Harper's Bazaar Netherlands
 [Read more](https://models.com/work/harpers-bazaar-netherlands-in-het-licht)
@@ -908,13 +894,6 @@ Published: Wed, 18 Sep 2024 19:34:26 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334927/2334927-800w.jpg" /></p>A/W 2024 Campaign lookbook <a href="https://models.com/work/hm-aw-2024-campaign-lookbook" title="A/W 2024 Campaign lookbook">More...</a>
 
-## Roberto Cavalli
-[Read more](https://models.com/work/roberto-cavalli-roberto-cavalli-ss-25-show)
-
-Published: Wed, 18 Sep 2024 19:27:27 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2337451/2337451-800w.jpg" /></p>Roberto Cavalli S/S 25 Show <a href="https://models.com/work/roberto-cavalli-roberto-cavalli-ss-25-show" title="Roberto Cavalli S/S 25 Show">More...</a>
-
 ## CoverGirl
 [Read more](https://models.com/work/covergirl-the-new-look-of-clean-invisible)
 
@@ -1061,4 +1040,25 @@ Published: Wed, 18 Sep 2024 14:19:40 GMT
 Published: Wed, 18 Sep 2024 14:01:36 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334311/2334311-800w.jpg" /></p>SCMP September Cover Story <a href="https://models.com/work/scmp-style-south-china-morning-post-style-magazine-scmp-september-cover-story-1" title="SCMP September Cover Story">More...</a>
+
+## American Vogue
+[Read more](https://models.com/work/american-vogue-on-with-the-shows)
+
+Published: Wed, 18 Sep 2024 13:46:35 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2334208/2334208-800w.jpg" /></p>On With The Shows! <a href="https://models.com/work/american-vogue-on-with-the-shows" title="On With The Shows!">More...</a>
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-chic-le-hoodie-for-encore)
+
+Published: Wed, 18 Sep 2024 13:25:28 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2334110/2334110-800w.jpg" /></p>CHIC, LE HOODIE for encore! <a href="https://models.com/work/various-editorials-chic-le-hoodie-for-encore" title="CHIC, LE HOODIE for encore!">More...</a>
+
+## Various Covers
+[Read more](https://models.com/work/various-covers-encore-september-2024-cover)
+
+Published: Wed, 18 Sep 2024 13:19:25 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2334106/2334106-800w.jpg" /></p>encore! September 2024 Cover <a href="https://models.com/work/various-covers-encore-september-2024-cover" title="encore! September 2024 Cover">More...</a>
 
