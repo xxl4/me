@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-23
-date: 2024-09-23 00:14:25
+date: 2024-09-23 06:00:50
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -12,6 +12,13 @@ comments: true
 
 # Models.com for 2024-09-23
 
+## The Face Magazine
+[Read more](https://models.com/work/the-face-magazine-the-face-magazine-issue-20)
+
+Published: Sun, 22 Sep 2024 23:34:53 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339105/2339105-800w.jpg" /></p>The Face Magazine Issue 20 <a href="https://models.com/work/the-face-magazine-the-face-magazine-issue-20" title="The Face Magazine Issue 20">More...</a>
+
 ## Chanel Beauty
 [Read more](https://models.com/work/chanel-beauty-beauty-talks-with-brie-larson)
 
@@ -20,11 +27,11 @@ Published: Sun, 22 Sep 2024 21:53:10 GMT
 <p><img src="https://i.mdel.net/i/db/2024/9/2339079/2339079-800w.jpg" /></p>Beauty Talks with Brie Larson <a href="https://models.com/work/chanel-beauty-beauty-talks-with-brie-larson" title="Beauty Talks with Brie Larson">More...</a>
 
 ## L'Officiel Italia
-[Read more](https://models.com/work/lofficiel-italia-coverstory-i-time-off-in-lanzarote)
+[Read more](https://models.com/work/lofficiel-italia-time-off-in-lanzarote)
 
 Published: Sun, 22 Sep 2024 21:46:41 GMT
 
-<p><img src="https://i.mdel.net/i/db/2024/9/2339015/2339015-800w.jpg" /></p>Coverstory I Time Off in Lanzarote <a href="https://models.com/work/lofficiel-italia-coverstory-i-time-off-in-lanzarote" title="Coverstory I Time Off in Lanzarote">More...</a>
+<p><img src="https://i.mdel.net/i/db/2024/9/2339015/2339015-800w.jpg" /></p>Time Off in Lanzarote <a href="https://models.com/work/lofficiel-italia-time-off-in-lanzarote" title="Time Off in Lanzarote">More...</a>
 
 ## ANDREĀDAMO
 [Read more](https://models.com/work/andreadamo-andreadamo-ss-25-show)
@@ -1054,11 +1061,4 @@ Published: Wed, 18 Sep 2024 16:03:39 GMT
 Published: Wed, 18 Sep 2024 15:59:32 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2334915/2334915-800w.jpg" /></p>Self Service #61 Fall/Winter 2024 Covers <a href="https://models.com/work/self-service-self-service-61-fallwinter-2024-covers" title="Self Service #61 Fall/Winter 2024 Covers">More...</a>
-
-## Harper's Bazaar Brazil
-[Read more](https://models.com/work/harpers-bazaar-brazil-house-of-style)
-
-Published: Wed, 18 Sep 2024 15:50:26 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334680/2334680-800w.jpg" /></p>House Of Style <a href="https://models.com/work/harpers-bazaar-brazil-house-of-style" title="House Of Style">More...</a>
 
