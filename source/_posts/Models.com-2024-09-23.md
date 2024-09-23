@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-09-23
-date: 2024-09-23 06:04:57
+date: 2024-09-23 12:05:35
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,118 @@ comments: true
 ---
 
 # Models.com for 2024-09-23
+
+## Various Campaigns
+[Read more](https://models.com/work/various-campaigns-repetto-campaign-dance-2024)
+
+Published: Mon, 23 Sep 2024 11:20:19 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339664/2339664-800w.jpg" /></p>Repetto Campaign Dance 2024 <a href="https://models.com/work/various-campaigns-repetto-campaign-dance-2024" title="Repetto Campaign Dance 2024">More...</a>
+
+## Amica
+[Read more](https://models.com/work/amica-amica-october-2024-cover)
+
+Published: Mon, 23 Sep 2024 11:12:15 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339660/2339660-800w.jpg" /></p>Amica October 2024 Cover <a href="https://models.com/work/amica-amica-october-2024-cover" title="Amica October 2024 Cover">More...</a>
+
+## Miu Miu
+[Read more](https://models.com/work/miu-miu-miu-miu-balmoral)
+
+Published: Mon, 23 Sep 2024 10:51:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339651/2339651-800w.jpg" /></p>MIU MIU BALMORAL <a href="https://models.com/work/miu-miu-miu-miu-balmoral" title="MIU MIU BALMORAL">More...</a>
+
+## British Vogue
+[Read more](https://models.com/work/british-vogue-the-rich-list)
+
+Published: Mon, 23 Sep 2024 10:45:47 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339611/2339611-800w.jpg" /></p>The RICH list <a href="https://models.com/work/british-vogue-the-rich-list" title="The RICH list">More...</a>
+
+## Nike
+[Read more](https://models.com/work/nike-airmax-sndr)
+
+Published: Mon, 23 Sep 2024 10:43:23 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339609/2339609-800w.jpg" /></p>AIRMAX SNDR <a href="https://models.com/work/nike-airmax-sndr" title="AIRMAX SNDR">More...</a>
+
+## British Vogue
+[Read more](https://models.com/work/british-vogue-noble-panaceas-new-innovation-promises-eye-opening-results)
+
+Published: Mon, 23 Sep 2024 10:39:52 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339582/2339582-800w.jpg" /></p>Noble Panacea’s New Innovation Promises Eye-Opening Results <a href="https://models.com/work/british-vogue-noble-panaceas-new-innovation-promises-eye-opening-results" title="Noble Panacea’s New Innovation Promises Eye-Opening Results">More...</a>
+
+## Country & Townhouse
+[Read more](https://models.com/work/country--townhouse-country--townhouse-aesthetic-guide-2024)
+
+Published: Mon, 23 Sep 2024 10:26:04 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339560/2339560-800w.jpg" /></p>Country & Townhouse Aesthetic Guide 2024 <a href="https://models.com/work/country--townhouse-country--townhouse-aesthetic-guide-2024" title="Country &amp; Townhouse Aesthetic Guide 2024">More...</a>
+
+## Wysokie Obcasy
+[Read more](https://models.com/work/wysokie-obcasy-neo-nail-x-yes)
+
+Published: Mon, 23 Sep 2024 10:11:18 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339509/2339509-800w.jpg" /></p>Neo Nail x Yes <a href="https://models.com/work/wysokie-obcasy-neo-nail-x-yes" title="Neo Nail x Yes">More...</a>
+
+## Chanel Beauty
+[Read more](https://models.com/work/chanel-beauty-glamour-x-chanel-beauty)
+
+Published: Mon, 23 Sep 2024 10:02:23 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339500/2339500-800w.jpg" /></p>Glamour x Chanel Beauty <a href="https://models.com/work/chanel-beauty-glamour-x-chanel-beauty" title="Glamour x Chanel Beauty">More...</a>
+
+## Self Service
+[Read more](https://models.com/work/self-service-bodine-van-galen-by-kayla-connors)
+
+Published: Mon, 23 Sep 2024 09:55:07 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339468/2339468-800w.jpg" /></p>Bodine Van Galen by Kayla Connors <a href="https://models.com/work/self-service-bodine-van-galen-by-kayla-connors" title="Bodine Van Galen by Kayla Connors">More...</a>
+
+## Financial Times - HTSI Magazine
+[Read more](https://models.com/work/financial-times---htsi-magazine-port-of-call)
+
+Published: Mon, 23 Sep 2024 09:34:28 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339438/2339438-800w.jpg" /></p>Port of Call <a href="https://models.com/work/financial-times---htsi-magazine-port-of-call" title="Port of Call">More...</a>
+
+## Persol
+[Read more](https://models.com/work/persol-persol-fw-2024-campaign-1)
+
+Published: Mon, 23 Sep 2024 08:33:16 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339343/2339343-800w.jpg" /></p>Persol F/W 2024 Campaign <a href="https://models.com/work/persol-persol-fw-2024-campaign-1" title="Persol F/W 2024 Campaign">More...</a>
+
+## Mixte
+[Read more](https://models.com/work/mixte-the-girl-who-didnt-want-to-be-a-princess)
+
+Published: Mon, 23 Sep 2024 08:10:40 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339301/2339301-800w.jpg" /></p>The girl who didn't want to be a princess <a href="https://models.com/work/mixte-the-girl-who-didnt-want-to-be-a-princess" title="The girl who didn't want to be a princess">More...</a>
+
+## Laura Biagiotti
+[Read more](https://models.com/work/laura-biagiotti-laura-biagiotti-ss-25-show)
+
+Published: Mon, 23 Sep 2024 03:58:22 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339210/2339210-800w.jpg" /></p>Laura Biagiotti S/S 25 Show <a href="https://models.com/work/laura-biagiotti-laura-biagiotti-ss-25-show" title="Laura Biagiotti S/S 25 Show">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-hui-ss-25-show)
+
+Published: Mon, 23 Sep 2024 03:19:27 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339353/2339353-800w.jpg" /></p>HUI S/S 25 Show <a href="https://models.com/work/various-shows-hui-ss-25-show" title="HUI S/S 25 Show">More...</a>
+
+## Various Editorials
+[Read more](https://models.com/work/various-editorials-gold-rush-for-bode-magazine)
+
+Published: Mon, 23 Sep 2024 00:30:20 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339140/2339140-800w.jpg" /></p>GOLD RUSH for Bode Magazine <a href="https://models.com/work/various-editorials-gold-rush-for-bode-magazine" title="GOLD RUSH for Bode Magazine">More...</a>
 
 ## The Face Magazine
 [Read more](https://models.com/work/the-face-magazine-the-face-magazine-issue-20)
@@ -60,6 +172,13 @@ Published: Sun, 22 Sep 2024 15:58:54 GMT
 Published: Sun, 22 Sep 2024 15:48:24 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2338919/2338919-800w.jpg" /></p>Edge <a href="https://models.com/work/the-gentlewoman-edge" title="Edge">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-aniye-records-ss-25-show)
+
+Published: Sun, 22 Sep 2024 15:00:38 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339295/2339295-800w.jpg" /></p>Aniye Records S/S 25 Show <a href="https://models.com/work/various-shows-aniye-records-ss-25-show" title="Aniye Records S/S 25 Show">More...</a>
 
 ## Esquire China
 [Read more](https://models.com/work/esquire-china-zhang-boheng)
@@ -663,6 +782,13 @@ Published: Thu, 19 Sep 2024 17:00:11 GMT
 
 <p><img alt="" class="attachment-medium size-medium wp-post-image" src="https://i.mdel.net/newfaces/i/2024/09/mdcselects19092024.jpg" /></p>Cohen Who: Cohen Bryant — @die_like_moviestars — American from Lancaster, Pennsylvania, USA — born February 3rd — 186 cm / 6&#8217;1&#8243; — he/him. Where: BRI&#8217;GEID AGENCY (New York &#8211; mother agency) — What&#8217;s a favorite book/movie/TV show, and why do you love it? I just finished a book written by graffiti writer Sluto, documenting his [&hellip;] <a href="https://models.com/newfaces/mdc-selects/72986" title="The Sky is the Limit for These International Rookies">More...</a>
 
+## BOSS
+[Read more](https://models.com/work/boss-boss-ss-25)
+
+Published: Thu, 19 Sep 2024 16:42:42 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339234/2339234-800w.jpg" /></p>Boss S/S 25 <a href="https://models.com/work/boss-boss-ss-25" title="Boss S/S 25">More...</a>
+
 ## Massimo Dutti
 [Read more](https://models.com/work/massimo-dutti-interplay)
 
@@ -747,6 +873,13 @@ Published: Thu, 19 Sep 2024 14:56:33 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2336503/2336503-800w.jpg" /></p>M Le magazine du Monde 09/20/2024 Cover <a href="https://models.com/work/m-le-magazine-du-monde-m-le-magazine-du-monde-09202024-cover" title="M Le magazine du Monde 09/20/2024 Cover">More...</a>
 
+## Marie Claire France
+[Read more](https://models.com/work/marie-claire-france-pche-aux-trsors)
+
+Published: Thu, 19 Sep 2024 14:49:08 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339198/2339198-800w.jpg" /></p>Pêche Aux Trésors <a href="https://models.com/work/marie-claire-france-pche-aux-trsors" title="Pêche Aux Trésors">More...</a>
+
 ## Nike
 [Read more](https://models.com/work/nike-nike-x-futuradosmil)
 
@@ -767,6 +900,13 @@ Published: Thu, 19 Sep 2024 14:43:28 GMT
 Published: Thu, 19 Sep 2024 14:22:34 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2336177/2336177-800w.jpg" /></p>Prada S/S 25 Show <a href="https://models.com/work/prada-prada-ss-25-show" title="Prada S/S 25 Show">More...</a>
+
+## Various Shows
+[Read more](https://models.com/work/various-shows-sprayground-ss-25-show)
+
+Published: Thu, 19 Sep 2024 13:44:39 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/9/2339403/2339403-800w.jpg" /></p>Sprayground S/S 25 Show <a href="https://models.com/work/various-shows-sprayground-ss-25-show" title="Sprayground S/S 25 Show">More...</a>
 
 ## The Gentlewoman
 [Read more](https://models.com/work/the-gentlewoman-oona-doherty)
@@ -921,144 +1061,4 @@ Published: Thu, 19 Sep 2024 07:29:06 GMT
 Published: Thu, 19 Sep 2024 06:51:31 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/9/2335297/2335297-800w.jpg" /></p>Denham S/S 24 Campaign <a href="https://models.com/work/denham-denham-ss-24-campaign" title="Denham S/S 24 Campaign">More...</a>
-
-## Vogue Netherlands
-[Read more](https://models.com/work/vogue-netherlands-vogue-netherlands-june-2024-cover-1)
-
-Published: Thu, 19 Sep 2024 06:49:05 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335293/2335293-800w.jpg" /></p>Vogue Netherlands June 2024 Cover <a href="https://models.com/work/vogue-netherlands-vogue-netherlands-june-2024-cover-1" title="Vogue Netherlands June 2024 Cover">More...</a>
-
-## Elle France
-[Read more](https://models.com/work/elle-france-chacune-trouve-sonsac)
-
-Published: Thu, 19 Sep 2024 04:07:49 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335225/2335225-800w.jpg" /></p>CHACUNE TROUVE SONSAC <a href="https://models.com/work/elle-france-chacune-trouve-sonsac" title="CHACUNE TROUVE SONSAC">More...</a>
-
-## Vogue China
-[Read more](https://models.com/work/vogue-china-double-act)
-
-Published: Thu, 19 Sep 2024 03:18:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335216/2335216-800w.jpg" /></p>如在镜中DOUBLE ACT <a href="https://models.com/work/vogue-china-double-act" title="如在镜中DOUBLE ACT">More...</a>
-
-## Various Shows
-[Read more](https://models.com/work/various-shows-dreaming-eli-ss-25-presentation)
-
-Published: Thu, 19 Sep 2024 02:09:05 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2336681/2336681-800w.jpg" /></p>Dreaming Eli S/S 25 Presentation <a href="https://models.com/work/various-shows-dreaming-eli-ss-25-presentation" title="Dreaming Eli S/S 25 Presentation">More...</a>
-
-## Onitsuka Tiger
-[Read more](https://models.com/work/onitsuka-tiger-onitsuka-tiger-ss-25-show)
-
-Published: Thu, 19 Sep 2024 01:05:38 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335312/2335312-800w.jpg" /></p>Onitsuka Tiger S/S 25 Show <a href="https://models.com/work/onitsuka-tiger-onitsuka-tiger-ss-25-show" title="Onitsuka Tiger S/S 25 Show">More...</a>
-
-## Marco Rambaldi
-[Read more](https://models.com/work/marco-rambaldi-marco-rambaldi-ss-25-show)
-
-Published: Thu, 19 Sep 2024 00:47:55 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335145/2335145-800w.jpg" /></p>Marco Rambaldi S/S 25 Show <a href="https://models.com/work/marco-rambaldi-marco-rambaldi-ss-25-show" title="Marco Rambaldi S/S 25 Show">More...</a>
-
-## Pat McGrath Labs
-[Read more](https://models.com/work/pat-mcgrath-labs-xtreme-cyber-lotus)
-
-Published: Wed, 18 Sep 2024 20:01:40 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334961/2334961-800w.jpg" /></p>XTREME CYBER LOTUS <a href="https://models.com/work/pat-mcgrath-labs-xtreme-cyber-lotus" title="XTREME CYBER LOTUS">More...</a>
-
-## H&M
-[Read more](https://models.com/work/hm-aw-2024-campaign-lookbook)
-
-Published: Wed, 18 Sep 2024 19:34:26 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334927/2334927-800w.jpg" /></p>A/W 2024 Campaign lookbook <a href="https://models.com/work/hm-aw-2024-campaign-lookbook" title="A/W 2024 Campaign lookbook">More...</a>
-
-## CoverGirl
-[Read more](https://models.com/work/covergirl-the-new-look-of-clean-invisible)
-
-Published: Wed, 18 Sep 2024 19:21:32 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334917/2334917-800w.jpg" /></p>The NEW Look of Clean Invisible <a href="https://models.com/work/covergirl-the-new-look-of-clean-invisible" title="The NEW Look of Clean Invisible">More...</a>
-
-## Models.com
-[Read more](https://models.com/work/modelscom-precious-lee-on-reaching-new-supers-status-with-poise)
-
-Published: Wed, 18 Sep 2024 18:25:15 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335450/2335450-800w.jpg" /></p>Precious Lee On Reaching New Supers Status With Poise <a href="https://models.com/work/modelscom-precious-lee-on-reaching-new-supers-status-with-poise" title="Precious Lee On Reaching New Supers Status With Poise">More...</a>
-
-## Redemption
-[Read more](https://models.com/work/redemption-redemption-ss-25-show)
-
-Published: Wed, 18 Sep 2024 17:40:31 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334953/2334953-800w.jpg" /></p>Redemption S/S 25 Show <a href="https://models.com/work/redemption-redemption-ss-25-show" title="Redemption S/S 25 Show">More...</a>
-
-## Pop Magazine
-[Read more](https://models.com/work/pop-magazine-the-truth-is-up-there)
-
-Published: Wed, 18 Sep 2024 17:13:50 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334854/2334854-800w.jpg" /></p>The Truth is up there... <a href="https://models.com/work/pop-magazine-the-truth-is-up-there" title="The Truth is up there...">More...</a>
-
-## Portrait
-[Read more](https://models.com/work/portrait-transatlantico)
-
-Published: Wed, 18 Sep 2024 16:45:03 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334793/2334793-800w.jpg" /></p>TRANSATLANTICO <a href="https://models.com/work/portrait-transatlantico" title="TRANSATLANTICO">More...</a>
-
-## Harper's Bazaar España
-[Read more](https://models.com/work/harpers-bazaar-espaa-harpers-bazaar-espaa-october-2024-covers)
-
-Published: Wed, 18 Sep 2024 16:21:57 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2336273/2336273-800w.jpg" /></p>Harper's Bazaar España October 2024 Covers <a href="https://models.com/work/harpers-bazaar-espaa-harpers-bazaar-espaa-october-2024-covers" title="Harper's Bazaar España October 2024 Covers">More...</a>
-
-## Elle Spain
-[Read more](https://models.com/work/elle-spain-elle-spain-october-2024-cover)
-
-Published: Wed, 18 Sep 2024 16:19:10 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334797/2334797-800w.jpg" /></p>Elle Spain October 2024 Cover <a href="https://models.com/work/elle-spain-elle-spain-october-2024-cover" title="Elle Spain October 2024 Cover">More...</a>
-
-## Harper's Bazaar Greece
-[Read more](https://models.com/work/harpers-bazaar-greece-harpers-bazaar-greece-october-2024-cover)
-
-Published: Wed, 18 Sep 2024 16:17:44 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334747/2334747-800w.jpg" /></p>Harper's Bazaar Greece October 2024 Cover <a href="https://models.com/work/harpers-bazaar-greece-harpers-bazaar-greece-october-2024-cover" title="Harper's Bazaar Greece October 2024 Cover">More...</a>
-
-## Del Core
-[Read more](https://models.com/work/del-core-del-core-ss-25-show)
-
-Published: Wed, 18 Sep 2024 16:15:38 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335452/2335452-800w.jpg" /></p>Del Core S/S 25 Show <a href="https://models.com/work/del-core-del-core-ss-25-show" title="Del Core S/S 25 Show">More...</a>
-
-## Harper's Bazaar Greece
-[Read more](https://models.com/work/harpers-bazaar-greece-seasons-bests)
-
-Published: Wed, 18 Sep 2024 16:14:01 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334733/2334733-800w.jpg" /></p>Season's Bests <a href="https://models.com/work/harpers-bazaar-greece-seasons-bests" title="Season's Bests">More...</a>
-
-## Financial Times - HTSI Magazine
-[Read more](https://models.com/work/financial-times---htsi-magazine-financial-times---htsi-magazine-09212024-cover)
-
-Published: Wed, 18 Sep 2024 16:03:39 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2335408/2335408-800w.jpg" /></p>Financial Times - HTSI Magazine 09/21/2024 Cover <a href="https://models.com/work/financial-times---htsi-magazine-financial-times---htsi-magazine-09212024-cover" title="Financial Times - HTSI Magazine 09/21/2024 Cover">More...</a>
-
-## Self Service
-[Read more](https://models.com/work/self-service-self-service-61-fallwinter-2024-covers)
-
-Published: Wed, 18 Sep 2024 15:59:32 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/9/2334915/2334915-800w.jpg" /></p>Self Service #61 Fall/Winter 2024 Covers <a href="https://models.com/work/self-service-self-service-61-fallwinter-2024-covers" title="Self Service #61 Fall/Winter 2024 Covers">More...</a>
 
