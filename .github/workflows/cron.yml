@@ -3,7 +3,7 @@ name: Daily RSS Feed Update
 on:
   schedule:
     # every six hours run the job
-    - cron: '0 */6 * * *'
+    - cron: '1 * * * *'
     # muanlly trigger
   push:
     branches:
