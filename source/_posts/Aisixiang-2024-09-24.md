@@ -1,6 +1,6 @@
 ---
 title: Aisixiang RSS Feed for 2024-09-24
-date: 2024-09-24 08:09:28
+date: 2024-09-24 09:06:45
 tags: [法学, 经济学,社会学,哲学,Aisixiang]
 author: Aisixiang
 summary: Aisixiang RSS Feed
