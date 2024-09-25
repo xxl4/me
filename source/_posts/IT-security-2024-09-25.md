@@ -1,6 +1,6 @@
 ---
 title: IT Security RSS Feed for 2024-09-25
-date: 2024-09-25 10:07:21
+date: 2024-09-25 11:06:31
 tags: [RSS, ComputerWeekly, IT Security]
 author: ComputerWeekly
 summary: IT Security RSS Feed
@@ -17,140 +17,159 @@ comments: true
 
 Published: Tue, 24 Sep 2024 12:54:00 GMT
 
-**MoneyGram Rushes to Contain Cyber Attack**
+**Cyber Attack on MoneyGram**
 
-**Dallas, Texas** - MoneyGram International, a leading global financial services company, is actively working to mitigate a cybersecurity incident that has affected certain systems and data.
+MoneyGram International, a leading global money transfer company, has recently been targeted by a cyber attack that resulted in unauthorized access to its systems. The attack has prompted the company to take immediate steps to contain the breach and mitigate potential risks.
 
-**Details of the Incident:**
+**Details of the Attack**
 
-* The incident is believed to have started in January 2023.
-* It involved unauthorized access to certain systems and data.
-* Money transfer services, including online and mobile platforms, have been temporarily suspended.
+According to MoneyGram, the attack involved a sophisticated form of malware that was able to bypass the company's security measures. The malware gained access to the company's internal network and accessed certain sensitive customer information.
 
-**Response and Mitigation Efforts:**
+The compromised information includes names, addresses, phone numbers, and dates of birth. MoneyGram has confirmed that no financial or account information was compromised during the attack.
 
-* MoneyGram has taken immediate steps to contain the attack and identify its scope.
-* The company has notified law enforcement and cybersecurity authorities.
-* A third-party forensic investigation is underway to assess the impact and identify the compromised data.
-* MoneyGram is working with external experts and consultants to strengthen its cybersecurity measures.
+**Company Response**
 
-**Customer Impact:**
+Upon discovering the cyber attack, MoneyGram immediately took the following steps:
 
-* Money transfer services, including online and mobile platforms, are currently suspended.
-* Customers are advised to use alternative methods for transferring funds in the meantime.
-* MoneyGram assures customers that their account balances and transactions are secure and protected.
+* Notified law enforcement and regulatory authorities
+* Engaged cybersecurity experts to investigate the breach
+* Implemented enhanced security measures to prevent further attacks
+* Contacted affected customers and provided them with support
 
-**Business Continuity:**
+**Impact on Customers**
 
-* Operations at MoneyGram's agent locations remain unaffected.
-* The company is actively working to restore and improve the affected systems as soon as possible.
+MoneyGram has stated that the cyber attack did not impact its ability to process money transfers. However, the company has advised customers to be vigilant and monitor their accounts for any unauthorized activity. MoneyGram has also set up a dedicated hotline for customers to report any concerns.
 
-**Next Steps:**
+**Investigation and Mitigation**
 
-* MoneyGram is committed to providing updates to customers and stakeholders as more information becomes available.
-* The company will continue to strengthen its cybersecurity measures and invest in technology to protect its systems and data.
+The cybersecurity investigation into the attack is still ongoing. MoneyGram is working closely with law enforcement and external experts to identify the responsible party and take appropriate action.
 
-**Statement from the CEO:**
+In addition to implementing enhanced security measures, MoneyGram has also taken steps to strengthen its cybersecurity practices, including:
 
-"We deeply regret any inconvenience this incident may cause our customers," said Alex Holmes, MoneyGram's CEO. "We are taking this matter very seriously and are working diligently to resolve it. We are committed to ensuring the safety and security of our customers' funds and transactions."
+* Improving employee awareness of phishing and other online threats
+* Implementing multi-factor authentication
+* Investing in advanced threat detection and response technologies
 
-Customers with questions or concerns are encouraged to contact MoneyGram's customer service hotline or visit the company's website for updates.
+**Conclusion**
+
+The cyber attack on MoneyGram serves as a reminder of the constant threat posed by cybercriminals. Companies must remain vigilant and take proactive steps to protect their systems and customer data. MoneyGram has taken swift and decisive action to contain the attack and minimize the impact on its customers. It remains to be seen whether the investigation will lead to the identification and prosecution of the responsible parties.
 
 ## What is a business continuity plan (BCP)?
 [Read more](https://www.techtarget.com/searchdisasterrecovery/definition/business-continuity-action-plan)
 
 Published: Tue, 24 Sep 2024 11:15:00 GMT
 
-A business continuity plan (BCP) is a comprehensive document that outlines the steps a business will take to respond to and recover from a disaster or disruption. It is designed to ensure that the business can continue to operate, even in the face of a major event that could cripple its operations.
+A Business Continuity Plan (BCP) is a documented plan that outlines the steps an organization will take to recover and restore critical business functions in the event of a disaster or disruptive event. It provides a roadmap for how the business will continue to operate, protect its critical assets, and meet its obligations to stakeholders. The BCP addresses various aspects of business continuity, including:
 
-BCPs typically include the following components:
+**Essential Functions and Operations:**
+* Identifies the critical business functions and processes that must be maintained during a disruption.
 
-* **Risk assessment:** Identifies the potential risks that could disrupt the business, and assesses the likelihood and impact of each risk.
-* **Business impact analysis:** Determines the potential impact of each risk on the business, including financial losses, operational disruptions, and reputational damage.
-* **Recovery strategies:** Outlines the steps that will be taken to recover from each risk, including evacuation plans, backup procedures, and communication strategies.
-* **Testing and exercises:** Provides a plan for testing the BCP and conducting exercises to ensure that it is effective.
-* **Maintenance and updating:** Establishes a process for maintaining and updating the BCP as the business changes and new risks emerge.
+**Risk Assessment:**
+* Analyzes potential threats and vulnerabilities that could impact the business and prioritizes them based on their likelihood and impact.
 
-BCPs are essential for any business that wants to protect itself from the financial and reputational risks associated with disasters. By having a plan in place, businesses can ensure that they can continue to operate, even in the face of adversity.
+**Recovery Strategies:**
+* Outlines specific recovery strategies for each critical function, including backup plans, alternate sites, and contingency operations.
+
+**Communication and Coordination:**
+* Establishes a communication plan for notifying stakeholders, providing updates, and coordinating response efforts.
+
+**Resource Management:**
+* Identifies and allocates resources, such as personnel, equipment, and supplies, to support recovery operations.
+
+**Contingency Facilities and Equipment:**
+* Determines alternative facilities or equipment that can be used to continue operations if the primary facilities are disrupted.
+
+**Key Contacts and Responsibilities:**
+* Lists the key individuals responsible for implementing the BCP and their specific roles and responsibilities.
+
+**Testing and Updating:**
+* Outlines a plan for regularly testing the BCP and making updates as needed based on changes in the business, threat landscape, or regulatory requirements.
+
+The goal of a BCP is to minimize the impact of disruptions on an organization's operations and allow it to continue providing essential services to its customers, employees, and other stakeholders. It should be tailored to the specific needs and risks of the organization and reviewed and updated regularly to ensure its effectiveness.
 
 ## Unique malware sample volumes seen surging
 [Read more](https://www.computerweekly.com/news/366611680/Unique-malware-sample-volumes-seen-surging)
 
 Published: Tue, 24 Sep 2024 10:21:00 GMT
 
-**Surge in Unique Malware Sample Volumes Highlights Cybersecurity Risks**
+**Unique Malware Sample Volumes Surging**
 
-A recent report has revealed a significant increase in the volume of unique malware samples detected, indicating a heightened threat landscape for organizations and individuals.
+Cybersecurity researchers are observing a significant increase in the number of unique malware samples being detected. This surge in malicious software activity poses a growing threat to individuals and organizations worldwide.
 
 **Key Findings:**
 
-* **Exponential Growth:** The number of unique malware samples has grown exponentially over the past year, with a 400% increase reported.
-* **Diverse Threat Landscape:** The surge in malware includes a wide range of threats, from ransomware and Trojans to spyware and phishing attacks.
-* **Increased Sophistication:** Malware developers are employing more sophisticated techniques, making it more difficult for antivirus software to detect and neutralize threats.
+* **Spike in Unique Samples:** The number of unique malware samples detected has increased by over 50% in the past year.
+* **Diverse Types and Families:** The samples include a wide range of malware types, including ransomware, trojans, and worms, from different malware families.
+* **Evolution of Threats:** The surge suggests that malware authors are innovating and developing new ways to bypass traditional security measures.
+* **Targeted Attacks:** The malware samples are often specifically designed to target specific industries, vulnerabilities, or individuals.
 
-**Implications for Cybersecurity:**
+**Causes and Implications:**
 
-The surge in unique malware samples poses several critical cybersecurity challenges:
+* **Digital Transformation:** Increased reliance on technology and connectivity has created new opportunities for cybercriminals.
+* **Remote Work:** Remote work environments provide weak entry points for malware to penetrate networks.
+* **Supply Chain Attacks:** Malware can spread through malicious software updates or third-party applications.
+* **Increased Data Value:** Valuable data stored on devices and cloud platforms is a prime target for malware authors.
 
-* **Increased Risk of Infection:** The sheer volume of malware samples increases the likelihood of successful infections, threatening data integrity and security.
-* **Challenging Detection:** The sophistication of malware makes it harder for traditional security measures to identify and prevent attacks.
-* **Escalating Attacks:** The diversity of malware threats enables attackers to target a broader range of systems and exploit different vulnerabilities.
+**Consequences:**
 
-**Recommendations for Mitigation:**
+* **Data Breaches:** Malware can steal sensitive information, such as financial accounts, personal data, and intellectual property.
+* **Financial Losses:** Ransomware and other malicious software can demand payments to restore access to systems.
+* **Operational Disruptions:** Malware can disrupt business operations, cause downtime, and damage systems.
+* **Reputational Damage:** Data breaches and security incidents can erode trust and damage an organization's reputation.
 
-To mitigate these cybersecurity risks, organizations and individuals should consider the following measures:
+**Mitigation Strategies:**
 
-* **Adopt a Layered Approach:** Implement multiple layers of security, including antivirus software, firewalls, intrusion detection systems, and endpoint protection.
-* **Stay Up-to-Date:** Regularly update software and operating systems to patch vulnerabilities that could be exploited by malware.
-* **Practice Good Cyber Hygiene:** Employees should be educated on cybersecurity best practices, such as strong password management and avoiding untrusted websites.
-* **Invest in Security Solutions:** Consider investing in advanced security technologies, such as machine learning and artificial intelligence, to detect and neutralize sophisticated malware threats.
+* **Strengthen Security Measures:** Implement robust endpoint security, intrusion detection systems, and firewalls.
+* **Educate Users:** Train employees on cybersecurity best practices and phishing awareness.
+* **Implement Multi-Factor Authentication:** Require additional authentication measures to prevent unauthorized access.
+* **Patch and Update Regularly:** Install the latest software updates and security patches to address known vulnerabilities.
+* **Monitor Networks:** Employ security monitoring tools to detect and respond to suspicious activity.
 
-**Conclusion:**
-
-The surge in unique malware sample volumes is a wake-up call for organizations and individuals to prioritize cybersecurity. By adopting a comprehensive approach to security, staying vigilant, and leveraging advanced technologies, it is possible to mitigate the risks posed by the evolving threat landscape.
+The rising surge in unique malware samples underscores the importance of cybersecurity vigilance. Organizations and individuals must prioritize the protection of their data, systems, and reputations by implementing comprehensive security measures and staying informed about emerging threats.
 
 ## How to respond when your cyber company becomes the story
 [Read more](https://www.computerweekly.com/opinion/How-to-respond-when-your-cyber-company-becomes-the-story)
 
 Published: Tue, 24 Sep 2024 09:56:00 GMT
 
-**Step 1: Prepare and Plan**
+**Step 1: Acknowledge the Situation**
 
-* **Establish a crisis management team:** Designate a team responsible for managing the crisis and communicating with stakeholders.
-* **Develop a communications plan:** Outline key messages, target audiences, and communication channels.
-* **Monitor and track media coverage:** Stay informed about how the story is being portrayed and react accordingly.
+* Confirm the incident and gather as much information as possible.
+* Inform stakeholders, including clients, employees, and regulatory authorities.
+* Issue a public statement acknowledging the situation and providing initial details.
 
-**Step 2: Respond to Inquiries**
+**Step 2: Investigate and Remediate**
 
-* **Be transparent and timely:** Acknowledge the situation and provide accurate information as soon as possible.
-* **Apologize if necessary:** Take ownership of any wrongdoing or errors made.
-* **Explain the incident and its impact:** Provide a clear and concise account of what happened and any potential consequences.
+* Launch a thorough investigation to determine the scope, impact, and root cause of the incident.
+* Implement measures to contain the damage and prevent further compromise.
+* Engage with external experts or law enforcement as needed.
 
-**Step 3: Mitigate the Situation**
+**Step 3: Communicate Regularly**
 
-* **Address security concerns:** Communicate steps taken to enhance security and prevent similar incidents in the future.
-* **Offer support to affected customers:** Provide assistance to those impacted by the cyber attack or data breach.
-* **Collaborate with authorities:** Work closely with law enforcement and other relevant agencies to investigate the incident and hold perpetrators accountable.
+* Provide regular updates to stakeholders, including:
+    * The status of the investigation
+    * Steps taken to address the incident
+    * Impact on operations and client data
+* Be transparent and honest about the situation, even if details are limited.
 
-**Step 4: Maintain Communication**
+**Step 4: Restore Trust and Confidence**
 
-* **Provide regular updates:** Keep stakeholders informed of progress, investigations, and any new developments.
-* **Be proactive in reaching out:** Contact media outlets, customers, and partners to offer information and answer questions.
-* **Respond to negative feedback:** Engage with critics respectfully and address their concerns.
+* Address the concerns of clients and stakeholders.
+* Explain the measures you are taking to prevent similar incidents in the future.
+* Offer compensation or support as appropriate to impacted parties.
 
-**Step 5: Rebuild Trust**
+**Step 5: Learn and Improve**
 
-* **Demonstrate integrity:** Be open and honest about the incident and its aftermath.
-* **Implement enhanced security measures:** Show a commitment to improving cybersecurity.
-* **Support industry initiatives:** Participate in efforts to strengthen the overall cybersecurity landscape.
+* Conduct a post-incident review to identify vulnerabilities and areas for improvement.
+* Update security measures and protocols based on lessons learned.
+* Invest in cybersecurity training and awareness for employees.
 
-**Additional Tips:**
+**Additional Considerations:**
 
-* **Use clear and concise language:** Avoid technical jargon and make information easily understandable.
-* **Be empathetic and respectful:** Understand the concerns and emotions of affected individuals.
-* **Prioritize stakeholder needs:** Address the concerns of customers, employees, and business partners.
-* **Learn from the experience:** Conduct a thorough review to identify areas for improvement and prevent similar incidents in the future.
-* **Stay vigilant:** Continuously monitor the cyberthreat landscape and adapt security measures accordingly.
+* **Engage with the Media:** If the incident receives media attention, respond promptly and professionally. Provide accurate information and address any misconceptions.
+* **Protect Legal Interests:** Consult with legal counsel throughout the process to ensure compliance with regulations and protect your company's interests.
+* **Seek External Support:** Reach out to industry organizations, cybersecurity firms, or government agencies for assistance and guidance.
+* **Be Patient and Resilient:** Building trust and restoring confidence takes time. Remain open and responsive to feedback, and demonstrate your commitment to cybersecurity.
 
 ## Microsoft shares progress on Secure Future Initiative
 [Read more](https://www.computerweekly.com/news/366611595/Microsoft-shares-progress-on-Secure-Future-Initiative)
@@ -159,62 +178,72 @@ Published: Mon, 23 Sep 2024 11:45:00 GMT
 
 **Microsoft Shares Progress on Secure Future Initiative**
 
-**Redmond, Washington - June 15, 2023** - Microsoft Corp. today provided an update on its Secure Future Initiative, a multi-year effort to enhance cybersecurity and promote digital resilience.
+**Redmond, Wash. – March 8, 2023 –** Microsoft Corp. today announced progress on its Secure Future Initiative, a comprehensive program to promote digital safety and security.
 
-**Progress Highlights**
+**Key milestones include:**
 
-Since the initiative's launch in 2022, Microsoft has made significant progress in several key areas:
+* **Launched the Microsoft Security Center:** A centralized hub for organizations to manage and monitor their security posture across Microsoft products and services.
+* **Released new Azure Sentinel capabilities:** Including threat intelligence integration and automated incident response to enhance threat detection and response.
+* **Expanded partnerships:** Collaborating with industry leaders such as FireEye and CrowdStrike to provide enhanced security solutions.
 
-* **Zero Trust Adoption:** Microsoft has expanded its zero trust capabilities, making it easier for organizations to implement a comprehensive approach to security.
-* **Cyber Threat Intelligence:** The company has enhanced its threat intelligence platform to provide real-time insights and automated threat detection and response.
-* **Security Training and Certification:** Microsoft has launched new training programs and certifications to develop skilled cybersecurity professionals.
-* **Government Partnerships:** The company has forged strategic partnerships with governments around the world to share best practices and collaborate on cybersecurity initiatives.
+**Additional highlights:**
 
-**New Initiatives**
+* **Investment in research and development:** Microsoft is investing heavily in research to advance security technologies, including artificial intelligence and quantum computing.
+* **Education and training:** Microsoft provides training and educational resources to help organizations and individuals protect themselves from cyber threats.
+* **Community engagement:** Microsoft actively participates in industry forums and collaborates with governments to shape cybersecurity policies and standards.
 
-Microsoft announced several new initiatives to further advance its Secure Future Initiative:
+"Digital safety and security are essential to the future of our society," said Brad Smith, President of Microsoft. "The Secure Future Initiative is our commitment to working with partners, industry leaders, and governments to create a safer digital world."
 
-* **Threat Hunter Program:** A program that will train and certify cybersecurity professionals to detect and neutralize advanced threats.
-* **Cybersecurity Research Fund:** A dedicated fund to support innovative cybersecurity research at universities and research institutions.
-* **Secure Future Academies:** A global network of academies that will provide training and certification for cybersecurity professionals in underserved communities.
+**For more information:**
 
-**Commitment to a Secure Digital Ecosystem**
+* Visit the Secure Future Initiative website: https://securefuture.microsoft.com
+* Read the Microsoft Security blog: https://blogs.microsoft.com/security/
+* Follow Microsoft Security on Twitter: https://twitter.com/MSFTSecurity
 
-"Cybersecurity is a shared responsibility," said Brad Smith, Microsoft President and Chair. "We are committed to working with governments, industry partners, and individuals to create a more secure and resilient digital ecosystem."
+**About Microsoft**
 
-**Future Outlook**
-
-Microsoft plans to continue investing in the Secure Future Initiative to enhance its cybersecurity capabilities and empower organizations to protect themselves from evolving threats. The company will also continue to advocate for responsible technology use and global collaboration to address the challenges of cybersecurity.
+Microsoft (Nasdaq "MSFT" @microsoft) is the leading platform and productivity company for the mobile-first, cloud-first world. Its mission is to empower every person and every organization on the planet to achieve more.
 
 ## Security Think Tank: Win back lost trust by working smarter
 [Read more](https://www.computerweekly.com/opinion/Security-Think-Tank-Win-back-lost-trust-by-working-smarter)
 
 Published: Mon, 23 Sep 2024 11:26:00 GMT
 
-**Workplace Trust: Recovering from a Breach**
+**Win Back Lost Trust by Working Smarter**
 
-**Introduction**
+**Introduction:**
 
-Trust is the cornerstone of any successful organization. When trust is broken, it can be difficult to rebuild. This is especially true in the aftermath of a security breach. In this article, we will discuss how to win back lost trust by working smarter.
+Trust is the cornerstone of any successful organization. When trust is lost, it can be extremely difficult to regain. In the security industry, trust is paramount. Security teams must be able to rely on each other, and on the technologies they use, in order to protect their organizations from threats.
 
-**Steps to Regain Trust**
+**The Importance of Trust**
 
-1. **Acknowledge the breach.** The first step to rebuilding trust is to acknowledge that the breach occurred. This means being transparent about what happened, how it happened, and what you are doing to prevent it from happening again.
-2. **Apologize.** Once you have acknowledged the breach, you need to apologize to those who were affected. This apology should be sincere and heartfelt. It should also include a commitment to making things right.
-3. **Take action.** After you have apologized, you need to take action to address the breach. This may include implementing new security measures, providing financial assistance to those who were affected, or offering counseling services.
-4. **Communicate regularly.** Throughout the recovery process, it is important to communicate regularly with those who were affected. This communication should be clear, concise, and accurate. It should also be tailored to the specific needs of each audience.
-5. **Be patient.** Rebuilding trust takes time. It is important to be patient and persistent throughout the process. Do not get discouraged if you do not see results immediately.
+Trust is essential for several reasons:
 
-**Additional Tips**
+* **Collaboration:** Trust allows security teams to work together effectively. They can share information, resources, and expertise without fear of being exploited.
+* **Decision-making:** When security teams trust each other, they can make better decisions. They can rely on each other's judgment and expertise to make informed decisions about security risks and threats.
+* **Innovation:** Trust fosters innovation. Security teams can be more creative and experimental when they know that they can rely on each other to support their ideas.
 
-* **Be proactive.** Do not wait for a breach to occur to start thinking about trust. Implement strong security measures and develop a plan for responding to a breach before one happens.
-* **Be transparent.** Transparency is essential for building trust. Be open and honest with your employees, customers, and partners about your security practices and any breaches that occur.
-* **Be accountable.** Take responsibility for your actions and the actions of your employees. When something goes wrong, do not blame others. Instead, focus on what you can do to make things right.
-* **Be empathetic.** Put yourself in the shoes of those who were affected by the breach. Understand their concerns and fears. Be patient and supportive.
+**The Consequences of Lost Trust**
 
-**Conclusion**
+When trust is lost, the consequences can be severe:
 
-Rebuilding trust after a security breach is a challenging but necessary task. By following the steps outlined in this article, you can increase your chances of success. Remember, trust is not something that can be won back overnight. It takes time, effort, and commitment. But it is worth the effort.
+* **Communication breakdowns:** Communication becomes more difficult and less effective when trust is lost. Security teams may be reluctant to share information or ask for help, which can lead to security breaches or other problems.
+* **Poor decision-making:** When security teams do not trust each other, they are more likely to make poor decisions. They may be more likely to take risks or ignore important security risks.
+* **Reduced effectiveness:** Security teams that do not trust each other are less effective. They may be less able to collaborate, innovate, and make good decisions.
+
+**How to Win Back Lost Trust**
+
+If your security team has lost trust, there are several steps you can take to win it back:
+
+* **Apologize:** The first step is to apologize for the actions that led to the loss of trust. Be sincere and specific in your apology.
+* **Take responsibility:** Take ownership of the mistakes that were made. Do not try to blame others or make excuses.
+* **Make a plan:** Develop a plan to address the specific issues that led to the loss of trust. Be specific and realistic in your plan.
+* **Communicate regularly:** Keep your team updated on your progress in implementing your plan. Be transparent and honest in your communications.
+* **Be patient:** It takes time to rebuild trust. Be patient and persistent in your efforts.
+
+**Conclusion:**
+
+Trust is essential for the success of any security team. When trust is lost, it can be extremely difficult to regain. However, by following the steps outlined above, you can begin to rebuild trust and restore the effectiveness of your security team.
 
 ## Gartner: Mitigating security threats in AI agents
 [Read more](https://www.computerweekly.com/opinion/Gartner-Mitigating-security-threats-in-AI-agents)
@@ -223,113 +252,104 @@ Published: Mon, 23 Sep 2024 09:34:00 GMT
 
 **Mitigating Security Threats in AI Agents**
 
-**Gartner, Inc.**
+**Introduction:**
 
-**Introduction**
+As AI agents become increasingly prevalent in various industries, it is crucial to address security threats that may arise from their autonomous decision-making capabilities. Gartner provides insights into mitigating these risks effectively.
 
-Artificial intelligence (AI) agents are becoming increasingly prevalent in various industries, from healthcare and finance to autonomous vehicles and customer service. However, the use of AI agents also brings new security concerns and threats that organizations must address.
+**Key Security Threats:**
 
-**Security Threats in AI Agents**
+* **Malicious Input:** AI agents can be manipulated by malicious input, leading to incorrect or biased decisions.
+* **Model Tampering:** Adversaries can alter or manipulate AI models, compromising their integrity and accuracy.
+* **Data Poisoning:** Malicious data can be injected into the training dataset, causing AI agents to make flawed decisions.
+* **Bias and Discrimination:** Unintentional biases in AI models can lead to discriminatory or unfair outcomes.
+* **Physical Attacks:** AI agents with physical presence may be subject to hardware manipulation or environmental disturbances.
 
-AI agents can be vulnerable to various security threats, including:
+**Mitigation Strategies:**
 
-* **Data breaches:** AI agents rely on large amounts of training data, which can be compromised or manipulated by malicious actors.
-* **Adversarial attacks:** Attackers can create carefully crafted inputs designed to trick AI agents into making mistakes or giving up sensitive information.
-* **Model poisoning:** Attackers can introduce poisoned data into the training set to manipulate the AI agent's behavior or bias it towards specific outcomes.
-* **Model theft:** Trained AI models are valuable assets that can be stolen and used for malicious purposes.
-* **Ethical concerns:** AI agents can raise ethical concerns, such as privacy violations, bias, and unintended consequences.
+* **Input Validation:** Implement mechanisms to validate input data for authenticity, integrity, and consistency.
+* **Model Monitoring:** Continuously monitor AI models to detect anomalies, model drift, or potential tampering attempts.
+* **Data Governance:** Establish robust data management practices to prevent data poisoning and ensure data quality.
+* **Algorithmic Bias:** Audit and mitigate biases in AI models through fairness and diversity assessments.
+* **Physical Security:** Implement physical safeguards, such as encryption and access control, to protect AI agents from hardware manipulation.
+* **Cybersecurity Best Practices:** Apply fundamental cybersecurity principles, such as network segmentation, intrusion detection, and patching, to secure the AI environment.
+* **Vendor Due Diligence:** Evaluate the security practices of AI vendors before implementing their solutions.
+* **Threat Intelligence:** Gather and analyze threat intelligence to identify emerging security risks and develop appropriate countermeasures.
 
-**Mitigating Security Threats**
+**Additional Considerations:**
 
-To mitigate security threats in AI agents, organizations should implement a comprehensive security strategy that includes:
+* **Ethical Guidelines:** Develop ethical guidelines for the deployment and use of AI agents to mitigate potential societal impacts.
+* **Legal Compliance:** Ensure compliance with relevant laws and regulations regarding data privacy, security, and algorithmic accountability.
+* **Collaboration and Education:** Foster collaboration between security professionals, AI developers, and business stakeholders to enhance threat detection and response capabilities.
 
-* **Secure data management:** Implement robust data protection measures, such as encryption, access control, and data anonymization, to protect training and operational data.
-* **Adversarial attack detection and prevention:** Use techniques such as adversarial training and input validation to detect and block adversarial attacks.
-* **Model validation and monitoring:** Regularly validate and monitor AI models to ensure they are working as intended and have not been compromised.
-* **Model security:** Protect trained AI models from theft and manipulation using security measures such as cryptography and watermarking.
-* **Ethical considerations:** Establish ethical guidelines and best practices for the development and deployment of AI agents, addressing concerns such as bias, fairness, and transparency.
+**Conclusion:**
 
-**Conclusion**
-
-Mitigating security threats in AI agents is crucial for organizations to harness the benefits of this technology while ensuring data protection, compliance, and ethical considerations. By implementing a comprehensive security strategy, organizations can effectively address the unique risks associated with AI agents and protect their valuable assets.
+Mitigating security threats in AI agents is essential for ensuring their safe and responsible use. By implementing comprehensive strategies and measures, organizations can reduce risks, protect the integrity of AI systems, and safeguard the public from potential vulnerabilities.
 
 ## Medtech startup brings Oracle AI to bear on cancer drug research
 [Read more](https://www.computerweekly.com/news/366611519/Medtech-startup-brings-Oracle-AI-to-bear-on-cancer-drug-research)
 
 Published: Mon, 23 Sep 2024 06:11:00 GMT
 
-**Medtech Startup Leverages Oracle AI for Cancer Drug Research**
+**Medtech Startup Harnesses Oracle AI for Cancer Drug Research**
 
-**San Francisco, CA** - A promising medtech startup has announced its collaboration with Oracle to harness the power of artificial intelligence (AI) in the fight against cancer. The startup's innovative platform aims to accelerate the development of new treatments by providing researchers with cutting-edge AI-driven tools.
+A groundbreaking medtech startup has integrated Oracle's Artificial Intelligence (AI) capabilities into its platform, empowering researchers with advanced tools to accelerate and enhance cancer drug discovery.
 
-**Oracle AI: A Catalyst for Drug Discovery**
+**Empowering Researchers with AI**
 
-The startup will integrate Oracle's AI capabilities into its proprietary platform, enabling researchers to:
+The startup's platform leverages Oracle AI to analyze vast datasets of patient data, clinical trials, and genomic information. This comprehensive approach enables researchers to identify patterns, predict outcomes, and simulate treatment scenarios.
 
-* **Analyze massive datasets:** Leverage AI algorithms to extract insights from vast amounts of clinical data, genomic information, and research literature.
-* **Identify potential targets:** Utilize AI to pinpoint specific molecular targets that could be effective in treating cancer.
-* **Design and validate therapies:** Employ AI to design new drug molecules and validate their efficacy through virtual screenings.
+**Accelerating Drug Development**
 
-**Accelerating the Research Process**
+By using AI to sift through the immense volume of data associated with cancer research, the platform can identify promising drug candidates and potential patient subgroups. This significantly accelerates the drug development process, allowing researchers to focus their efforts on the most promising avenues for treatment.
 
-By leveraging Oracle AI, the startup aims to significantly reduce the time and resources required for cancer drug research. The AI-driven platform will provide researchers with:
+**Precision Medicine Approach**
 
-* **Automated data analysis:** AI algorithms will automate the extraction and analysis of complex data, freeing up researchers to focus on more critical tasks.
-* **Personalized insights:** The platform will generate personalized insights for each researcher, tailored to their specific research interests and areas of expertise.
-* **Enhanced collaboration:** AI will facilitate collaboration among researchers, enabling them to share data and insights seamlessly.
+The platform's AI capabilities also facilitate a precision medicine approach to cancer treatment. By analyzing individual patient data, the AI can predict their response to specific drugs, optimize dosing, and mitigate potential risks. This personalized approach enhances outcomes and reduces the likelihood of adverse effects.
 
-**Unlocking New Possibilities in Cancer Treatment**
+**Collaboration and Innovation**
 
-The startup is confident that its collaboration with Oracle will open up new possibilities in cancer drug research. By leveraging cutting-edge AI technology, the platform aims to:
+The startup's collaboration with Oracle has fostered innovation at the intersection of healthcare and technology. By leveraging Oracle's AI infrastructure and expertise, the startup has created a powerful tool that empowers researchers to tackle complex challenges in cancer drug development.
 
-* **Discover more effective treatments:** Identify novel drug targets and design therapies with increased efficacy.
-* **Reduce development timelines:** Accelerate the research process, shortening the time from discovery to clinical trials.
-* **Improve patient outcomes:** Ultimately, lead to the development of more effective treatments that improve patient outcomes and survival rates.
+**Industry Impact**
 
-**A Collaborative Effort to Fight Cancer**
+The integration of Oracle AI into cancer drug research is expected to have a profound impact on the industry. By accelerating drug development and enabling precision medicine approaches, the platform has the potential to improve patient outcomes, reduce healthcare costs, and advance the fight against cancer.
 
-The startup's partnership with Oracle is a testament to the power of collaboration in medical innovation. By combining their expertise in cancer research and AI technology, they are striving to make a meaningful contribution to the fight against cancer.
+**Conclusion**
+
+This groundbreaking medtech startup has revolutionized cancer drug research by harnessing the power of Oracle AI. Its platform accelerates drug discovery, enhances precision medicine approaches, and fosters collaboration between researchers. As the startup continues to innovate, its impact on the healthcare industry is poised to grow even further, leading to improved treatments and a brighter future for cancer patients.
 
 ## CrowdStrike incident shows we need to rethink cyber
 [Read more](https://www.computerweekly.com/opinion/CrowdStrike-incident-shows-we-need-to-rethink-cyber)
 
 Published: Fri, 20 Sep 2024 09:17:00 GMT
 
-**Understanding the CrowdStrike Incident**
+**The CrowdStrike Incident: A Case for Rethinking Cyber**
 
-In 2022, CrowdStrike's security tools were compromised by hackers, resulting in a high-profile cyberattack. The incident raised concerns about the effectiveness of current cybersecurity measures and prompted a need to rethink approaches to cyber defense.
+The recent CrowdStrike incident, where a customer's data was compromised, highlights the evolving nature of cybersecurity and the need for a comprehensive rethink. Here's why:
 
-**Rethinking Cybersecurity**
+**Evolving Threat Landscape:**
 
-The CrowdStrike incident underscores the vulnerabilities that persist in cybersecurity, despite significant investments in technology and resources. It highlights the need for a more comprehensive and multifaceted approach to cyber defense, including:
+The CrowdStrike incident showcases the increasingly sophisticated tactics used by attackers. They exploited a combination of social engineering, phishing, and ransomware, demonstrating that organizations must be prepared for a wide range of threats.
 
-**1. Zero Trust Network Architecture (ZTNA):**
+**Interconnected Ecosystems:**
 
-Implement ZTNA to enforce strict access controls, requiring verification and authorization for every user and device trying to access network resources. This reduces the risk of lateral movement and data exfiltration once an attacker gains access.
+The incident also underscores the interconnectedness of the cyber ecosystem. A vulnerability in one vendor's software can impact multiple organizations, highlighting the need for robust vendor management and interoperability between security tools.
 
-**2. Behavioral Analysis and Threat Intelligence:**
+**Rethinking Security Strategies:**
 
-Utilize advanced analytics to detect anomalous behavior and identify potential threats based on historical data and known attack patterns. Leverage threat intelligence to stay informed about emerging cyber threats and adjust defenses accordingly.
+Traditional cybersecurity approaches are no longer sufficient. Organizations need to shift from reactive measures to proactive, risk-based strategies that focus on preventing breaches and mitigating damage.
 
-**3. Deception Technologies:**
+**Key Considerations for Rethinking Cyber:**
 
-Deploy honeypots and decoys to mislead attackers and collect valuable intelligence about their tactics, techniques, and procedures (TTPs). This can help organizations identify and mitigate threats early on.
+* **Zero Trust Architecture:** Implement a zero-trust architecture that assumes every access request is malicious and requires continuous verification.
+* **Endpoint Detection and Response (EDR):** Deploy EDR solutions that provide real-time visibility and detection of threats at the endpoint level.
+* **Network Security Monitoring and Response (NSMR):** Monitor network traffic for suspicious activity and enable automated responses to contain threats.
+* **Vulnerability Management:** Identify and patch vulnerabilities in software and systems regularly to reduce the attack surface.
+* **Cybersecurity Awareness and Training:** Educate employees about cybersecurity risks and train them to identify and report suspicious activity.
 
-**4. Incident Response and Remediation:**
+**Conclusion:**
 
-Establish a comprehensive incident response plan that includes clear roles, responsibilities, and processes for containment, eradication, and recovery. Invest in tools and technologies for forensic analysis, threat hunting, and remediation.
-
-**5. Cybersecurity Awareness and Training:**
-
-Educate employees on cybersecurity best practices and the latest attack techniques. Implement regular phishing simulations and security awareness campaigns to improve user vigilance and reduce the risk of social engineering attacks.
-
-**6. Collaboration and Information Sharing:**
-
-Foster relationships with industry peers, law enforcement, and cybersecurity agencies. Share threat intelligence and participate in industry-wide initiatives to improve threat visibility and response capabilities.
-
-**Conclusion**
-
-The CrowdStrike incident demonstrates the need to rethink cybersecurity and adapt to the evolving threatscape. By implementing a more comprehensive approach that encompasses ZTNA, advanced analytics, deception technologies, incident response, and user awareness, organizations can enhance their defenses and mitigate the risks associated with cyberattacks. Collaboration and information sharing are also crucial for improving collective cybersecurity resilience.
+The CrowdStrike incident serves as a wake-up call for organizations to rethink their cybersecurity strategies. By adopting a proactive approach, utilizing advanced technologies, and fostering a culture of cybersecurity awareness, we can enhance our resilience against evolving threats and protect our critical data and systems.
 
 ## HSBC tests post-quantum VPN tunnel for digital ledgers
 [Read more](https://www.computerweekly.com/news/366611375/HSBC-tests-post-quantum-VPN-tunnel-for-digital-ledgers)
@@ -338,29 +358,42 @@ Published: Thu, 19 Sep 2024 10:31:00 GMT
 
 **HSBC Tests Post-Quantum VPN Tunnel for Digital Ledgers**
 
-HSBC has successfully tested a post-quantum virtual private network (VPN) tunnel for secure communication between digital ledgers. The move is aimed at safeguarding financial transactions from the threat of quantum computing.
+HSBC has successfully tested a post-quantum virtual private network (VPN) tunnel to protect communications between digital ledgers.
 
-**Quantum Computing Threat**
+**Overview**
 
-Quantum computing has the potential to break current encryption standards, posing a significant threat to data security. Governments and businesses around the world are actively developing post-quantum cryptography algorithms to mitigate this risk.
+* The VPN tunnel was developed in partnership with Cambridge Quantum Computing (CQC).
+* It uses quantum-resistant algorithms to protect against potential attacks from quantum computers.
+* Quantum computers have the potential to break current cryptographic standards.
 
-**HSBC's Test**
+**Post-Quantum Encryption**
 
-HSBC's test involved the integration of a post-quantum VPN tunnel into their existing digital ledger framework. The tunnel utilizes the Kyber post-quantum key encapsulation mechanism (KEM) for secure data exchange.
+* The VPN tunnel uses the Round5 algorithm, a post-quantum encryption standard.
+* Round5 is designed to withstand attacks from quantum computers.
+* It has been standardized by the International Organization for Standardization (ISO).
 
-**Benefits of Post-Quantum VPN**
+**Digital Ledgers**
 
-* **Enhanced Security:** Post-quantum encryption offers protection against attacks from quantum computers, ensuring the confidentiality and integrity of financial transactions.
-* **Resilience:** The tunnel provides a secure communication channel, enabling digital ledgers to operate uninterrupted even in the face of quantum attacks.
-* **Future-proofing:** By integrating post-quantum technology, HSBC is preparing its digital ledger infrastructure for the future, mitigating the risks associated with the advancement of quantum computing.
+* Digital ledgers, such as blockchain, are used for secure transactions and record-keeping.
+* They require high levels of security to protect sensitive data.
+* Post-quantum encryption is essential to safeguard digital ledgers against future attacks.
 
-**Collaboration and Innovation**
+**Test Results**
 
-HSBC collaborated with NTT and ISARA Corporation to develop and test the post-quantum VPN tunnel. The project highlights the importance of industry partnerships in driving innovation and addressing emerging threats.
+* The VPN tunnel was tested in a live environment between two geographically dispersed data centers.
+* It demonstrated secure and efficient data transfer.
+* The tunnel did not show any significant performance degradation compared to traditional VPN solutions.
+
+**Benefits**
+
+* Protection against quantum attacks on digital ledgers
+* Enhanced security for financial transactions and data
+* Future-proofing against advancements in quantum computing
+* Compliance with emerging post-quantum encryption standards
 
 **Conclusion**
 
-HSBC's test demonstrates the viability and importance of post-quantum encryption in safeguarding digital ledgers. By proactively addressing the quantum computing threat, HSBC is positioning itself as a leader in the secure and efficient implementation of digital finance. The successful test marks a significant step towards ensuring the resilience and longevity of financial transactions in the quantum era.
+HSBC's successful test of the post-quantum VPN tunnel is a significant step towards securing digital ledgers against potential threats from quantum computing. As quantum computers continue to evolve, post-quantum encryption will play a crucial role in protecting critical data and infrastructure.
 
 ## NCSC exposes Chinese company running malicious Mirai botnet
 [Read more](https://www.computerweekly.com/news/366611295/NCSC-exposes-Chinese-company-running-malicious-Mirai-botnet)
@@ -369,41 +402,44 @@ Published: Wed, 18 Sep 2024 13:18:00 GMT
 
 **NCSC Exposes Chinese Company Running Malicious Mirai Botnet**
 
-London, UK – May 24, 2023 – The National Cyber Security Centre (NCSC) has revealed that it has disrupted a Chinese company responsible for managing a sophisticated botnet based on the Mirai malware.
+The National Cyber Security Centre (NCSC) has exposed a Chinese company, Shenzhen Shanghaijing Technology Co. Ltd, for running a malicious botnet called Mirai.
 
-**Operation Kittens**:
+**Mirai Botnet**
 
-The operation, codenamed "Operation Kittens," targeted Zhengzhou Noah Digital Technology Co., Ltd., which has been identified as the operator of this botnet. The NCSC and its international partners have taken action to disrupt the company's infrastructure and prevent further attacks.
+Mirai is a malware that infects IoT (Internet of Things) devices, such as routers and cameras, and turns them into bots. These bots are then used to launch coordinated DDoS (Distributed Denial of Service) attacks, which can overwhelm websites and online services with traffic, making them inaccessible.
 
-**Mirai Botnet**:
+**Shenzhen Shanghaijing Technology Co. Ltd**
 
-The Mirai botnet is a powerful piece of malware that infects internet-connected devices, primarily routers and IoT (Internet of Things) gadgets. It has been responsible for launching large-scale distributed denial of service (DDoS) attacks, disrupting online services and causing significant economic damage.
+Shenzhen Shanghaijing Technology Co. Ltd is a Chinese company that provides IoT security products and services. However, the NCSC has found that the company is also operating a Mirai botnet.
 
-**Zhengzhou Noah's Involvement**:
+**NCSC's Investigation**
 
-According to the NCSC, Zhengzhou Noah was providing "botnet-as-a-service" to clients, allowing them to rent portions of the botnet for their own malicious purposes. The company was also said to be actively developing and enhancing the Mirai malware.
+The NCSC conducted an investigation and identified thousands of Mirai-infected devices that were being used to launch DDoS attacks. The investigation also revealed that Shenzhen Shanghaijing Technology Co. Ltd was the command-and-control center for the botnet.
 
-**National Security Implications**:
+**NCSC's Actions**
 
-The NCSC stated that the botnet posed a significant threat to national security. It expressed concern that the botnet could be utilized to launch attacks against critical infrastructure, financial systems, and government entities.
+The NCSC has taken action to disrupt the Mirai botnet, including:
 
-**International Collaboration**:
+* Sharing intelligence with international partners
+* Issuing warnings to IoT device owners
+* Helping victims of DDoS attacks
 
-The operation was conducted in collaboration with international partners, including the FBI and the Australian Cyber Security Centre. The NCSC emphasized the importance of working together to combat cyber threats and disrupt malicious actors.
+**Impact of the Exposure**
 
-**Cybersecurity Advice**:
+The NCSC's exposure of Shenzhen Shanghaijing Technology Co. Ltd has significant implications:
 
-The NCSC urged organizations and individuals to take the following steps to protect themselves from Mirai and other botnet-related threats:
+* **Increased awareness:** The exposure has raised awareness about the threat posed by Mirai and other IoT botnets.
+* **Potential sanctions:** The United States and other countries may consider imposing sanctions on Shenzhen Shanghaijing Technology Co. Ltd for its involvement in cybercrime.
+* **Increased pressure on China:** The exposure puts pressure on China to address malicious cyber activity originating from within its borders.
 
-- Install and maintain up-to-date security software on all devices
-- Use strong passwords and enable two-factor authentication
-- Keep operating systems and software patched
-- Disable unused ports and services
-- Be cautious when clicking links or opening attachments in emails
+**Recommendations from NCSC**
 
-**Conclusion**:
+The NCSC recommends that IoT device owners take the following steps to protect themselves from Mirai and other botnets:
 
-The NCSC's disruption of Zhengzhou Noah and the Mirai botnet is a significant victory in the fight against cybercrime. The operation highlights the importance of international collaboration and the need for organizations and individuals to remain vigilant in protecting themselves from cyber threats.
+* **Update firmware:** Keep IoT devices up to date with the latest firmware to patch security vulnerabilities.
+* **Use strong passwords:** Use strong and unique passwords for IoT devices.
+* **Enable two-factor authentication:** Enable two-factor authentication for IoT devices where possible.
+* **Segment IoT devices:** Isolate IoT devices on a separate network segment from other devices on your home network.
 
 ## What is email spam and how to fight it?
 [Read more](https://www.techtarget.com/searchsecurity/definition/spam)
@@ -412,124 +448,120 @@ Published: Wed, 18 Sep 2024 09:00:00 GMT
 
 **What is Email Spam?**
 
-Email spam is unsolicited, unwanted bulk email sent to a large number of recipients. It typically contains malicious content, such as phishing scams, malware, or advertisements.
+Email spam refers to unsolicited bulk emails sent to recipients who have not consented to receive them. It often contains malicious content, such as viruses, malware, or phishing attempts. Spam emails can be highly annoying, disruptive, and potentially dangerous.
 
-**How to Fight Email Spam:**
+**How to Fight Email Spam**
 
-**1. Use a Spam Filter:**
+**1. Use Reputable Email Providers:**
+Choose email providers that offer robust spam filters, such as Gmail, Outlook, and Yahoo Mail. These providers use advanced algorithms to automatically detect and block spam emails.
 
-* Most email providers have built-in spam filters that automatically detect and quarantine spam emails. Enable these filters in your email settings.
+**2. Turn on Spam Filters:**
+Enable the spam filters provided by your email provider. Most email services have built-in spam filters that can be adjusted to your preferred level of sensitivity.
 
-**2. Create Email Accounts with Strong Passwords:**
+**3. Be Careful When Sharing Your Email Address:**
+Avoid providing your email address on public websites or to unknown recipients. Use a separate email address for less important accounts or online registrations.
 
-* Avoid using common passwords or sharing them across multiple accounts. Spammers often use bots to guess weak passwords and gain access to your email.
+**4. Avoid Opening Suspicious Emails:**
+Do not open emails from unknown senders, especially if they have suspicious sender names, subject lines, or attachments. Delete these emails immediately.
 
-**3. Be Cautious of Attachments and Links:**
+**5. Hover over Links Before Clicking Them:**
+Before clicking on links in emails, hover your mouse over them to check the actual destination URL. If the URL is different from what the email claims, do not click on it.
 
-* Never open attachments or click links from unknown senders. Hover over links to check their destination before clicking.
+**6. Report Spam Emails:**
+Report spam emails to your email provider by using the "Report as Spam" or "Mark as Junk" features. This helps email providers improve their spam filters.
 
-**4. Report Spam:**
+**7. Use Third-Party Anti-Spam Software:**
+Consider using third-party anti-spam software or browser extensions that can filter and block spam emails even before they reach your inbox.
 
-* Report spam emails to your email provider. This helps improve their spam filters and reduce the amount of spam you receive.
-
-**5. Use Two-Factor Authentication (2FA):**
-
-* Enable 2FA for your email account to add an extra layer of security and prevent unauthorized access.
-
-**6. Unsubscribe from Unwanted Lists:**
-
-* If you receive spam from a legitimate company, unsubscribe from their mailing list. This will prevent you from getting future emails from them.
-
-**7. Use a Disposable Email Address:**
-
-* For temporary purposes, consider using a disposable email address to reduce the risk of receiving spam.
-
-**8. Manage Email Subscriptions Wisely:**
-
-* Be selective about the websites and companies you sign up for email subscriptions from. Only subscribe to newsletters and updates that you genuinely want to receive.
+**8. Practice Good Password Hygiene:**
+Use strong passwords and change them regularly. Compromised passwords can be used by spammers to send emails from your account.
 
 **9. Educate Yourself:**
+Stay informed about the latest spam trends and techniques. This will help you recognize and avoid spam emails more effectively.
 
-* Stay updated on the latest spam trends and techniques. Read articles and resources from reputable sources to learn how to protect yourself.
-
-**10. Use Anti-Spam Software:**
-
-* Consider using third-party anti-spam software that offers additional features and protection beyond built-in spam filters.
+**10. Be Vigilant:**
+Spammers are constantly evolving their methods. Be vigilant and always be on the lookout for suspicious emails. If you're ever unsure about an email, it's best to err on the side of caution and delete it.
 
 ## What is passive keyless entry (PKE)?
 [Read more](https://www.techtarget.com/whatis/definition/passive-keyless-entry-PKE)
 
 Published: Tue, 17 Sep 2024 13:00:00 GMT
 
-Passive keyless entry (PKE), also known as keyless entry, is a proximity-based access control system that allows a user to unlock and start a vehicle without using a physical key. The system typically consists of a key fob or card that emits a radio frequency (RF) signal that is received by a receiver in the vehicle. When the user approaches the vehicle with the key fob or card, the receiver detects the signal and unlocks the doors. The user can then start the vehicle by pressing a button on the dashboard or by inserting the fob into a designated slot.
+**Passive Keyless Entry (PKE)**
 
-PKE systems offer a number of advantages over traditional key-based systems, including:
+PKE is a vehicle access and starting system that allows the driver to unlock and start the vehicle without physically using a key fob or key.
 
-* Convenience: PKE systems allow users to unlock and start their vehicles without having to fumble with keys, which can be especially convenient when carrying bags or packages.
-* Security: PKE systems are more secure than traditional key-based systems, as the RF signal is encrypted and can only be received by the authorized receiver in the vehicle. This makes it much more difficult for thieves to gain access to the vehicle.
-* Comfort: PKE systems can be programmed to automatically unlock the doors when the user approaches the vehicle and lock the doors when the user walks away. This feature can be very convenient, especially when the user is carrying a lot of items.
+**How PKE Works:**
 
-PKE systems are becoming increasingly common on new vehicles, and are expected to eventually replace traditional key-based systems entirely.
+* A key fob with an embedded radio frequency (RF) transmitter is carried by the driver.
+* As the driver approaches the vehicle, the key fob transmits a signal to the vehicle's sensors.
+* The sensors detect the signal and verify that the key fob is authorized to access the vehicle.
+* If authorized, the vehicle unlocks the doors and allows the driver to enter without physically inserting a key.
+* To start the vehicle, the driver typically presses a button or steps on the brake pedal while holding the key fob in the vehicle.
+
+**Benefits of PKE:**
+
+* **Convenience:** Drivers can access and start their vehicles without ever taking out the key fob.
+* **Security:** PKE systems use encrypted signals and rolling codes to prevent unauthorized entry or remote starting.
+* **Keyless ignition:** Drivers can start the vehicle without inserting a key into the ignition.
+* **Enhanced theft deterrent:** As PKE systems do not require a traditional key, they reduce the risk of theft by key duplication or breaking into the vehicle.
+
+**Additional Features:**
+
+* **Remote starting:** PKE systems often include remote starting functionality, allowing drivers to start their vehicles from a distance using the key fob.
+* **Trunk release:** Some PKE systems include a trunk release feature that allows drivers to open the trunk without using a key or remote.
+* **Smart access:** PKE systems can be integrated with other vehicle systems, such as Bluetooth and smartphone apps, for even more convenience and functionality.
 
 ## First CyberBoost Catalyse startup cohort named
 [Read more](https://www.computerweekly.com/news/366610576/First-CyberBoost-Catalyse-startup-cohort-named)
 
 Published: Tue, 17 Sep 2024 03:30:00 GMT
 
-The first CyberBoost Catalyse cohort has been named, with 12 startups selected to receive support and investment to develop their cutting-edge cybersecurity technologies.
+**First CyberBoost Catalyse Startup Cohort Named**
 
-The startups are:
+The first cohort of startups to join CyberBoost Catalyse, a cybersecurity acceleration program, has been announced.
 
-* **Altoros Labs** (US): Developer of a cloud-based platform for managing and securing IoT devices.
-* **Arachnys** (UK): Provider of a threat detection and response platform for critical infrastructure.
-* **Armatus Networks** (US): Developer of a network security platform that uses artificial intelligence to detect and prevent attacks.
-* **Authomize** (US): Provider of an identity and access management platform for cloud and hybrid environments.
-* **CybelAngel** (France): Developer of a platform that monitors the dark web for data breaches and other threats.
-* **CyberSaint** (US): Provider of a cybersecurity risk assessment and compliance platform.
-* **ImmuniWeb** (US): Developer of a web application security scanner that uses artificial intelligence to identify vulnerabilities.
-* **Lacework** (US): Provider of a cloud security platform that uses machine learning to detect and prevent threats.
-* **Nozomi Networks** (US): Developer of a network security platform for operational technology (OT) environments.
-* **ReversingLabs** (US): Developer of a software analysis platform that helps organizations identify and mitigate vulnerabilities.
-* **Securonix** (US): Provider of a security information and event management (SIEM) platform that uses machine learning to detect and respond to threats.
-* **SentinelOne** (US): Developer of an endpoint security platform that uses artificial intelligence to detect and prevent attacks.
+The cohort includes:
 
-The startups will receive up to £250,000 in funding, as well as access to mentorship, training, and other support services. They will also have the opportunity to collaborate with leading cybersecurity experts and investors.
+* **AtomicBlue:** A provider of managed security services for small businesses.
+* **Axiomatics:** A developer of software that helps businesses manage their cybersecurity risks.
+* **Checkmarx:** A provider of application security testing solutions.
+* **Cybereason:** A provider of endpoint security solutions.
+* **Darktrace:** A developer of artificial intelligence-powered cybersecurity solutions.
+* **Dragos:** A provider of cybersecurity solutions for industrial control systems.
+* **Exabeam:** A provider of security information and event management (SIEM) solutions.
+* **FireEye:** A provider of cybersecurity solutions for enterprises.
+* **Lacework:** A provider of cloud security solutions.
+* **Mandiant:** A provider of cybersecurity incident response and consulting services.
+* **McAfee:** A provider of cybersecurity solutions for consumers and businesses.
+* **Okta:** A provider of identity and access management (IAM) solutions.
+* **Palo Alto Networks:** A provider of cybersecurity solutions for enterprises.
+* **Rapid7:** A provider of cybersecurity solutions for businesses.
+* **SentinelOne:** A provider of endpoint security solutions.
+* **Tenable:** A provider of vulnerability management solutions.
 
-CyberBoost Catalyse is a £10 million program that was launched in 2020 to support the development of innovative cybersecurity technologies. The program is funded by the UK government and delivered by Plexal, a London-based innovation center.
+The startups in the cohort will receive mentorship, support, and access to resources from CyberBoost Catalyse. The program will help the startups grow their businesses and bring their cybersecurity solutions to market.
+
+CyberBoost Catalyse is a joint venture between the UK government and the private sector. The program is designed to help the UK become a global leader in cybersecurity.
 
 ## Crest secures FCDO funding to help overseas countries increase their cyber-readiness
 [Read more](https://www.computerweekly.com/news/366610752/Crest-secures-FCDO-funding-to-help-overseas-countries-increase-their-cyber-readiness)
 
 Published: Mon, 16 Sep 2024 08:45:00 GMT
 
-**Crest Secures FCDO Funding to Bolster Cyber-Readiness Globally**
+**Crest secures FCDO funding to help overseas countries increase their cyber-readiness**
 
-Crest, a leading cybersecurity provider, has secured funding from the UK Foreign, Commonwealth and Development Office (FCDO) to support overseas countries in enhancing their cybersecurity capabilities.
+Crest, the not-for-profit membership organisation for the information security industry, today announced it has secured funding from the UK Foreign, Commonwealth and Development Office (FCDO) to help overseas countries increase their cyber-readiness.
 
-**Program Objectives:**
+The FCDO funding will be used to support Crest's work with the Cyber Readiness Index (CRI), a global initiative to measure and improve the cyber-readiness of countries. The CRI provides governments and organisations with a comprehensive framework to assess their cyber-security capabilities and identify areas for improvement.
 
-The funding will enable Crest to implement the following programs:
+Crest will use the FCDO funding to support the development and implementation of the CRI in overseas countries. This will include working with governments to establish national CRI programmes, training local experts in CRI methodology, and providing technical assistance to help countries improve their cyber-security posture.
 
-* **Cybersecurity Capacity Building:** Develop and deliver training programs, workshops, and exercises to build cyber-skills and knowledge in partner countries.
-* **Policy and Regulatory Support:** Assist countries in developing and implementing tailored cybersecurity frameworks, policies, and regulations.
-* **Cyber Incident Response and Recovery:** Equip countries with advanced tools and methodologies to detect, respond to, and recover from cyber-attacks.
-* **International Collaboration and Knowledge Sharing:** Facilitate collaboration between partner countries and the UK cybersecurity ecosystem.
+"We are delighted to have secured this funding from the FCDO," said Ian Glover, CEO of Crest. "The CRI is a valuable tool for countries of all sizes and levels of development to assess and improve their cyber-security capabilities. This funding will enable us to support more countries in using the CRI and, in doing so, help to make the world a safer place from cyber-attacks."
 
-**Target Countries:**
+The FCDO funding is part of the UK government's commitment to supporting global cyber-security. The UK is a leading member of the Global Forum on Cyber Expertise (GFCE), a multi-stakeholder body that is developing international standards and best practices for cyber-security.
 
-The program will initially focus on countries in the Indo-Pacific, Middle East, and Africa, with plans to expand to other regions in the future.
-
-**Importance of Global Cyber-Readiness:**
-
-In an increasingly interconnected digital world, cybersecurity threats have become a major concern for governments and businesses worldwide. Countries need to be well-equipped to protect their critical infrastructure, sensitive data, and economy from cyber-attacks.
-
-**Crest's Expertise:**
-
-Crest has a proven track record of working with governments and organizations around the world to improve their cybersecurity posture. The company brings a deep understanding of cyber-threats, advanced technical capabilities, and a commitment to delivering practical solutions.
-
-**Impact:**
-
-The FCDO-funded program is expected to significantly improve the cybersecurity readiness of partner countries. This will help protect their national interests, foster economic development, and maintain stability in the face of evolving cyber threats.
+"The UK is committed to supporting the development of a more secure and resilient cyberspace," said Nigel Casey, Minister for the Department for Digital, Culture, Media and Sport. "The CRI is a valuable tool for countries to assess their cyber-security capabilities and identify areas for improvement. I am pleased that the FCDO is providing funding to support Crest's work with the CRI."
 
 ## Automation driving SD-WAN optimisation
 [Read more](https://www.computerweekly.com/feature/Automation-driving-SD-WAN-optimisation)
@@ -538,131 +570,119 @@ Published: Mon, 16 Sep 2024 03:00:00 GMT
 
 **Automation Driving SD-WAN Optimization**
 
-Automation plays a crucial role in optimizing Software-Defined Wide Area Networks (SD-WANs) by automating complex tasks, improving efficiency, and ensuring optimal network performance.
+**Introduction**
 
-**Key Benefits:**
+Software-Defined Wide Area Networks (SD-WANs) offer significant benefits for enterprise connectivity, including agility, cost savings, and improved performance. However, manually managing and optimizing SD-WANs can be a complex and time-consuming task. Automation plays a crucial role in maximizing the efficiency and effectiveness of SD-WAN optimization.
 
-* **Reduced Complexity:** Automates tedious and time-consuming configuration and management tasks, freeing up IT resources for more strategic initiatives.
-* **Improved Agility:** Enables rapid network changes and service adjustments, allowing organizations to adapt to changing business needs.
-* **Enhanced Control:** Centralized management and visibility provide comprehensive network control, enabling proactive monitoring and troubleshooting.
-* **Network Optimization:** Uses data analytics and machine learning to optimize traffic routing, bandwidth allocation, and security policies.
-* **Reduced Operational Costs:** Automating tasks reduces the need for manual intervention, saving time and resources.
+**Benefits of Automation**
 
-**Automation Use Cases:**
+* **Improved Performance:** Automating optimization processes ensures consistent and optimal network performance, minimizing latency, jitter, and packet loss.
+* **Increased Efficiency:** Automation eliminates manual tasks, freeing up IT resources for higher-value activities.
+* **Scalability:** Automation supports large-scale SD-WAN deployments, ensuring optimal performance across multiple locations.
+* **Reduced Complexity:** Automating complex optimization tasks simplifies management and reduces the risk of human error.
+* **Enhanced Security:** Automation can proactively detect and respond to threats, improving network security.
 
-* **Network Configuration:** Automates the provisioning and configuration of SD-WAN devices.
-* **Dynamic Path Selection:** Uses real-time data to adjust traffic routing based on link quality and application requirements.
-* **Policy Enforcement:** Automatically applies security and access policies to different applications and users.
-* **Performance Monitoring:** Monitors network performance, identifies anomalies, and triggers alerts.
-* **Diagnostics and Troubleshooting:** Automates troubleshooting processes to quickly resolve network issues.
+**Key Automation Capabilities for SD-WAN Optimization**
 
-**How Automation Works:**
+* **Path Selection:** Automatically selecting the optimal path for traffic based on real-time network conditions.
+* **Application Recognition:** Intelligently identifying and prioritizing critical applications for optimized performance.
+* **QoS Enforcement:** Automating QoS policies to ensure consistent application delivery and user experience.
+* **Performance Monitoring:** Continuously monitoring network performance and identifying areas for improvement.
+* **Dynamic Configuration:** Automatically adjusting network configurations based on changing conditions and traffic patterns.
 
-Automation in SD-WAN is achieved through various technologies:
+**Automation Tools and Best Practices**
 
-* **Network Management Systems (NMSs):** Centralized platforms that provide a single pane of glass for managing the entire SD-WAN network.
-* **Application Programming Interfaces (APIs):** Enable the automation of specific tasks through pre-defined interfaces.
-* **Configuration Management Tools:** Automates the configuration and deployment of network devices.
-* **Machine Learning (ML) Algorithms:** Analyze network data to identify patterns and optimize performance.
+* **SD-WAN Management Systems:** Integrated solutions that provide automated optimization capabilities.
+* **APIs and CLI:** Use automation tools to integrate with SD-WAN devices and orchestrate optimization tasks.
+* **Policy-Based Automation:** Configure policies to trigger automated actions based on network events or performance thresholds.
+* **Analytics and Machine Learning:** Leverage data analytics to identify optimization opportunities and automate decision-making.
 
-**Implementation Considerations:**
+**Implementation Considerations**
 
-* **Data Collection and Analytics:** Ensure sufficient data collection and analysis to support effective automation.
-* **Robust Automation Framework:** Establish a reliable and scalable automation framework that can handle complex network scenarios.
-* **Skilled Resources:** Invest in skilled IT professionals who can manage and troubleshoot automated systems.
-* **Security Considerations:** Implement strong security measures to prevent unauthorized access to automated systems.
-* **Continuous Improvement:** Regularly monitor and refine automation processes to optimize efficiency and effectiveness.
+* **Vendor Support:** Choose SD-WAN solutions that support automation out of the box.
+* **Skills and Training:** Invest in training IT staff on automation technologies and best practices.
+* **Phased Approach:** Implement automation gradually to minimize disruption and ensure a smooth transition.
+* **Testing and Validation:** Thoroughly test and validate automated optimization processes before deployment.
 
-**Conclusion:**
+**Conclusion**
 
-Automation is essential for driving SD-WAN optimization. By automating complex tasks, improving agility, enhancing control, reducing costs, and enabling data-driven optimization, organizations can unlock the full potential of their SD-WAN networks. A well-implemented automation strategy can significantly improve network performance, reliability, and security.
+Automation is essential for maximizing the benefits of SD-WANs. By automating optimization processes, enterprises can achieve improved performance, increased efficiency, scalability, reduced complexity, and enhanced security. With the right tools and best practices, automation empowers IT teams to optimize SD-WANs seamlessly and cost-effectively.
 
 ## UK unites nations to discuss closing global cyber skills gap
 [Read more](https://www.computerweekly.com/news/366610401/UK-unites-nations-to-discuss-closing-global-cyber-skills-gap)
 
 Published: Sun, 15 Sep 2024 19:01:00 GMT
 
-**UK Unites Nations to Address Global Cyber Skills Gap**
+**UK Unites Nations to Tackle Global Cyber Skills Shortage**
 
-The United Kingdom has convened a global summit to address the growing cyber skills gap, bringing together representatives from 34 countries and international organizations.
+The United Kingdom has brought together nations from around the world to address the pressing issue of the global cyber skills gap.
 
-**Cyber Security Concerns**
+**Urgent Need for Skilled Professionals**
 
-The rapid digitalization of societies has amplified the risks posed by cyber attacks. The demand for skilled cybersecurity professionals has far outpaced supply, creating a significant vulnerability in the global digital ecosystem.
-
-**Skills Gap Analysis**
-
-The summit highlighted the need for a comprehensive understanding of the cyber skills gap. Participants shared data and best practices to identify areas where skilled professionals are most urgently needed. The UK government presented its own analysis, indicating a shortage of 8,900 cybersecurity professionals in the UK alone.
+The rapid advancements in technology have amplified the demand for cybersecurity experts, but there is a significant shortage of qualified individuals worldwide. The gap has been estimated to be as high as 1.8 million unfilled positions.
 
 **International Collaboration**
 
-The summit emphasized the importance of international collaboration to address the skills gap. Participants agreed to:
+The UK, as a global leader in cybersecurity, has taken the initiative to facilitate a collaborative effort. Representatives from 20 countries, including the United States, Canada, Australia, and Japan, attended a meeting in London to discuss strategies for closing the skills gap.
 
-* Share best practices in cybersecurity education and training.
-* Develop joint training programs to increase the number of skilled professionals.
-* Establish international standards for cybersecurity workforce development.
+**Key Areas of Focus**
 
-**Government Initiatives**
+The meeting attendees identified several key areas for action:
 
-Several countries announced initiatives to address the cyber skills gap. The UK pledged to invest £20 million in cyber skills training and education. The United States announced a new program to support the development of cybersecurity talent at community colleges.
+* **Education and Training:** Enhancing programs in schools, universities, and training centers to provide students with the necessary knowledge and skills.
+* **Professional Development:** Providing opportunities for cybersecurity professionals to stay abreast of emerging technologies and threats.
+* **Awareness and Outreach:** Promoting cybersecurity awareness among the wider public and encouraging more people to pursue careers in the field.
 
-**Education and Training**
+**International Cyber Security School**
 
-The summit recognized the need for a multifaceted approach to addressing the skills gap. Participants discussed the importance of:
+One of the key outcomes of the meeting is the establishment of an International Cyber Security School. This school will provide specialized training and education to students from around the world, fostering a global community of cybersecurity experts.
 
-* Enhancing cybersecurity education in schools and universities.
-* Providing on-the-job training and apprenticeships.
-* Creating certification programs to validate professional skills.
+**UK's Commitment**
 
-**Diversity and Inclusion**
+The UK has pledged to contribute its expertise and resources to the initiative. The country's National Cyber Security Centre (NCSC) will serve as a hub for knowledge and best practices, and will provide guidance to other participating nations.
 
-Participants also emphasized the need to promote diversity and inclusion in the cybersecurity workforce. They acknowledged that underrepresented groups, such as women and minorities, are disproportionately affected by the skills gap.
+**Importance of Collaboration**
 
-**Long-Term Strategy**
+The UK's Foreign Secretary, Dominic Raab, emphasized the importance of international collaboration in tackling the cyber skills gap. "By working together, we can create a secure and resilient cyberspace for all," he said.
 
-The summit produced a set of recommendations for a long-term strategy to close the global cyber skills gap. The recommendations include:
+**Global Impact**
 
-* Establishing a global cybersecurity education platform.
-* Creating a network of cybersecurity training centers.
-* Developing a global standard for cybersecurity workforce certification.
-
-**Conclusion**
-
-The UK-led global summit provided a platform for nations to unite in addressing the urgent issue of the cyber skills gap. The summit highlighted the need for international collaboration, government action, and a focus on education and diversity. By working together, nations can strengthen their cybersecurity resilience and protect their digital economies from threats.
+Closing the cyber skills gap is crucial for global security, economic prosperity, and social stability. The UK's initiative is a significant step towards addressing this critical issue and ensuring a safer and more secure future for all.
 
 ## UN-backed cyber security report highlights global shortfalls in preparedness
 [Read more](https://www.computerweekly.com/news/366610615/UN-backed-cyber-security-report-highlights-global-shortfalls-in-preparedness)
 
 Published: Fri, 13 Sep 2024 06:45:00 GMT
 
-**Headline:** UN-backed Cyber Security Report Highlights Global Shortfalls in Preparedness
+**UN-Backed Cybersecurity Report Highlights Global Shortfalls in Preparedness**
 
-**Introduction:**
-A recent report commissioned by the United Nations highlights significant gaps in global preparedness and response capabilities for cyber security incidents. This has raised concerns among experts, governments, and international organizations.
+A comprehensive cybersecurity report commissioned by the United Nations highlights significant deficiencies in global preparedness to combat cyber threats.
 
 **Key Findings:**
 
-* **Inadequate Investments:** Many countries lack sufficient investments in cyber security infrastructure, training, and awareness programs. This has led to vulnerabilities that can be exploited by cybercriminals and nation-state actors.
-* **Skill Shortage:** There is a global shortage of qualified cyber security professionals. This makes it difficult for organizations to effectively detect, prevent, and respond to cyber threats.
-* **Outdated Laws and Regulations:** Many countries have outdated laws and regulations that fail to address the evolving nature of cyber threats. This hampers efforts to prosecute cybercriminals and protect citizens and businesses.
-* **Lack of International Cooperation:** Global cooperation in cyber security is fragmented, making it challenging to share information, coordinate investigations, and develop joint strategies.
-
-**Impact:**
-
-* **Increased Cyber Attacks:** The lack of preparedness has allowed cybercriminals to launch more sophisticated and frequent attacks, targeting both individuals and organizations.
-* **Economic Losses:** Cyber attacks can result in substantial economic losses, disrupting critical infrastructure, disrupting business operations, and compromising sensitive data.
-* **National Security Threats:** Cyber attacks can pose threats to national security by compromising government systems, stealing sensitive information, and disrupting essential services.
+* **Insufficient Investment:** Many countries lack adequate resources and funding to address cybersecurity challenges, including skilled personnel, advanced technologies, and threat intelligence.
+* **Fragmented Response:** Governments, businesses, and individuals often operate in silos, hindering effective coordination and information sharing.
+* **Lack of Cybersecurity Standards:** Inconsistent cybersecurity regulations and standards create challenges for businesses operating across borders.
+* **Gaps in Education and Awareness:** Limited cybersecurity education and awareness programs leave many individuals vulnerable to cyberattacks.
+* **Increased Threats to Critical Infrastructure:** Cyberattacks are increasingly targeting critical infrastructure such as power grids, transportation systems, and telecommunications, posing systemic risks.
 
 **Recommendations:**
 
-* **Increase Investments:** Governments and organizations need to invest in cyber security measures, including infrastructure, training, and awareness programs.
-* **Cultivate Cyber Security Talent:** Educational institutions and governments should promote education and training in cyber security to address the skill shortage.
-* **Strengthen Laws and Regulations:** Governments should update laws and regulations to reflect the changing threat landscape and facilitate effective cyber security measures.
-* **Foster International Cooperation:** International organizations and governments should enhance cooperation in cyber security, sharing information, conducting joint investigations, and developing common standards.
+The report calls for urgent action to address these shortfalls, including:
+
+* **Increased Funding and Investment:** Governments and organizations must allocate more resources to cybersecurity initiatives.
+* **Enhanced Coordination:** Establishing partnerships and coordinating efforts among stakeholders is crucial for effective threat management.
+* **Establishment of Cybersecurity Standards:** International collaboration is needed to develop harmonized cybersecurity regulations and standards.
+* **Improved Education and Awareness:** Comprehensive cybersecurity education programs should be implemented at all levels to empower individuals and businesses.
+* **Protection of Critical Infrastructure:** Governments must prioritize the security of critical infrastructure and develop robust cyber resilience measures.
+
+**Global Impact:**
+
+The report emphasizes that cybersecurity is a global concern that requires collaboration and coordination among nations. Cyberattacks can have devastating consequences, undermining economic stability, political stability, and public trust.
 
 **Conclusion:**
 
-The UN-backed cyber security report serves as a wake-up call for global preparedness. Addressing the highlighted shortfalls requires a concerted effort from governments, organizations, and individuals. By investing in cyber security, cultivating talent, updating regulations, and fostering international cooperation, we can strengthen our collective defenses and minimize the risks associated with cyber threats.
+The UN-backed cybersecurity report serves as a wake-up call for the global community. By addressing the identified shortfalls and implementing the recommended actions, we can enhance cybersecurity preparedness and protect against the growing threats in the digital age.
 
 ## Cyber workforce must almost double to meet global talent need
 [Read more](https://www.computerweekly.com/news/366610264/Cyber-workforce-must-almost-double-to-meet-global-talent-need)
@@ -671,74 +691,75 @@ Published: Fri, 13 Sep 2024 04:45:00 GMT
 
 **Cyber Workforce Must Almost Double to Meet Global Talent Need**
 
-**Intro:**
+The global cybersecurity industry faces a significant talent shortage, with the number of unfilled positions expected to nearly double by 2025, reaching 3.5 million worldwide. This shortage poses a major threat to organizations' ability to protect their systems, data, and customers from cyber threats.
 
-The global cybersecurity workforce is facing a significant talent shortage, with experts predicting a shortfall of up to 1.8 million professionals by 2022. This gap threatens businesses, governments, and individuals, as cyberattacks become increasingly sophisticated and damaging.
+According to a recent report from Cybersecurity Ventures, the cybersecurity industry currently employs approximately 2.7 million workers worldwide. However, this number is expected to grow significantly in the coming years as organizations become increasingly reliant on technology and as new cyber threats emerge.
 
-**Demand for Cybersecurity Professionals:**
+The report predicts that the global cyber workforce will need to increase by 93% to 5.3 million workers by 2025 in order to meet the growing demand for cybersecurity services. This means that the industry will need to recruit and train an additional 2.6 million workers over the next five years.
 
-* The rapid digitalization of businesses, industries, and critical infrastructure has created an explosion in data and connected devices, making them vulnerable to cyberattacks.
-* The increasing sophistication of cybercriminals and the emergence of state-sponsored hacking have also fueled the demand for cybersecurity professionals.
-* Businesses are recognizing the need for robust cybersecurity measures to protect sensitive data, comply with regulations, and maintain trust with customers.
+**Factors Contributing to the Talent Shortage**
 
-**Supply-Demand Gap:**
+There are a number of factors that are contributing to the cyber workforce shortage, including:
 
-* The current global cybersecurity workforce is estimated at around 3.5 million professionals.
-* However, experts predict that a shortage of up to 1.8 million professionals will exist by 2022, almost doubling the current workforce.
-* This gap is particularly acute in emerging technologies such as artificial intelligence (AI), cloud computing, and IoT security.
+* The increasing complexity of cyber threats
+* The growing number of connected devices and systems
+* The shortage of qualified cybersecurity professionals
+* The lack of diversity in the cybersecurity workforce
 
-**Consequences of the Talent Shortage:**
+**Consequences of the Talent Shortage**
 
-* Increased risk of cyberattacks and data breaches
-* Slowdown in digital innovation and economic growth
-* Higher costs for cybersecurity measures
-* Damage to reputation and customer trust
+The talent shortage in the cybersecurity industry is having a number of consequences, including:
 
-**Addressing the Shortage:**
+* Increased risk of cyberattacks
+* Higher costs for cybersecurity services
+* Longer response times to cyber incidents
+* Reduced ability to innovate in cybersecurity
 
-To address the talent shortage, various initiatives are underway, including:
+**Solutions to the Talent Shortage**
 
-* **Education and Training:** Universities, colleges, and technical schools are expanding their cybersecurity programs to train more students in this field.
-* **Government Initiatives:** Governments are providing funding and support for cybersecurity education and certification programs.
-* **Industry Collaboration:** Businesses and industry organizations are partnering with educational institutions to create internships, apprenticeships, and other training opportunities.
-* **Diversity and Inclusion:** Efforts are being made to attract more women, minorities, and veterans into the cybersecurity field.
+There are a number of steps that can be taken to address the talent shortage in the cybersecurity industry, including:
 
-**Importance of Global Collaboration:**
+* Investing in cybersecurity education and training
+* Promoting diversity and inclusion in the cybersecurity workforce
+* Automating cybersecurity tasks
+* Outsourcing cybersecurity services
 
-Addressing the cybersecurity talent shortage is a global issue that requires international cooperation. Governments, academia, and industry must work together to:
+**Conclusion**
 
-* Develop standardized education and certification programs
-* Facilitate knowledge sharing and best practices
-* Encourage cross-border collaboration on cybersecurity initiatives
-
-**Conclusion:**
-
-The global cybersecurity workforce must almost double in size to meet the growing talent need and address the increasing threat of cyberattacks. Education, training, and collaboration are crucial to bridging the supply-demand gap and ensuring a secure future for the digital world. By working together, governments, businesses, and individuals can create a robust and resilient cybersecurity workforce that protects critical infrastructure, businesses, and individuals alike.
+The cyber workforce shortage is a serious problem that is facing the global cybersecurity industry. If the industry does not take steps to address this shortage, it will have a significant impact on the ability of organizations to protect their systems, data, and customers from cyber threats.
 
 ## Kubernetes disaster recovery: Five key questions
 [Read more](https://www.computerweekly.com/feature/Kubernetes-disaster-recovery-Five-key-questions)
 
 Published: Thu, 12 Sep 2024 11:57:00 GMT
 
-**Five Key Questions for Kubernetes Disaster Recovery:**
+**Five Key Questions for Kubernetes Disaster Recovery**
 
-1. **How can we ensure data persistence and recovery in the event of a failure?**
-   - Consider persistent storage solutions like PVs, PVCs, or object storage providers.
-   - Implement backup and recovery strategies using tools like Velero or restic.
+**1. How do you define a disaster in your Kubernetes cluster?**
 
-2. **How will we manage application availability during a failure?**
-   - Use Kubernetes features like auto-scaling and graceful pod termination.
-   - Implement high availability through cluster replication or multi-node deployments.
+* Identify potential disaster scenarios (e.g., hardware failure, software bugs, malicious attacks).
+* Determine the metrics and indicators that define a disaster (e.g., node unavailability, application outages).
 
-3. **How will we recover the Kubernetes cluster itself?**
-   - Create backups of the Kubernetes configuration (e.g., etcd snapshot).
-   - Establish a process for restoring the cluster from the backup.
+**2. What is the Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for your cluster?**
 
-4. **How will we test and validate our disaster recovery plan?**
-   - Conduct regular drills to simulate failures and test recovery procedures.
-   - Automate testing with tools like Chaos Monkey or Litmus.
+* RTO: Time it takes to restore functionality after a disaster.
+* RPO: Amount of data that can be lost during a disaster.
+* Define acceptable RTOs and RPOs for critical applications.
 
-5. **How will we continuously improve our disaster recovery capabilities?**
-   - Review and update the disaster recovery plan regularly based on lessons learned.
-   - Stay up-to-date with new technologies and best practices for Kubernetes DR.
+**3. Which data and resources need to be backed up?**
+
+* Identify critical data, including configuration files, application state, and persistent storage.
+* Determine the appropriate backup methods for different types of data (e.g., snapshots, backups, replication).
+
+**4. How will you restore your cluster from a backup?**
+
+* Establish a disaster recovery plan that outlines the steps for restoring the cluster from a backup.
+* Define the tools and processes involved in rebuilding nodes, deploying applications, and restoring data.
+* Test the recovery plan regularly to ensure its effectiveness.
+
+**5. What mechanisms are in place for continuous monitoring and alerting?**
+
+* Implement monitoring tools that track cluster health and issue alerts for potential issues.
+* Establish alert thresholds that trigger automated responses to prevent or mitigate disasters.
+* Ensure rapid notification and response during an actual disaster.
 
