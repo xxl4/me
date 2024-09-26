@@ -10,7 +10,7 @@
     "create-ads-txt": "echo 'google.com, pub-4854567590169994, DIRECT, f08c47fec0942fa0' > public/ads.txt"
   },
   "hexo": {
-    "version": "7.0.0"
+    "version": "7.3.0"
   },
   "dependencies": {
     "hexo": "^7.1.1",
