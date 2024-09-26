@@ -1,6 +1,6 @@
 ---
-title: Models.com 2024-09-25
-date: 2024-09-25 23:06:12
+title: Models.com 2024-09-26
+date: 2024-09-26 00:26:53
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -10,7 +10,7 @@ sitemap: true
 comments: true
 ---
 
-# Models.com for 2024-09-25
+# Models.com for 2024-09-26
 
 ## Office Magazine
 [Read more](https://models.com/work/office-magazine-office-magazine-september-2024-cover)

@@ -1,6 +1,6 @@
 ---
-title: Aisixiang RSS Feed for 2024-09-25
-date: 2024-09-25 23:06:12
+title: Aisixiang RSS Feed for 2024-09-26
+date: 2024-09-26 00:26:53
 tags: [法学, 经济学,社会学,哲学,Aisixiang]
 author: Aisixiang
 summary: Aisixiang RSS Feed
@@ -10,7 +10,7 @@ sitemap: true
 comments: true
 ---
 
-# Aisixiang RSS Feed for 2024-09-25
+# Aisixiang RSS Feed for 2024-09-26
 
 ## 秦铮：从世界科学中心演进看科研范式变革
 [Read more](https://www.aisixiang.com/data/155345.html)
