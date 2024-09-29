@@ -1,8 +1,8 @@
 ---
 title: How to work with hatme in system
-date: 2023-09-29 00:00:00
+date: 2024-09-29 00:00:00
 tags: [hatme, system, work]
-categories: [Life]
+categories: [work]
 lang: en
 comments: true
 sitemap:
@@ -12,7 +12,7 @@ description: How to work with hatme in system.
 
 # How to connection Hatme Ecommerce system
 
-You can use api to connect the Hatme Ecommerce system. When you use the api, and other system, Hatme will push data to other system, LIKE CRM,ERP, and so on. We use queue to push the data.
+You can use api to connect the Hatme Ecommerce system. When you use the api, and other system, Hatme will push data to other system, Like CRM, ERP and so on. We use queue to push the data.
 
 When Hatme connect the Airwallex, We use the Airwallex api to connect, Like payment, due, refund, and so on. 
 
@@ -31,7 +31,7 @@ We use the Google Analytics to monitor the customer action, and we use the Googl
 [Google Analytics](https://analytics.google.com/analytics/web/)  
 [Google Tag Manager](https://tagmanager.google.com/)
 
-# How to connection other service in Hatme
+# How to connection other Service in Hatme
 
 1) Queue
 2) API
