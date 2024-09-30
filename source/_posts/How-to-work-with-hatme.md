@@ -12,7 +12,7 @@ description: How to work with hatme in system.
 
 # How to connection Hatme Ecommerce system
 
-You can use api to connect the Hatme Ecommerce system. When you use the api, and other system, Hatme will push data to other system, Like CRM, ERP and so on. We use queue to push the data.
+You can use api to connect the Hatme Ecommerce system. When you use the api, and other system, Hatme will push data to other system, Like CRM, ERP，Shopify and so on. We use queue to push the data.
 
 When Hatme connect the Airwallex, We use the Airwallex api to connect, Like payment, due, refund, and so on. 
 
@@ -24,7 +24,7 @@ Hatme ecommerce system (base php), and we use the Airwallex api to connect the p
 [Airwallex PHP SDK](https://github.com/xxl4/airwallex-php-sdk)
 
 
-# How to mionitor the Customer action,envent in Hatme
+# How to tracking the customer action in Hatme
 
 We use the Google Analytics to monitor the customer action, and we use the Google Tag Manager to monitor the customer event. 
 
@@ -36,4 +36,6 @@ We use the Google Analytics to monitor the customer action, and we use the Googl
 1) Queue
 2) API
 3) Webhook (Testing)
+
+Plesae check it, and let me know if you have any question and other need.
 
