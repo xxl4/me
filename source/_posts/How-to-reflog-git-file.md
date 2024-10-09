@@ -66,5 +66,6 @@ Today i show you how to reflog git restore file that you had delete. Hope you en
 - [Git reflog](https://git-scm.com/docs/git-reflog)
 - [Git reset](https://git-scm.com/docs/git-reset)
 - [Git checkout](https://git-scm.com/docs/git-checkout)
+- [Git reflog 引用日志使用详解](https://www.cnblogs.com/onmpw/p/15748110.html)
 ```
 
