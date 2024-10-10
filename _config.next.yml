@@ -296,6 +296,9 @@ related_posts:
   enable: true
   title: # Custom header, leave empty to use the default one
   display_in_home: true
+  enable_env_name: prod
+  filter_threshold: 0.3
+  related_count: 3
 
 # Post edit
 # Easily browse and edit blog source code online.
