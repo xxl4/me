@@ -294,12 +294,22 @@ follow_me:
 # Related popular posts
 # Dependencies: https://github.com/sergeyzwezdin/hexo-related-posts
 related_posts:
+  # enable: true
+  # title: # Custom header, leave empty to use the default one
+  # display_in_home: true
+  # enable_env_name: prod
+  # filter_threshold: 0.3
+  # related_count: 3
   enable: true
-  title: # Custom header, leave empty to use the default one
-  display_in_home: true
-  enable_env_name: prod
-  filter_threshold: 0.3
-  related_count: 3
+  title: Related Posts
+  max_count: 5
+  min_common_tag: 1
+  order_by: date
+  date_format: YYYY-MM-DD
+  thumbnail:
+    enable: false
+    field: thumbnail
+  no_related_posts_message: "No related posts."
 
 # Post edit
 # Easily browse and edit blog source code online.
