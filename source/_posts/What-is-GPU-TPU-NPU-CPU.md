@@ -1,7 +1,12 @@
 ---
 title: What is GPU, TPU, NPU, and CPU?
 date: 2024-10-10 17:11:00
-tags: [GPU, TPU, NPU, CPU]
+tags: 
+ - Hardware
+ - GPU
+ - TPU
+ - NPU
+ - CPU
 categories: [Hardware]
 lang: en
 comments: true
