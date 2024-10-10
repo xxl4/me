@@ -6,8 +6,8 @@ categories: [Tools]
 comments: true
 sitemap:
   lastmod: 2024-10-09 10:00:00
-    priority: 0.8
-    changefreq: daily
+  priority: 0.8
+  changefreq: daily
 description: How to reflog git had delete file
 lang: en
 ---
