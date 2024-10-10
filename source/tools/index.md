@@ -153,7 +153,7 @@ description: So many Tools for everyone
 - [Latency Numbers Every Programmer Should Know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer): 系统设计入门
 - [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
-- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh-CN)
 - [《程序员编程艺术 — 面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 - [GoBooks](https://github.com/dariubs/GoBooks)
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)

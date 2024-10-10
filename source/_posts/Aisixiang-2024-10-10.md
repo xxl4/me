@@ -4,7 +4,7 @@ date: 2024-10-10 02:26:13
 tags: [法学, 经济学,社会学,哲学,Aisixiang]
 author: Aisixiang
 summary: Aisixiang RSS Feed
-lang: zh_CN
+lang: zh-CN
 categories: 哲学
 sitemap: true
 comments: true

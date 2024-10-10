@@ -305,7 +305,7 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
             md_file.write("tags: [法学, 经济学,社会学,哲学,Aisixiang]\n")
             md_file.write("author: Aisixiang\n")
             md_file.write("summary: Aisixiang RSS Feed\n")
-            md_file.write("lang: zh_CN\n")
+            md_file.write("lang: zh-CN\n")
             md_file.write("categories: 哲学\n")
             md_file.write("sitemap: true\n")
             md_file.write("comments: true\n")
