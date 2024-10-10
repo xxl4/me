@@ -74,7 +74,7 @@ Today i show you how to train a model from huggingface model hub. Hope you enjoy
 ## Example Code 
   
   ```python
-  from transformers import pipeline, AutoTokenizer, AutoModelForMaskedLM, Trainer, TrainingArguments
+from transformers import pipeline, AutoTokenizer, AutoModelForMaskedLM, Trainer, TrainingArguments
 from datasets import load_dataset
 
 # Load the tokenizer and model
