@@ -32,7 +32,6 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-generator-searchdb": "^1.4.1",
     "hexo-robots": "^1.0.0",
-    "hexo-related-popular-posts": "^1.0.0",
     "hexo-theme-next": "^8.19.1"
   }
 }
