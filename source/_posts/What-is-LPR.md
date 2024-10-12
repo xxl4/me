@@ -7,7 +7,10 @@ lang: en
 comments: true
 sitemap: true
 description: What is LPR? License Plate Recognition (LPR) is a technology that uses optical character recognition on images to read vehicle registration plates to create vehicle location data.
+cover: /images/en/2024/10/What-is-LPR.jpg
 ---
+
+![What is LPR?](/images/en/2024/10/What-is-LPR.jpg)
 
 License Plate Recognition (LPR) is a technology that uses optical character recognition on images to read vehicle registration plates to create vehicle location data. LPR is also known as Automatic Number Plate Recognition (ANPR).
 
