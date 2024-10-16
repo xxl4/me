@@ -657,5 +657,47 @@ description: So many Tools for everyone
 - unity3d：跨平台3D游戏引擎，很火的哦
 - Nodejs：也有不少使用它来开发手游和页游服务器（网易的Pomelo）
 
+### 图片资源
+
+- [Unsplash](https://unsplash.com/): 免费高清图片
+- [Pexels](https://www.pexels.com/): 免费高清图片
+- [Pixabay](https://pixabay.com/): 免费图片
+- [Gratisography](https://gratisography.com/）: 免费图片
+
+### 代码托管
+
+- [GitHub](https://github.com) - 最大的代码托管网站
+- [GitLab](https://gitlab.com) - 开源的代码托管网站
+- [Bitbucket](https://bitbucket.org) - Atlassian出品的代码托管网站
+- [Coding](https://coding.net) - 国内的代码托管网站
+- [Gitee](https://gitee.com) - 国内的代码托管网站
+
+### 云服务
+
+- [阿里云](https://www.aliyun.com) - 阿里巴巴旗下的云服务提供商
+- [腾讯云](https://cloud.tencent.com) - 腾讯旗下的云服务提供商
+- [华为云](https://www.huaweicloud.com) - 华为旗下的云服务提供商
+- [AWS](https://aws.amazon.com) - 亚马逊旗下的云服务提供商
+- [Azure](https://azure.microsoft.com) - 微软旗下的云服务提供商
+- [Google Cloud](https://cloud.google.com) - 谷歌旗下的云服务提供商
+
+### 云存储
+
+- [七牛云](https://www.qiniu.com) - 国内的云存储服务提供商
+- [阿里云OSS](https://www.aliyun.com/product/oss) - 阿里云的对象存储服务
+- [腾讯云COS](https://cloud.tencent.com/product/cos) - 腾讯云的对象存储服务
+- [AWS S3](https://aws.amazon.com/s3) - 亚马逊的对象存储服务
+- [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs) - 微软的对象存储服务
+- [Google Cloud Storage](https://cloud.google.com/storage) - 谷歌的对象存储服务
+
+### 云数据库
+
+- [阿里云RDS](https://www.aliyun.com/product/rds) - 阿里云的关系型数据库服务
+- [腾讯云CDB](https://cloud.tencent.com/product/cdb) - 腾讯云的关系型数据库服务
+- [AWS RDS](https://aws.amazon.com/rds) - 亚马逊的关系型数据库服务
+- [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database) - 微软的关系型数据库服务
+- [Google Cloud SQL](https://cloud.google.com/sql) - 谷歌的关系型数据库服务
+
+
 ### 其他
 - [夏凡 结构化知识库] (https://deitacloud.github.io/site/)
