@@ -1,6 +1,7 @@
 ---
 title: Tools （工具）
 date: 2024-01-01 19:00:30
+updated: 2024-10-16 19:00:30
 lang: zh-CN
 tags:
  - Sre
@@ -11,6 +12,8 @@ tags:
  - Php
  - Swift
  - Javascript
+ - Scala
+ - C++
 description: So many Tools for everyone
 ---
 
@@ -146,6 +149,10 @@ description: So many Tools for everyone
 - [awesome-machine-learning](https://github.com/jacksu/machine-learning) - 机器学习资料
 - [awesome-kubernetes-notes](https://github.com/redhatxl/awesome-kubernetes-notes) - kubernetes学习资料
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - Awesome Site Reliability Engineering
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - Awesome Awesomeness
+- [awesome-iot](https://github.com/HQarroum/awesome-iot) - Awesome IoT
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Awesome Selfhosted
+- [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - Awesome Security Talks
 
 ** 书籍资料 **
 
