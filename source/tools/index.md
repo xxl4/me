@@ -43,7 +43,61 @@ sitemap: true
   - [.NET](#net)
   - [C & C++](#c--c)
   - [Php](#Php)
+  - [Ruby](#ruby)
+  - [Javascript](#javascript)
+  - [Go](#go)
+  - [Rust](#rust)
+  - [Shell](#shell)
+  - [Lua](#lua)
+  - [Clojure](#clojure)
+  - [Erlang](#erlang)
+  - [Haskell](#haskell)
+  - [R](#r)
+  - [Perl](#perl)
+  - [Kotlin](#kotlin)
+  - [Groovy](#groovy)
+  - [TypeScript](#typescript)
+  - [Dart](#dart)
+  - [Elixir](#elixir)
+  - [F#](#f)
+  - [OCaml](#ocaml)
+  - [Scheme](#scheme)
+  - [Smalltalk](#smalltalk)
+  - [Prolog](#prolog)
+  - [Swift](#swift-1)
+  - [Objective-C](#objective-c)
+  - [VimL](#viml)
+  - [Emacs Lisp](#emacs-lisp)
+  - [CoffeeScript](#coffeescript)
+  - [ActionScript](#actionscript)
+  - [ColdFusion](#coldfusion)
+  - [Visual Basic](#visual-basic)
+  - [Delphi](#delphi)
+  - [Ada](#ada)
+  - [Pascal](#pascal)
+  - [Lisp](#lisp)
+  - [Forth](#forth)
+  - [Verilog](#verilog)
+  - [VHDL](#vhdl)
+  - [Assembly](#assembly)
+  - [Objective-C++](#objective-c)
+  - [Perl 6](#perl-6)
+  - [PowerShell](#powershell)
+  - [Racket](#racket)
+  - [XQuery](#xquery)
+  - [XSLT](#xslt)
+  - [Apex](#apex)
+  - [ABAP](#abap)
+  - [Ada](#ada-1)
+  - [Agda](#agda)
+  - [Alloy](#alloy)
+  - [AMPL](#ampl)
+  - [ANTLR](#antlr)
+  - [ApacheConf](#apacheconf)
+  - [Apex](#apex-1)
+  - [API Blueprint](#api-blueprint)
 - [电子书](#电子书)
+- [模型](#模型)
 - [其他](#%E5%85%B6%E4%BB%96)
   - [游戏开发相关](#%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3)
   - [日志聚合，分布式日志收集](#%E6%97%A5%E5%BF%97%E8%81%9A%E5%90%88%E5%88%86%E5%B8%83%E5%BC%8F%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86)
@@ -559,8 +613,33 @@ sitemap: true
 - Web框架: Django 开源web开发框架，它鼓励快速开发,并遵循MVC设计
 
 ### Php
- - Laravel: 全球使用最多的PHP 框架
- - Thinkphp: 中国人最喜欢的PHP框架之一
+ - Laravel: 全球使用最多的PHP 框架 (https://laravel.com/)
+ - Thinkphp: 中国人最喜欢的PHP框架之一 (http://www.thinkphp.cn/)
+ - Yii: 一个高性能的PHP框架 (http://www.yiiframework.com/)
+ - CodeIgniter: 一个简单而优美的PHP框架 (http://www.codeigniter.com/)
+ - Symfony: 一个PHP框架，用于构建大型企业级项目 (http://symfony.com/)
+ - CakePHP: 一个快速开发框架 (http://cakephp.org/)
+ - Zend Framework: 一个企业级PHP框架 (http://framework.zend.com/)
+ - Phalcon: 一个高性能的PHP框架 (http://phalconphp.com/)
+ - Slim: 一个微型PHP框架 (http://www.slimframework.com/)
+ - FuelPHP: 一个灵活的PHP框架 (http://fuelphp.com/)
+ - PHPixie: 一个简单的PHP框架 (http://phpixie.com/)
+ - Aura: 一个PHP框架，用于构建RESTful web应用 (http://auraphp.com/)
+ - Silex: 一个微型PHP框架 (http://silex.sensiolabs.org/)
+ - Lumen: 一个微型PHP框架，用于构建API (http://lumen.laravel.com/)
+ - Flight: 一个微型PHP框架 (http://flightphp.com/)
+ - PHP-MVC: 一个简单的PHP框架 (http://php-mvc.net/)
+ - PHPixie: 一个简单的PHP框架 (http://phpixie.com/)
+ - Kohana: 一个优雅的PHP框架 (http://kohanaframework.org/)
+ - Zikula: 一个用于构建内容管理系统的PHP框架 (http://zikula.org/)
+ - PHPDevShell: 一个用于构建管理后台的PHP框架 (http://phpdevshell.org/)
+ - PHPonTrax: 一个用于构建web应用的PHP框架 (http://www.phpontrax.com/)
+ - PHPWork: 一个用于构建web应用的PHP框架 (http://phpwork.org/)
+ - PHPulse: 一个用于构建web应用的PHP框架 (http://phpulse.com/)
+ - PHPDevShell: 一个用于构建管理后台的PHP框架 (http://phpdevshell.org/)
+ - PHPonTrax: 一个用于构建web应用的PHP框架 (http://www.phpontrax.com/)
+ - PHPWork: 一个用于构建web应用的PHP框架 (http://phpwork.org/)
+ - PHPulse: 一个用于构建web应用的PHP框架 (http://phpulse.com/)
 
 
 ### Swift
@@ -652,6 +731,23 @@ sitemap: true
  - The Site Reliability Workbook https://sre.google/workbook/table-of-contents/
  - Site Reliability Engineering https://sre.google/sre-book/table-of-contents/
  - Bash Reference Manual https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+ - The Linux Command Line http://linuxcommand.org/tlcl.php
+ - The Art of Unix Programming http://www.catb.org/esr/writings/taoup/html/
+ - The Art of Readable Code http://www.artofreadablecode.com/
+ - The Architecture of Open Source Applications http://aosabook.org/en/index.html
+ - The Performance of Open Source Applications http://aosabook.org/en/index.html
+ - The Art of Community http://www.artofcommunityonline.org/
+ - The Art of Community Building http://www.artofcommunityonline.org/
+
+## 模型
+ - Hugging Model Hub: https://huggingface.co/models
+ - TensorFlow Model Zoo: https://github.com/tensorflow/models
+ - PyTorch Model Zoo: https://pytorch.org/serve/model_zoo.html
+ - ONNX Model Zoo: https://github.com/onnx/models
+ - OpenAI Model Zoo: https://github.com/openai/CLIP
+ - DeepMind Model Zoo: https://deepmind.com/research/open-source/open-source-models
+ - MetaMind Model Zoo: https://metamind.io/research/learn-more
+ - AllenNLP Model Zoo: https://allennlp.org/models
 
 ## 其他
 
