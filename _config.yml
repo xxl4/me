@@ -104,7 +104,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+  type: indexnow_url_submitter
   repo: https://github.com/xxl4/me.git
   branch: main
 
@@ -190,6 +190,13 @@ adsense:
   exclude:
     - "*.min.html"
     - "exclude/**/*"
+
+hexo_indexnow:
+  count: latest # 数字或者 "latest"(=1)
+  txt_name: indexnow.txt # 链接文件名
+  apikey: 755b45b1364e4b388259d263c2e7a340 # 你的 apikey
+  server: bing # indexnow 服务器，可选值有:bing、yandex、indexnow
+
 # robots.txt
 robots:
   user_agent: "*"
