@@ -604,6 +604,8 @@ sitemap: true
 
 - [Go语言中文网](http://studygolang.com/)
 - [Go语言中文网](http://www.golangtc.com/)
+- [Go语言中文网](http://www.golang.org.cn/)
+- [Go语言圣经中文版 🇨🇳](https://gopl-zh.github.io/)
 
 ### Node.js
 
