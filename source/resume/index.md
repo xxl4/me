@@ -64,6 +64,13 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 ## Projects
 
+
+### Open Source Ecommerce Platform
+
+- **Description**: Contributed to an open-source e-commerce platform by adding new features, fixing bugs, and improving performance. Developed using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, and CSS. Hosted on GitHub.
+
+- **Contribution**: Implemented user authentication, product search, and shopping cart functionality. Optimized database queries and front-end rendering. Fixed security vulnerabilities and performance bottlenecks.
+
 ### Personal Portfolio Website
 
 - **Description**: Developed a personal portfolio website to showcase my projects, skills, and experience. Built with HTML, CSS, and JavaScript. Hosted on GitHub Pages.
