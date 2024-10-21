@@ -1,3 +1,12 @@
+---
+title: Steve Liu Resume
+date: 2024-10-20
+tags: Steve Liu, Resume, Full Stack Developer, DevSecOps Engineer, Project Manager, Computer Science, Python, Java, C++, JavaScript, HTML, CSS, SQL, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, Agile, Scrum, Kanban
+lang: en
+comments: false
+sitemap: false
+description: Steve Liu Resume
+---
 # Resume About Steve Liu
 
 ## Steve Liu Summary
