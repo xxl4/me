@@ -50,6 +50,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Description**: Managed software development projects from initiation to delivery. Coordinated with stakeholders to define project requirements and scope. Led cross-functional teams to deliver projects on time and within budget.
 
+
 ## Education
 
 ### Bachelor of Science in Computer Science
