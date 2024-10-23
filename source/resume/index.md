@@ -64,34 +64,35 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 ## Projects
 
-
 ### Open Source Ecommerce Platform
 
 - **Description**: Contributed to an open-source e-commerce platform by adding new features, fixing bugs, and improving performance. Developed using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, and CSS. Hosted on GitHub.
 
 - **Contribution**: Implemented user authentication, product search, and shopping cart functionality. Optimized database queries and front-end rendering. Fixed security vulnerabilities and performance bottlenecks.
 
+### Machine Learning Model Deployment
+
+- **Description**: Deployed a machine learning model for image recognition using Flask, Docker, and Kubernetes. Built a RESTful API to serve predictions and monitor model performance. Integrated with CI/CD pipelines for automated testing and deployment.
+
+- **Contribution**: Developed the Flask application to load the model, preprocess images, and serve predictions. Containerized the application using Docker for portability and scalability. Orchestrated the deployment using Kubernetes for high availability and fault tolerance.
+
 ### Personal Portfolio Website
 
 - **Description**: Developed a personal portfolio website to showcase my projects, skills, and experience. Built with HTML, CSS, and JavaScript. Hosted on GitHub Pages.
+
+- **Contribution**: Designed the website layout and user interface. Implemented responsive design for mobile and desktop devices. Integrated with Google Analytics to track visitor traffic and engagement.
 
 ### Online Shopping Platform
 
 - **Description**: Designed and implemented an online shopping platform for a small business. Developed front-end and back-end features using Python, Django, HTML, CSS, and JavaScript. Deployed on AWS EC2.
 
+- **Contribution**: Created user registration, product catalog, shopping cart, and order processing modules. Integrated payment gateway for secure transactions. Configured server instances, load balancers, and databases on AWS.
+
 ### DevOps Dashboard
 
 - **Description**: Created a DevOps dashboard to monitor CI/CD pipelines, infrastructure, and application performance. Integrated with Jenkins, Docker, Kubernetes, and Grafana. Hosted on GCP.
 
-## Certifications
-
-- **Certified Kubernetes Administrator (CKA)**
-
-- **Certified Scrum Master (CSM)**
-
-- **AWS Certified Solutions Architect – Associate**
-
-- **Google Professional Cloud Architect**
+- **Contribution**: Automated data collection from Jenkins, Docker, and Kubernetes APIs. Visualized metrics using Grafana dashboards. Implemented alerts and notifications for critical events. Deployed on GCP Compute Engine instances.
 
 ## Interests
 
