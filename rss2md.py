@@ -286,47 +286,5 @@ def write_md(filename, title, today, now):
 
 # https://techcrunch.com/feed/
 
-# https://www.aisixiang.com/rss
-
-RSS_FEED_URL = "https://www.aisixiang.com/rss"
-
-feed = feedparser.parse(RSS_FEED_URL)
-
-md_filename = f"source/_posts/Aisixiang-{today}.md"
-
-os.makedirs(os.path.dirname(md_filename), exist_ok=True)
-
-with open(md_filename, 'w', encoding='utf-8') as md_file:
-        
-            md_file.write("---\n")
-            md_file.write(f"title: Aisixiang RSS Feed for {today}\n")
-            md_file.write(f"date: {now}\n")
-            # Multiple tags
-            md_file.write("tags: [法学, 经济学,社会学,哲学,Aisixiang]\n")
-            md_file.write("author: Aisixiang\n")
-            md_file.write("summary: Aisixiang RSS Feed\n")
-            md_file.write("lang: zh-CN\n")
-            md_file.write("categories: 哲学\n")
-            md_file.write("sitemap: true\n")
-            md_file.write("comments: true\n")
-            md_file.write("---\n\n")
-        
-            md_file.write(f"# Aisixiang RSS Feed for {today}\n\n")
-        
-            for entry in feed.entries:
-    
-                res = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
-    
-                # if res.fetchone() is None:
-                #     c.execute("INSERT INTO rss VALUES (`title`, `link`, `published`, `ai_generated_content`)", (entry.title, entry.link, entry.published, None ))
-                #     conn.commit()
-    
-                md_file.write(f"## {entry.title}\n")
-                md_file.write(f"[Read more]({entry.link})\n\n")
-                md_file.write(f"Published: {entry.published}\n\n")
-                md_file.write(f" > {entry.description}\n\n")
-
-print(f"RSS feed has been converted to Markdown and saved as {md_filename}")
-
 # Close the connection
 conn.close()
