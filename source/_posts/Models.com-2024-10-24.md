@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-10-24
-date: 2024-10-24 01:19:20
+date: 2024-10-24 02:26:14
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-10-24
+
+## Double Vision
+[Read more](https://models.com/work/double-vision-double-vision-fallwinter-2024-covers)
+
+Published: Thu, 24 Oct 2024 00:54:37 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/10/2367573/2367573-800w.jpg" /></p>Double Vision Fall/Winter 2024 Covers <a href="https://models.com/work/double-vision-double-vision-fallwinter-2024-covers" title="Double Vision Fall/Winter 2024 Covers">More...</a>
 
 ## Vogue Arabia
 [Read more](https://models.com/work/vogue-arabia-october-issue)
@@ -431,6 +438,13 @@ Published: Tue, 22 Oct 2024 15:42:49 GMT
 Published: Tue, 22 Oct 2024 15:37:59 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/10/2366498/2366498-800w.jpg" /></p>Phoebe Philo A3 Campaign by Talia Chetrit <a href="https://models.com/work/phoebe-philo-phoebe-philo-a3-campaign" title="Phoebe Philo A3 Campaign by Talia Chetrit">More...</a>
+
+## Vogue Ukraine
+[Read more](https://models.com/work/vogue-ukraine-jewelry-story-by-marcus-ohlsson)
+
+Published: Tue, 22 Oct 2024 15:33:06 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/10/2366512/2366512-800w.jpg" /></p>Renee Does  by Marcus Ohlsson <a href="https://models.com/work/vogue-ukraine-jewelry-story-by-marcus-ohlsson" title="Renee Does  by Marcus Ohlsson">More...</a>
 
 ## L'Etiquette Magazine
 [Read more](https://models.com/work/letiquette-magazine-spcial-canicule)
@@ -1047,18 +1061,4 @@ Published: Mon, 21 Oct 2024 09:27:47 GMT
 Published: Mon, 21 Oct 2024 09:16:05 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/10/2365111/2365111-800w.jpg" /></p>Fendi Peekaboo Campaign <a href="https://models.com/work/fendi-fendi-peekaboo-campaign" title="Fendi Peekaboo Campaign">More...</a>
-
-## Vogue España
-[Read more](https://models.com/work/vogue-espaa-fuerza-mayor)
-
-Published: Mon, 21 Oct 2024 05:24:01 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/10/2365330/2365330-800w.jpg" /></p>Fuerza Mayor <a href="https://models.com/work/vogue-espaa-fuerza-mayor" title="Fuerza Mayor">More...</a>
-
-## Vivienne Westwood
-[Read more](https://models.com/work/vivienne-westwood-vivienne-westwood-ss-2025)
-
-Published: Mon, 21 Oct 2024 02:15:15 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/10/2365028/2365028-800w.jpg" /></p>Vivienne Westwood S/S 2025 <a href="https://models.com/work/vivienne-westwood-vivienne-westwood-ss-2025" title="Vivienne Westwood S/S 2025">More...</a>
 
