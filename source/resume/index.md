@@ -10,19 +10,19 @@ description: Steve Liu Resume
 # Resume About Steve Liu
 
 ## Steve Liu Summary
-Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for software engineering and have been working in the industry for over 10 years. I have experience in a variety of languages and technologies, including Python, Java, and C++. I am always looking for new challenges and opportunities to learn and grow as an engineer.
+Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for software engineering and have been working in the industry for over 10 years. I have experience in a variety of languages and technologies, including Php, Javascript, Python, Java and GoLang. I am always looking for new challenges and opportunities to learn and grow as an engineer.
 
 ## Steve Liu
 
-- **Email**:
+- **Email**: nice.lizhi#gmail.com
 
-- **Phone**:
+- **Phone**: 86-18217614046
 
 - **Location**: Shanghai, China
 
-- **Languages**: English, Chinese
+- **Languages**: Chinese, English, Hakka
 
-- **Skills**: Python, Java, C++, JavaScript, HTML, CSS, SQL, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, Agile, Scrum, Kanban
+- **Skills**: PHP, GoLang, Python, Java, JavaScript, HTML, CSS, SQL, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, Agile, Scrum, Kanban, CI/CD, Security, Networking,MySQL, Redis, Vue
 
 ## Experience
 
@@ -32,7 +32,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Dates**: 2023 - Present
 
-- **Description**: Developed and maintained web applications for a leading e-commerce platform. Worked on both front-end and back-end technologies, including Python, JavaScript, HTML, CSS, and SQL. Collaborated with cross-functional teams to deliver high-quality software products.
+- **Description**: HaoMai is grow up very quickly company that is a leading e-commerce platform. I am responsible for developing and maintaining web applications using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML and CSS. I work closely with cross-functional teams to deliver high-quality software products. We are using Vue for front-end development and PHP for back-end development.
 
 ### DevSecOps Engineer at Seceum
 
@@ -40,7 +40,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Dates**: 2021 - 2023
 
-- **Description**: Implemented security best practices and automation tools to secure cloud infrastructure. Developed and maintained CI/CD pipelines for software deployment. Conducted security assessments and audits to identify and remediate vulnerabilities.
+- **Description**: Seceum is a cybersecurity company that provides cloud security solutions. I was responsible for designing, implementing, and maintaining secure cloud infrastructure using AWS, GCP, and Azure. I developed CI/CD pipelines for software deployment and conducted security assessments to identify and remediate vulnerabilities. I also implemented monitoring and alerting systems to detect and respond to security incidents.
 
 ### Project Manager at YinpingCang Technology Co.
 
