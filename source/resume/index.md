@@ -79,7 +79,16 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Implemented user authentication, product search, and shopping cart functionality. Optimized database queries and front-end rendering. Fixed security vulnerabilities and performance bottlenecks. Collaborated with the community to review and merge code changes.
 
--- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
+- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
+
+
+### Private Cloud Platform
+
+- **Description**: Designed and implemented a private cloud platform base on VMware and Kubernetes for Business and Developers. Developed using Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, VMware, Linux, Windows. Integrated with LDAP for user authentication and authorization. Configured server instances, load balancers, and databases on Local servers.
+
+- **Contribution**: Created user registration, file storage, and virtual machine management modules. Integrated with LDAP for user authentication and authorization. Configured server instances, load balancers, and databases on Local servers.
+
+- **Technologies**: Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, VMware, Linux, Windows, DevOps, CI/CD, Security, Networking
 
 ### Machine Learning Model Deployment
 
@@ -87,7 +96,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Developed the Flask application to load the model, preprocess images, and serve predictions. Containerized the application using Docker for portability and scalability. Orchestrated the deployment using Kubernetes for high availability and fault tolerance.
 
--- **Technologies**: Python, Flask, Docker, Kubernetes, CI/CD，Github, DevOps, DevSecOps, Security, Networking, Machine Learning, AI, ML, Deep Learning, Neural Networks, RESTful API, Flask
+- **Technologies**: Python, Flask, Docker, Kubernetes, CI/CD，Github, DevOps, DevSecOps, Security, Networking, Machine Learning, AI, ML, Deep Learning, Neural Networks, RESTful API, Flask
 
 
 ### Personal Portfolio Website
