@@ -10,7 +10,7 @@ description: Steve Liu Resume
 # Resume About Steve Liu
 
 ## Steve Liu Summary
-Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for software engineering and have been working in the industry for over 10 years. I have experience in a variety of languages and technologies, including Php, Javascript, Python, Java and GoLang. I am always looking for new challenges and opportunities to learn and grow as an engineer.
+Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for software engineering and have been working in the industry for over 10 years. I have experience in a variety of languages and technologies, including Php, Javascript, Python, Java and GoLang. I am always looking for new challenges and opportunities to learn and grow as an engineer. Have a strong background in technology and software engineering principles. I have experience working in a variety of industries, including e-commerce, cybersecurity, and technology. I am a team player and enjoy collaborating with others to deliver high-quality software products. I am also a quick learner and enjoy tackling complex problems. I am looking for new opportunities to work on interesting projects and contribute to innovative solutions.
 
 ## Steve Liu
 
@@ -32,7 +32,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Dates**: 2023 - Present
 
-- **Description**: HaoMai is grow up very quickly company that is a leading e-commerce platform. I am responsible for developing and maintaining web applications using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML and CSS. I work closely with cross-functional teams to deliver high-quality software products. We are using Vue for front-end development and PHP for back-end development.
+- **Description**: HaoMai is grow up very quickly company that is a leading e-commerce platform. I am responsible for developing and maintaining web applications using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML and CSS. I work closely with cross-functional teams to deliver high-quality software products. We are using Vue for front-end development and PHP for back-end development. We have USA, Europe, and China teams. We are using Github for version control and CI/CD pipelines for automated testing and deployment. We use Google GTM for tracking and monitoring. We have self-developed CRM, ERP, Ecommerce for our business. 
 
 ### DevSecOps Engineer at Seceum
 
@@ -40,15 +40,23 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Dates**: 2021 - 2023
 
-- **Description**: Seceum is a cybersecurity company that provides cloud security solutions. I was responsible for designing, implementing, and maintaining secure cloud infrastructure using AWS, GCP, and Azure. I developed CI/CD pipelines for software deployment and conducted security assessments to identify and remediate vulnerabilities. I also implemented monitoring and alerting systems to detect and respond to security incidents.
+- **Description**: Seceum is a cybersecurity company that provides cloud security solutions. I was responsible for designing, implementing, and maintaining secure cloud infrastructure using AWS, GCP, and Azure. I developed CI/CD pipelines for software deployment and conducted security assessments to identify and remediate vulnerabilities. I also implemented monitoring and alerting systems to detect and respond to security incidents. Our team is using Python, Java, Docker, Kubernetes, and Jenkins for DevSecOps practices and Machine Learning, AI, ML, Deep Learning, Neural Networks for security solutions. Over 50% of our team members is Ph.D. in Computer Science.
 
-### Project Manager at YinpingCang Technology Co.
+### Project Manager And Develop Manager at YinpingCang Technology Co.
 
 - **Location**: Shanghai, China
 
-- **Dates**: 2018 - 2021
+- **Dates**: 2018 - 2020
 
-- **Description**: Managed software development projects from initiation to delivery. Coordinated with stakeholders to define project requirements and scope. Led cross-functional teams to deliver projects on time and within budget.
+- **Description**: YinpingCang Technology Co. is a technology company. We have a team of about 100 developers and designers. All developers are work for our online shoppping platform and offline stores. We have a team of about 3 project managers and 5 product managers. I was responsible for managing the development team, coordinating project timelines, and ensuring the successful delivery of software products. I also worked closely with clients to gather requirements, provide updates, and address feedback. We are using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, Aliyun , Linux, Windows, DevOps, CI/CD, Security, Networking for our projects. We have self-developed ERP, CRM, and POS systems for our business. We are using Vue for front-end development and PHP for back-end development. 
+
+### Developer Manager At Shanghai ZhiYan 
+
+- **Location**: Shanghai, China
+
+- **Dates**: 2012 - 2018
+
+- **Description**: Shanghai ZhiYan is a technology company that provides software development services. I was responsible for managing a team of developers and designers to deliver high-quality software products. I worked closely with clients to gather requirements, provide updates, and address feedback. I also conducted code reviews, mentored junior developers, and implemented best practices for software development. We are using Php, Python， Java, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, Aliyun , Linux, Windows, DevOps, CI/CD, Security, Networking for our projects.
 
 
 ## Education
@@ -67,15 +75,20 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 ### Open Source Ecommerce Platform
 
-- **Description**: Contributed to an open-source e-commerce platform by adding new features, fixing bugs, and improving performance. Developed using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, and CSS. Hosted on GitHub.
+- **Description**: Contributed to an open-source e-commerce platform by adding new features, fixing bugs, and improving performance. Developed using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, and CSS. Hosted on Aws. Use Github for version control and CI/CD pipelines for automated testing and deployment.
 
-- **Contribution**: Implemented user authentication, product search, and shopping cart functionality. Optimized database queries and front-end rendering. Fixed security vulnerabilities and performance bottlenecks.
+- **Contribution**: Implemented user authentication, product search, and shopping cart functionality. Optimized database queries and front-end rendering. Fixed security vulnerabilities and performance bottlenecks. Collaborated with the community to review and merge code changes.
+
+-- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
 
 ### Machine Learning Model Deployment
 
 - **Description**: Deployed a machine learning model for image recognition using Flask, Docker, and Kubernetes. Built a RESTful API to serve predictions and monitor model performance. Integrated with CI/CD pipelines for automated testing and deployment.
 
 - **Contribution**: Developed the Flask application to load the model, preprocess images, and serve predictions. Containerized the application using Docker for portability and scalability. Orchestrated the deployment using Kubernetes for high availability and fault tolerance.
+
+-- **Technologies**: Python, Flask, Docker, Kubernetes, CI/CD，Github, DevOps, DevSecOps, Security, Networking, Machine Learning, AI, ML, Deep Learning, Neural Networks, RESTful API, Flask
+
 
 ### Personal Portfolio Website
 
