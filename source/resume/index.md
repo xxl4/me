@@ -67,8 +67,6 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Location**: Shanghai, China
 
-- **Dates**: 2021 - 2024
-
 - **Description**: Studied computer science fundamentals, algorithms, data structures, and software engineering principles. Completed coursework in programming languages, databases, operating systems, and computer networks.
 
 ## Projects
