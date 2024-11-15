@@ -92,5 +92,6 @@ frida-ps -U
 - [《ROM开发入门到精通》技术归档](https://github.com/xxxgod/ROM-DevGuide)
 - [Android ROM包定制（解包，增删模块，打包）](https://www.cnblogs.com/luoyesiqiu/p/10791511.html)
 - [frida android](https://frida.re/docs/android/)
+- [frida的用法--Hook Java代码篇](https://www.cnblogs.com/luoyesiqiu/p/10718997.html)
 
 
