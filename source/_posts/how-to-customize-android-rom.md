@@ -68,6 +68,19 @@ frida-trace -U -f com.example.app
 frida-ps -U
 ```
 
+# Xposed Framework
+
+The Xposed Framework is a powerful tool that allows you to customize your Android ROM without modifying the system files. It provides a way to add new features, remove unwanted features, or change the look and feel of the system without the need to flash a custom ROM.
+
+To install the Xposed Framework, follow these steps:
+
+1. Download the latest version of the Xposed Framework from the official website.
+2. Install the Xposed Framework app on your device.
+3. Open the Xposed Framework app and click on the "Install" button.
+4. Reboot your device and enjoy the new features and customization options provided by the Xposed Framework.
+
+
+
 
 
 # Reference
