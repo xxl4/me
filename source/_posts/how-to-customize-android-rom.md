@@ -51,6 +51,24 @@ fastboot flash recovery twrp.img
 
 That's it! You have successfully customized your Android ROM. Enjoy your new features and customization options!
 
+# How to use frida to hook Android ROM
+
+1. Download and install the latest version of frida from the official website.
+2. Connect your Android device to your computer using a USB cable.
+3. Open a command prompt window on your computer and type the following command:
+```
+frida -U -f com.example.app
+```
+4. Wait for the frida server to start and then type the following command:
+```
+frida-trace -U -f com.example.app
+```
+5. Wait for the frida server to start and then type the following command:
+```
+frida-ps -U
+```
+
+
 
 # Reference
 - [Magisk Manager](https://magiskmanager.com/)
@@ -73,5 +91,6 @@ That's it! You have successfully customized your Android ROM. Enjoy your new fea
 - [深入浅出：Android定制ROM与内嵌su及Xposed框架](https://cloud.baidu.com/article/3304003)
 - [《ROM开发入门到精通》技术归档](https://github.com/xxxgod/ROM-DevGuide)
 - [Android ROM包定制（解包，增删模块，打包）](https://www.cnblogs.com/luoyesiqiu/p/10791511.html)
+- [frida android](https://frida.re/docs/android/)
 
 
