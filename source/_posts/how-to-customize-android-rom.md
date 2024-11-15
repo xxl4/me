@@ -70,5 +70,7 @@ That's it! You have successfully customized your Android ROM. Enjoy your new fea
 - [Android ROM Customization Tools](https://source.android.com/devices/tech/ota/tools)
 - [Android ROM Development Tools](https://source.android.com/devices/tech/ota/development)
 - [Android ROM Flashing Tools](https://source.android.com/devices/tech/ota/flashing)
+- [深入浅出：Android定制ROM与内嵌su及Xposed框架](https://cloud.baidu.com/article/3304003)
+- [《ROM开发入门到精通》技术归档](https://github.com/xxxgod/ROM-DevGuide)
 ```
 
