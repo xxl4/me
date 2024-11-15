@@ -50,7 +50,7 @@ fastboot flash recovery twrp.img
 5. Flash the custom ROM to your device using the fastboot command.
 
 That's it! You have successfully customized your Android ROM. Enjoy your new features and customization options!
-```
+
 
 # Reference
 - [Magisk Manager](https://magiskmanager.com/)
@@ -72,5 +72,6 @@ That's it! You have successfully customized your Android ROM. Enjoy your new fea
 - [Android ROM Flashing Tools](https://source.android.com/devices/tech/ota/flashing)
 - [深入浅出：Android定制ROM与内嵌su及Xposed框架](https://cloud.baidu.com/article/3304003)
 - [《ROM开发入门到精通》技术归档](https://github.com/xxxgod/ROM-DevGuide)
-```
+- [Android ROM包定制（解包，增删模块，打包）](https://www.cnblogs.com/luoyesiqiu/p/10791511.html)
+
 
