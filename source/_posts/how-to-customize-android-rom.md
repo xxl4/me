@@ -51,3 +51,10 @@ fastboot flash recovery twrp.img
 
 That's it! You have successfully customized your Android ROM. Enjoy your new features and customization options!
 ```
+
+# Reference
+- [Magisk Manager](https://magiskmanager.com/)
+- [TWRP Recovery](https://twrp.me/)
+- [Android Source Code](https://source.android.com/)
+```
+
