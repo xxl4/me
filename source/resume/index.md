@@ -60,6 +60,22 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Description**: Shanghai ZhiYan is a technology company that provides software development services. I was responsible for managing a team of developers and designers to deliver high-quality software products. I worked closely with clients to gather requirements, provide updates, and address feedback. I also conducted code reviews, mentored junior developers, and implemented best practices for software development. We are using Php, Python， Java, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, Aliyun , Linux, Windows, DevOps, CI/CD, Security, Networking for our projects.
 
+### Architect At Shanghai RongMai
+
+- **Location**: Shanghai, China
+
+- **Dates**: 2009 - 2011
+
+- **Description**: Shanghai RongMai is a technology company that develops design and implement web games. I was responsible for designing and implementing web games using Php, Java, Flash, HTML, CSS, and JavaScript. I worked closely with game designers and developers to create engaging and interactive gaming experiences. We are using Php, Java, Flash, HTML, CSS, and JavaScript for our projects.
+
+### Software Enginner At Shanghai ShenDong
+
+- **Location**: Shanghai, China
+
+- **Dates**: 2006 - 2009
+
+- **Description**: Shanghai ShenDong is a ecommerce company that provides online Books selling. I was responsible for developing and maintaining the e-commerce platform using Php, Java, MySQL, HTML, CSS, and JavaScript. I worked closely with cross-functional teams to deliver high-quality software products. We are using Php, MySQL, Ubuntu, Android, HTML, CSS, and JavaScript for our projects.
+
 
 ## Education
 
