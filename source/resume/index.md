@@ -133,6 +133,12 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Automated data collection from Jenkins, Docker, and Kubernetes APIs. Visualized metrics using Grafana dashboards. Implemented alerts and notifications for critical events. Deployed on GCP Compute Engine instances.
 
+### Books Magento Ecommerce
+
+- **Description**: Developed a Magento e-commerce platform for selling books online. Customized themes, plugins, and extensions to meet business requirements. Integrated with payment gateways and shipping providers.
+
+- **Contribution**: Configured product catalog, shopping cart, and checkout process. Optimized performance and security settings. Managed server instances, load balancers, and databases on AWS.
+
 ## Interests
 
 - **Reading**: Science fiction, fantasy, and technology books
