@@ -137,7 +137,13 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Description**: Developed a Magento e-commerce platform for selling books online. Customized themes, plugins, and extensions to meet business requirements. Integrated with payment gateways and shipping providers.
 
-- **Contribution**: Configured product catalog, shopping cart, and checkout process. Optimized performance and security settings. Managed server instances, load balancers, and databases on AWS.
+- **Contribution**: Configured product catalog, shopping cart, and checkout process. Optimized performance and security settings. Managed server instances, load balancers, and databases on Aliyun.
+
+### Book Crawl Data Center
+
+- **Description**: Built a data center to crawl and analyze book data from multiple sources. Developed web scrapers, data pipelines, and analytics tools using Python, Scrapy, Pandas, and Elasticsearch. Hosted on AWS. Integrated with ChatGPT, Google Gemini for NLP and AI.
+
+- **Contribution**: Scraped book metadata, reviews, and prices from online retailers. Processed and stored data in Elasticsearch for search and analysis. Generated reports and visualizations to identify trends and insights.
 
 ## Interests
 
