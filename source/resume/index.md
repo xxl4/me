@@ -24,7 +24,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **GitHub**: [Steve Liu GitHub](https://github.com/xxl4)
 
-- **Skills**: PHP, GoLang, Python, Java, JavaScript, HTML, CSS, SQL, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, Agile, Scrum, Kanban, CI/CD, Security, Networking,MySQL, Redis, Vue
+- **Skills**: PHP, GoLang, Python, Java, JavaScript, HTML, CSS, SQL, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, Agile, Scrum, Kanban, CI/CD, Security, Networking, MySQL, PgSql, Redis, Vue
 
 ## Experience
 
@@ -114,24 +114,45 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Technologies**: Python, Flask, Docker, Kubernetes, CI/CD，Github, DevOps, DevSecOps, Security, Networking, Machine Learning, AI, ML, Deep Learning, Neural Networks, RESTful API, Flask
 
+### ELK Stack Monitoring Solution
 
-### Personal Portfolio Website
+- **Description**: Implemented an ELK stack monitoring solution to collect, analyze, and visualize log data from multiple sources. Developed using Elasticsearch, Logstash, Kibana, and Beats. Integrated with Docker, Kubernetes, and Jenkins for automated deployment.
 
-- **Description**: Developed a personal portfolio website to showcase my projects, skills, and experience. Built with HTML, CSS, and JavaScript. Hosted on GitHub Pages.
+- **Contribution**: Configured log shipping from servers to Elasticsearch using Beats and Logstash. Created dashboards and visualizations in Kibana to monitor system performance and troubleshoot issues. Automated deployment and scaling using Docker, Kubernetes, and Jenkins.
 
-- **Contribution**: Designed the website layout and user interface. Implemented responsive design for mobile and desktop devices. Integrated with Google Analytics to track visitor traffic and engagement.
+- **Technologies**: Elasticsearch, Logstash, Kibana, Beats, Docker, Kubernetes, Jenkins, DevOps, DevSecOps, Security, Networking
 
-### Online Shopping Platform
+### Blockchain Smart Contract Platform
 
-- **Description**: Designed and implemented an online shopping platform for a small business. Developed front-end and back-end features using Python, Django, HTML, CSS, and JavaScript. Deployed on AWS EC2.
+- **Description**: Built a blockchain smart contract platform for decentralized applications. Developed smart contracts using Solidity, deployed on Ethereum, and integrated with web applications using Web3.js. Hosted on AWS.
 
-- **Contribution**: Created user registration, product catalog, shopping cart, and order processing modules. Integrated payment gateway for secure transactions. Configured server instances, load balancers, and databases on AWS.
+- **Contribution**: Created smart contracts for token issuance, voting, and decentralized exchanges. Implemented front-end interfaces to interact with smart contracts using Web3.js. Deployed and tested contracts on the Ethereum blockchain.
 
-### DevOps Dashboard
+- **Technologies**: Solidity, Ethereum, Web3.js, AWS, DevOps, DevSecOps, Security, Networking, Java.
 
-- **Description**: Created a DevOps dashboard to monitor CI/CD pipelines, infrastructure, and application performance. Integrated with Jenkins, Docker, Kubernetes, and Grafana. Hosted on GCP.
+### Operation And Maintenance Management Platform
 
-- **Contribution**: Automated data collection from Jenkins, Docker, and Kubernetes APIs. Visualized metrics using Grafana dashboards. Implemented alerts and notifications for critical events. Deployed on GCP Compute Engine instances.
+- **Description**: Developed an operation and maintenance management platform for monitoring and managing IT infrastructure. Built using Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking.
+
+- **Contribution**: Implemented monitoring dashboards, alerting systems, and incident response workflows. Integrated with cloud providers, databases, and APIs for data collection and analysis. Automated routine tasks and maintenance procedures using scripts and workflows.
+
+- **Technologies**: Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking, rancher, K8S, K3S, Prometheus, Grafana.
+
+### Merchant Middle Platform
+
+- **Description**: Developed a merchant middle platform for managing online stores and inventory. Built using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking.
+
+- **Contribution**: Created user registration, store management, and inventory tracking modules. Integrated with payment gateways, shipping providers, and CRM systems. Optimized performance and security settings for high availability and scalability.
+
+- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
+
+### New Retail Platform
+
+- **Description**: Developed a new retail platform for integrating online and offline shopping experiences. Built using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking.
+
+- **Contribution**: Implemented user authentication, product catalog, and order management features. Integrated with POS systems, inventory databases, and CRM platforms. Developed mobile apps and web interfaces for customers and store associates.
+
+- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
 
 ### Books Magento Ecommerce
 
