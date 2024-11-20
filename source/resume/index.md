@@ -24,7 +24,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **GitHub**: [Steve Liu GitHub](https://github.com/xxl4)
 
-- **Skills**: PHP, GoLang, Python, Java, JavaScript, HTML, CSS, SQL, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, Agile, Scrum, Kanban, CI/CD, Security, Networking, MySQL, PgSql, Redis, Vue
+- **Skills**: PHP, GoLang, Python, Java, SQL, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, Agile, Scrum, Kanban, CI/CD, Security, Networking, MySQL, PgSql, Redis, Magento2, OpenCart, SAP
 
 ## Experience
 
