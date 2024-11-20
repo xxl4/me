@@ -122,6 +122,14 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Technologies**: Elasticsearch, Logstash, Kibana, Beats, Docker, Kubernetes, Jenkins, DevOps, DevSecOps, Security, Networking
 
+### Starbucks Ecommerce Platform
+
+- **Description**: Developed an e-commerce platform for Starbucks to sell coffee and merchandise online. Customized themes, plugins, and extensions to meet business requirements. Integrated with payment gateways and shipping providers, Base on SAP.
+
+- **Contribution**: Configured product catalog, shopping cart, and checkout process. Optimized performance and security settings. Managed server instances, load balancers, and databases on AWS.
+
+- **Technologies**: Java, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking, SAP
+
 ### Blockchain Smart Contract Platform
 
 - **Description**: Built a blockchain smart contract platform for decentralized applications. Developed smart contracts using Solidity, deployed on Ethereum, and integrated with web applications using Web3.js. Hosted on AWS.
@@ -129,6 +137,22 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 - **Contribution**: Created smart contracts for token issuance, voting, and decentralized exchanges. Implemented front-end interfaces to interact with smart contracts using Web3.js. Deployed and tested contracts on the Ethereum blockchain.
 
 - **Technologies**: Solidity, Ethereum, Web3.js, AWS, DevOps, DevSecOps, Security, Networking, Java.
+
+### CDN Content Delivery Network
+
+- **Description**: Developed a content delivery network for distributing static assets and media files. Built using Nginx, Lua, and CDN providers. Integrated with cloud storage, caching, and load balancing services. Hosted on AWS, GCP, and Azure.
+
+- **Contribution**: Configured Nginx servers to cache and serve static assets efficiently. Implemented Lua scripts for custom routing and request handling. Integrated with cloud storage providers for scalable and reliable content delivery. Optimized performance and cost-effectiveness for high traffic websites.
+
+- **Technologies**: Nginx, Lua, CDN, AWS, GCP, Azure, DevOps, DevSecOps, Security, Networking, WAF, DDoS, Load Balancer, Caching, Cloud Storage
+
+### DNS Domain Name System Platform
+
+- **Description**: Developed a domain name system platform for managing DNS records and resolving domain names. Built using Bind, PowerDNS, and DNS providers. Integrated with domain registrars, hosting providers, and monitoring tools. Hosted on AWS, GCP, and Azure.
+
+- **Contribution**: Configured DNS servers to resolve domain names and route traffic to the correct IP addresses. Managed DNS records, zones, and configurations for multiple domains. Integrated with domain registrars and hosting providers for seamless domain management. Monitored and optimized DNS performance and availability for high traffic websites.
+
+- **Technologies**: PowerDNS, DNS, AWS, GCP, Azure, DevOps, DevSecOps, Security, Networking, Monitoring, DNSSEC, DDoS, Load Balancer, Cloud DNS
 
 ### Operation And Maintenance Management Platform
 
