@@ -97,6 +97,8 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
 
+-- **Github**: [Open Source Ecommerce Platform](https://github.com/NexaMerchant)
+
 
 ### Private Cloud Platform
 
