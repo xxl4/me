@@ -36,6 +36,13 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Description**: HaoMai is grow up very quickly company that is a leading e-commerce platform. I am responsible for developing and maintaining web applications using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML and CSS. I work closely with cross-functional teams to deliver high-quality software products. We are using Vue for front-end development and PHP for back-end development. We have USA, Europe, and China teams. We are using Github for version control and CI/CD pipelines for automated testing and deployment. We use Google GTM for tracking and monitoring. We have self-developed CRM, ERP, Ecommerce for our business. 
 
+-- **Key Achievements**:
+    - Developed a new e-commerce platform for selling products online.
+    - Optimized performance and security settings for high traffic websites.
+    - Integrated with payment gateways and shipping providers for seamless transactions.
+    - Managed server instances, load balancers, and databases on AWS, GCP, and Azure.
+    - Implemented monitoring and alerting systems to detect and respond to issues proactively.
+
 ### DevSecOps Engineer at Seceum
 
 - **Location**: Shanghai, China
@@ -43,6 +50,13 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 - **Dates**: 2021 - 2023
 
 - **Description**: Seceum is a cybersecurity company that provides cloud security solutions. I was responsible for designing, implementing, and maintaining secure cloud infrastructure using AWS, GCP, and Azure. I developed CI/CD pipelines for software deployment and conducted security assessments to identify and remediate vulnerabilities. I also implemented monitoring and alerting systems to detect and respond to security incidents. Our team is using Python, Java, Docker, Kubernetes, and Jenkins for DevSecOps practices and Machine Learning, AI, ML, Deep Learning, Neural Networks for security solutions. Over 50% of our team members is Ph.D. in Computer Science.
+
+-- **Key Achievements**:
+    - Designed and implemented secure cloud infrastructure for multiple clients.
+    - Developed CI/CD pipelines for automated testing and deployment.
+    - Conducted security assessments and penetration testing to identify vulnerabilities.
+    - Implemented monitoring and alerting systems to detect and respond to security incidents.
+    - Collaborated with cross-functional teams to deliver high-quality security solutions.
 
 ### Project Manager And Develop Manager at YinpingCang Technology Co.
 
@@ -52,6 +66,13 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Description**: YinpingCang Technology Co. is a technology company. We have a team of about 100 developers and designers. All developers are work for our online shoppping platform and offline stores. We have a team of about 3 project managers and 5 product managers. I was responsible for managing the development team, coordinating project timelines, and ensuring the successful delivery of software products. I also worked closely with clients to gather requirements, provide updates, and address feedback. We are using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, Aliyun , Linux, Windows, DevOps, CI/CD, Security, Networking for our projects. We have self-developed ERP, CRM, and POS systems for our business. We are using Vue for front-end development and PHP for back-end development. 
 
+-- **Key Achievements**:
+    - Managed a team of 100 developers and designers to deliver high-quality software products.
+    - Coordinated project timelines and resources to meet client requirements.
+    - Conducted code reviews, mentored junior developers, and implemented best practices for software development.
+    - Collaborated with cross-functional teams to deliver high-quality software products.
+    - Implemented monitoring and alerting systems to detect and respond to issues proactively.
+
 ### Developer Manager At Shanghai ZhiYan 
 
 - **Location**: Shanghai, China
@@ -59,6 +80,14 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 - **Dates**: 2012 - 2018
 
 - **Description**: Shanghai ZhiYan is a technology company that provides software development services. I was responsible for managing a team of developers and designers to deliver high-quality software products. I worked closely with clients to gather requirements, provide updates, and address feedback. I also conducted code reviews, mentored junior developers, and implemented best practices for software development. We are using Php, Python， Java, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, Aliyun , Linux, Windows, DevOps, CI/CD, Security, Networking for our projects.
+
+-- **Key Achievements**:
+    - Managed a team of 20 developers and designers to deliver high-quality software products.
+    - Coordinated project timelines and resources to meet client requirements.
+    - Conducted code reviews, mentored junior developers, and implemented best practices for software development.
+    - Collaborated with cross-functional teams to deliver high-quality software products.
+    - Implemented monitoring and alerting systems to detect and respond to issues proactively.
+    
 
 ### Architect At Shanghai RongMai
 
@@ -68,6 +97,13 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Description**: Shanghai RongMai is a technology company that develops design and implement web games. I was responsible for designing and implementing web games using Php, Java, Flash, HTML, CSS, and JavaScript. I worked closely with game designers and developers to create engaging and interactive gaming experiences. We are using Php, Java, Flash, HTML, CSS, and JavaScript for our projects.
 
+-- **Key Achievements**:
+    - Designed and implemented web games that were played by millions of users.
+    - Collaborated with game designers and developers to create engaging and interactive gaming experiences.
+    - Optimized performance and security settings for high traffic websites.
+    - Integrated with payment gateways and social media platforms for seamless transactions.
+    - Managed server instances, load balancers, and databases on AWS, GCP, and Azure.
+
 ### Software Enginner At Shanghai ShenDong
 
 - **Location**: Shanghai, China
@@ -75,6 +111,13 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 - **Dates**: 2006 - 2009
 
 - **Description**: Shanghai ShenDong is a ecommerce company that provides online Books selling. I was responsible for developing and maintaining the e-commerce platform using Php, Java, MySQL, HTML, CSS, and JavaScript. I worked closely with cross-functional teams to deliver high-quality software products. We are using Php, MySQL, Ubuntu, Android, HTML, CSS, and JavaScript for our projects.
+
+-- **Key Achievements**:
+    - Developed a new e-commerce platform for selling books online.
+    - Optimized performance and security settings for high traffic websites.
+    - Integrated with payment gateways and shipping providers for seamless transactions.
+    - Managed server instances, load balancers, and databases on Ali.
+    - Implemented monitoring and alerting systems to detect and respond to issues proactively.
 
 
 ## Education
