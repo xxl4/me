@@ -44,7 +44,7 @@ For more information about osCommerce, please visit the [official website](https
 
 - [osCommerce - Wikipedia](https://en.wikipedia.org/wiki/OsCommerce)
 - [osCommerce - GitHub](https://github.com/osCommerce/oscommerce)
-- [osCommerce - Forum](https://forums.oscommerce.com/)
+- [osCommerce - Forum](https://www.oscommerce.com/forums/)
 - [osCommerce - Documentation](https://docs.oscommerce.com/)
 - [osCommerce - Add-Ons](https://apps.oscommerce.com/)
 - [osCommerce - Themes](https://www.oscommerce.com/Products)
