@@ -25,7 +25,7 @@
     <loc>{{ tag.permalink | uriencode }}</loc>
     <lastmod>{{ sNow | formatDate }}</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.8</priority>
   </url>
   {% endfor %}
 
@@ -34,7 +34,7 @@
     <loc>{{ cat.permalink | uriencode }}</loc>
     <lastmod>{{ sNow | formatDate }}</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.8</priority>
   </url>
   {% endfor %}
 </urlset>
