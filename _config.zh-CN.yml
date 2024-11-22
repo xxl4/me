@@ -1,0 +1,9 @@
+menu:
+  首页: /zh-CN || fa fa-home
+  about: /zh-CN/about-me/ || fa fa-user
+  tags: /zh-CN/tags/ || fa fa-tags
+  categories: /zh-CN/categories/ || fa fa-th
+  archives: /zh-CN/archives/ || fa fa-archive
+  tools: /zh-CN/tools/ || fa fa-screwdriver-wrench
+  sitemap: /sitemap.xml || fa fa-sitemap
+#  commonweal: /404/ || fa fa-heartbeat
