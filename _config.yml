@@ -8,7 +8,7 @@ subtitle: 'The Website of Steve, mainly sharing SRE, DEVOPS, DEVSECOPS, PHP, Jav
 description: 'The Website of Steve, mainly sharing SRE, DEVOPS, DEVSECOPS, PHP, Java, Python, Go, cross-border e-commerce, security, reading and other technical articles'
 keywords: "SRE, DEVOPS, DEVSEROPS, Python, Java, PHP, 电商,Go,跨境电商,VUE,Erlang,LVS,CDN,DNS,安全, WAF,读书,CICD,MQTT"
 author: Steve
-language: [en,zh-CN]
+language: [en,zh-CN,zh-TW,ja,ko,fr,de,es,ru,hi,ar]
 timezone: 'Asia/Shanghai'
 
 # URL
