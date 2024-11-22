@@ -4,20 +4,13 @@ date: 2023-12-01 10:00:30
 lang: zh-CN
 ---
 
-### Hi 👋，I'm Steve 
+## Hi 👋，I'm Steve 
 
+> I'm a software engineer with a passion for building high-quality software products. I have experience in full-stack web development, mobile app development, and cloud computing. I enjoy working on challenging projects and solving complex problems. I'm always looking to learn new technologies and improve my skills.
 
-- 🔭 I’m currently a Developer and SRE engineer
-- 🌱 My blog is https://medium.com/@cdndns
+[Contact me](https://docs.google.com/forms/d/e/1FAIpQLSe3FSdnO2FmMSBHllcM1zLBKLozVEkaWfpptks8PIlvgAFvfA/viewform?usp=pp_url)
 
-<a href="https://github.com/xxl4">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=xxl4&show_icons=true&theme=buefy&count_private=true" alt="xxl4's github stats" style="width:180em" /> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxl4&theme=buefy&layout=compact" alt="xxl4's github top languages" style="width:180em" /> 
-</a>
-
-![1612495992-915976-image](https://github.com/xxl4/xxl4/assets/34465153/2912927a-675b-43d5-997e-10b868ef158f)
-
-### Project Lists
+## Project Lists
 ### 智能CDN防御系统
 > 智能CDN防御系统（Content Delivery Network）是一种结合了内容分发网络和安全防御功能的系统。它的主要目的是加速网站和应用程序的内容传输，并提供安全保护，减少恶意攻击和流量负载对服务器的影响。
 
@@ -85,7 +78,7 @@ lang: zh-CN
 ### 电商系统 （Nexa Merchant）
 > Nexa Merchant是一种基于PHP的开源电子商务平台，提供了一系列的电子商务功能和工具，帮助用户快速搭建和运营在线商店。Nexa Merchant包括了一套完整的电子商务解决方案，如产品管理、订单管理、支付处理、促销和营销等功能，同时还支持各种扩展和主题，以满足不同用户的需求。
 
-### Magento
+### Magento / Magento 2
 > Magento是一种基于PHP的开源电子商务平台，提供了一系列的电子商务功能和工具，帮助用户快速搭建和运营在线商店。Magento包括了一套完整的电子商务解决方案，如产品管理、订单管理、支付处理、促销和营销等功能，同时还支持各种扩展和主题，以满足不同用户的需求。
 
 ### OpenCart
