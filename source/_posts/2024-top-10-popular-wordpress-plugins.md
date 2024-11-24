@@ -1,5 +1,5 @@
 ---
-title: 2024 Top 10 Popular WordPress Plugins
+title: 2024 Top 10 Popular WordPress plugins
 date: 2024-01-01 00:00:00
 categories: [WordPress]
 tags: [WordPress, Plugins, Top 10, 2024]
