@@ -12,6 +12,10 @@ description: Steve Liu Resume
 ## Steve Liu Summary
 Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for software engineering and have been working in the industry for over 10 years. I have experience in a variety of languages and technologies, including Php, Javascript, Python, Java and GoLang. I am always looking for new challenges and opportunities to learn and grow as an engineer. Have a strong background in technology and software engineering principles. I have experience working in a variety of industries, including e-commerce, cybersecurity, and technology. I am a team player and enjoy collaborating with others to deliver high-quality software products. I am also a quick learner and enjoy tackling complex problems. I am looking for new opportunities to work on interesting projects and contribute to innovative solutions.
 
+## Steve Liu Photo
+
+![Steve Liu](/images/steve-liu.jpg)
+
 ## Steve Liu
 
 - **Email**: nice.lizhi#gmail.com
