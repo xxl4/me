@@ -5,13 +5,13 @@ tags: [magento, plugins, 2024 top 10, top 10, magento plugins, magento 2024, mag
 lang: en
 comments: true
 sitemap: true
-cover: /images/en/11/2024-top-10-magento-plugins.png
+cover: /images/en/2024/11/2024-top-10-magento-plugins.png
 description: "Top 10 Magento Plugins 2024"
 ---
 
 # Top 10 Magento Plugins 2024
 
-![Top 10 Magento Plugins 2024](/images/en/11/2024-top-10-magento-plugins.png)
+![Top 10 Magento Plugins 2024](/images/en/2024/11/2024-top-10-magento-plugins.png)
 
 ## 1. Magento 2 SEO Suite Ultimate
 
