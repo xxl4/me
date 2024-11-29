@@ -65,6 +65,7 @@ Happy chatting!
 # References
 
 - [awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [OpenAI ChatGPT](https://www.openai.com/chatgpt/)
 - [GPT-3](https://www.openai.com/gpt-3/)
 - [GPT-4](https://www.openai.com/gpt-4/)
