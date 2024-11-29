@@ -247,9 +247,35 @@ Abandoned Cart Email is a powerful extension for Magento 2 that allows you to re
 
 Product Reviews is an essential extension for any Magento store owner looking to build trust with customers and increase sales. With this extension, you can collect and display customer reviews on your product pages, and encourage customers to leave feedback. Customers will appreciate the transparency and authenticity of product reviews, and you'll see a boost in sales.
 
+### Key Features:
+- Customer reviews
+- Product ratings
+- Review moderation
+- Review notifications
+- Review reminders
+- Review incentives
+
+### Documentation:
+
+- [Magento 2 Product Reviews](https://docs.magento.com/user-guide/catalog/product-reviews.html)
+
+
 ## 8. Magento 2 Product Tags
 
 Product Tags is a useful extension for Magento store owners looking to improve their store's navigation and searchability. With this extension, you can add tags to your products, and allow customers to filter and search for products based on those tags. Customers will appreciate the convenience of product tags, and you'll see a boost in sales.
+
+### Key Features:
+
+- Product tags
+- Tag cloud
+- Tag search
+- Tag filter
+- Tag sort
+- Tag count
+- Tag link
+
+### Documentation:
+- [Magento 2 Product Tags](https://docs.magento.com/user-guide/catalog/product-tags.html)
 
 ## 9. Magento 2 Product Images
 
