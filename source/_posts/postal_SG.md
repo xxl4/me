@@ -1,7 +1,7 @@
 ---
 title: SGREP. OF SINGAPORE Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, SG,REP. OF SINGAPORE]
 lang: en
 sitemap: true

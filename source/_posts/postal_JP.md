@@ -1,7 +1,7 @@
 ---
 title: JPJAPAN Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, JP,JAPAN]
 lang: en
 sitemap: true

@@ -1,7 +1,7 @@
 ---
 title: BLSAINT BARTHELEMY Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, BL,SAINT BARTHELEMY]
 lang: en
 sitemap: true

@@ -1,7 +1,7 @@
 ---
 title: BABOSNIA AND HERZEGOVINA Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, BA,BOSNIA AND HERZEGOVINA]
 lang: en
 sitemap: true

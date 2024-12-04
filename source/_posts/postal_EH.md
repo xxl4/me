@@ -1,7 +1,7 @@
 ---
 title: EHWESTERN SAHARA Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, EH,WESTERN SAHARA]
 lang: en
 sitemap: true

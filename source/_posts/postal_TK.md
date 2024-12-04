@@ -1,7 +1,7 @@
 ---
 title: TKTOKELAU Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, TK,TOKELAU]
 lang: en
 sitemap: true

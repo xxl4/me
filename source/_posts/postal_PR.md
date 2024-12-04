@@ -1,7 +1,7 @@
 ---
 title: PRPUERTO RICO Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, PR,PUERTO RICO]
 lang: en
 sitemap: true

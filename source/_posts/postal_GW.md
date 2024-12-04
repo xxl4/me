@@ -1,7 +1,7 @@
 ---
 title: GWGUINEA-BISSAU Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, GW,GUINEA-BISSAU]
 lang: en
 sitemap: true

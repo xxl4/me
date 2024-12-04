@@ -1,7 +1,7 @@
 ---
 title: SHSAINT HELENA Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, SH,SAINT HELENA]
 lang: en
 sitemap: true

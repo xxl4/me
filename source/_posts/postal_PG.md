@@ -1,7 +1,7 @@
 ---
 title: PGPAPUA NEW GUINEA Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, PG,PAPUA NEW GUINEA]
 lang: en
 sitemap: true

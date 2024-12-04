@@ -1,7 +1,7 @@
 ---
 title: BQBONAIRE, SINT EUSTATIUS, AND SABA Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, BQ,BONAIRE, SINT EUSTATIUS, AND SABA]
 lang: en
 sitemap: true

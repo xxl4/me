@@ -1,7 +1,7 @@
 ---
 title: FMMICRONESIA (Federated State of) Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, FM,MICRONESIA (Federated State of)]
 lang: en
 sitemap: true

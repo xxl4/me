@@ -1,7 +1,7 @@
 ---
 title: RSREPUBLIC OF SERBIA Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, RS,REPUBLIC OF SERBIA]
 lang: en
 sitemap: true

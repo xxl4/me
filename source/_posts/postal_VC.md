@@ -1,7 +1,7 @@
 ---
 title: VCSAINT VINCENT AND THE GRENADINES (ANTILLES) Postal codes 
 date: 2024-12-04 13:19:00
-categories: [countries]
+categories: [postal]
 tags: [countries, zip, zipex, postal, VC,SAINT VINCENT AND THE GRENADINES (ANTILLES)]
 lang: en
 sitemap: true
