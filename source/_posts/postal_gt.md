@@ -1,5 +1,5 @@
 ---
-title: GTGUATEMALA Postal codes 
+title: GT GUATEMALA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, GT,GUATEMALA]

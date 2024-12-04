@@ -1,5 +1,5 @@
 ---
-title: GBUNITED KINGDOM Postal codes 
+title: GB UNITED KINGDOM Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, GB,UNITED KINGDOM]

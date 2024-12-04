@@ -1,5 +1,5 @@
 ---
-title: LALAO (PEOPLE'S DEM. REP.) Postal codes 
+title: LA LAO (PEOPLE'S DEM. REP.) Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, LA,LAO (PEOPLE'S DEM. REP.)]

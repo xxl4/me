@@ -1,5 +1,5 @@
 ---
-title: CICOTE D'IVOIRE Postal codes 
+title: CI COTE D'IVOIRE Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, CI,COTE D'IVOIRE]

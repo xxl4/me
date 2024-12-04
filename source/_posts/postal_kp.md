@@ -1,5 +1,5 @@
 ---
-title: KPNORTH KOREA Postal codes 
+title: KP NORTH KOREA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, KP,NORTH KOREA]

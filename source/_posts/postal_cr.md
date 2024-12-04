@@ -1,5 +1,5 @@
 ---
-title: CRCOSTA RICA Postal codes 
+title: CR COSTA RICA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, CR,COSTA RICA]

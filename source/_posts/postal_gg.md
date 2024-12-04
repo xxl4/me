@@ -1,5 +1,5 @@
 ---
-title: GGCHANNEL ISLANDS Postal codes 
+title: GG CHANNEL ISLANDS Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, GG,CHANNEL ISLANDS]

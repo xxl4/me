@@ -1,5 +1,5 @@
 ---
-title: TCTURKS AND CAICOS ISLANDS Postal codes 
+title: TC TURKS AND CAICOS ISLANDS Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, TC,TURKS AND CAICOS ISLANDS]

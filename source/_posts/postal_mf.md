@@ -1,5 +1,5 @@
 ---
-title: MFSAINT MARTIN Postal codes 
+title: MF SAINT MARTIN Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, MF,SAINT MARTIN]

@@ -1,5 +1,5 @@
 ---
-title: GDGRENADA (WEST INDIES) Postal codes 
+title: GD GRENADA (WEST INDIES) Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, GD,GRENADA (WEST INDIES)]

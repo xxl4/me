@@ -1,5 +1,5 @@
 ---
-title: LCSAINT LUCIA Postal codes 
+title: LC SAINT LUCIA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, LC,SAINT LUCIA]

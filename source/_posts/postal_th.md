@@ -1,5 +1,5 @@
 ---
-title: THTHAILAND Postal codes 
+title: TH THAILAND Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, TH,THAILAND]

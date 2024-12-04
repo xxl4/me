@@ -1,5 +1,5 @@
 ---
-title: RURUSSIAN FEDERATION Postal codes 
+title: RU RUSSIAN FEDERATION Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, RU,RUSSIAN FEDERATION]

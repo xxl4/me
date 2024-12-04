@@ -1,5 +1,5 @@
 ---
-title: CGCONGO (REP.) Postal codes 
+title: CG CONGO (REP.) Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, CG,CONGO (REP.)]

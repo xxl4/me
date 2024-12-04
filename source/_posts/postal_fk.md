@@ -1,5 +1,5 @@
 ---
-title: FKFALKLAND ISLANDS (MALVINAS) Postal codes 
+title: FK FALKLAND ISLANDS (MALVINAS) Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, FK,FALKLAND ISLANDS (MALVINAS)]

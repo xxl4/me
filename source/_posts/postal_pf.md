@@ -1,5 +1,5 @@
 ---
-title: PFFRENCH POLYNESIA Postal codes 
+title: PF FRENCH POLYNESIA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, PF,FRENCH POLYNESIA]

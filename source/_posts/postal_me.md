@@ -1,5 +1,5 @@
 ---
-title: MEMONTENEGRO Postal codes 
+title: ME MONTENEGRO Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, ME,MONTENEGRO]

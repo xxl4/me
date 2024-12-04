@@ -1,5 +1,5 @@
 ---
-title: CUCUBA Postal codes 
+title: CU CUBA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, CU,CUBA]

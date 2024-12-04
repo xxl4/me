@@ -1,5 +1,5 @@
 ---
-title: PTPORTUGAL Postal codes 
+title: PT PORTUGAL Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, PT,PORTUGAL]

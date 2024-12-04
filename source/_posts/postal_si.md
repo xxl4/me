@@ -1,5 +1,5 @@
 ---
-title: SISLOVENIA Postal codes 
+title: SI SLOVENIA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, SI,SLOVENIA]

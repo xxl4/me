@@ -1,5 +1,5 @@
 ---
-title: TZTANZANIA (UNITED REP.) Postal codes 
+title: TZ TANZANIA (UNITED REP.) Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, TZ,TANZANIA (UNITED REP.)]

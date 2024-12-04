@@ -1,5 +1,5 @@
 ---
-title: QAQATAR Postal codes 
+title: QA QATAR Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, QA,QATAR]

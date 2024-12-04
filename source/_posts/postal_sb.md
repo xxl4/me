@@ -1,5 +1,5 @@
 ---
-title: SBSOLOMON ISLANDS Postal codes 
+title: SB SOLOMON ISLANDS Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, SB,SOLOMON ISLANDS]

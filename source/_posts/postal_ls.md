@@ -1,5 +1,5 @@
 ---
-title: LSLESOTHO Postal codes 
+title: LS LESOTHO Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, LS,LESOTHO]

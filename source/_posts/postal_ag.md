@@ -1,5 +1,5 @@
 ---
-title: AGANTIGUA AND BARBUDA Postal codes 
+title: AG ANTIGUA AND BARBUDA Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, AG,ANTIGUA AND BARBUDA]

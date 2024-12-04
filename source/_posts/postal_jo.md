@@ -1,5 +1,5 @@
 ---
-title: JOJORDAN Postal codes 
+title: JO JORDAN Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, JO,JORDAN]

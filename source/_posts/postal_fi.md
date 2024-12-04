@@ -1,5 +1,5 @@
 ---
-title: FIFINLAND Postal codes 
+title: FI FINLAND Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, FI,FINLAND]

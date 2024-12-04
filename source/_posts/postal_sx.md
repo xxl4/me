@@ -1,5 +1,5 @@
 ---
-title: SXSINT MAARTEN Postal codes 
+title: SX SINT MAARTEN Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, SX,SINT MAARTEN]

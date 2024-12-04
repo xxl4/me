@@ -1,5 +1,5 @@
 ---
-title: NZNEW ZEALAND Postal codes 
+title: NZ NEW ZEALAND Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, NZ,NEW ZEALAND]

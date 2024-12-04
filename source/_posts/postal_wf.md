@@ -1,5 +1,5 @@
 ---
-title: WFWALLIS AND FUTUNA ISLANDS Postal codes 
+title: WF WALLIS AND FUTUNA ISLANDS Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, WF,WALLIS AND FUTUNA ISLANDS]

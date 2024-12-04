@@ -1,5 +1,5 @@
 ---
-title: SCSEYCHELLES Postal codes 
+title: SC SEYCHELLES Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, SC,SEYCHELLES]

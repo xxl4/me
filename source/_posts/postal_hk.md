@@ -1,5 +1,5 @@
 ---
-title: HKHONG KONG Postal codes 
+title: HK HONG KONG Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, HK,HONG KONG]

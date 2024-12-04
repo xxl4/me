@@ -1,5 +1,5 @@
 ---
-title: HMHEARD AND MCDONALD ISLANDS Postal codes 
+title: HM HEARD AND MCDONALD ISLANDS Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, HM,HEARD AND MCDONALD ISLANDS]

@@ -1,5 +1,5 @@
 ---
-title: BEBELGIUM Postal codes 
+title: BE BELGIUM Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, BE,BELGIUM]

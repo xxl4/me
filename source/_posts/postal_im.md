@@ -1,5 +1,5 @@
 ---
-title: IMISLE OF MAN Postal codes 
+title: IM ISLE OF MAN Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, IM,ISLE OF MAN]

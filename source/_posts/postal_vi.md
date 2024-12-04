@@ -1,5 +1,5 @@
 ---
-title: VIVIRGIN ISLANDS (U.S.) Postal codes 
+title: VI VIRGIN ISLANDS (U.S.) Postal codes 
 date: 2024-12-04 13:19:00
 categories: [postal]
 tags: [countries, zip, zipex, postal, VI,VIRGIN ISLANDS (U.S.)]
