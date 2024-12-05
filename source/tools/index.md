@@ -758,7 +758,11 @@ sitemap: true
 - [Unsplash](https://unsplash.com/): 免费高清图片
 - [Pexels](https://www.pexels.com/): 免费高清图片
 - [Pixabay](https://pixabay.com/): 免费图片
-- [Gratisography](https://gratisography.com/）: 免费图片
+- [Gratisography](https://gratisography.com/): 免费图片
+- [Picjumbo](https://picjumbo.com/): 免费图片
+- [StockSnap](https://stocksnap.io/): 免费图片
+- [Life of Pix](https://www.lifeofpix.com/): 免费图片
+- [New Old Stock](https://nos.twnsnd.co/): 免费历史图片
 
 ### 代码托管
 
@@ -797,3 +801,4 @@ sitemap: true
 
 ### 其他
 - [夏凡 结构化知识库] (https://deitacloud.github.io/site/)
+- [复旦发展研究院](https://fddi.fudan.edu.cn/)
