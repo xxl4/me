@@ -6,7 +6,10 @@ categories: [Network]
 description: Wireshark is a network protocol analyzer that can be used for network troubleshooting, analysis, software and communications protocol development, and education.
 lang: en
 comments: true
-sitemap: true
+sitemap: 
+    changefreq: weekly
+    priority: 0.9
+    lastmod: 2024-11-22 20:00:00
 cover: /images/Wireshark/Wireshark.png
 ---
 
