@@ -774,7 +774,7 @@ sitemap: true
 
 ### 云服务
 
-- [阿里云](https://www.aliyun.com) - 阿里巴巴旗下的云服务提供商
+- [阿里云](https://www.aliyun.com/minisite/goods?userCode=ljsl79du) - 阿里巴巴旗下的云服务提供商
 - [腾讯云](https://cloud.tencent.com) - 腾讯旗下的云服务提供商
 - [华为云](https://www.huaweicloud.com) - 华为旗下的云服务提供商
 - [AWS](https://aws.amazon.com) - 亚马逊旗下的云服务提供商
@@ -798,7 +798,38 @@ sitemap: true
 - [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database) - 微软的关系型数据库服务
 - [Google Cloud SQL](https://cloud.google.com/sql) - 谷歌的关系型数据库服务
 
+### 云计算
+- [OpenStack](https://www.openstack.org) - 开源的云计算平台
+- [Kubernetes](https://kubernetes.io) - 谷歌开源的容器编排平台
+- [Docker](https://www.docker.com) - 容器化引擎
+- [Mesos](http://mesos.apache.org) - Apache开源的集群管理平台
+- [Hadoop](http://hadoop.apache.org) - Apache开源的分布式计算平台
+- [Spark](http://spark.apache.org) - Apache开源的大数据计算平台
+- [Flink](https://flink.apache.org) - Apache开源的流式计算平台
+- [Storm](http://storm.apache.org) - Apache开源的流式计算平台
+- [Hive](https://hive.apache.org) - Apache开源的数据仓库
+- [Pig](https://pig.apache.org) - Apache开源的数据流语言
+- [HBase](https://hbase.apache.org) - Apache开源的分布式数据库
+- [Cassandra](http://cassandra.apache.org) - Apache开源的分布式数据库
+- [ZooKeeper](https://zookeeper.apache.org) - Apache开源的分布式协调服务
+- [Consul](https://www.consul.io) - HashiCorp开源的服务发现和配置工具
+- [etcd](https://etcd.io) - CoreOS开源的分布式键值存储
+- [SkyWalking](https://skywalking.apache.org) - Apache开源的APM系统
+- [Zipkin](https://zipkin.io) - 开源的分布式跟踪系统
+- [Jaeger](https://www.jaegertracing.io) - Uber开源的分布式跟踪系统
+- [Prometheus](https://prometheus.io) - 开源的监控系统
+- [Grafana](https://grafana.com) - 开源的数据可视化工具
+- [Kibana](https://www.elastic.co/kibana) - Elastic开源的数据可视化工具
+- [Logstash](https://www.elastic.co/logstash) - Elastic开源的日志收集工具
+- [Fluentd](https://www.fluentd.org) - 开源的日志收集工具
+- [Nginx](https://www.nginx.com) - 开源的Web服务器
+- [HAProxy](http://www.haproxy.org) - 开源的负载均衡器
+- [Varnish](https://varnish-cache.org) - 开源的缓存服务器
+- [Squid](http://www.squid-cache.org) - 开源的缓存服务器
+- [Keepalived](http://www.keepalived.org) - 开源的高可用性解决方案
+
 
 ### 其他
-- [夏凡 结构化知识库] (https://deitacloud.github.io/site/)
+- [夏凡 结构化知识库](https://deitacloud.github.io/site/)
 - [复旦发展研究院](https://fddi.fudan.edu.cn/)
+
