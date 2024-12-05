@@ -8,8 +8,16 @@
     {% elif post.date %}
     <lastmod>{{ post.date | formatDate }}</lastmod>
     {% endif %}
-    <changefreq>monthly</changefreq>
+    {% if post.sitemap.changefreq %}
+    <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+    {% else %}
+    <changefreq>weekly</changefreq>
+    {% endif %}
+    {% if post.sitemap.priority %}
+    <priority>{{ post.sitemap.priority }}</priority>
+    {% else %}
     <priority>0.6</priority>
+    {% endif %}
   </url>
   {% endfor %}
 
