@@ -50,6 +50,10 @@
 
 <link rel="stylesheet" href="{{ url_for(theme.css) }}/main.css">
 
+<% if (is_post() && config.generator_amp){ %>
+  <link rel="amphtml" href="<%= config.url %><%= config.root %><%= page.path %>/amp/index.html">
+<% } %>
+
 {{ next_font() }}
 
 {{ next_vendors('fontawesome') }}
