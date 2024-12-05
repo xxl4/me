@@ -100,7 +100,8 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  tools: /tools/ || fa fa-screwdriver-wrench
+  Tools: /tools/ || fa fa-screwdriver-wrench
+  Links: /links/ || fa fa-globe
   sitemap: /sitemap.xml || fa fa-sitemap
 #  commonweal: /404/ || fa fa-heartbeat
 
@@ -776,6 +777,51 @@ local_search:
   unescape: false
   # Preload the search data when the page loads.
   preload: false
+
+# Google Custom Search Engine
+# For more information: https://cse.google.com
+google_cse:
+  enable: true
+  cx: 041dbefb773ad448f # <cx>
+  # If true, the search box will be displayed in the menu.
+  display_in_menu: false
+  # If true, the search box will be displayed in the sidebar.
+  display_in_sidebar: false
+  # If true, the search box will be displayed in the bottom.
+  display_in_bottom: false
+  # If true, the search box will be displayed in the modal.
+  display_in_modal: false
+  # If true, the search box will be displayed in the drawer.
+  display_in_drawer: false
+  # If true, the search box will be displayed in the mobile drawer.
+  display_in_mobile_drawer: false
+  # If true, the search box will be displayed in the mobile bottom.
+  display_in_mobile_bottom: false
+  # If true, the search box will be displayed in the mobile modal.
+  display_in_mobile_modal: false
+  # If true, the search box will be displayed in the mobile menu.
+  display_in_mobile_menu: false
+  # If true, the search box will be displayed in the mobile sidebar.
+  display_in_mobile_sidebar: false
+  # If true, the search box will be displayed in the mobile top.
+  display_in_mobile_top: false
+  # If true, the search box will be displayed in the mobile topbar.
+  display_in_mobile_topbar: false
+  # If true, the search box will be displayed in the mobile topnav.
+  display_in_mobile_topnav: false
+  # If true, the search box will be displayed in the mobile toptab.
+  display_in_mobile_toptab: false
+  # If true, the search box will be displayed in the mobile toptabbar.
+  display_in_mobile_toptabbar: false
+  # If true, the search box will be displayed in the mobile toptabnav.
+  display_in_mobile_toptabnav: false
+  # If true, the search box will be displayed in the mobile toptabs.
+  display_in_mobile_toptabs: false
+  # If true, the search box will be displayed in the mobile toptabtop.
+  display_in_mobile_toptabtop: false
+  # If true, the search box will be displayed in the mobile toptabtopbar.
+  display_in_mobile_toptabtopbar: false
+
 
 
 # ---------------------------------------------------------------
