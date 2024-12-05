@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ config.url | uriencode }}</loc>
+    <lastmod>{{ sNow | formatDate }}</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
   {% for post in posts %}
   <url>
     <loc>{{ post.permalink | uriencode }}</loc>
@@ -21,18 +27,11 @@
   </url>
   {% endfor %}
 
-  <url>
-    <loc>{{ config.url | uriencode }}</loc>
-    <lastmod>{{ sNow | formatDate }}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
   {% for tag in tags %}
   <url>
     <loc>{{ tag.permalink | uriencode }}</loc>
     <lastmod>{{ sNow | formatDate }}</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   {% endfor %}
@@ -41,7 +40,7 @@
   <url>
     <loc>{{ cat.permalink | uriencode }}</loc>
     <lastmod>{{ sNow | formatDate }}</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   {% endfor %}
