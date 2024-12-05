@@ -8,7 +8,10 @@ categories:
   - 网络安全
 lang: zh-CN
 comments: true
-sitemap: true
+sitemap: 
+  changefreq: weekly
+  priority: 0.9
+  lastmod: 2024-12-05
 description: 本文介绍了Wireshark的基本概念，以及Wireshark的安装和使用方法。
 ---
 
