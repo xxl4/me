@@ -228,7 +228,6 @@ robots:
 
 # hexo-generator-amp
 # The following settings is the quick start options.
-
 generator_amp:
   templateDir:  amp-template
   assetDistDir: amp-dist
@@ -240,4 +239,4 @@ generator_amp:
     path:   /images/logo.png
     width:  1024
     height: 800
-  warningLog: false   # To display warning, please set true.
+  warningLog: true   # To display warning, please set true.
