@@ -132,13 +132,21 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 ## Projects
 
+### Odoo ERP System
+
+- **Description**: Developed an ERP system for managing business operations and processes. Built using Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows. Integrated with CRM, HR, Accounting, and Inventory modules. Configured workflows, notifications, and reporting tools for data analysis and decision-making.
+
+- **Contribution**: Implemented modules for sales, purchases, inventory, and manufacturing. Integrated with third-party APIs for payment processing, shipping, and tax calculation. Customized themes, plugins, and extensions to meet business requirements. Optimized performance and security settings for high availability and scalability.
+
+- **Skills**: Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
+
 ### Open Source Ecommerce Platform
 
 - **Description**: Contributed to an open-source e-commerce platform by adding new features, fixing bugs, and improving performance. Developed using Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, and CSS. Hosted on Aws. Use Github for version control and CI/CD pipelines for automated testing and deployment.
 
 - **Contribution**: Implemented user authentication, product search, and shopping cart functionality. Optimized database queries and front-end rendering. Fixed security vulnerabilities and performance bottlenecks. Collaborated with the community to review and merge code changes.
 
-- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
+- **Skills**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
 
 -- **Github**: [Open Source Ecommerce Platform](https://github.com/NexaMerchant)
 
@@ -149,7 +157,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Created user registration, file storage, and virtual machine management modules. Integrated with LDAP for user authentication and authorization. Configured server instances, load balancers, and databases on Local servers.
 
-- **Technologies**: Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, VMware, Linux, Windows, DevOps, CI/CD, Security, Networking
+- **Skills**: Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, VMware, Linux, Windows, DevOps, CI/CD, Security, Networking
 
 ### Machine Learning Model Deployment
 
@@ -157,7 +165,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Developed the Flask application to load the model, preprocess images, and serve predictions. Containerized the application using Docker for portability and scalability. Orchestrated the deployment using Kubernetes for high availability and fault tolerance.
 
-- **Technologies**: Python, Flask, Docker, Kubernetes, CI/CD，Github, DevOps, DevSecOps, Security, Networking, Machine Learning, AI, ML, Deep Learning, Neural Networks, RESTful API, Flask
+- **Skills**: Python, Flask, Docker, Kubernetes, CI/CD，Github, DevOps, DevSecOps, Security, Networking, Machine Learning, AI, ML, Deep Learning, Neural Networks, RESTful API, Flask
 
 ### ELK Stack Monitoring Solution
 
@@ -165,7 +173,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Configured log shipping from servers to Elasticsearch using Beats and Logstash. Created dashboards and visualizations in Kibana to monitor system performance and troubleshoot issues. Automated deployment and scaling using Docker, Kubernetes, and Jenkins.
 
-- **Technologies**: Elasticsearch, Logstash, Kibana, Beats, Docker, Kubernetes, Jenkins, DevOps, DevSecOps, Security, Networking
+- **Skills**: Elasticsearch, Logstash, Kibana, Beats, Docker, Kubernetes, Jenkins, DevOps, DevSecOps, Security, Networking
 
 ### Starbucks Ecommerce Platform
 
@@ -173,7 +181,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Configured product catalog, shopping cart, and checkout process. Optimized performance and security settings. Managed server instances, load balancers, and databases on AWS.
 
-- **Technologies**: Java, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking, SAP
+- **Skills**: Java, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking, SAP
 
 ### Blockchain Smart Contract Platform
 
@@ -181,7 +189,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Created smart contracts for token issuance, voting, and decentralized exchanges. Implemented front-end interfaces to interact with smart contracts using Web3.js. Deployed and tested contracts on the Ethereum blockchain.
 
-- **Technologies**: Solidity, Ethereum, Web3.js, AWS, DevOps, DevSecOps, Security, Networking, Java.
+- **Skills**: Solidity, Ethereum, Web3.js, AWS, DevOps, DevSecOps, Security, Networking, Java.
 
 ### CDN Content Delivery Network
 
@@ -189,7 +197,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Configured Nginx servers to cache and serve static assets efficiently. Implemented Lua scripts for custom routing and request handling. Integrated with cloud storage providers for scalable and reliable content delivery. Optimized performance and cost-effectiveness for high traffic websites.
 
-- **Technologies**: Nginx, Lua, CDN, AWS, GCP, Azure, DevOps, DevSecOps, Security, Networking, WAF, DDoS, Load Balancer, Caching, Cloud Storage
+- **Skills**: Nginx, Lua, CDN, AWS, GCP, Azure, DevOps, DevSecOps, Security, Networking, WAF, DDoS, Load Balancer, Caching, Cloud Storage
 
 ### DNS Domain Name System Platform
 
@@ -197,7 +205,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Configured DNS servers to resolve domain names and route traffic to the correct IP addresses. Managed DNS records, zones, and configurations for multiple domains. Integrated with domain registrars and hosting providers for seamless domain management. Monitored and optimized DNS performance and availability for high traffic websites.
 
-- **Technologies**: PowerDNS, DNS, AWS, GCP, Azure, DevOps, DevSecOps, Security, Networking, Monitoring, DNSSEC, DDoS, Load Balancer, Cloud DNS
+- **Skills**: PowerDNS, DNS, AWS, GCP, Azure, DevOps, DevSecOps, Security, Networking, Monitoring, DNSSEC, DDoS, Load Balancer, Cloud DNS
 
 ### Operation And Maintenance Management Platform
 
@@ -205,7 +213,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Implemented monitoring dashboards, alerting systems, and incident response workflows. Integrated with cloud providers, databases, and APIs for data collection and analysis. Automated routine tasks and maintenance procedures using scripts and workflows.
 
-- **Technologies**: Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking, rancher, K8S, K3S, Prometheus, Grafana.
+- **Skills**: Python, Django, HTML, CSS, JavaScript, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking, rancher, K8S, K3S, Prometheus, Grafana.
 
 ### Merchant Middle Platform
 
@@ -213,7 +221,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Created user registration, store management, and inventory tracking modules. Integrated with payment gateways, shipping providers, and CRM systems. Optimized performance and security settings for high availability and scalability.
 
-- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
+- **Skills**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
 
 ### New Retail Platform
 
@@ -221,7 +229,7 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
 
 - **Contribution**: Implemented user authentication, product catalog, and order management features. Integrated with POS systems, inventory databases, and CRM platforms. Developed mobile apps and web interfaces for customers and store associates.
 
-- **Technologies**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
+- **Skills**: Php, Laravel, Redis, MySQL, Es, JavaScript, HTML, CSS, Git, Docker, Kubernetes, AWS, GCP, Azure, Linux, Windows, DevOps, CI/CD, Security, Networking
 
 ### Books Magento Ecommerce
 
