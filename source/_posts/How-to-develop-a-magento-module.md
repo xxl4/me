@@ -12,7 +12,7 @@ description: A step-by-step guide to develop a Magento module.
 cover: /images/en/2024/12/online-magento-module-development.png
 ---
 
-![How to develop a Magento module](/images/en/2024/12/online-magento-module-development.png)
+![How to develop a Magento module](https://img2023.cnblogs.com/blog/94707/202412/94707-20241208214413862-1516604353.png)
 
 # How to develop a Magento module
 
