@@ -12,7 +12,9 @@ description: What is WebRTC?
 cover: /images/en/2024/12/interface-3614766_1280.png
 ---
 
-![WebRTC](/images/en/2024/12/interface-3614766_1280.png)
+![WebRTC](https://img2023.cnblogs.com/blog/94707/202412/94707-20241208211959654-1704064433.png)
+
+
 
 WebRTC is a free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple application programming interfaces (APIs). It allows audio and video communication to work inside web pages by allowing direct peer-to-peer communication, eliminating the need to install plugins or download native apps. It is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).
 
