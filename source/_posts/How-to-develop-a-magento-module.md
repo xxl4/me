@@ -4,6 +4,7 @@ date: 2024-12-08 21:00:00
 tags: [magento, module, development]
 lang: en
 comments: true
+permalink: how-to-develop-a-magento-module
 sitemap:
   lastmod: 2024-12-08 21:00:00
   priority: 0.8
@@ -134,5 +135,18 @@ Visit your Magento store frontend to view the message displayed by your module.
 That's it! You have successfully developed a Magento module.
 
 Happy coding!
+
+## References
+
+- [Magento DevDocs](https://devdocs.magento.com/)
+- [Magento Community Forums](https://community.magento.com/)
+- [Magento Stack Exchange](https://magento.stackexchange.com/)
+- [Magento GitHub Repository](https://github.com/magento/magento2)
+- [Magento Marketplace](https://marketplace.magento.com/)
+- [Magento Blog](https://magento.com/blog)
+- [Magento Twitter](https://twitter.com/magento)
+- [Magento Facebook](https://www.facebook.com/magento)
+- [Magento YouTube](https://www.youtube.com/user/magentocommerce)
+- [Magento LinkedIn](https://www.linkedin.com/company/magento)
 
 
