@@ -2,8 +2,8 @@ name: Daily RSS Feed Update
 
 on:
   schedule:
-    # every six hours run the job
-    - cron: '0 2 * * *'
+    # sunday and saturday run
+    - cron: '0 2 * * 0,6'
     # muanlly trigger
   push:
     branches:
