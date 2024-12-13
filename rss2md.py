@@ -284,7 +284,39 @@ def write_md(filename, title, today, now):
             md_file.write(f"{entry.description}\n\n")
 
 
-# https://techcrunch.com/feed/
+# https://wiki.swarma.org/api.php?hidebots=1&urlversion=1&days=30&limit=500&action=feedrecentchanges&feedformat=atom
+RSS_FEED_URL = "https://wiki.swarma.org/api.php?hidebots=1&urlversion=1&days=30&limit=500&action=feedrecentchanges&feedformat=atom"
+
+feed = feedparser.parse(RSS_FEED_URL)
+
+md_filename = f"source/_posts/zh-CN/rss/Swarma-Wiki-{today}.md"
+
+os.makedirs(os.path.dirname(md_filename), exist_ok=True)
+
+with open(md_filename, 'w', encoding='utf-8') as md_file:
+    md_file.write("---\n")
+    md_file.write(f"title: Swarma Wiki for {today}\n")
+    md_file.write(f"date: {now}\n")
+    md_file.write("tags: [RSS, Swarma, Wiki, Knowledge]\n")
+    md_file.write("author: Swarma\n")
+    md_file.write("summary: Swarma Wiki RSS Feed\n")
+    md_file.write("lang: zh-CN\n")
+    md_file.write("categories: Swarma\n")
+    md_file.write("sitemap: true\n")
+    md_file.write("comments: true\n")
+    md_file.write("---\n\n")
+
+    md_file.write(f"# Swarma Wiki for {today}\n\n")
+
+    for entry in feed.entries:
+
+        res = c.execute("SELECT * FROM rss WHERE link = ?", (entry.link,))
+
+        md_file.write(f"## {entry.title}\n")
+        md_file.write(f"[Read more]({entry.link})\n\n")
+        md_file.write(f"Published: {entry.published}\n\n")
+        md_file.write(f"{entry.summary}\n\n")
+        
 
 # Close the connection
 conn.close()
