@@ -314,9 +314,9 @@ with open(md_filename, 'w', encoding='utf-8') as md_file:
 
         md_file.write(f"## {entry.title}\n")
         md_file.write(f"[Read more]({entry.link})\n\n")
-        md_file.write(f"Published: {entry.published}\n\n")
+        md_file.write(f"Updated: {entry.updated}\n\n")
         md_file.write(f"{entry.summary}\n\n")
-        
+
 
 # Close the connection
 conn.close()
