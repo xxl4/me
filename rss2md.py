@@ -64,7 +64,7 @@ today = datetime.utcnow().strftime('%Y-%m-%d')
 now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
 
 # Markdown 文件名
-md_filename = f"source/_posts/IT-security-{today}.md"
+md_filename = f"source/_posts/rss/IT-security-{today}.md"
 
 # 确保目标目录存在
 os.makedirs(os.path.dirname(md_filename), exist_ok=True)
@@ -160,7 +160,7 @@ RSS_FEED_URL = "https://www.techtarget.com/searchcio/rss/Schooled-in-AI-Podcast-
 
 feed = feedparser.parse(RSS_FEED_URL)
 
-md_filename = f"source/_posts/Schooled-in-AI-Podcast-Feed-{today}.md"
+md_filename = f"source/_posts/rss/Schooled-in-AI-Podcast-Feed-{today}.md"
 
 os.makedirs(os.path.dirname(md_filename), exist_ok=True)
 
@@ -208,7 +208,7 @@ feed = feedparser.parse(RSS_FEED_URL)
 
 
 # Markdown 文件名
-md_filename = f"source/_posts/Models.com-{today}.md"
+md_filename = f"source/_posts/rss/Models.com-{today}.md"
 
 # 确保目标目录存在
 os.makedirs(os.path.dirname(md_filename), exist_ok=True)
