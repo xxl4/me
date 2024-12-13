@@ -289,7 +289,7 @@ RSS_FEED_URL = "https://wiki.swarma.org/api.php?hidebots=1&urlversion=1&days=30&
 
 feed = feedparser.parse(RSS_FEED_URL)
 
-md_filename = f"source/_posts/zh-CN/rss/Swarma-Wiki-{today}.md"
+md_filename = f"source/zh-CN/rss/Swarma-Wiki-{today}.md"
 
 os.makedirs(os.path.dirname(md_filename), exist_ok=True)
 
