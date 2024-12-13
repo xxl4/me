@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-12-13
-date: 2024-12-13 01:45:28
+date: 2024-12-13 03:21:49
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-12-13
+
+## Numéro Homme Switzerland
+[Read more](https://models.com/work/numro-homme-switzerland-numro-homme-switzerland-december-2024-cover-1)
+
+Published: Fri, 13 Dec 2024 02:00:18 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/12/2404948/2404948-800w.jpg" /></p>Numéro Homme Switzerland December 2024 Cover <a href="https://models.com/work/numro-homme-switzerland-numro-homme-switzerland-december-2024-cover-1" title="Numéro Homme Switzerland December 2024 Cover">More...</a>
 
 ## Maje
 [Read more](https://models.com/work/maje-maje-fall-winter-2024-party-capsule)
@@ -1054,11 +1061,4 @@ Published: Mon, 09 Dec 2024 13:40:20 GMT
 Published: Mon, 09 Dec 2024 13:38:40 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/12/2402776/2402776-800w.jpg" /></p>Holzweiler Holiday 2024 Campaign <a href="https://models.com/work/holzweiler-holzweiler-holiday-2024-campaign" title="Holzweiler Holiday 2024 Campaign">More...</a>
-
-## 10+
-[Read more](https://models.com/work/10-the-weekend)
-
-Published: Mon, 09 Dec 2024 12:40:58 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/12/2401545/2401545-800w.jpg" /></p>The Weekend <a href="https://models.com/work/10-the-weekend" title="The Weekend">More...</a>
 
