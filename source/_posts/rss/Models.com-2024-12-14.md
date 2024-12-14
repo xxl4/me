@@ -1,6 +1,6 @@
 ---
 title: Models.com 2024-12-14
-date: 2024-12-14 02:32:10
+date: 2024-12-14 13:05:37
 tags: [RSS, Models, Art, Brand]
 author: Models.com
 summary: Models.com RSS Feed
@@ -11,6 +11,13 @@ comments: true
 ---
 
 # Models.com for 2024-12-14
+
+## 5ELEVEN Magazine
+[Read more](https://models.com/work/5eleven-magazine-seaside-ramble)
+
+Published: Sat, 14 Dec 2024 07:35:54 GMT
+
+<p><img src="https://i.mdel.net/i/db/2024/12/2405734/2405734-800w.jpg" /></p>Seaside Ramble <a href="https://models.com/work/5eleven-magazine-seaside-ramble" title="Seaside Ramble">More...</a>
 
 ## Nour Hammour
 [Read more](https://models.com/work/nour-hammour-resort-25-1)
@@ -1054,11 +1061,4 @@ Published: Tue, 10 Dec 2024 11:55:53 GMT
 Published: Tue, 10 Dec 2024 11:37:19 GMT
 
 <p><img src="https://i.mdel.net/i/db/2024/12/2402423/2402423-800w.jpg" /></p>Samsøe Samsøe Pre-Fall 2024 Ad Campaign <a href="https://models.com/work/samse-samse-pre-fall-2024-ad-campaign" title="Samsøe Samsøe Pre-Fall 2024 Ad Campaign">More...</a>
-
-## Octobre Editions
-[Read more](https://models.com/work/octobre-editions-lappel-au-large-by-nfis-dhab)
-
-Published: Tue, 10 Dec 2024 11:09:54 GMT
-
-<p><img src="https://i.mdel.net/i/db/2024/12/2402383/2402383-800w.jpg" /></p>L'appel au large by Néfis D’hab <a href="https://models.com/work/octobre-editions-lappel-au-large-by-nfis-dhab" title="L'appel au large by Néfis D’hab">More...</a>
 
