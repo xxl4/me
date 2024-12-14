@@ -51,6 +51,7 @@ jobs:
             git config --global user.email nice.lizhi@gmail.com
             git config --global user.name "xxl4"
             git commit -m "Update RSS feed"
+            git config --global pull.rebase true
             git pull
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/xxl4/me.git
             echo "RSS feed updated!"
