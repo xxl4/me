@@ -2630,3 +2630,4 @@ Field: disabled_auto_rewards
   type: many2many
 ```
 
+
