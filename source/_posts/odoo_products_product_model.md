@@ -4,6 +4,9 @@ date: 2024-12-16
 tags: [Odoo, Product, Model]
 lang: en
 comments: true
+category: 
+    - ERP
+    - Odoo
 description: Odoo Product Model Data Structure
 ---
 

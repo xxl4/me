@@ -1,0 +1,2632 @@
+---
+title: Odoo Sale Order Model
+date: 2024-12-16 00:00:00
+tags: [odoo, sale, order, model]
+lang: en
+comments: true
+category: 
+    - ERP
+    - Odoo
+description: Odoo Sale Order Model
+---
+
+# Odoo Sale Order Model
+
+## Sale Order Model
+
+> 
+
+```
+Authenticated successfully. UID: 2
+Fields of model: sale.order
+Field: campaign_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  help: This is a name that helps you keep track of your different campaign efforts, e.g. Fall_Drive, Christmas_Special
+  manual: False
+  name: campaign_id
+  readonly: False
+  relation: utm.campaign
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Campaign
+  type: many2one
+Field: source_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  help: This is the source of the link, e.g. Search Engine, another domain, or name of email list
+  manual: False
+  name: source_id
+  readonly: False
+  relation: utm.source
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Source
+  type: many2one
+Field: medium_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  help: This is the method of delivery, e.g. Postcard, Email, or Banner Ad
+  manual: False
+  name: medium_id
+  readonly: False
+  relation: utm.medium
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Medium
+  type: many2one
+Field: activity_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: activity_ids
+  readonly: False
+  relation: mail.activity
+  relation_field: res_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Activities
+  type: one2many
+Field: activity_state
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['activity_ids.state']
+  exportable: True
+  groupable: True
+  groups: base.group_user
+  help: Status based on activities
+Overdue: Due date is already passed
+Today: Activity date is today
+Planned: Future activities.
+  manual: False
+  name: activity_state
+  readonly: True
+  required: False
+  searchable: True
+  selection: [['overdue', 'Overdue'], ['today', 'Today'], ['planned', 'Planned']]
+  sortable: False
+  store: False
+  string: Activity State
+  type: selection
+Field: activity_user_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['activity_ids.user_id']
+  domain: []
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: activity_user_id
+  readonly: True
+  relation: res.users
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Responsible User
+  type: many2one
+Field: activity_type_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['activity_ids.activity_type_id']
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: activity_type_id
+  readonly: False
+  related: activity_ids.activity_type_id
+  relation: mail.activity.type
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Next Activity Type
+  type: many2one
+Field: activity_type_icon
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['activity_ids.icon']
+  exportable: True
+  groupable: False
+  help: Font awesome icon e.g. fa-tasks
+  manual: False
+  name: activity_type_icon
+  readonly: True
+  related: activity_ids.icon
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Activity Type Icon
+  translate: False
+  trim: True
+  type: char
+Field: activity_date_deadline
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['activity_ids.date_deadline']
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: activity_date_deadline
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Next Activity Deadline
+  type: date
+Field: my_activity_date_deadline
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['activity_ids.date_deadline', 'activity_ids.user_id']
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: my_activity_date_deadline
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: My Activity Deadline
+  type: date
+Field: activity_summary
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['activity_ids.summary']
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: activity_summary
+  readonly: False
+  related: activity_ids.summary
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Next Activity Summary
+  translate: False
+  trim: True
+  type: char
+Field: activity_exception_decoration
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['activity_ids.activity_type_id.decoration_type', 'activity_ids.activity_type_id.icon']
+  exportable: True
+  groupable: False
+  help: Type of the exception activity on record.
+  manual: False
+  name: activity_exception_decoration
+  readonly: True
+  required: False
+  searchable: True
+  selection: [['warning', 'Alert'], ['danger', 'Error']]
+  sortable: False
+  store: False
+  string: Activity Exception Decoration
+  type: selection
+Field: activity_exception_icon
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['activity_ids.activity_type_id.decoration_type', 'activity_ids.activity_type_id.icon']
+  exportable: True
+  groupable: False
+  help: Icon to indicate an exception activity.
+  manual: False
+  name: activity_exception_icon
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Icon
+  translate: False
+  trim: True
+  type: char
+Field: activity_calendar_event_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['activity_ids.calendar_event_id']
+  domain: []
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: activity_calendar_event_id
+  readonly: True
+  relation: calendar.event
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Next Activity Calendar Event
+  type: many2one
+Field: message_is_follower
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['message_follower_ids']
+  exportable: True
+  groupable: False
+  manual: False
+  name: message_is_follower
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Is Follower
+  type: boolean
+Field: message_follower_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: message_follower_ids
+  readonly: False
+  relation: mail.followers
+  relation_field: res_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Followers
+  type: one2many
+Field: message_partner_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['message_follower_ids']
+  domain: []
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: message_partner_ids
+  readonly: False
+  relation: res.partner
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Followers (Partners)
+  type: many2many
+Field: message_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: [['message_type', '!=', 'user_notification']]
+  exportable: True
+  groupable: False
+  manual: False
+  name: message_ids
+  readonly: False
+  relation: mail.message
+  relation_field: res_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Messages
+  type: one2many
+Field: has_message
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: has_message
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Has Message
+  type: boolean
+Field: message_needaction
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  help: If checked, new messages require your attention.
+  manual: False
+  name: message_needaction
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Action Needed
+  type: boolean
+Field: message_needaction_counter
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  help: Number of messages requiring action
+  manual: False
+  name: message_needaction_counter
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Number of Actions
+  type: integer
+Field: message_has_error
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  help: If checked, some messages have a delivery error.
+  manual: False
+  name: message_has_error
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Message Delivery error
+  type: boolean
+Field: message_has_error_counter
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  help: Number of messages with delivery error
+  manual: False
+  name: message_has_error_counter
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Number of errors
+  type: integer
+Field: message_attachment_count
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: message_attachment_count
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Attachment Count
+  type: integer
+Field: rating_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: [['res_model', '=', 'sale.order']]
+  exportable: True
+  groupable: False
+  groups: base.group_user
+  manual: False
+  name: rating_ids
+  readonly: False
+  relation: rating.rating
+  relation_field: res_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Ratings
+  type: one2many
+Field: website_message_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: [['model', '=', 'sale.order'], ['message_type', 'in', ['comment', 'email', 'email_outgoing']]]
+  exportable: True
+  groupable: False
+  help: Website communication history
+  manual: False
+  name: website_message_ids
+  readonly: False
+  relation: mail.message
+  relation_field: res_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Website Messages
+  type: one2many
+Field: message_has_sms_error
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  help: If checked, some messages have a delivery error.
+  manual: False
+  name: message_has_sms_error
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: SMS Delivery error
+  type: boolean
+Field: access_url
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  help: Customer Portal URL
+  manual: False
+  name: access_url
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Portal Access URL
+  translate: False
+  trim: True
+  type: char
+Field: access_token
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: access_token
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Security Token
+  translate: False
+  trim: True
+  type: char
+Field: access_warning
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: access_warning
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Access warning
+  translate: False
+  type: text
+Field: name
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: name
+  readonly: False
+  required: True
+  searchable: True
+  sortable: True
+  store: True
+  string: Order Reference
+  translate: False
+  trim: True
+  type: char
+Field: company_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: company_id
+  readonly: False
+  relation: res.company
+  required: True
+  searchable: True
+  sortable: True
+  store: True
+  string: Company
+  type: many2one
+Field: partner_id
+  change_default: True
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: (company_id and ['|', ('company_id', '=', False), ('company_id', 'parent_of', [company_id])] or ['|', ('company_id', '=', False), ('company_id', 'parent_of', '')]) + ([])
+  exportable: True
+  groupable: True
+  manual: False
+  name: partner_id
+  readonly: False
+  relation: res.partner
+  required: True
+  searchable: True
+  sortable: True
+  store: True
+  string: Customer
+  type: many2one
+Field: state
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: state
+  readonly: True
+  required: False
+  searchable: True
+  selection: [['draft', 'Quotation'], ['sent', 'Quotation Sent'], ['sale', 'Sales Order'], ['cancel', 'Cancelled']]
+  sortable: True
+  store: True
+  string: Status
+  type: selection
+Field: locked
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  help: Locked orders cannot be modified.
+  manual: False
+  name: locked
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Locked
+  type: boolean
+Field: has_archived_products
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line.product_id']
+  exportable: True
+  groupable: False
+  manual: False
+  name: has_archived_products
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Has Archived Products
+  type: boolean
+Field: client_order_ref
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: client_order_ref
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Customer Reference
+  translate: False
+  trim: True
+  type: char
+Field: create_date
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: create_date
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Creation Date
+  type: datetime
+Field: commitment_date
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  help: This is the delivery date promised to the customer. If set, the delivery order will be scheduled based on this date rather than product lead times.
+  manual: False
+  name: commitment_date
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Delivery Date
+  type: datetime
+Field: date_order
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  help: Creation date of draft/sent orders,
+Confirmation date of confirmed orders.
+  manual: False
+  name: date_order
+  readonly: False
+  required: True
+  searchable: True
+  sortable: True
+  store: True
+  string: Order Date
+  type: datetime
+Field: origin
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  help: Reference of the document that generated this sales order request
+  manual: False
+  name: origin
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Source Document
+  translate: False
+  trim: True
+  type: char
+Field: reference
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  help: The payment communication of this sale order.
+  manual: False
+  name: reference
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Payment Ref.
+  translate: False
+  trim: True
+  type: char
+Field: require_signature
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['sale_order_template_id', 'company_id']
+  exportable: True
+  groupable: True
+  help: Request a online signature from the customer to confirm the order.
+  manual: False
+  name: require_signature
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Online signature
+  type: boolean
+Field: require_payment
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['sale_order_template_id', 'company_id']
+  exportable: True
+  groupable: True
+  help: Request a online payment from the customer to confirm the order.
+  manual: False
+  name: require_payment
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Online payment
+  type: boolean
+Field: prepayment_percent
+  aggregator: sum
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['sale_order_template_id', 'require_payment']
+  exportable: True
+  groupable: True
+  help: The percentage of the amount needed that must be paid by the customer to confirm the order.
+  manual: False
+  name: prepayment_percent
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Prepayment percentage
+  type: float
+Field: signature
+  attachment: True
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: signature
+  readonly: False
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Signature
+  type: binary
+Field: signed_by
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: signed_by
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Signed By
+  translate: False
+  trim: True
+  type: char
+Field: signed_on
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: signed_on
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Signed On
+  type: datetime
+Field: validity_date
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['sale_order_template_id', 'company_id']
+  exportable: True
+  groupable: True
+  help: Validity of the order, after that you will not able to sign & pay the quotation.
+  manual: False
+  name: validity_date
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Expiration
+  type: date
+Field: journal_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['sale_order_template_id']
+  domain: (company_id and ['|', ('company_id', '=', False), ('company_id', 'parent_of', [company_id])] or ['|', ('company_id', '=', False), ('company_id', 'parent_of', '')]) + ([('type', '=', 'sale')])
+  exportable: True
+  groupable: True
+  help: If set, the SO will invoice in this journal; otherwise the sales journal with the lowest sequence is used.
+  manual: False
+  name: journal_id
+  readonly: False
+  relation: account.journal
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Invoicing Journal
+  type: many2one
+Field: note
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['partner_id', 'sale_order_template_id', 'partner_id']
+  exportable: True
+  groupable: True
+  manual: False
+  name: note
+  readonly: False
+  required: False
+  sanitize: True
+  sanitize_attributes: True
+  sanitize_style: False
+  sanitize_tags: True
+  searchable: True
+  sortable: True
+  store: True
+  string: Terms and conditions
+  strip_classes: False
+  strip_style: False
+  translate: False
+  type: html
+Field: partner_invoice_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['partner_id']
+  domain: (company_id and ['|', ('company_id', '=', False), ('company_id', 'parent_of', [company_id])] or ['|', ('company_id', '=', False), ('company_id', 'parent_of', '')]) + ([])
+  exportable: True
+  groupable: True
+  manual: False
+  name: partner_invoice_id
+  readonly: False
+  relation: res.partner
+  required: True
+  searchable: True
+  sortable: True
+  store: True
+  string: Invoice Address
+  type: many2one
+Field: partner_shipping_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['partner_id']
+  domain: (company_id and ['|', ('company_id', '=', False), ('company_id', 'parent_of', [company_id])] or ['|', ('company_id', '=', False), ('company_id', 'parent_of', '')]) + ([])
+  exportable: True
+  groupable: True
+  manual: False
+  name: partner_shipping_id
+  readonly: False
+  relation: res.partner
+  required: True
+  searchable: True
+  sortable: True
+  store: True
+  string: Delivery Address
+  type: many2one
+Field: fiscal_position_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['partner_shipping_id', 'partner_id', 'company_id']
+  domain: (company_id and ['|', ('company_id', '=', False), ('company_id', 'parent_of', [company_id])] or ['|', ('company_id', '=', False), ('company_id', 'parent_of', '')]) + ([])
+  exportable: True
+  groupable: True
+  help: Fiscal positions are used to adapt taxes and accounts for particular customers or sales orders/invoices.The default value comes from the customer.
+  manual: False
+  name: fiscal_position_id
+  readonly: False
+  relation: account.fiscal.position
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Fiscal Position
+  type: many2one
+Field: payment_term_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['partner_id']
+  domain: (company_id and ['|', ('company_id', '=', False), ('company_id', 'parent_of', [company_id])] or ['|', ('company_id', '=', False), ('company_id', 'parent_of', '')]) + (['|', ('company_id', '=', False), ('company_id', '=', company_id)])
+  exportable: True
+  groupable: True
+  manual: False
+  name: payment_term_id
+  readonly: False
+  relation: account.payment.term
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Payment Terms
+  type: many2one
+Field: pricelist_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['partner_id', 'company_id']
+  domain: (company_id and [('company_id', 'in', [company_id] + [False])] or [('company_id', '=', False)]) + (['|', ('company_id', '=', False), ('company_id', '=', company_id)])
+  exportable: True
+  groupable: True
+  help: If you change the pricelist, only newly added lines will be affected.
+  manual: False
+  name: pricelist_id
+  readonly: False
+  relation: product.pricelist
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Pricelist
+  type: many2one
+Field: currency_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['pricelist_id', 'company_id']
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: currency_id
+  readonly: True
+  relation: res.currency
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Currency
+  type: many2one
+Field: currency_rate
+  aggregator: sum
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['currency_id', 'date_order', 'company_id']
+  digits: 0
+  exportable: True
+  groupable: True
+  manual: False
+  name: currency_rate
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Currency Rate
+  type: float
+Field: user_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['partner_id']
+  domain: [('groups_id', '=', 21), ('share', '=', False), ('company_ids', '=', company_id)]
+  exportable: True
+  groupable: True
+  manual: False
+  name: user_id
+  readonly: False
+  relation: res.users
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Salesperson
+  type: many2one
+Field: team_id
+  change_default: True
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['partner_id', 'user_id']
+  domain: (company_id and [('company_id', 'in', [company_id] + [False])] or [('company_id', '=', False)]) + (['|', ('company_id', '=', False), ('company_id', '=', company_id)])
+  exportable: True
+  groupable: True
+  manual: False
+  name: team_id
+  readonly: False
+  relation: crm.team
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Sales Team
+  type: many2one
+Field: order_line
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: order_line
+  readonly: False
+  relation: sale.order.line
+  relation_field: order_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Order Lines
+  type: one2many
+Field: amount_untaxed
+  aggregator: sum
+  change_default: False
+  company_dependent: False
+  currency_field: currency_id
+  default_export_compatible: False
+  depends: ['order_line.price_subtotal', 'currency_id', 'company_id']
+  exportable: True
+  groupable: True
+  manual: False
+  name: amount_untaxed
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Untaxed Amount
+  type: monetary
+Field: amount_tax
+  aggregator: sum
+  change_default: False
+  company_dependent: False
+  currency_field: currency_id
+  default_export_compatible: False
+  depends: ['order_line.price_subtotal', 'currency_id', 'company_id']
+  exportable: True
+  groupable: True
+  manual: False
+  name: amount_tax
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Taxes
+  type: monetary
+Field: amount_total
+  aggregator: sum
+  change_default: False
+  company_dependent: False
+  currency_field: currency_id
+  default_export_compatible: False
+  depends: ['order_line.price_subtotal', 'currency_id', 'company_id']
+  exportable: True
+  groupable: True
+  manual: False
+  name: amount_total
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Total
+  type: monetary
+Field: amount_to_invoice
+  change_default: False
+  company_dependent: False
+  currency_field: currency_id
+  default_export_compatible: False
+  depends: ['order_line.amount_to_invoice']
+  exportable: True
+  groupable: False
+  manual: False
+  name: amount_to_invoice
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Un-invoiced Balance
+  type: monetary
+Field: amount_invoiced
+  change_default: False
+  company_dependent: False
+  currency_field: currency_id
+  default_export_compatible: False
+  depends: ['order_line.amount_invoiced']
+  exportable: True
+  groupable: False
+  manual: False
+  name: amount_invoiced
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Already invoiced
+  type: monetary
+Field: invoice_count
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line.invoice_lines']
+  exportable: True
+  groupable: False
+  manual: False
+  name: invoice_count
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Invoice Count
+  type: integer
+Field: invoice_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['order_line.invoice_lines']
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: invoice_ids
+  readonly: True
+  relation: account.move
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Invoices
+  type: many2many
+Field: invoice_status
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['state', 'order_line.invoice_status']
+  exportable: True
+  groupable: True
+  manual: False
+  name: invoice_status
+  readonly: True
+  required: False
+  searchable: True
+  selection: [['upselling', 'Upselling Opportunity'], ['invoiced', 'Fully Invoiced'], ['to invoice', 'To Invoice'], ['no', 'Nothing to Invoice']]
+  sortable: True
+  store: True
+  string: Invoice Status
+  type: selection
+Field: transaction_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: transaction_ids
+  readonly: True
+  relation: payment.transaction
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Transactions
+  type: many2many
+Field: authorized_transaction_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['transaction_ids']
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: authorized_transaction_ids
+  readonly: True
+  relation: payment.transaction
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Authorized Transactions
+  type: many2many
+Field: amount_paid
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['transaction_ids']
+  exportable: True
+  groupable: False
+  help: Sum of transactions made in through the online payment form that are in the state 'done' or 'authorized' and linked to this order.
+  manual: False
+  name: amount_paid
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Payment Transactions Amount
+  type: float
+Field: tag_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: tag_ids
+  readonly: False
+  relation: crm.tag
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Tags
+  type: many2many
+Field: amount_undiscounted
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  digits: 0
+  exportable: True
+  groupable: False
+  manual: False
+  name: amount_undiscounted
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Amount Before Discount
+  type: float
+Field: country_code
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['company_id.account_fiscal_country_id.code']
+  exportable: True
+  groupable: True
+  help: The ISO country code in two chars. 
+You can use this field for quick search.
+  manual: False
+  name: country_code
+  readonly: True
+  related: company_id.account_fiscal_country_id.code
+  required: False
+  searchable: True
+  size: 2
+  sortable: True
+  store: False
+  string: Country code
+  translate: False
+  trim: True
+  type: char
+Field: company_price_include
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['company_id.account_price_include']
+  exportable: True
+  groupable: True
+  help: Default on whether the sales price used on the product and invoices with this Company includes its taxes.
+  manual: False
+  name: company_price_include
+  readonly: True
+  related: company_id.account_price_include
+  required: False
+  searchable: True
+  selection: [['tax_included', 'Tax Included'], ['tax_excluded', 'Tax Excluded']]
+  sortable: True
+  store: False
+  string: Default Sales Price Include
+  type: selection
+Field: duplicated_order_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['client_order_ref', 'date_order', 'origin', 'partner_id']
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: duplicated_order_ids
+  readonly: True
+  relation: sale.order
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Duplicated Order
+  type: many2many
+Field: expected_date
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['picking_policy', 'order_line.customer_lead', 'date_order', 'state']
+  exportable: True
+  groupable: False
+  help: Delivery date you can promise to the customer, computed from the minimum lead time of the order lines in case of Service products. In case of shipping, the shipping policy of the order will be taken into account to either use the minimum or maximum lead time of the order lines.
+  manual: False
+  name: expected_date
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Expected Date
+  type: datetime
+Field: is_expired
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: is_expired
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Is Expired
+  type: boolean
+Field: partner_credit_warning
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['company_id', 'partner_id', 'amount_total']
+  exportable: True
+  groupable: False
+  manual: False
+  name: partner_credit_warning
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Partner Credit Warning
+  translate: False
+  type: text
+Field: tax_calculation_rounding_method
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['company_id']
+  exportable: True
+  groupable: True
+  manual: False
+  name: tax_calculation_rounding_method
+  readonly: True
+  related: company_id.tax_calculation_rounding_method
+  required: False
+  searchable: True
+  selection: [['round_per_line', 'Round per Line'], ['round_globally', 'Round Globally']]
+  sortable: True
+  store: False
+  string: Tax Calculation Rounding Method
+  type: selection
+Field: tax_country_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['company_id', 'fiscal_position_id']
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: tax_country_id
+  readonly: True
+  relation: res.country
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Tax Country
+  type: many2one
+Field: tax_totals
+  attachment: False
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line.price_subtotal', 'currency_id', 'company_id']
+  exportable: False
+  groupable: False
+  manual: False
+  name: tax_totals
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Tax Totals
+  type: binary
+Field: terms_type
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['company_id.terms_type']
+  exportable: True
+  groupable: True
+  manual: False
+  name: terms_type
+  readonly: True
+  related: company_id.terms_type
+  required: False
+  searchable: True
+  selection: [['plain', 'Add a Note'], ['html', 'Add a link to a Web Page']]
+  sortable: True
+  store: False
+  string: Terms & Conditions format
+  type: selection
+Field: type_name
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['state']
+  exportable: True
+  groupable: False
+  manual: False
+  name: type_name
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Type Name
+  translate: False
+  trim: True
+  type: char
+Field: show_update_fpos
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: show_update_fpos
+  readonly: False
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Has Fiscal Position Changed
+  type: boolean
+Field: has_active_pricelist
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['company_id']
+  exportable: True
+  groupable: False
+  manual: False
+  name: has_active_pricelist
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Has Active Pricelist
+  type: boolean
+Field: show_update_pricelist
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: show_update_pricelist
+  readonly: False
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Has Pricelist Changed
+  type: boolean
+Field: id
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: id
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: ID
+  type: integer
+Field: display_name
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['partner_id', 'name']
+  exportable: True
+  groupable: False
+  manual: False
+  name: display_name
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Display Name
+  translate: False
+  trim: True
+  type: char
+Field: create_uid
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: create_uid
+  readonly: True
+  relation: res.users
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Created by
+  type: many2one
+Field: write_uid
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: write_uid
+  readonly: True
+  relation: res.users
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Last Updated by
+  type: many2one
+Field: write_date
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: write_date
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Last Updated on
+  type: datetime
+Field: pickup_location_data
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: pickup_location_data
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Pickup Location Data
+  type: json
+Field: carrier_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: (company_id and [('company_id', 'in', [company_id] + [False])] or [('company_id', '=', False)]) + ([])
+  exportable: True
+  groupable: True
+  help: Fill this field if you plan to invoice the shipping based on picking.
+  manual: False
+  name: carrier_id
+  readonly: False
+  relation: delivery.carrier
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Delivery Method
+  type: many2one
+Field: delivery_message
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: delivery_message
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Delivery Message
+  translate: False
+  trim: True
+  type: char
+Field: delivery_set
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line']
+  exportable: True
+  groupable: False
+  manual: False
+  name: delivery_set
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Delivery Set
+  type: boolean
+Field: recompute_delivery_price
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: recompute_delivery_price
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Delivery cost should be recomputed
+  type: boolean
+Field: is_all_service
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line']
+  exportable: True
+  groupable: False
+  manual: False
+  name: is_all_service
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Service Product
+  type: boolean
+Field: shipping_weight
+  aggregator: sum
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line.product_uom_qty', 'order_line.product_uom']
+  exportable: True
+  groupable: True
+  manual: False
+  name: shipping_weight
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Shipping Weight
+  type: float
+Field: pending_email_template_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  help: The template of the pending email that must be sent asynchronously.
+  manual: False
+  name: pending_email_template_id
+  readonly: True
+  relation: mail.template
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Pending Email Template
+  type: many2one
+Field: opportunity_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: (company_id and [('company_id', 'in', [company_id] + [False])] or [('company_id', '=', False)]) + ([('type', '=', 'opportunity'), '|', ('company_id', '=', False), ('company_id', '=', company_id)])
+  exportable: True
+  groupable: True
+  manual: False
+  name: opportunity_id
+  readonly: False
+  relation: crm.lead
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Opportunity
+  type: many2one
+Field: applied_coupon_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: applied_coupon_ids
+  readonly: False
+  relation: loyalty.card
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Manually Applied Coupons
+  type: many2many
+Field: code_enabled_rule_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: code_enabled_rule_ids
+  readonly: False
+  relation: loyalty.rule
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Manually Triggered Rules
+  type: many2many
+Field: coupon_point_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: coupon_point_ids
+  readonly: False
+  relation: sale.order.coupon.points
+  relation_field: order_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Coupon Point
+  type: one2many
+Field: reward_amount
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line']
+  exportable: True
+  groupable: False
+  manual: False
+  name: reward_amount
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Reward Amount
+  type: float
+Field: loyalty_data
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: loyalty_data
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Loyalty Data
+  type: json
+Field: sale_order_template_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: (company_id and [('company_id', 'in', [company_id] + [False])] or [('company_id', '=', False)]) + (['|', ('company_id', '=', False), ('company_id', '=', company_id)])
+  exportable: True
+  groupable: True
+  manual: False
+  name: sale_order_template_id
+  readonly: False
+  relation: sale.order.template
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Quotation Template
+  type: many2one
+Field: sale_order_option_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: sale_order_option_ids
+  readonly: False
+  relation: sale.order.option
+  relation_field: order_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Optional Products Lines
+  type: one2many
+Field: report_grids
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: report_grids
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Print Variant Grids
+  type: boolean
+Field: grid_product_tmpl_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: grid_product_tmpl_id
+  readonly: False
+  relation: product.template
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Grid Product Tmpl
+  type: many2one
+Field: grid_update
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: grid_update
+  readonly: False
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Grid Update
+  type: boolean
+Field: grid
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  help: Technical local storage of grid. 
+If grid_update, will be loaded on the SO.
+If not, represents the matrix to open.
+  manual: False
+  name: grid
+  readonly: False
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Matrix local storage
+  translate: False
+  trim: True
+  type: char
+Field: purchase_order_count
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['procurement_group_id.stock_move_ids.created_purchase_line_ids.order_id', 'procurement_group_id.stock_move_ids.move_orig_ids.purchase_line_id.order_id', 'order_line.purchase_line_ids.order_id']
+  exportable: True
+  groupable: False
+  groups: purchase.group_purchase_user
+  manual: False
+  name: purchase_order_count
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Number of Purchase Order Generated
+  type: integer
+Field: incoterm
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  help: International Commercial Terms are a series of predefined commercial terms used in international transactions.
+  manual: False
+  name: incoterm
+  readonly: False
+  relation: account.incoterms
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Incoterm
+  type: many2one
+Field: incoterm_location
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: incoterm_location
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Incoterm Location
+  translate: False
+  trim: True
+  type: char
+Field: picking_policy
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  help: If you deliver all products at once, the delivery order will be scheduled based on the greatest product lead time. Otherwise, it will be based on the shortest.
+  manual: False
+  name: picking_policy
+  readonly: False
+  required: True
+  searchable: True
+  selection: [['direct', 'As soon as possible'], ['one', 'When all products are ready']]
+  sortable: True
+  store: True
+  string: Shipping Policy
+  type: selection
+Field: warehouse_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['user_id', 'company_id']
+  domain: (company_id and [('company_id', 'in', [company_id] + [False])] or [('company_id', '=', False)]) + ([])
+  exportable: True
+  groupable: True
+  manual: False
+  name: warehouse_id
+  readonly: False
+  relation: stock.warehouse
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Warehouse
+  type: many2one
+Field: picking_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: picking_ids
+  readonly: False
+  relation: stock.picking
+  relation_field: sale_id
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Transfers
+  type: one2many
+Field: delivery_count
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['picking_ids.is_dropship', 'picking_ids']
+  exportable: True
+  groupable: False
+  manual: False
+  name: delivery_count
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Delivery Orders
+  type: integer
+Field: delivery_status
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['picking_ids', 'picking_ids.state']
+  exportable: True
+  groupable: True
+  help: Blue: Not Delivered/Started
+            Orange: Partially Delivered
+            Green: Fully Delivered
+  manual: False
+  name: delivery_status
+  readonly: True
+  required: False
+  searchable: True
+  selection: [['pending', 'Not Delivered'], ['started', 'Started'], ['partial', 'Partially Delivered'], ['full', 'Fully Delivered']]
+  sortable: True
+  store: True
+  string: Delivery Status
+  type: selection
+Field: procurement_group_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: procurement_group_id
+  readonly: False
+  relation: procurement.group
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Procurement Group
+  type: many2one
+Field: effective_date
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['picking_ids.date_done']
+  exportable: True
+  groupable: True
+  help: Completion date of the first delivery order.
+  manual: False
+  name: effective_date
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Effective Date
+  type: datetime
+Field: json_popover
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: json_popover
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: JSON data for the popover widget
+  translate: False
+  trim: True
+  type: char
+Field: show_json_popover
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: show_json_popover
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Has late picking
+  type: boolean
+Field: attendee_count
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: attendee_count
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Attendee Count
+  type: integer
+Field: margin
+  aggregator: sum
+  change_default: False
+  company_dependent: False
+  currency_field: currency_id
+  default_export_compatible: False
+  depends: ['order_line.margin', 'amount_untaxed']
+  exportable: True
+  groupable: True
+  manual: False
+  name: margin
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Margin
+  type: monetary
+Field: margin_percent
+  aggregator: avg
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line.margin', 'amount_untaxed']
+  exportable: True
+  groupable: True
+  manual: False
+  name: margin_percent
+  readonly: True
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Margin (%)
+  type: float
+Field: mrp_production_count
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['procurement_group_id.stock_move_ids.created_production_id.procurement_group_id.mrp_production_ids']
+  exportable: True
+  groupable: False
+  groups: mrp.group_mrp_user
+  manual: False
+  name: mrp_production_count
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Count of MO generated
+  type: integer
+Field: mrp_production_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['procurement_group_id.stock_move_ids.created_production_id.procurement_group_id.mrp_production_ids']
+  domain: []
+  exportable: True
+  groupable: False
+  groups: mrp.group_mrp_user
+  manual: False
+  name: mrp_production_ids
+  readonly: True
+  relation: mrp.production
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Manufacturing orders associated with this sales order.
+  type: many2many
+Field: available_product_document_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['sale_order_template_id']
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: available_product_document_ids
+  readonly: True
+  relation: quotation.document
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Available Product Documents
+  type: many2many
+Field: is_pdf_quote_builder_available
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['available_product_document_ids', 'order_line', 'order_line.available_product_document_ids']
+  exportable: True
+  groupable: False
+  manual: False
+  name: is_pdf_quote_builder_available
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Is Pdf Quote Builder Available
+  type: boolean
+Field: quotation_document_ids
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: (company_id and [('company_id', 'in', [company_id] + [False])] or [('company_id', '=', False)]) + ([])
+  exportable: True
+  groupable: True
+  manual: False
+  name: quotation_document_ids
+  readonly: False
+  relation: quotation.document
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Headers/Footers
+  type: many2many
+Field: customizable_pdf_form_fields
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: customizable_pdf_form_fields
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Customizable PDF Form Fields
+  type: json
+Field: website_id
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  help: Website through which this order was placed for eCommerce orders.
+  manual: False
+  name: website_id
+  readonly: True
+  relation: website
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Website
+  type: many2one
+Field: cart_recovery_email_sent
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: cart_recovery_email_sent
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Cart recovery email already sent
+  type: boolean
+Field: shop_warning
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: shop_warning
+  readonly: False
+  required: False
+  searchable: True
+  sortable: True
+  store: True
+  string: Warning
+  translate: False
+  trim: True
+  type: char
+Field: website_order_line
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: ['order_line']
+  domain: []
+  exportable: True
+  groupable: False
+  manual: False
+  name: website_order_line
+  readonly: True
+  relation: sale.order.line
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Order Lines displayed on Website
+  type: one2many
+Field: amount_delivery
+  change_default: False
+  company_dependent: False
+  currency_field: currency_id
+  default_export_compatible: False
+  depends: ['order_line.price_total', 'order_line.price_subtotal']
+  exportable: True
+  groupable: False
+  help: Tax included or excluded depending on the website configuration.
+  manual: False
+  name: amount_delivery
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Delivery Amount
+  type: monetary
+Field: cart_quantity
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line.product_uom_qty', 'order_line.product_id']
+  exportable: True
+  groupable: False
+  manual: False
+  name: cart_quantity
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Cart Quantity
+  type: integer
+Field: only_services
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['order_line.product_uom_qty', 'order_line.product_id']
+  exportable: True
+  groupable: False
+  manual: False
+  name: only_services
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Only Services
+  type: boolean
+Field: is_abandoned_cart
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['website_id', 'date_order', 'order_line', 'state', 'partner_id']
+  exportable: True
+  groupable: False
+  manual: False
+  name: is_abandoned_cart
+  readonly: True
+  required: False
+  searchable: True
+  sortable: False
+  store: False
+  string: Abandoned Cart
+  type: boolean
+Field: dropship_picking_count
+  change_default: False
+  company_dependent: False
+  default_export_compatible: False
+  depends: ['picking_ids.is_dropship', 'picking_ids']
+  exportable: True
+  groupable: False
+  manual: False
+  name: dropship_picking_count
+  readonly: True
+  required: False
+  searchable: False
+  sortable: False
+  store: False
+  string: Dropship Count
+  type: integer
+Field: disabled_auto_rewards
+  change_default: False
+  company_dependent: False
+  context: {}
+  default_export_compatible: False
+  depends: []
+  domain: []
+  exportable: True
+  groupable: True
+  manual: False
+  name: disabled_auto_rewards
+  readonly: False
+  relation: loyalty.reward
+  required: False
+  searchable: True
+  sortable: False
+  store: True
+  string: Disabled Auto Rewards
+  type: many2many
+```
+
