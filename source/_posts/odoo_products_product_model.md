@@ -4143,3 +4143,8 @@ Field: out_of_stock_message
   translate: True
   type: html
 ```
+
+# Reference
+- [Odoo 18.0 documentation](https://www.odoo.com/documentation/18.0/index.html)
+- [Odoo 18.0 source code](https://github.com/xxl4/odoo/tree/18.0)
+- [Odoo 18.0 addons](https://www.odoo.com/documentation/18.0/applications/general/apps_modules.html)
