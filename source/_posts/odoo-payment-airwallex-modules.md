@@ -59,4 +59,31 @@ To use the Odoo Payment Airwallex Modules, follow these steps:
 The Odoo Payment Airwallex Modules provide a convenient way to accept payments in multiple currencies using Airwallex. With this integration, you can offer a seamless payment experience for your customers and streamline your payment processing workflow. Try out the Odoo Payment Airwallex Modules today and start accepting payments with ease.
 
 For more information about the Odoo Payment Airwallex Modules, visit the [Github Airwllex Odoo](https://github.com/xxl4/payment_airwallex).
+
+```
+{
+    'name': 'Payment Provider: Airwallex',
+    'version': '1.0',
+    'category': 'Accounting/Payment Providers',
+    'summary': "An Airwallex payment provider for online payments all over the world.",
+    'author': "Steve Liu",
+    'sequence': 5000,
+    'description': " ",  # Non-empty string to avoid loading the README file.
+    'depends': ['payment'],
+    'data': [
+        'views/payment_form_templates.xml',
+        'views/payment_provider_views.xml',
+        'views/payment_transaction_views.xml',
+        'data/payment_provider_data.xml',
+    ],
+    'post_init_hook': 'post_init_hook',
+    'uninstall_hook': 'uninstall_hook',
+    'assets': {
+        'web.assets_frontend': [
+            'payment_airwallex/static/src/**/*',
+        ],
+    },
+    'license': 'LGPL-3',
+    'installable': True,
+}
 ```
