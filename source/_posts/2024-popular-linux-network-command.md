@@ -249,6 +249,50 @@ traceroute google.com
 mtr google.com
 ```
 
+### mtr parameters
+
+- `--report` - Report mode
+- `--report-cycles` - Number of pings sent to determine average
+- `--report-wide` - Wide report mode
+- `--report-csv` - CSV report mode
+- `--show-ips` - Show IP addresses instead of hostnames
+
+## 41. 'htop'
+    
+```bash
+htop
+```
+
+### htop parameters
+
+- `F2` - Setup
+- `F3` - Search
+- `F4` - Filter
+- `F5` - Tree
+- `F6` - Sort
+- `F7` - Nice
+- `F8` - Renice
+- `F9` - Kill
+- `F10` - Quit
+
+
+
+## 42. 'iotop'
+    
+```bash
+iotop
+```
+
+### iotop parameters
+
+- `o` - Only show processes or threads actually doing I/O
+- `p` - Show accumulated I/O instead of bandwidth
+- `a` - Show accumulated I/O for all processes
+- `u` - Show accumulated I/O for processes or threads
+- `d` - Delay in seconds between iterations
+- `q` - Quit
+
+
 ## References
 
 - [https://www.cyberciti.biz/faq/linux-find-out-default-gateway-ip-address-command/](https://www.cyberciti.biz/faq/linux-find-out-default-gateway-ip-address-command/)

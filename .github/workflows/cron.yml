@@ -48,8 +48,8 @@ jobs:
             python3 rss2md.py
             # 生成 md 文件后，将其提交到仓库
             git add .
-            git config --global user.email nice.lizhi@gmail.com
-            git config --global user.name "xxl4"
+            git config --global user.email bot@github.com
+            git config --global user.name "bot"
             git commit -m "Update RSS feed"
             git config --global pull.rebase true
             git pull
