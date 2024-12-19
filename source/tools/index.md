@@ -108,7 +108,7 @@ sitemap: true
 - Simply Scheme_Introducing_Computer_Science
 - C++ Primer
 - Effective C++
-- TCP/IP详解
+- [TCP/IP详解] (https://github.com/lutzchuck/tcpip-note)
 - Unix 编程艺术
 - 技术的本质
 - 软件随想录
@@ -732,6 +732,8 @@ sitemap: true
  - The Performance of Open Source Applications http://aosabook.org/en/index.html
  - The Art of Community http://www.artofcommunityonline.org/
  - The Art of Community Building http://www.artofcommunityonline.org/
+ - The Art of Agile Development http://www.artofagile.com/
+ - [Computer E Books](https://github.com/Dujltqzv/Some-Many-Books)
 
 ## 模型
  - Hugging Model Hub: https://huggingface.co/models
