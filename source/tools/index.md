@@ -827,6 +827,8 @@ sitemap: true
 - [Varnish](https://varnish-cache.org) - 开源的缓存服务器
 - [Squid](http://www.squid-cache.org) - 开源的缓存服务器
 - [Keepalived](http://www.keepalived.org) - 开源的高可用性解决方案
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - 系统设计面试指南
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 
 
 ### 其他
