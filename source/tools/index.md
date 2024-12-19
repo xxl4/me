@@ -26,6 +26,10 @@ sitemap: true
   - [必看书籍](#%E5%BF%85%E7%9C%8B%E4%B9%A6%E7%B1%8D)
   - [大牛博客](#%E5%A4%A7%E7%89%9B%E5%8D%9A%E5%AE%A2)
   - [GitHub篇](#github%E7%AF%87)
+  - [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
+  - [优秀项目](#%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)
+  - [前端 & Node.js](#%E5%89%8D%E7%AB%AF--nodejs)
+  - [工作，工具](#%E5%B7%A5%E4%BD%9C%E5%B7%A5%E5%85%B7)
 - [工具篇](#%E5%B7%A5%E5%85%B7%E7%AF%87)
   - [平台工具&框架](#%E5%B9%B3%E5%8F%B0%E5%B7%A5%E5%85%B7%E6%A1%86%E6%9E%B6)
   - [常用工具](#%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7)
@@ -250,6 +254,14 @@ sitemap: true
 - [Best-App](https://github.com/hzlzh/Best-App)
 - [OSINT:dingba.top](http://dingba.top/), [awesome-osint](https://github.com/jivoi/awesome-osint)
 - 加壳、脱壳工具：Armadillo, ASProtect, Themida, Execryptor, VMProtect, Obsidium
+- [upwork](https://www.upwork.com/)：国外的一个freelancer平台，有很多IT工作
+- [freelancer](https://www.freelancer.com/)：国外的一个freelancer平台，有很多IT工作
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs)：Stack Overflow的招聘平台
+- [HackerRank](https://www.hackerrank.com/)：技术面试平台
+- [LeetCode](https://leetcode.com/)：技术面试平台
+- [Codewars](https://www.codewars.com/)：技术面试平台
+- [TopCoder](https://www.topcoder.com/)：技术面试平台
+- [Codecademy](https://www.codecademy.com/)：在线学习编程的好地方
 
 ## 工具篇
 
