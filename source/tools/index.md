@@ -162,6 +162,9 @@ sitemap: true
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - Awesome IoT
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Awesome Selfhosted
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - Awesome Security Talks
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - Awesome Cloudflare
+- [awesome-nginx](https://github.com/fcambus/nginx-resources) - Awesome Nginx
+- [awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 ** 书籍资料 **
 
