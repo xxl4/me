@@ -103,6 +103,7 @@ menu:
   Tools: /tools/ || fa fa-screwdriver-wrench
   Links: /links/ || fa fa-globe
   sitemap: /sitemap.xml || fa fa-sitemap
+  search: /search/?q=odoo || fa fa-search
 #  commonweal: /404/ || fa fa-heartbeat
 
 # Enable / Disable menu icons / item badges.
@@ -768,7 +769,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/next-theme/hexo-generator-searchdb
 local_search:
-  enable: true
+  enable: false
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
