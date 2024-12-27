@@ -42,6 +42,8 @@ Currently, I am a Full Stack Developer at [HaoMai]. I have a passion for softwar
     - Integrated with payment gateways and shipping providers for seamless transactions.
     - Managed server instances, load balancers, and databases on AWS, GCP, and Azure.
     - Implemented monitoring and alerting systems to detect and respond to issues proactively.
+    - Developed a new CRM system for managing customer relationships and sales processes.
+    - Implemented a new ERP system for managing business operations and processes.
 
 ### DevSecOps Engineer at Seceum
 
