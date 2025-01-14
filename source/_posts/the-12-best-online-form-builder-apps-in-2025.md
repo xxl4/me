@@ -4,6 +4,7 @@ date: 2025-01-14
 tags: Online Form Builder, 2025, January
 lang: en
 comments: true
+category: technology
 sitemap: true
 description: The 12 best online form builder apps in 2025.
 ---
