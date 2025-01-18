@@ -11,10 +11,10 @@ sitemap:
   lastmod: 2024-12-09 10:00:00
   priority: 0.8
   changefreq: weekly
-cover: /images/en/2024/12/2024-12-09-Nexa-Merchant.jpg
+cover: https://avatars.githubusercontent.com/u/173055667
 ---
 
-![Nexa Merchant](/images/en/2024/12/2024-12-09-Nexa-Merchant.jpg)
+![Nexa Merchant](https://avatars.githubusercontent.com/u/173055667)
 
 ## Nexa Merchant
 
