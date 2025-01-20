@@ -20,24 +20,15 @@ cover: https://avatars.githubusercontent.com/u/173055667
 
 > Nexa Merchant is a payment gateway that supports multiple payment methods, including Stripe, PayPal, Alipay, WeChat Pay, UnionPay, Apple Pay, Google Pay, Samsung Pay, Amazon Pay, Visa, Mastercard, Amex, Discover, JCB, Diners Club, Maestro, Elo, Hipercard, Aura, COD, Checkout, Subscription, CMS, Blog, Shopify, Shopline, Airwallex.
 
-### Instructions
 
-### Installation
+## Integration
 
-### Configuration
+### Nexa Merchant & Odoo
 
-### Usage
+### Nexa Merchant & Shopify
 
-### Examples
+### Nexa Merchant & Shopline
 
-### References
+### Nexa Merchant & Airwallex
 
-### FAQ
-
-### Support
-
-### License
-
-### Changelog
-
-### Roadmap
+## Payment Methods
