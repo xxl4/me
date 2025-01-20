@@ -7,7 +7,14 @@ description: How to backup mysql and redis, and how to restore them.
 lang: en
 sitemap: true
 comments: true
+cover: /images/en/2025/01/How-to-backup-mysql-and-redis-cover.jpg
 ---
+
+![How to backup mysql and redis](/images/en/2025/01/How-to-backup-mysql-and-redis-cover.jpg)
+
+# Introduction
+
+In this article, we will learn how to backup and restore MySQL and Redis databases using shell scripts. We will create two shell scripts: one for backing up the databases and another for restoring them.
 
 # About MySQL
 
