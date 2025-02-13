@@ -8,4 +8,8 @@ sitemap: true
 description: Friends Links
 ---
 
+[爱思想](https://www.aisixiang.com/)  
+[集智俱乐部](https://swarma.org/)
+
+
 ## Friends Links
