@@ -9,7 +9,10 @@ description: Friends Links
 ---
 
 [爱思想](https://www.aisixiang.com/)  
-[集智俱乐部](https://swarma.org/)
+[集智俱乐部](https://swarma.org/)  
+[Space.com](https://www.space.com/) 
+[The Verge](https://www.theverge.com/)  
+[The Next Web](https://thenextweb.com/)  
 
 
 ## Friends Links
