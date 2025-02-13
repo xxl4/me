@@ -13,4 +13,4 @@ description: Soothing, relaxing music reduces stress and stops thinking too much
 
 Soothing, relaxing music reduces stress and stops thinking too much
 
-<iframe src="https://www.youtube-nocookie.com/embed/imLQUXjxGuk?si=iWHu4Lz45ToAeyIz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="600" src="https://www.youtube-nocookie.com/embed/imLQUXjxGuk?si=iWHu4Lz45ToAeyIz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
