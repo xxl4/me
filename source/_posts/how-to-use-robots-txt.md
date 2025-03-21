@@ -42,8 +42,8 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /images/
 
-Sitemap: https://www.models.net.cn/sitemap.xml
-Sitemap: https://www.models.net.cn/sitemap.txt
+Sitemap: https://models.net.cn/sitemap.xml
+Sitemap: https://models.net.cn/sitemap.txt
 ```
 
 In the example above, the `User-agent: *` line specifies that the rules apply to all search engine crawlers. The `Allow` lines specify which directories or files the crawler is allowed to access, while the `Disallow` lines specify which directories or files the crawler is not allowed to access. The `Sitemap` lines specify the location of the sitemap file for the website.

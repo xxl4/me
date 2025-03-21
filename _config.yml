@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.models.net.cn
+url: https://models.net.cn
 #permalink: :lang/:year/:month/:day/:title/
 permalink: :title/
 permalink_defaults:
@@ -224,8 +224,8 @@ robots:
     - /css/
     - /images/
   sitemaps: 
-    - https://www.models.net.cn/sitemap.xml
-    - https://www.models.net.cn/sitemap.txt
+    - https://models.net.cn/sitemap.xml
+    - https://models.net.cn/sitemap.txt
 
 # hexo-generator-amp
 # The following settings is the quick start options.
