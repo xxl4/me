@@ -46,6 +46,7 @@
 
 {%- if theme.google_adsense_verfication %}
   <meta name="google-adsense-account" content="{{ theme.google_adsense_verfication }}">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ theme.google_adsense_verfication }}" crossorigin="anonymous"></script>
 {%- endif %}
 
 <link rel="stylesheet" href="{{ url_for(theme.css) }}/main.css">
