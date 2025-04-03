@@ -232,3 +232,4 @@ Feel free to explore the Odoo documentation and community resources to learn mor
 - [odoo cookbook](https://github.com/iTranslateX/odoo-cookbook)
 - [odoo hub](https://dev.odoohub.com.cn/upper/VIEWS.html)
 - [Qweb Document](https://www.odooai.cn/documentation/16.0/zh_CN/developer/reference/frontend/qweb.html)
+- [Qweb Template](https://www.cybrosys.com/odoo/odoo-books/odoo-16-development/web-development/qweb-templates/)
