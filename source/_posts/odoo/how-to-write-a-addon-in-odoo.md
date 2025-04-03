@@ -231,3 +231,4 @@ Feel free to explore the Odoo documentation and community resources to learn mor
 - [Odoo Community](https://www.odoo.com/forum/help-1)
 - [odoo cookbook](https://github.com/iTranslateX/odoo-cookbook)
 - [odoo hub](https://dev.odoohub.com.cn/upper/VIEWS.html)
+- [Qweb Document](https://www.odooai.cn/documentation/16.0/zh_CN/developer/reference/frontend/qweb.html)
